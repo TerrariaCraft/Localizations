@@ -1,4 +1,3 @@
-# This is a part of TerrariaCraft mod, developed and maintained by DragonForge team.
 
 itemGroup.terraria:items=Terraria Craft: Items
 itemGroup.terraria:tools=Terraria Craft: Tools
@@ -57,8 +56,8 @@ item.terraria:silver_coin.name=Silver Coin
 item.terraria:gold_coin.name=Gold Coin
 item.terraria:platinum_coin.name=Platinum Coin
 item.terraria:mana_crystal.name=Mana Crystal
-item.terraria:mana_star.name=Mana Star
-item.terraria:heart.name=Heart
+item.terraria:game_obj/mana_star.name=Mana Star
+item.terraria:game_obj/heart.name=Heart
 item.terraria:flower_of_fire.name=Flower of Fire
 item.terraria:band_regen.name=Band of Regeneration
 item.terraria:band_starpower.name=Band of Starpower
@@ -628,6 +627,9 @@ tile.terraria:statue_y.name='Y' Statue
 tile.terraria:statue_z.name='Z' Statue
 tile.terraria:boreal_lantern.name=Boreal Lantern
 tile.terraria:steampunk_boiler.name=Steampunk Boiler
+tile.terraria:crystal_ball.name=Crystal Ball
+tile.terraria:jungle_crate.name=Jungle Crate
+tile.terraria:corrupt_crate.name=Corrupt Crate
 ############
 
 ###KEYBOARD###
@@ -703,6 +705,9 @@ tooltip.terraria:buff.builder=Increased placement speed and range
 
 buff.water_walking.name=Water Walking
 tooltip.terraria:buff.water_walking=Sneak to enter water
+
+buff.clairvoyance.name=Clairvoyance
+tooltip.terraria:buff.clairvoyance=Magic powers are increased
 ###########
 
 ###TOOLTIPS###
