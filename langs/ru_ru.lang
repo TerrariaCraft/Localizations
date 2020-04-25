@@ -630,6 +630,13 @@ tile.terraria:steampunk_boiler.name=Steampunk Boiler
 tile.terraria:crystal_ball.name=Crystal Ball
 tile.terraria:jungle_crate.name=Jungle Crate
 tile.terraria:corrupt_crate.name=Corrupt Crate
+tile.terraria:chinese_lantern.name=Chinese Lantern
+tile.terraria:cog.name=Cog
+tile.terraria:crystal_lantern.name=Crystal Lantern
+tile.terraria:hanging_jack_lantern.name=Hanging Jack 'O Lantern
+tile.terraria:thorn_bushes/jungle.name=Jungle Thorny Bushes
+tile.terraria:thorn_bushes/crimson.name=Crimson Thorny Bushes
+tile.terraria:thorn_bushes/corrupt.name=Corrupt Thorny Bushes
 ############
 
 ###KEYBOARD###
@@ -646,6 +653,7 @@ death.terraria:arrow=%s был застрелен %s.
 death.terraria:starfury=%s был убит %s с помощью Звёздной ярости.
 death.terraria:falling_star=%s увидел смертельную падающую звезду.
 death.terraria:dart_trap=%s стал жертвой ловушки с дротиком.
+death.attack.terraria:thorn_bushes=%s was prickled to death.
 #########################
 
 ###BUFFS###
