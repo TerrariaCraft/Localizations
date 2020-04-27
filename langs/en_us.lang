@@ -10,6 +10,7 @@ gui.achievements=Achievements
 gui.terraria:changecurse=Change World Curse
 soundCategory.terraria.music=Terrarian Music
 soundCategory.terraria.ambience=Terrarian Ambience
+deathScreen.title.terraria=You were slain...
 
 jei.terraria.supercrafting=Terraria Crafting
 jei.terraria.block_around=<B>
@@ -318,6 +319,8 @@ item.terraria:bomb_bouncy.name=Bouncy Bomb
 item.terraria:bomb_sticky.name=Sticky Bomb
 item.terraria:dynamite_bouncy.name=Bouncy Dynamite
 item.terraria:dynamite_sticky.name=Sticky Dynamite
+item.terraria:golden_key.name=Golden Key
+item.terraria:herb_bag.name=Herb Bag
 ###########
 
 ###ARMOR BONUSES###
@@ -637,6 +640,18 @@ tile.terraria:hanging_jack_lantern.name=Hanging Jack 'O Lantern
 tile.terraria:thorn_bushes/jungle.name=Jungle Thorny Bushes
 tile.terraria:thorn_bushes/crimson.name=Crimson Thorny Bushes
 tile.terraria:thorn_bushes/corrupt.name=Corrupt Thorny Bushes
+tile.terraria:furniture/doors/slime.name=Slime Door
+tile.terraria:furniture/doors/steampunk.name=Steampunk Door
+tile.terraria:statue_anvil.name=Anvil Statue
+tile.terraria:statue_pot.name=Pot Statue
+tile.terraria:statue_cross.name=Cross Statue
+tile.terraria:marble_lantern.name=Marble Lantern
+tile.terraria:martian_lantern.name=Martian Lantern
+tile.terraria:meteorite_lantern.name=Meteorite Lantern
+tile.terraria:pearlwood_lantern.name=Pearlwood Lantern
+tile.terraria:pumpkin_lantern.name=Pumpkin Lantern
+tile.terraria:rich_mahogany_lantern.name=Rich Mahogany Lantern
+tile.terraria:golden_lantern.name=Golden Lantern
 ############
 
 ###KEYBOARD###
@@ -775,6 +790,7 @@ tooltip.terraria:cursed_flame=Not even water can put the flame out
 tooltip.terraria:vial_of_venom=Extremely toxic
 tooltip.terraria:bomb=A small explosion that will destroy some blocks
 tooltip.terraria:dynamite=A large explosion that will destroy most tiles
+tooltip.terraria:golden_key=Opens one Gold or Dungeon Chest
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed

@@ -10,6 +10,7 @@ gui.achievements=Достижения
 gui.terraria:changecurse=Изменить тип проклятия
 soundCategory.terraria.music=Музыка Terraria
 soundCategory.terraria.ambience=Окружение Terraria
+deathScreen.title.terraria=You were slain...
 
 jei.terraria.supercrafting=Рецепты террарии
 jei.terraria.block_around=<B>
@@ -318,6 +319,8 @@ item.terraria:bomb_bouncy.name=Bouncy Bomb
 item.terraria:bomb_sticky.name=Sticky Bomb
 item.terraria:dynamite_bouncy.name=Bouncy Dynamite
 item.terraria:dynamite_sticky.name=Sticky Dynamite
+item.terraria:golden_key.name=Golden Key
+item.terraria:herb_bag.name=Herb Bag
 ###########
 
 ###ARMOR BONUSES###
@@ -637,6 +640,18 @@ tile.terraria:hanging_jack_lantern.name=Hanging Jack 'O Lantern
 tile.terraria:thorn_bushes/jungle.name=Jungle Thorny Bushes
 tile.terraria:thorn_bushes/crimson.name=Crimson Thorny Bushes
 tile.terraria:thorn_bushes/corrupt.name=Corrupt Thorny Bushes
+tile.terraria:furniture/doors/slime.name=Slime Door
+tile.terraria:furniture/doors/steampunk.name=Steampunk Door
+tile.terraria:statue_anvil.name=Anvil Statue
+tile.terraria:statue_pot.name=Pot Statue
+tile.terraria:statue_cross.name=Cross Statue
+tile.terraria:marble_lantern.name=Marble Lantern
+tile.terraria:martian_lantern.name=Martian Lantern
+tile.terraria:meteorite_lantern.name=Meteorite Lantern
+tile.terraria:pearlwood_lantern.name=Pearlwood Lantern
+tile.terraria:pumpkin_lantern.name=Pumpkin Lantern
+tile.terraria:rich_mahogany_lantern.name=Rich Mahogany Lantern
+tile.terraria:golden_lantern.name=Golden Lantern
 ############
 
 ###KEYBOARD###
@@ -653,7 +668,7 @@ death.terraria:arrow=%s был застрелен %s.
 death.terraria:starfury=%s был убит %s с помощью Звёздной ярости.
 death.terraria:falling_star=%s увидел смертельную падающую звезду.
 death.terraria:dart_trap=%s стал жертвой ловушки с дротиком.
-death.attack.terraria:thorn_bushes=%s was prickled to death.
+death.attack.terraria:thorn_bushes=%s был заколот до смерти.
 #########################
 
 ###BUFFS###
@@ -775,6 +790,7 @@ tooltip.terraria:cursed_flame=Даже вода не может потушить
 tooltip.terraria:vial_of_venom=Extremely toxic
 tooltip.terraria:bomb=Небольшой взрыв, который уничтожит некоторые блоки
 tooltip.terraria:dynamite=A large explosion that will destroy most tiles
+tooltip.terraria:golden_key=Opens one Gold or Dungeon Chest
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed
