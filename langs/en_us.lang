@@ -321,6 +321,9 @@ item.terraria:dynamite_bouncy.name=Bouncy Dynamite
 item.terraria:dynamite_sticky.name=Sticky Dynamite
 item.terraria:golden_key.name=Golden Key
 item.terraria:herb_bag.name=Herb Bag
+item.terraria:guide_to_plant_fiber_cordage.name=Guide to Plant Fiber Cordage
+item.terraria:blindfold.name=Blindfold
+item.terraria:dev_rainbow_sword.name=Rainbow Sword
 ###########
 
 ###ARMOR BONUSES###
@@ -652,6 +655,9 @@ tile.terraria:pearlwood_lantern.name=Pearlwood Lantern
 tile.terraria:pumpkin_lantern.name=Pumpkin Lantern
 tile.terraria:rich_mahogany_lantern.name=Rich Mahogany Lantern
 tile.terraria:golden_lantern.name=Golden Lantern
+tile.terraria:vine_rope.name=Vine Rope
+tile.terraria:silk_rope.name=Silk Rope
+tile.terraria:web_rope.name=Web Rope
 ############
 
 ###KEYBOARD###
@@ -731,6 +737,9 @@ tooltip.terraria:buff.water_walking=Sneak to enter water
 
 buff.clairvoyance.name=Clairvoyance
 tooltip.terraria:buff.clairvoyance=Magic powers are increased
+
+buff.darkness.name=Darkness
+tooltip.terraria:buff.darkness=Decreased light vision
 ###########
 
 ###TOOLTIPS###
@@ -784,6 +793,7 @@ tooltip.terraria:critical_strike_chance=%,d%% critical strike chance
 tooltip.terraria:campfire=Life regen is increased when near a campfire
 tooltip.terraria:dev_jae_glock=Top rated in schools all around the globe!
 tooltip.terraria:vanity_item=Vanity Item
+tooltip.terraria:rctoopen=Right click to open
 
 tooltip.terraria:star_cannon=Shoots fallen stars
 tooltip.terraria:cursed_flame=Not even water can put the flame out
@@ -791,6 +801,9 @@ tooltip.terraria:vial_of_venom=Extremely toxic
 tooltip.terraria:bomb=A small explosion that will destroy some blocks
 tooltip.terraria:dynamite=A large explosion that will destroy most tiles
 tooltip.terraria:golden_key=Opens one Gold or Dungeon Chest
+tooltip.terraria:guide_to_plant_fiber_cordage=Allows the collection of Vine Rope from vines
+tooltip.terraria:rope_item=Can be climbed on
+tooltip.terraria:blindfold=Immunity to Darkness
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed
@@ -885,4 +898,9 @@ entity.terraria:bunny.name=Bunny
 entity.terraria:demon_eye.name=Demon Eye
 entity.terraria:firefly.name=Firefly
 entity.terraria:worm.name=Worm
+entity.terraria:red_slime.name=Red Slime
+entity.terraria:purple_slime.name=Purple Slime
+entity.terraria:yellow_slime.name=Yellow Slime
+entity.terraria:black_slime.name=Black Slime
+entity.terraria:drippler.name=Drippler
 ##############
