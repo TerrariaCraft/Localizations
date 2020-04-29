@@ -658,6 +658,9 @@ tile.terraria:golden_lantern.name=Golden Lantern
 tile.terraria:vine_rope.name=Vine Rope
 tile.terraria:silk_rope.name=Silk Rope
 tile.terraria:web_rope.name=Web Rope
+tile.terraria:statue_pillar.name=Pillar Statue
+tile.terraria:statue_drippler.name=Drippler Statue
+tile.terraria:statue_hornet.name=Hornet Statue
 ############
 
 ###KEYBOARD###
@@ -903,4 +906,5 @@ entity.terraria:purple_slime.name=Purple Slime
 entity.terraria:yellow_slime.name=Yellow Slime
 entity.terraria:black_slime.name=Black Slime
 entity.terraria:drippler.name=Drippler
+entity.terraria:jungle_slime.name=Jungle Slime
 ##############
