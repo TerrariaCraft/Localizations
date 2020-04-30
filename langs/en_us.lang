@@ -12,14 +12,14 @@ soundCategory.terraria.ambience=Terrarian Ambience
 deathScreen.title.terraria=You were slain...
 
 gui.terraria:changecurse=Change World Curse
-gui.terraria:world_size=Размер мира: %s
-gui.terraria:changeexpert=Эксперт: %s
-gui.terraria:on=ВКЛ
-gui.terraria:off=ВЫКЛ
+gui.terraria:world_size=World Size: %s
+gui.terraria:changeexpert=Expert Mode: %s
+gui.terraria:on=ON
+gui.terraria:off=OFF
 
-worldsize.terraria:small=Маленький
-worldsize.terraria:medium=Средний
-worldsize.terraria:large=Большой
+worldsize.terraria:small=Small
+worldsize.terraria:medium=Medium
+worldsize.terraria:large=Large
 
 jei.terraria.supercrafting=Terraria Crafting
 jei.terraria.block_around=<B>
