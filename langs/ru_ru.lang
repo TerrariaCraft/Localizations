@@ -7,10 +7,19 @@ itemGroup.terraria:blocks=Terraria Craft: Блоки
 itemGroup.terraria:armor=Terraria Craft: Броня
 generator.Terraria=Мир "Террария"
 gui.achievements=Достижения
-gui.terraria:changecurse=Изменить тип проклятия
 soundCategory.terraria.music=Музыка Terraria
 soundCategory.terraria.ambience=Окружение Terraria
 deathScreen.title.terraria=You were slain...
+
+gui.terraria:changecurse=Изменить тип проклятия
+gui.terraria:world_size=World Size: %s
+gui.terraria:changeexpert=Expert Mode: %s
+gui.terraria:on=ON
+gui.terraria:off=OFF
+
+worldsize.terraria:small=Small
+worldsize.terraria:medium=Medium
+worldsize.terraria:large=Large
 
 jei.terraria.supercrafting=Рецепты террарии
 jei.terraria.block_around=<B>
@@ -324,6 +333,9 @@ item.terraria:herb_bag.name=Herb Bag
 item.terraria:guide_to_plant_fiber_cordage.name=Guide to Plant Fiber Cordage
 item.terraria:blindfold.name=Blindfold
 item.terraria:dev_rainbow_sword.name=Rainbow Sword
+item.terraria:rotten_chunk.name=Rotten Chunk
+item.terraria:leather.name=Leather
+item.terraria:vertebrae.name=Vertebrae
 ###########
 
 ###ARMOR BONUSES###
@@ -661,6 +673,8 @@ tile.terraria:web_rope.name=Web Rope
 tile.terraria:statue_pillar.name=Pillar Statue
 tile.terraria:statue_drippler.name=Drippler Statue
 tile.terraria:statue_hornet.name=Hornet Statue
+tile.terraria:lever.name=Lever
+tile.terraria:flesh_cloning_vat.name=Flesh Cloning Vat
 ############
 
 ###KEYBOARD###
@@ -807,6 +821,7 @@ tooltip.terraria:golden_key=Opens one Gold or Dungeon Chest
 tooltip.terraria:guide_to_plant_fiber_cordage=Allows the collection of Vine Rope from vines
 tooltip.terraria:rope_item=Can be climbed on
 tooltip.terraria:blindfold=Immunity to Darkness
+tooltip.terraria:rotten_chunk=Looks tasty!
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed
@@ -907,4 +922,6 @@ entity.terraria:yellow_slime.name=Жёлтый слизень
 entity.terraria:black_slime.name=Чёрный слизень
 entity.terraria:drippler.name=Drippler
 entity.terraria:jungle_slime.name=Jungle Slime
+entity.terraria:eater_of_souls.name=Eater of Souls
+entity.terraria:crimera.name=Crimera
 ##############
