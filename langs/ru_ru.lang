@@ -336,12 +336,17 @@ item.terraria:dev_rainbow_sword.name=Rainbow Sword
 item.terraria:rotten_chunk.name=Rotten Chunk
 item.terraria:leather.name=Leather
 item.terraria:vertebrae.name=Vertebrae
+item.terraria:armor/copper/helm.name=Copper Helmet
+item.terraria:armor/copper/body.name=Copper Chainmail
+item.terraria:armor/copper/legs.name=Copper Greaves
+item.terraria:armor/tin/helm.name=Tin Helmet
+item.terraria:armor/tin/body.name=Tin Chainmail
+item.terraria:armor/tin/legs.name=Tin Greaves
 ###########
 
 ###ARMOR BONUSES###
-setbonus.terraria:wooden=1 защита
+setbonus.terraria:defense=%,d defense
 setbonus.terraria:mining=Скорость добычи увеличена на 30%%
-setbonus.terraria:tungsten=3 defense
 ###################
 
 ###BLOCKS###
@@ -904,6 +909,7 @@ feature.terraria:from_author=От разработчика мода
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <сохранить воздух true|false> <имя>
 hud.terraria:life=Жизнь: %s
 hud.terraria:mana=Мана
+chat.terraria:defeatenemy=%s has defeated %,d-th %s!
 ##########
 
 ###ENTITIES###
