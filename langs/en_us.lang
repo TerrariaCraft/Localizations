@@ -342,6 +342,13 @@ item.terraria:armor/copper/legs.name=Copper Greaves
 item.terraria:armor/tin/helm.name=Tin Helmet
 item.terraria:armor/tin/body.name=Tin Chainmail
 item.terraria:armor/tin/legs.name=Tin Greaves
+item.terraria:armor/iron/helm.name=Iron Helmet
+item.terraria:armor/iron/body.name=Iron Chainmail
+item.terraria:armor/iron/legs.name=Iron Greaves
+item.terraria:armor/iron/helm_ancient.name=Ancient Iron Helmet
+item.terraria:armor/ancient_shadow/helm.name=Ancient Shadow Helmet
+item.terraria:armor/ancient_shadow/body.name=Ancient Shadow Scalemail
+item.terraria:armor/ancient_shadow/legs.name=Ancient Shadow Greaves
 ###########
 
 ###ARMOR BONUSES###
