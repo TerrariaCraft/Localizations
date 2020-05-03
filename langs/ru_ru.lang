@@ -349,6 +349,16 @@ item.terraria:armor/iron/helm_ancient.name=Ancient Iron Helmet
 item.terraria:armor/ancient_shadow/helm.name=Ancient Shadow Helmet
 item.terraria:armor/ancient_shadow/body.name=Ancient Shadow Scalemail
 item.terraria:armor/ancient_shadow/legs.name=Ancient Shadow Greaves
+item.terraria:armor/lead/helm.name=Lead Helmet
+item.terraria:armor/lead/body.name=Lead Chainmail
+item.terraria:armor/lead/legs.name=Lead Greaves
+item.terraria:armor/silver/helm.name=Silver Helmet
+item.terraria:armor/silver/body.name=Silver Chainmail
+item.terraria:armor/silver/legs.name=Silver Greaves
+item.terraria:armor/gold/helm.name=Gold Helmet
+item.terraria:armor/gold/body.name=Gold Chainmail
+item.terraria:armor/gold/legs.name=Gold Greaves
+item.terraria:armor/gold/helm_ancient.name=Ancient Gold Helmet
 ###########
 
 ###ARMOR BONUSES###
@@ -687,6 +697,9 @@ tile.terraria:statue_drippler.name=Drippler Statue
 tile.terraria:statue_hornet.name=Hornet Statue
 tile.terraria:lever.name=Lever
 tile.terraria:flesh_cloning_vat.name=Flesh Cloning Vat
+tile.terraria:statue_corrupt.name=Corrupt Statue
+tile.terraria:statue_axe.name=Axe Statue
+tile.terraria:statue_bow.name=Bow Statue
 ############
 
 ###KEYBOARD###
