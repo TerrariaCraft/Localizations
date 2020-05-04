@@ -1,6 +1,3 @@
-#------ FR : Traduction par Hydoza#0666 et Mr. 64#6020 ------#
-#------ EN : Translation by Hydoza#0666 and Mr. 64#6020 ------#
-
 
 itemGroup.terraria:items=Terraria Craft: Items
 itemGroup.terraria:tools=Terraria Craft: Outils
@@ -155,9 +152,6 @@ item.terraria:souls/light.name= me de lumière
 item.terraria:souls/sight.name= me de vision
 item.terraria:souls/fright.name= me d'effroi
 item.terraria:souls/flight.name= me d’envol
-
-
-
 item.terraria:fragments/nebula.name=Fragment de nébuleuse
 item.terraria:fragments/solar.name=Fragment solaire
 item.terraria:fragments/stardust.name=Fragment astral
@@ -365,15 +359,39 @@ item.terraria:armor/gold/helm.name=Casque en or
 item.terraria:armor/gold/body.name=Cotte de mailles en or
 item.terraria:armor/gold/legs.name=Grèves en or
 item.terraria:armor/gold/helm_ancient.name=Ancien casque d'or
+item.terraria:armor/platinum/helm.name=Platinum Helmet
+item.terraria:armor/platinum/body.name=Platinum Chainmail
+item.terraria:armor/platinum/legs.name=Platinum Greaves
+item.terraria:armor/molten/helm.name=Molten Helmet
+item.terraria:armor/molten/body.name=Molten Breastplate
+item.terraria:armor/molten/legs.name=Molten Greaves
+item.terraria:armor/dev_ashryman/helm.name=Ashryman's Headwear
+item.terraria:armor/dev_ashryman/body.name=Ashryman's Vest
+item.terraria:armor/dev_ashryman/legs.name=Ashryman's Greaves
+item.terraria:wings/dev_ashryman.name=Ashryman's Wings
+item.terraria:armor/boreal_wood/helm.name=Boreal Wood Helmet
+item.terraria:armor/boreal_wood/body.name=Boreal Wood Breastplate
+item.terraria:armor/boreal_wood/legs.name=Boreal Wood Greaves
+item.terraria:armor/palm_wood/helm.name=Palm Wood Helmet
+item.terraria:armor/palm_wood/body.name=Palm Wood Breastplate
+item.terraria:armor/palm_wood/legs.name=Palm Wood Greaves
+item.terraria:armor/ebonwood/helm.name=Ebonwood Helmet
+item.terraria:armor/ebonwood/body.name=Ebonwood Breastplate
+item.terraria:armor/ebonwood/legs.name=Ebonwood Greaves
+item.terraria:armor/shadewood/helm.name=Shadewood Helmet
+item.terraria:armor/shadewood/body.name=Shadewood Breastplate
+item.terraria:armor/shadewood/legs.name=Shadewood Greaves
 ###########
 
 ###ARMOR BONUSES###
 setbonus.terraria:defense=%,d défense
 setbonus.terraria:mining=30%% augmentation de la vitesse de minage
+setbonus.terraria:extra_melee_damage=%,d%% extra melee damage
 ###################
 
 ###BLOCKS###
 tile.terraria:redstone_tranciever.name=Redstone émetteur-récepteur
+
 tile.terraria:work_bench.name=Établi
 tile.terraria:clay_pot.name=Pot en argile
 tile.terraria:empty_bottle.name=Bouteille
@@ -705,6 +723,8 @@ tile.terraria:flesh_cloning_vat.name=Cuve à clonage de chair
 tile.terraria:statue_corrupt.name=Statue corrompue
 tile.terraria:statue_axe.name=Statue de hache
 tile.terraria:statue_bow.name=Statue d'arc
+tile.terraria:statue_boomerang.name=Boomerang Statue
+tile.terraria:statue_hammer.name=Hammer Statue
 ############
 
 ###KEYBOARD###
@@ -752,6 +772,7 @@ tooltip.terraria:buff.poisoned=Perd lentement de la vie
 buff.happy.name=Heureux !
 
 buff.swiftness.name=Vitesse
+
 buff.ironskin.name=Peau de fer
 
 buff.shine.name=Brillance
@@ -840,6 +861,7 @@ tooltip.terraria:campfire=La régénération de la vie est augmenté lorsqu'on s
 tooltip.terraria:dev_jae_glock=Les meilleures notes dans les écoles du monde entier !
 tooltip.terraria:vanity_item=Objet de vanité
 tooltip.terraria:rctoopen=Clic droit pour ouvrir
+tooltip.terraria:debug_item=Debug Item
 
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme
