@@ -365,10 +365,11 @@ item.terraria:armor/platinum/legs.name=Platinum Greaves
 item.terraria:armor/molten/helm.name=Molten Helmet
 item.terraria:armor/molten/body.name=Molten Breastplate
 item.terraria:armor/molten/legs.name=Molten Greaves
-item.terraria:armor/dev_ashryman/helm.name=Ashryman's Headwear
-item.terraria:armor/dev_ashryman/body.name=Ashryman's Vest
-item.terraria:armor/dev_ashryman/legs.name=Ashryman's Greaves
-item.terraria:wings/dev_ashryman.name=Ashryman's Wings
+item.terraria:armor/dev_ashryman/helm.name=Ashryman's Helm of Infamy
+item.terraria:armor/dev_ashryman/body.name=Ashryman's Chest of Valor
+item.terraria:armor/dev_ashryman/legs.name=Ashryman's Boots of Triumph
+item.terraria:armor/dev_ashryman.desc=Once worn by a hero consumed by the spirits of darkness
+item.terraria:wings/dev_ashryman.name=Ashryman's Wings of Glory
 item.terraria:armor/boreal_wood/helm.name=Boreal Wood Helmet
 item.terraria:armor/boreal_wood/body.name=Boreal Wood Breastplate
 item.terraria:armor/boreal_wood/legs.name=Boreal Wood Greaves
@@ -381,6 +382,7 @@ item.terraria:armor/ebonwood/legs.name=Ebonwood Greaves
 item.terraria:armor/shadewood/helm.name=Shadewood Helmet
 item.terraria:armor/shadewood/body.name=Shadewood Breastplate
 item.terraria:armor/shadewood/legs.name=Shadewood Greaves
+item.terraria:tools/sword_dev_ashryman.name=The Last Wish
 ###########
 
 ###ARMOR BONUSES###
@@ -725,6 +727,11 @@ tile.terraria:statue_axe.name=Axe Statue
 tile.terraria:statue_bow.name=Bow Statue
 tile.terraria:statue_boomerang.name=Boomerang Statue
 tile.terraria:statue_hammer.name=Hammer Statue
+tile.terraria:statue_pickaxe.name=Pickaxe Statue
+tile.terraria:statue_potion.name=Potion Statue
+tile.terraria:statue_shield.name=Shield Statue
+tile.terraria:statue_spear.name=Spear Statue
+tile.terraria:statue_sword.name=Sword Statue
 ############
 
 ###KEYBOARD###
@@ -821,12 +828,12 @@ tooltip.terraria:restores_mana=Restores %s mana
 tooltip.terraria:potion_duration=Duration: %s min
 tooltip.terraria:regen_speed_increase=Increased regeneration speed
 tooltip.terraria:increased_movement_speed=%,d%% increased movement speed
-tooltip.terraria:whoopie_cushion='May annoy others'
-tooltip.terraria:demonite_ingot='Pulsing with dark energy'
-tooltip.terraria:meteorite_ingot='Warm to the touch'
-tooltip.terraria:hellstone_ingot='Hot to the touch'
-tooltip.terraria:chlorophyte_ingot='Reacts to the light'
-tooltip.terraria:luminite_ingot='It vibrates with luminous celestial energy'
+tooltip.terraria:whoopie_cushion=May annoy others
+tooltip.terraria:demonite_ingot=Pulsing with dark energy
+tooltip.terraria:meteorite_ingot=Warm to the touch
+tooltip.terraria:hellstone_ingot=Hot to the touch
+tooltip.terraria:chlorophyte_ingot=Reacts to the light
+tooltip.terraria:luminite_ingot=It vibrates with luminous celestial energy
 tooltip.terraria:band_regen=Slowly regenerates life
 tooltip.terraria:band_starpower0=Slowly regenerates mana
 tooltip.terraria:band_starpower1=Permanently increases maximum mana by 20
@@ -855,7 +862,7 @@ tooltip.terraria:bless_ore/mythril=Your world has been blessed with Mythril!
 tooltip.terraria:bless_ore/orichalcum=Your world has been blessed with Orichalcum!
 tooltip.terraria:bless_ore/adamantite=Your world has been blessed with Adamantite!
 tooltip.terraria:bless_ore/titanium=Your world has been blessed with Titanium!
-tooltip.terraria:dev_item='Great for impersonating devs!'
+tooltip.terraria:dev_item=Great for impersonating devs!
 tooltip.terraria:critical_strike_chance=%,d%% critical strike chance
 tooltip.terraria:campfire=Life regen is increased when near a campfire
 tooltip.terraria:dev_jae_glock=Top rated in schools all around the globe!
