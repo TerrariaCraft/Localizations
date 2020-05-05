@@ -359,28 +359,28 @@ item.terraria:armor/gold/helm.name=Casque en or
 item.terraria:armor/gold/body.name=Cotte de mailles en or
 item.terraria:armor/gold/legs.name=Grèves en or
 item.terraria:armor/gold/helm_ancient.name=Ancien casque d'or
-item.terraria:armor/platinum/helm.name=Platinum Helmet
-item.terraria:armor/platinum/body.name=Platinum Chainmail
-item.terraria:armor/platinum/legs.name=Platinum Greaves
-item.terraria:armor/molten/helm.name=Molten Helmet
-item.terraria:armor/molten/body.name=Molten Breastplate
-item.terraria:armor/molten/legs.name=Molten Greaves
-item.terraria:armor/dev_ashryman/helm.name=Ashryman's Headwear
-item.terraria:armor/dev_ashryman/body.name=Ashryman's Vest
-item.terraria:armor/dev_ashryman/legs.name=Ashryman's Greaves
-item.terraria:wings/dev_ashryman.name=Ashryman's Wings
-item.terraria:armor/boreal_wood/helm.name=Boreal Wood Helmet
-item.terraria:armor/boreal_wood/body.name=Boreal Wood Breastplate
-item.terraria:armor/boreal_wood/legs.name=Boreal Wood Greaves
-item.terraria:armor/palm_wood/helm.name=Palm Wood Helmet
-item.terraria:armor/palm_wood/body.name=Palm Wood Breastplate
-item.terraria:armor/palm_wood/legs.name=Palm Wood Greaves
-item.terraria:armor/ebonwood/helm.name=Ebonwood Helmet
-item.terraria:armor/ebonwood/body.name=Ebonwood Breastplate
-item.terraria:armor/ebonwood/legs.name=Ebonwood Greaves
-item.terraria:armor/shadewood/helm.name=Shadewood Helmet
-item.terraria:armor/shadewood/body.name=Shadewood Breastplate
-item.terraria:armor/shadewood/legs.name=Shadewood Greaves
+item.terraria:armor/platinum/helm.name=Casque en platine
+item.terraria:armor/platinum/body.name=Cotte de mailles en platine
+item.terraria:armor/platinum/legs.name=Grèves en platine
+item.terraria:armor/molten/helm.name=Casque en fusion
+item.terraria:armor/molten/body.name=Plastron en fusion
+item.terraria:armor/molten/legs.name=Grèves en fusion
+item.terraria:armor/dev_ashryman/helm.name=Chapeau d'Ashryman
+item.terraria:armor/dev_ashryman/body.name=Veste d'Ashryman
+item.terraria:armor/dev_ashryman/legs.name=Grèves d'Ashryman
+item.terraria:wings/dev_ashryman.name=Ailes d'Ashryman
+item.terraria:armor/boreal_wood/helm.name=Casque en bois boréal
+item.terraria:armor/boreal_wood/body.name=Plastron en bois boréal
+item.terraria:armor/boreal_wood/legs.name=Grèves en bois boréal
+item.terraria:armor/palm_wood/helm.name=Casque en palmier
+item.terraria:armor/palm_wood/body.name=Plastron en palmier
+item.terraria:armor/palm_wood/legs.name=Grèves en palmier
+item.terraria:armor/ebonwood/helm.name=Casque en ébène
+item.terraria:armor/ebonwood/body.name=Plastron en ébène
+item.terraria:armor/ebonwood/legs.name=Grèves en ébène
+item.terraria:armor/shadewood/helm.name=Casque en bois d'ombre
+item.terraria:armor/shadewood/body.name=Plastron en bois d'ombre
+item.terraria:armor/shadewood/legs.name=Grèves en bois d'ombre
 ###########
 
 ###ARMOR BONUSES###
@@ -723,8 +723,8 @@ tile.terraria:flesh_cloning_vat.name=Cuve à clonage de chair
 tile.terraria:statue_corrupt.name=Statue corrompue
 tile.terraria:statue_axe.name=Statue de hache
 tile.terraria:statue_bow.name=Statue d'arc
-tile.terraria:statue_boomerang.name=Boomerang Statue
-tile.terraria:statue_hammer.name=Hammer Statue
+tile.terraria:statue_boomerang.name=Statue de boomerang
+tile.terraria:statue_hammer.name=Statue de marteau
 ############
 
 ###KEYBOARD###
@@ -805,7 +805,7 @@ tooltip.terraria:buff.water_walking=Se faufiler (sneak) pour entrer dans l'eau
 buff.clairvoyance.name=Clairvoyance
 tooltip.terraria:buff.clairvoyance=Les pouvoirs magique sont augmenté
 
-buff.darkness.name=obscurité
+buff.darkness.name=Obscurité
 tooltip.terraria:buff.darkness=Vision lumineuse diminuée
 ###########
 
@@ -861,7 +861,7 @@ tooltip.terraria:campfire=La régénération de la vie est augmenté lorsqu'on s
 tooltip.terraria:dev_jae_glock=Les meilleures notes dans les écoles du monde entier !
 tooltip.terraria:vanity_item=Objet de vanité
 tooltip.terraria:rctoopen=Clic droit pour ouvrir
-tooltip.terraria:debug_item=Debug Item
+tooltip.terraria:debug_item=Outil de débogage
 
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme
