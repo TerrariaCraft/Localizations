@@ -387,6 +387,9 @@ item.terraria:potions/gravitation.name=Gravitation Potion
 item.terraria:armor/shadow/helm.name=Shadow Helmet
 item.terraria:armor/shadow/body.name=Shadow Scalemail
 item.terraria:armor/shadow/legs.name=Shadow Greaves
+item.terraria:tools/axe_iron.name=Iron Axe
+item.terraria:tools/axe_demonite.name=War Axe of the Night
+item.terraria:tools/axe_crimtane.name=Blood Lust Cluster
 ###########
 
 ###ARMOR BONUSES###
@@ -744,6 +747,8 @@ tile.terraria:banners/yellow_slime.name=Yellow Slime Banner
 tile.terraria:banners/black_slime.name=Black Slime Banner
 tile.terraria:banners/pinky.name=Pinky Banner
 tile.terraria:banners/jungle_slime.name=Jungle Slime Banner
+tile.terraria:statue_boot.name=Boot Statue
+tile.terraria:banners/demon_eye.name=Demon Eye Banner
 ############
 
 ###KEYBOARD###

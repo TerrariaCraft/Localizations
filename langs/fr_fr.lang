@@ -387,6 +387,9 @@ item.terraria:potions/gravitation.name=Potion de gravitation
 item.terraria:armor/shadow/helm.name=Casque de l'ombre
 item.terraria:armor/shadow/body.name=Cotte de mailles de l'ombre
 item.terraria:armor/shadow/legs.name=Grèves de l'ombre
+item.terraria:tools/axe_iron.name=Iron Axe
+item.terraria:tools/axe_demonite.name=War Axe of the Night
+item.terraria:tools/axe_crimtane.name=Blood Lust Cluster
 ###########
 
 ###ARMOR BONUSES###
@@ -744,6 +747,8 @@ tile.terraria:banners/yellow_slime.name=Bannière de Gelée jaune
 tile.terraria:banners/black_slime.name=Bannière de Gelée noire
 tile.terraria:banners/pinky.name=Bannière de Rosie
 tile.terraria:banners/jungle_slime.name=Bannière de Gelée de la jungle
+tile.terraria:statue_boot.name=Boot Statue
+tile.terraria:banners/demon_eye.name=Demon Eye Banner
 ############
 
 ###KEYBOARD###

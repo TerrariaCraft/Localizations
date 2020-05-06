@@ -38,29 +38,29 @@ mccue.trigger.terraria:crafting.if=item crafted
 
 ###ITEMS###
 item.terraria:whoopie_cushion.name=Whoopie Cushion
-item.terraria:iron_ingot.name=Iron Ingot
-item.terraria:gold_ingot.name=Gold Ingot
-item.terraria:copper_ingot.name=Copper Ingot
-item.terraria:tin_ingot.name=Tin Ingot
-item.terraria:lead_ingot.name=Lead Ingot
-item.terraria:silver_ingot.name=Silver Ingot
-item.terraria:tungsten_ingot.name=Tungsten Ingot
-item.terraria:platinum_ingot.name=Platinum Ingot
-item.terraria:crimtane_ingot.name=Crimtane Ingot
-item.terraria:demonite_ingot.name=Demonite Ingot
-item.terraria:meteorite_ingot.name=Meteorite Ingot
-item.terraria:hellstone_ingot.name=Hellstone Ingot
-item.terraria:hallowed_ingot.name=Hallowed Ingot
-item.terraria:chlorophyte_ingot.name=Chlorophyte Ingot
-item.terraria:cobalt_ingot.name=Cobalt Ingot
-item.terraria:adamantite_ingot.name=Adamantite Ingot
-item.terraria:mythril_ingot.name=Mythril Ingot
-item.terraria:orichalcum_ingot.name=Orichalcum Ingot
-item.terraria:palladium_ingot.name=Palladium Ingot
-item.terraria:titanium_ingot.name=Titanium Ingot
-item.terraria:shroomite_ingot.name=Shroomite Ingot
-item.terraria:spectre_ingot.name=Spectre Ingot
-item.terraria:luminite_ingot.name=Luminite Ingot
+item.terraria:iron_ingot.name=Iron Bar
+item.terraria:gold_ingot.name=Gold Bar
+item.terraria:copper_ingot.name=Copper Bar
+item.terraria:tin_ingot.name=Tin Bar
+item.terraria:lead_ingot.name=Lead Bar
+item.terraria:silver_ingot.name=Silver Bar
+item.terraria:tungsten_ingot.name=Tungsten Bar
+item.terraria:platinum_ingot.name=Platinum Bar
+item.terraria:crimtane_ingot.name=Crimtane Bar
+item.terraria:demonite_ingot.name=Demonite Bar
+item.terraria:meteorite_ingot.name=Meteorite Bar
+item.terraria:hellstone_ingot.name=Hellstone Bar
+item.terraria:hallowed_ingot.name=Hallowed Bar
+item.terraria:chlorophyte_ingot.name=Chlorophyte Bar
+item.terraria:cobalt_ingot.name=Cobalt Bar
+item.terraria:adamantite_ingot.name=Adamantite Bar
+item.terraria:mythril_ingot.name=Mythril Bar
+item.terraria:orichalcum_ingot.name=Orichalcum Bar
+item.terraria:palladium_ingot.name=Palladium Bar
+item.terraria:titanium_ingot.name=Titanium Bar
+item.terraria:shroomite_ingot.name=Shroomite Bar
+item.terraria:spectre_ingot.name=Spectre Bar
+item.terraria:luminite_ingot.name=Luminite Bar
 item.terraria:copper_coin.name=Copper Coin
 item.terraria:silver_coin.name=Silver Coin
 item.terraria:gold_coin.name=Gold Coin
@@ -387,6 +387,9 @@ item.terraria:potions/gravitation.name=Gravitation Potion
 item.terraria:armor/shadow/helm.name=Shadow Helmet
 item.terraria:armor/shadow/body.name=Shadow Scalemail
 item.terraria:armor/shadow/legs.name=Shadow Greaves
+item.terraria:tools/axe_iron.name=Iron Axe
+item.terraria:tools/axe_demonite.name=War Axe of the Night
+item.terraria:tools/axe_crimtane.name=Blood Lust Cluster
 ###########
 
 ###ARMOR BONUSES###
@@ -744,6 +747,8 @@ tile.terraria:banners/yellow_slime.name=Yellow Slime Banner
 tile.terraria:banners/black_slime.name=Black Slime Banner
 tile.terraria:banners/pinky.name=Pinky Banner
 tile.terraria:banners/jungle_slime.name=Jungle Slime Banner
+tile.terraria:statue_boot.name=Boot Statue
+tile.terraria:banners/demon_eye.name=Demon Eye Banner
 ############
 
 ###KEYBOARD###
