@@ -383,6 +383,10 @@ item.terraria:armor/shadewood/helm.name=Casque en bois d'ombre
 item.terraria:armor/shadewood/body.name=Plastron en bois d'ombre
 item.terraria:armor/shadewood/legs.name=Grèves en bois d'ombre
 item.terraria:tools/sword_dev_ashryman.name=Le Dernier Voeu
+item.terraria:potions/gravitation.name=Gravitation Potion
+item.terraria:armor/shadow/helm.name=Shadow Helmet
+item.terraria:armor/shadow/body.name=Shadow Scalemail
+item.terraria:armor/shadow/legs.name=Shadow Greaves
 ###########
 
 ###ARMOR BONUSES###
@@ -732,11 +736,19 @@ tile.terraria:statue_potion.name=Statue de potion
 tile.terraria:statue_shield.name=Statue de bouclier
 tile.terraria:statue_spear.name=Statue de lance
 tile.terraria:statue_sword.name=Statue d'épée
+tile.terraria:banners/green_slime.name=Green Slime Banner
+tile.terraria:banners/blue_slime.name=Blue Slime Banner
+tile.terraria:banners/purple_slime.name=Purple Slime Banner
+tile.terraria:banners/red_slime.name=Red Slime Banner
+tile.terraria:banners/yellow_slime.name=Yellow Slime Banner
+tile.terraria:banners/black_slime.name=Black Slime Banner
+tile.terraria:banners/pinky.name=Pinky Banner
+tile.terraria:banners/jungle_slime.name=Jungle Slime Banner
 ############
 
 ###KEYBOARD###
 key.category.terraria=Artisanat Terraria
-key.terraria.open_inv=Ouvrir l’inventaire Terraria
+key.terraria.toggle_gravity=Toggle Gravity
 key.hotbar.0=Barre d’inventaire emplacement 10
 key.terraria.healing=Activer la potion de soin
 key.terraria.mana=Activer la potion de mana
@@ -814,6 +826,12 @@ tooltip.terraria:buff.clairvoyance=Les pouvoirs magique sont augmenté
 
 buff.darkness.name=Obscurité
 tooltip.terraria:buff.darkness=Vision lumineuse diminuée
+
+buff.gravitation.name=Gravitation
+tooltip.terraria:buff.gravitation=Press %s to reverse gravity
+
+buff.banner.name=Banner
+tooltip.terraria:buff.banner=Increased damage and defense from the following:
 ###########
 
 ###TOOLTIPS###
@@ -869,6 +887,7 @@ tooltip.terraria:dev_jae_glock=Les meilleures notes dans les écoles du monde en
 tooltip.terraria:vanity_item=Objet de vanité
 tooltip.terraria:rctoopen=Clic droit pour ouvrir
 tooltip.terraria:debug_item=Outil de débogage
+tooltip.terraria:gravity_control=[WIP] Allows the control of gravity
 
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme

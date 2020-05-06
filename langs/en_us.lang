@@ -383,6 +383,10 @@ item.terraria:armor/shadewood/helm.name=Shadewood Helmet
 item.terraria:armor/shadewood/body.name=Shadewood Breastplate
 item.terraria:armor/shadewood/legs.name=Shadewood Greaves
 item.terraria:tools/sword_dev_ashryman.name=The Last Wish
+item.terraria:potions/gravitation.name=Gravitation Potion
+item.terraria:armor/shadow/helm.name=Shadow Helmet
+item.terraria:armor/shadow/body.name=Shadow Scalemail
+item.terraria:armor/shadow/legs.name=Shadow Greaves
 ###########
 
 ###ARMOR BONUSES###
@@ -732,11 +736,19 @@ tile.terraria:statue_potion.name=Potion Statue
 tile.terraria:statue_shield.name=Shield Statue
 tile.terraria:statue_spear.name=Spear Statue
 tile.terraria:statue_sword.name=Sword Statue
+tile.terraria:banners/green_slime.name=Green Slime Banner
+tile.terraria:banners/blue_slime.name=Blue Slime Banner
+tile.terraria:banners/purple_slime.name=Purple Slime Banner
+tile.terraria:banners/red_slime.name=Red Slime Banner
+tile.terraria:banners/yellow_slime.name=Yellow Slime Banner
+tile.terraria:banners/black_slime.name=Black Slime Banner
+tile.terraria:banners/pinky.name=Pinky Banner
+tile.terraria:banners/jungle_slime.name=Jungle Slime Banner
 ############
 
 ###KEYBOARD###
 key.category.terraria=Terraria Craft
-key.terraria.open_inv=Open Terraria Inventory
+key.terraria.toggle_gravity=Toggle Gravity
 key.hotbar.0=Hotbar Slot 10
 key.terraria.healing=Activate healing potion
 key.terraria.mana=Activate mana potion
@@ -814,6 +826,12 @@ tooltip.terraria:buff.clairvoyance=Magic powers are increased
 
 buff.darkness.name=Darkness
 tooltip.terraria:buff.darkness=Decreased light vision
+
+buff.gravitation.name=Gravitation
+tooltip.terraria:buff.gravitation=Press %s to reverse gravity
+
+buff.banner.name=Banner
+tooltip.terraria:buff.banner=Increased damage and defense from the following:
 ###########
 
 ###TOOLTIPS###
@@ -869,6 +887,7 @@ tooltip.terraria:dev_jae_glock=Top rated in schools all around the globe!
 tooltip.terraria:vanity_item=Vanity Item
 tooltip.terraria:rctoopen=Right click to open
 tooltip.terraria:debug_item=Debug Item
+tooltip.terraria:gravity_control=[WIP] Allows the control of gravity
 
 tooltip.terraria:star_cannon=Shoots fallen stars
 tooltip.terraria:cursed_flame=Not even water can put the flame out
