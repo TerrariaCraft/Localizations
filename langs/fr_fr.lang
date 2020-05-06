@@ -384,9 +384,9 @@ item.terraria:armor/shadewood/body.name=Plastron en bois d'ombre
 item.terraria:armor/shadewood/legs.name=Grèves en bois d'ombre
 item.terraria:tools/sword_dev_ashryman.name=Le Dernier Voeu
 item.terraria:potions/gravitation.name=Gravitation Potion
-item.terraria:armor/shadow/helm.name=Shadow Helmet
-item.terraria:armor/shadow/body.name=Shadow Scalemail
-item.terraria:armor/shadow/legs.name=Shadow Greaves
+item.terraria:armor/shadow/helm.name=Casque de l'ombre
+item.terraria:armor/shadow/body.name=Cotte de mailles de l'ombre
+item.terraria:armor/shadow/legs.name=Grèves de l'ombre
 ###########
 
 ###ARMOR BONUSES###
@@ -736,14 +736,14 @@ tile.terraria:statue_potion.name=Statue de potion
 tile.terraria:statue_shield.name=Statue de bouclier
 tile.terraria:statue_spear.name=Statue de lance
 tile.terraria:statue_sword.name=Statue d'épée
-tile.terraria:banners/green_slime.name=Green Slime Banner
-tile.terraria:banners/blue_slime.name=Blue Slime Banner
-tile.terraria:banners/purple_slime.name=Purple Slime Banner
-tile.terraria:banners/red_slime.name=Red Slime Banner
-tile.terraria:banners/yellow_slime.name=Yellow Slime Banner
-tile.terraria:banners/black_slime.name=Black Slime Banner
-tile.terraria:banners/pinky.name=Pinky Banner
-tile.terraria:banners/jungle_slime.name=Jungle Slime Banner
+tile.terraria:banners/green_slime.name=Bannière de Gelée verte
+tile.terraria:banners/blue_slime.name=Bannière de Gelée bleue
+tile.terraria:banners/purple_slime.name=Bannière de Gelée violette
+tile.terraria:banners/red_slime.name=Bannière de Gelée rouge
+tile.terraria:banners/yellow_slime.name=Bannière de Gelée jaune
+tile.terraria:banners/black_slime.name=Bannière de Gelée noire
+tile.terraria:banners/pinky.name=Bannière de Rosie
+tile.terraria:banners/jungle_slime.name=Bannière de Gelée de la jungle
 ############
 
 ###KEYBOARD###
@@ -887,7 +887,7 @@ tooltip.terraria:dev_jae_glock=Les meilleures notes dans les écoles du monde en
 tooltip.terraria:vanity_item=Objet de vanité
 tooltip.terraria:rctoopen=Clic droit pour ouvrir
 tooltip.terraria:debug_item=Outil de débogage
-tooltip.terraria:gravity_control=[WIP] Allows the control of gravity
+tooltip.terraria:gravity_control=[TEC] Permet le contrôle de la gravité
 
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme
