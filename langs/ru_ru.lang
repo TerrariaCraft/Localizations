@@ -36,7 +36,8 @@ jei.terraria.table_chair_around=Стол и стул
 mccue.trigger.terraria:crafting.name=Создание
 mccue.trigger.terraria:crafting.if=предмет создан
 
-###ITEMS###
+######ITEMS######
+
 item.terraria:whoopie_cushion.name=Подушка-пердушка
 item.terraria:iron_ingot.name=Железный слиток
 item.terraria:gold_ingot.name=Золотой слиток
@@ -402,17 +403,28 @@ item.terraria:armor/ancient_cobalt/legs.name=Ancient Cobalt Leggings
 item.terraria:armor/ancient_cobalt/helm.tooltip=Increases maximum mana by 40</br>4%% increased magic critical strike chance
 item.terraria:armor/ancient_cobalt/body.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
 item.terraria:armor/ancient_cobalt/legs.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
+item.terraria:undertaker.name=The Undertaker
+item.terraria:armor/gladiator/helm.name=Gladiator Helmet
+item.terraria:armor/gladiator/body.name=Gladiator Breastplate
+item.terraria:armor/gladiator/legs.name=Gladiator Leggings
+item.terraria:armor/jungle/helm.name=Jungle Hat
+item.terraria:armor/jungle/body.name=Jungle Shirt
+item.terraria:armor/jungle/legs.name=Jungle Pants
+item.terraria:vine.name=Vine
 
-###########
+#################
 
-###ARMOR BONUSES###
+######ARMOR BONUSES######
+
 setbonus.terraria:defense=%,d defense
 setbonus.terraria:mining=Скорость добычи увеличена на 30%%
 setbonus.terraria:extra_melee_damage=%,d%% extra melee damage
 setbonus.terraria:no_consume_thrown=%,d%% chance to not consume thrown item
-###################
 
-###BLOCKS###
+#########################
+
+######BLOCKS######
+
 tile.terraria:redstone_tranciever.name=Редстоуновый приемопередатчик
 
 tile.terraria:work_bench.name=Верстак
@@ -765,26 +777,47 @@ tile.terraria:statue_boot.name=Boot Statue
 tile.terraria:banners/demon_eye.name=Demon Eye Banner
 tile.terraria:statue_eyeball.name=Eyeball Statue
 tile.terraria:statue_gloom.name=Gloom Statue
-############
+tile.terraria:piggy_bank.name=Piggy Bank
+tile.terraria:statue_mushroom/0.name=Mushroom Statue
+tile.terraria:statue_sunflower.name=Sunflower Statue
+tile.terraria:statue_tree.name=Tree Statue
+tile.terraria:furniture/bookcases/wood.name=Bookcase
+tile.terraria:book.name=Book
+tile.terraria:work_bench_skyware.name=Skyware Work Bench
+tile.terraria:work_bench_marble.name=Marble Work Bench
+tile.terraria:statue_woman.name=Woman Statue
 
-###KEYBOARD###
+##################
+
+
+
+######KEYBOARD######
+
 key.category.terraria=Terraria Craft
 key.terraria.toggle_gravity=Toggle Gravity
 key.hotbar.0=Слот 10
 key.terraria.healing=Активировать зелье здоровья
 key.terraria.mana=Активировать зелье маня
 key.terraria.buffs=Активировать все бафф-зелья
-##############
 
-###DAMAGE SOURCE DEATH###
+####################
+
+
+
+######DAMAGE SOURCE DEATH######
+
 death.terraria:arrow=%s был застрелен %s.
 death.terraria:starfury=%s был убит %s с помощью Звёздной ярости.
 death.terraria:falling_star=%s увидел смертельную падающую звезду.
 death.terraria:dart_trap=%s стал жертвой ловушки с дротиком.
 death.attack.terraria:thorn_bushes=%s был заколот до смерти.
+
 #########################
 
-###BUFFS###
+
+
+######BUFFS######
+
 buff.potion_sickness.name=Послезельевая болезнь
 tooltip.terraria:buff.potion_sickness=Нельзя потреблять лечащие предметы
 
@@ -853,9 +886,13 @@ tooltip.terraria:buff.gravitation=Press %s to reverse gravity
 
 buff.banner.name=Banner
 tooltip.terraria:buff.banner=Increased damage and defense from the following:
-###########
 
-###TOOLTIPS###
+#################
+
+
+
+######TOOLTIPS######
+
 tooltip.terraria:material=Материал
 tooltip.terraria:ammo=Боеприпасы
 tooltip.terraria:mana=Мана
@@ -936,9 +973,13 @@ damage.terraria:ranged=%,d ед. дальнего урона
 damage.terraria:magic=%,d ед. магического урона
 damage.terraria:summon=%,d ед. призываемого урона
 damage.terraria:throwing=%,d ед. метательного урона
-##############
 
-###ACHIEVEMENTS###
+####################
+
+
+
+######ACHIEVEMENTS######
+
 achievement.terraria:timber.name=Древесина!!
 achievement.terraria:timber.desc=Срубите ваше первое дерево.
 
@@ -995,17 +1036,25 @@ achievement.terraria:topped_off.desc=Получите полный запас м
 
 achievement.terraria:you_can_do_it.name=You Can Do It!
 achievement.terraria:you_can_do_it.desc=Survive your character's first full night.
-##################
 
-###MISC###
+########################
+
+
+
+######MISC######
+
 feature.terraria:from_author=От разработчика мода
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <сохранить воздух true|false> <имя>
 hud.terraria:life=Жизнь: %s
 hud.terraria:mana=Мана
 chat.terraria:defeatenemy=%s has defeated %,d-th %s!
-##########
 
-###ENTITIES###
+################
+
+
+
+######ENTITIES######
+
 entity.terraria:green_slime.name=Зелёный слизень
 entity.terraria:blue_slime.name=Синий слизень
 entity.terraria:baby_slime.name=Слизень-малыш
@@ -1023,4 +1072,5 @@ entity.terraria:drippler.name=Drippler
 entity.terraria:jungle_slime.name=Jungle Slime
 entity.terraria:eater_of_souls.name=Eater of Souls
 entity.terraria:crimera.name=Crimera
-##############
+
+####################

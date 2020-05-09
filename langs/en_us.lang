@@ -36,7 +36,8 @@ jei.terraria.table_chair_around=Table and Chair
 mccue.trigger.terraria:crafting.name=Crafting
 mccue.trigger.terraria:crafting.if=item crafted
 
-###ITEMS###
+######ITEMS######
+
 item.terraria:whoopie_cushion.name=Whoopie Cushion
 item.terraria:iron_ingot.name=Iron Bar
 item.terraria:gold_ingot.name=Gold Bar
@@ -402,17 +403,28 @@ item.terraria:armor/ancient_cobalt/legs.name=Ancient Cobalt Leggings
 item.terraria:armor/ancient_cobalt/helm.tooltip=Increases maximum mana by 40</br>4%% increased magic critical strike chance
 item.terraria:armor/ancient_cobalt/body.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
 item.terraria:armor/ancient_cobalt/legs.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
+item.terraria:undertaker.name=The Undertaker
+item.terraria:armor/gladiator/helm.name=Gladiator Helmet
+item.terraria:armor/gladiator/body.name=Gladiator Breastplate
+item.terraria:armor/gladiator/legs.name=Gladiator Leggings
+item.terraria:armor/jungle/helm.name=Jungle Hat
+item.terraria:armor/jungle/body.name=Jungle Shirt
+item.terraria:armor/jungle/legs.name=Jungle Pants
+item.terraria:vine.name=Vine
 
-###########
+#################
 
-###ARMOR BONUSES###
+######ARMOR BONUSES######
+
 setbonus.terraria:defense=%,d defense
 setbonus.terraria:mining=30%% increased mining speed
 setbonus.terraria:extra_melee_damage=%,d%% extra melee damage
 setbonus.terraria:no_consume_thrown=%,d%% chance to not consume thrown item
-###################
 
-###BLOCKS###
+#########################
+
+######BLOCKS######
+
 tile.terraria:redstone_tranciever.name=Redstone Transceiver
 
 tile.terraria:work_bench.name=Work Bench
@@ -765,26 +777,47 @@ tile.terraria:statue_boot.name=Boot Statue
 tile.terraria:banners/demon_eye.name=Demon Eye Banner
 tile.terraria:statue_eyeball.name=Eyeball Statue
 tile.terraria:statue_gloom.name=Gloom Statue
-############
+tile.terraria:piggy_bank.name=Piggy Bank
+tile.terraria:statue_mushroom/0.name=Mushroom Statue
+tile.terraria:statue_sunflower.name=Sunflower Statue
+tile.terraria:statue_tree.name=Tree Statue
+tile.terraria:furniture/bookcases/wood.name=Bookcase
+tile.terraria:book.name=Book
+tile.terraria:work_bench_skyware.name=Skyware Work Bench
+tile.terraria:work_bench_marble.name=Marble Work Bench
+tile.terraria:statue_woman.name=Woman Statue
 
-###KEYBOARD###
+##################
+
+
+
+######KEYBOARD######
+
 key.category.terraria=Terraria Craft
 key.terraria.toggle_gravity=Toggle Gravity
 key.hotbar.0=Hotbar Slot 10
 key.terraria.healing=Activate healing potion
 key.terraria.mana=Activate mana potion
 key.terraria.buffs=Activate all buff potions
-##############
 
-###DAMAGE SOURCE DEATH###
+####################
+
+
+
+######DAMAGE SOURCE DEATH######
+
 death.terraria:arrow=%s was shot by %s.
 death.terraria:starfury=%s was killed by %s using Starfury.
 death.terraria:falling_star=%s saw deadly falling star.
 death.terraria:dart_trap=%s became a victim to dart trap.
 death.attack.terraria:thorn_bushes=%s was prickled to death.
+
 #########################
 
-###BUFFS###
+
+
+######BUFFS######
+
 buff.potion_sickness.name=Potion Sickness
 tooltip.terraria:buff.potion_sickness=Can't use any healing items
 
@@ -853,9 +886,13 @@ tooltip.terraria:buff.gravitation=Press %s to reverse gravity
 
 buff.banner.name=Banner
 tooltip.terraria:buff.banner=Increased damage and defense from the following:
-###########
 
-###TOOLTIPS###
+#################
+
+
+
+######TOOLTIPS######
+
 tooltip.terraria:material=Material
 tooltip.terraria:ammo=Ammo
 tooltip.terraria:mana=Mana
@@ -936,9 +973,13 @@ damage.terraria:ranged=%,d ranged damage
 damage.terraria:magic=%,d magic damage
 damage.terraria:summon=%,d summon damage
 damage.terraria:throwing=%,d throwing damage
-##############
 
-###ACHIEVEMENTS###
+####################
+
+
+
+######ACHIEVEMENTS######
+
 achievement.terraria:timber.name=Timber!!
 achievement.terraria:timber.desc=Chop down your first tree.
 
@@ -995,17 +1036,25 @@ achievement.terraria:topped_off.desc=Attain maximum health and mana possible wit
 
 achievement.terraria:you_can_do_it.name=You Can Do It!
 achievement.terraria:you_can_do_it.desc=Survive your character's first full night.
-##################
 
-###MISC###
+########################
+
+
+
+######MISC######
+
 feature.terraria:from_author=From Mod Author
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
 hud.terraria:life=Life: %s
 hud.terraria:mana=Mana
 chat.terraria:defeatenemy=%s has defeated %,d-th %s!
-##########
 
-###ENTITIES###
+################
+
+
+
+######ENTITIES######
+
 entity.terraria:green_slime.name=Green Slime
 entity.terraria:blue_slime.name=Blue Slime
 entity.terraria:baby_slime.name=Baby Slime
@@ -1023,4 +1072,5 @@ entity.terraria:drippler.name=Drippler
 entity.terraria:jungle_slime.name=Jungle Slime
 entity.terraria:eater_of_souls.name=Eater of Souls
 entity.terraria:crimera.name=Crimera
-##############
+
+####################
