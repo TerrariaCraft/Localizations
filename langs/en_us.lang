@@ -411,6 +411,24 @@ item.terraria:armor/jungle/helm.name=Jungle Hat
 item.terraria:armor/jungle/body.name=Jungle Shirt
 item.terraria:armor/jungle/legs.name=Jungle Pants
 item.terraria:vine.name=Vine
+item.terraria:armor/rain/helm.name=Rain Hat
+item.terraria:armor/rain/body.name=Rain Coat
+item.terraria:turtle_shell.name=Turtle Shell
+item.terraria:ancient_cloth.name=Ancient Cloth
+item.terraria:bee_wax.name=Bee Wax
+item.terraria:beetle_husk.name=Beetle Husk
+item.terraria:gold_dust.name=Gold Dust
+item.terraria:ichor.name=Ichor
+item.terraria:empty_bullet.name=Empty Bullet
+item.terraria:forbidden_fragment.name=Forbidden Fragment
+item.terraria:explosive_powder.name=Explosive Powder
+item.terraria:frost_core.name=Frost Core
+item.terraria:armor/snow/helm.name=Snow Hood
+item.terraria:armor/snow/body.name=Snow Coat
+item.terraria:armor/snow/legs.name=Snow Pants
+item.terraria:armor/pink_snow/helm.name=Pink Snow Hood
+item.terraria:armor/pink_snow/body.name=Pink Snow Coat
+item.terraria:armor/pink_snow/legs.name=Pink Snow Pants
 
 #################
 
@@ -792,6 +810,13 @@ tile.terraria:lavafly_in_a_bottle.name=Lavafly in a Bottle
 tile.terraria:work_benches/mushroom.name=Mushroom Work Bench
 tile.terraria:work_benches/spooky.name=Spooky Work Bench
 tile.terraria:work_benches/obsidian.name=Obsidian Work Bench
+tile.terraria:furniture/tables/granite.name=Granite Table
+tile.terraria:furniture/tables/marble.name=Marble Table
+tile.terraria:furniture/doors/flesh.name=Flesh Door
+tile.terraria:furniture/doors/iron.name=Iron Door
+tile.terraria:furniture/doors/lead.name=Lead Door
+tile.terraria:furniture/doors/marble.name=Marble Door
+tile.terraria:furniture/doors/rich_mahogany.name=Rich Mahogany Door
 
 ##################
 
@@ -963,6 +988,8 @@ tooltip.terraria:guide_to_plant_fiber_cordage=Allows the collection of Vine Rope
 tooltip.terraria:rope_item=Can be climbed on
 tooltip.terraria:blindfold=Immunity to Darkness
 tooltip.terraria:rotten_chunk=Looks tasty!
+tooltip.terraria:ichor=The blood of gods
+tooltip.terraria:empty_bullet=Used to craft various types of ammo
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed
