@@ -818,6 +818,9 @@ tile.terraria:furniture/doors/lead.name=Lead Door
 tile.terraria:furniture/doors/marble.name=Marble Door
 tile.terraria:furniture/doors/rich_mahogany.name=Rich Mahogany Door
 tile.terraria:furniture/bookcases/slime.name=Slime Bookcase
+tile.terraria:furniture/bookcases/shadewood.name=Shadewood Bookcase
+tile.terraria:furniture/bookcases/blue_dungeon.name=Blue Dungeon Bookcase
+tile.terraria:statues/armed_zombie.name=Armed Zombie Statue
 
 ##################
 

@@ -1,3 +1,4 @@
+
 itemGroup.terraria:items=Terraria Craft: Objetos
 itemGroup.terraria:tools=Terraria Craft: Herramientas
 itemGroup.terraria:weapons=Terraria Craft: Armas
@@ -35,7 +36,8 @@ jei.terraria.table_chair_around=Mesa y silla
 mccue.trigger.terraria:crafting.name=Elaboración
 mccue.trigger.terraria:crafting.if=objeto elaborado
 
-###ITEMS###
+######ITEMS######
+
 item.terraria:whoopie_cushion.name=Cojín flatulento
 item.terraria:iron_ingot.name=Lingote de hierro
 item.terraria:gold_ingot.name=Lingote de oro
@@ -334,16 +336,113 @@ item.terraria:blindfold.name=Venda
 item.terraria:dev_rainbow_sword.name=Espada del Orgullo
 item.terraria:rotten_chunk.name=Trozo Putrefacto
 item.terraria:leather.name=Cuero
-item.terraria:vertebrae.name=Vértebras
-###########
+item.terraria:vertebra.name=Vértebras
+item.terraria:armor/copper/helm.name=Copper Helmet
+item.terraria:armor/copper/body.name=Copper Chainmail
+item.terraria:armor/copper/legs.name=Copper Greaves
+item.terraria:armor/tin/helm.name=Tin Helmet
+item.terraria:armor/tin/body.name=Tin Chainmail
+item.terraria:armor/tin/legs.name=Tin Greaves
+item.terraria:armor/iron/helm.name=Iron Helmet
+item.terraria:armor/iron/body.name=Iron Chainmail
+item.terraria:armor/iron/legs.name=Iron Greaves
+item.terraria:armor/iron/helm_ancient.name=Ancient Iron Helmet
+item.terraria:armor/ancient_shadow/helm.name=Ancient Shadow Helmet
+item.terraria:armor/ancient_shadow/body.name=Ancient Shadow Scalemail
+item.terraria:armor/ancient_shadow/legs.name=Ancient Shadow Greaves
+item.terraria:armor/lead/helm.name=Lead Helmet
+item.terraria:armor/lead/body.name=Lead Chainmail
+item.terraria:armor/lead/legs.name=Lead Greaves
+item.terraria:armor/silver/helm.name=Silver Helmet
+item.terraria:armor/silver/body.name=Silver Chainmail
+item.terraria:armor/silver/legs.name=Silver Greaves
+item.terraria:armor/gold/helm.name=Gold Helmet
+item.terraria:armor/gold/body.name=Gold Chainmail
+item.terraria:armor/gold/legs.name=Gold Greaves
+item.terraria:armor/gold/helm_ancient.name=Ancient Gold Helmet
+item.terraria:armor/platinum/helm.name=Platinum Helmet
+item.terraria:armor/platinum/body.name=Platinum Chainmail
+item.terraria:armor/platinum/legs.name=Platinum Greaves
+item.terraria:armor/molten/helm.name=Molten Helmet
+item.terraria:armor/molten/body.name=Molten Breastplate
+item.terraria:armor/molten/legs.name=Molten Greaves
+item.terraria:armor/dev_ashryman/helm.name=Ashryman's Helm of Infamy
+item.terraria:armor/dev_ashryman/body.name=Ashryman's Chest of Valor
+item.terraria:armor/dev_ashryman/legs.name=Ashryman's Boots of Triumph
+item.terraria:armor/dev_ashryman.desc=Once worn by a hero consumed by the spirits of darkness
+item.terraria:wings/dev_ashryman.name=Ashryman's Wings of Glory
+item.terraria:armor/boreal_wood/helm.name=Boreal Wood Helmet
+item.terraria:armor/boreal_wood/body.name=Boreal Wood Breastplate
+item.terraria:armor/boreal_wood/legs.name=Boreal Wood Greaves
+item.terraria:armor/palm_wood/helm.name=Palm Wood Helmet
+item.terraria:armor/palm_wood/body.name=Palm Wood Breastplate
+item.terraria:armor/palm_wood/legs.name=Palm Wood Greaves
+item.terraria:armor/ebonwood/helm.name=Ebonwood Helmet
+item.terraria:armor/ebonwood/body.name=Ebonwood Breastplate
+item.terraria:armor/ebonwood/legs.name=Ebonwood Greaves
+item.terraria:armor/shadewood/helm.name=Shadewood Helmet
+item.terraria:armor/shadewood/body.name=Shadewood Breastplate
+item.terraria:armor/shadewood/legs.name=Shadewood Greaves
+item.terraria:tools/sword_dev_ashryman.name=The Last Wish
+item.terraria:potions/gravitation.name=Gravitation Potion
+item.terraria:armor/shadow/helm.name=Shadow Helmet
+item.terraria:armor/shadow/body.name=Shadow Scalemail
+item.terraria:armor/shadow/legs.name=Shadow Greaves
+item.terraria:tools/axe_iron.name=Iron Axe
+item.terraria:tools/axe_demonite.name=War Axe of the Night
+item.terraria:tools/axe_crimtane.name=Blood Lust Cluster
+item.terraria:armor/ninja/helm.name=Ninja Hood
+item.terraria:armor/ninja/body.name=Ninja Shirt
+item.terraria:armor/ninja/legs.name=Ninja Pants
+item.terraria:armor/ninja/helm.tooltip=15%% increased throwing velocity
+item.terraria:armor/ninja/body.tooltip=15%% increased throwing damage
+item.terraria:armor/ninja/legs.tooltip=10%% increased throwing critical strike chance
+item.terraria:armor/ancient_cobalt/helm.name=Ancient Cobalt Helmet
+item.terraria:armor/ancient_cobalt/body.name=Ancient Cobalt Breastplate
+item.terraria:armor/ancient_cobalt/legs.name=Ancient Cobalt Leggings
+item.terraria:armor/ancient_cobalt/helm.tooltip=Increases maximum mana by 40</br>4%% increased magic critical strike chance
+item.terraria:armor/ancient_cobalt/body.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
+item.terraria:armor/ancient_cobalt/legs.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
+item.terraria:undertaker.name=The Undertaker
+item.terraria:armor/gladiator/helm.name=Gladiator Helmet
+item.terraria:armor/gladiator/body.name=Gladiator Breastplate
+item.terraria:armor/gladiator/legs.name=Gladiator Leggings
+item.terraria:armor/jungle/helm.name=Jungle Hat
+item.terraria:armor/jungle/body.name=Jungle Shirt
+item.terraria:armor/jungle/legs.name=Jungle Pants
+item.terraria:vine.name=Vine
+item.terraria:armor/rain/helm.name=Rain Hat
+item.terraria:armor/rain/body.name=Rain Coat
+item.terraria:turtle_shell.name=Turtle Shell
+item.terraria:ancient_cloth.name=Ancient Cloth
+item.terraria:bee_wax.name=Bee Wax
+item.terraria:beetle_husk.name=Beetle Husk
+item.terraria:gold_dust.name=Gold Dust
+item.terraria:ichor.name=Ichor
+item.terraria:empty_bullet.name=Empty Bullet
+item.terraria:forbidden_fragment.name=Forbidden Fragment
+item.terraria:explosive_powder.name=Explosive Powder
+item.terraria:frost_core.name=Frost Core
+item.terraria:armor/snow/helm.name=Snow Hood
+item.terraria:armor/snow/body.name=Snow Coat
+item.terraria:armor/snow/legs.name=Snow Pants
+item.terraria:armor/pink_snow/helm.name=Pink Snow Hood
+item.terraria:armor/pink_snow/body.name=Pink Snow Coat
+item.terraria:armor/pink_snow/legs.name=Pink Snow Pants
 
-###ARMOR BONUSES###
-setbonus.terraria:wooden=1 defensa
+#################
+
+######ARMOR BONUSES######
+
+setbonus.terraria:defense=%,d defense
 setbonus.terraria:mining=30%% velocidad de minería intensificada
-setbonus.terraria:tungsten=3 defensa
-###################
+setbonus.terraria:extra_melee_damage=%,d%% extra melee damage
+setbonus.terraria:no_consume_thrown=%,d%% chance to not consume thrown item
 
-###BLOCKS###
+#########################
+
+######BLOCKS######
+
 tile.terraria:redstone_tranciever.name=Transcriptor de Redstone
 
 tile.terraria:work_benches/wood.name=Mesa de Elaboración
@@ -674,26 +773,86 @@ tile.terraria:statues/drippler.name=Estatua de Goteador
 tile.terraria:statues/hornet.name=Estatua de Avispón
 tile.terraria:lever.name=Palanca
 tile.terraria:flesh_cloning_vat.name=Cubo de Clonación de Carne
-############
+tile.terraria:statues/corrupt.name=Corrupt Statue
+tile.terraria:statues/axe.name=Axe Statue
+tile.terraria:statues/bow.name=Bow Statue
+tile.terraria:statues/boomerang.name=Boomerang Statue
+tile.terraria:statues/hammer.name=Hammer Statue
+tile.terraria:statues/pickaxe.name=Pickaxe Statue
+tile.terraria:statues/potion.name=Potion Statue
+tile.terraria:statues/shield.name=Shield Statue
+tile.terraria:statues/spear.name=Spear Statue
+tile.terraria:statues/sword.name=Sword Statue
+tile.terraria:banners/green_slime.name=Green Slime Banner
+tile.terraria:banners/blue_slime.name=Blue Slime Banner
+tile.terraria:banners/purple_slime.name=Purple Slime Banner
+tile.terraria:banners/red_slime.name=Red Slime Banner
+tile.terraria:banners/yellow_slime.name=Yellow Slime Banner
+tile.terraria:banners/black_slime.name=Black Slime Banner
+tile.terraria:banners/pinky.name=Pinky Banner
+tile.terraria:banners/jungle_slime.name=Jungle Slime Banner
+tile.terraria:statues/boot.name=Boot Statue
+tile.terraria:banners/demon_eye.name=Demon Eye Banner
+tile.terraria:statues/eyeball.name=Eyeball Statue
+tile.terraria:statues/gloom.name=Gloom Statue
+tile.terraria:piggy_bank.name=Piggy Bank
+tile.terraria:statues/mushroom/0.name=Mushroom Statue
+tile.terraria:statues/sunflower.name=Sunflower Statue
+tile.terraria:statues/tree.name=Tree Statue
+tile.terraria:furniture/bookcases/wood.name=Bookcase
+tile.terraria:book.name=Book
+tile.terraria:work_benches/skyware.name=Skyware Work Bench
+tile.terraria:work_benches/marble.name=Marble Work Bench
+tile.terraria:statues/woman.name=Woman Statue
+tile.terraria:furniture/bookcases/dynasty.name=Dynasty Bookcase
+tile.terraria:statues/hoplite.name=Hoplite Statue
+tile.terraria:lavafly_in_a_bottle.name=Lavafly in a Bottle
+tile.terraria:work_benches/mushroom.name=Mushroom Work Bench
+tile.terraria:work_benches/spooky.name=Spooky Work Bench
+tile.terraria:work_benches/obsidian.name=Obsidian Work Bench
+tile.terraria:furniture/tables/granite.name=Granite Table
+tile.terraria:furniture/tables/marble.name=Marble Table
+tile.terraria:furniture/doors/flesh.name=Flesh Door
+tile.terraria:furniture/doors/iron.name=Iron Door
+tile.terraria:furniture/doors/lead.name=Lead Door
+tile.terraria:furniture/doors/marble.name=Marble Door
+tile.terraria:furniture/doors/rich_mahogany.name=Rich Mahogany Door
+tile.terraria:furniture/bookcases/slime.name=Slime Bookcase
+tile.terraria:furniture/bookcases/shadewood.name=Shadewood Bookcase
+tile.terraria:furniture/bookcases/blue_dungeon.name=Blue Dungeon Bookcase
+tile.terraria:statues/armed_zombie.name=Armed Zombie Statue
 
-###KEYBOARD###
+##################
+
+
+
+######KEYBOARD######
+
 key.category.terraria=Terraria Craft
-key.terraria.open_inv=Abrir Inventario de Terraria
+key.terraria.toggle_gravity=Toggle Gravity
 key.hotbar.0=Hotbar Slot 10
 key.terraria.healing=Activaa regeneración de vida por pociones
 key.terraria.mana=Activa regeneración de maná por pociones
 key.terraria.buffs=Activa todas las pociones de bufos
-##############
 
-###DAMAGE SOURCE DEATH###
+####################
+
+
+
+######DAMAGE SOURCE DEATH######
+
 death.terraria:arrow=%s fue disparado por %s.
 death.terraria:starfury=%s falleció a causa de %s usando Furia Estelar.
 death.terraria:falling_star=%s falleció contemplando una estrella caída.
 death.terraria:dart_trap=%s fue víctima de una trampa de dardos.
 death.attack.terraria:thorn_bushes=%s fue pinchado hasta la muerte.
+
 #########################
 
-###BUFFS###
+
+
+######BUFFS######
+
 buff.potion_sickness.name=Antipociones
 tooltip.terraria:buff.potion_sickness=No permite usar ninguna poción de regeneración
 
@@ -756,9 +915,19 @@ tooltip.terraria:buff.clairvoyance=Los poderes mágicos han incrementado
 
 buff.darkness.name=Oscuridad
 tooltip.terraria:buff.darkness=Reducida la visión de luz
-###########
 
-###TOOLTIPS###
+buff.gravitation.name=Gravitation
+tooltip.terraria:buff.gravitation=Press %s to reverse gravity
+
+buff.banner.name=Banner
+tooltip.terraria:buff.banner=Increased damage and defense from the following:
+
+#################
+
+
+
+######TOOLTIPS######
+
 tooltip.terraria:material=Material
 tooltip.terraria:ammo=Munición
 tooltip.terraria:mana=Maná
@@ -810,6 +979,8 @@ tooltip.terraria:campfire=La vida se regenera cerca de la hoguera
 tooltip.terraria:dev_jae_glock=¡Mejor valorados en las escuelas de todo el mundo!
 tooltip.terraria:vanity_item=Objeto de Vanidad
 tooltip.terraria:rctoopen=Click derecho para abrir
+tooltip.terraria:debug_item=Debug Item
+tooltip.terraria:gravity_control=[WIP] Allows the control of gravity
 
 tooltip.terraria:star_cannon=Dispara estrellas
 tooltip.terraria:cursed_flame=Ni la agua te puede extinguir el fuego
@@ -821,6 +992,12 @@ tooltip.terraria:guide_to_plant_fiber_cordage=Permite la colecta de cuerda de la
 tooltip.terraria:rope_item=Puede ser escalado
 tooltip.terraria:blindfold=Inmune a la oscuridad
 tooltip.terraria:rotten_chunk=¡Parece sabroso!
+tooltip.terraria:ichor=The blood of gods
+tooltip.terraria:empty_bullet=Used to craft various types of ammo
+
+tooltip.terraria:armor/dev_jae/helm=jar.
+tooltip.terraria:armor/dev_jae/body=need oxygen
+tooltip.terraria:armor/dev_jae/legs=yes, very
 
 speed.terraria:insanely_fast=Velocidad Insanamente Rápida
 speed.terraria:very_fast=Velocidad muy Rápida
@@ -837,9 +1014,13 @@ damage.terraria:ranged=%,d daño a distancia
 damage.terraria:magic=%,d daño mágico
 damage.terraria:summon=%,d daño provocado
 damage.terraria:throwing=%,d daño de lanzamiento
-##############
 
-###ACHIEVEMENTS###
+####################
+
+
+
+######ACHIEVEMENTS######
+
 achievement.terraria:timber.name=¡A talar!
 achievement.terraria:timber.desc=Tala tu primer árbol. 
 
@@ -896,16 +1077,25 @@ achievement.terraria:topped_off.desc=Alcanza el máximo de vida y mana sin acces
 
 achievement.terraria:you_can_do_it.name=¡Tú puedes!
 achievement.terraria:you_can_do_it.desc=Sobrevive toda una noche.
-##################
 
-###MISC###
+########################
+
+
+
+######MISC######
+
 feature.terraria:from_author=Original del mod
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
 hud.terraria:life=Vida: %s
-hud.terraria:Maná=Mana
-##########
+hud.terraria:mana=Mana
+chat.terraria:defeatenemy=%s has defeated %,d-th %s!
 
-###ENTITIES###
+################
+
+
+
+######ENTITIES######
+
 entity.terraria:green_slime.name=Slime Verde
 entity.terraria:blue_slime.name=Slime Azul
 entity.terraria:baby_slime.name=Slime bebé
@@ -923,4 +1113,5 @@ entity.terraria:drippler.name=Goteador
 entity.terraria:jungle_slime.name=Slime de Jungla
 entity.terraria:eater_of_souls.name=Devoraalmas
 entity.terraria:crimera.name=Carmebicho
-##############
+
+####################
