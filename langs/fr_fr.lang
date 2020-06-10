@@ -665,7 +665,7 @@ tile.terraria:slime_lantern.name=Lanterne en gelée
 tile.terraria:wood/spooky.name=Bois sinistre
 tile.terraria:lihzahrd_furnace.name=Four de lihzahrd
 tile.terraria:steampunk_lantern.name=Lanterne steampunk
-tile.terraria:campfire.name=Feu de camp
+tile.terraria:campfires/wood.name=Feu de camp
 tile.terraria:lamp_post.name=Lampadaire
 tile.terraria:pots/general.name=Pot
 tile.terraria:cobweb.name=Toile d'araignée
@@ -817,6 +817,7 @@ tile.terraria:furniture/doors/iron.name=Iron Door
 tile.terraria:furniture/doors/lead.name=Lead Door
 tile.terraria:furniture/doors/marble.name=Marble Door
 tile.terraria:furniture/doors/rich_mahogany.name=Rich Mahogany Door
+tile.terraria:furniture/bookcases/slime.name=Slime Bookcase
 
 ##################
 
@@ -990,6 +991,10 @@ tooltip.terraria:blindfold=Immunité aux ténèbres
 tooltip.terraria:rotten_chunk=Ça a l'air délicieux !
 tooltip.terraria:ichor=The blood of gods
 tooltip.terraria:empty_bullet=Used to craft various types of ammo
+
+tooltip.terraria:armor/dev_jae/helm=jar.
+tooltip.terraria:armor/dev_jae/body=need oxygen
+tooltip.terraria:armor/dev_jae/legs=yes, very
 
 speed.terraria:insanely_fast=Vitesse incroyablement rapide
 speed.terraria:very_fast=Vitesse très rapide

@@ -259,9 +259,9 @@ item.terraria:wings/dev_ganza.name=Ganza's Wings
 item.terraria:space_gun.name=Space Gun
 item.terraria:potions/magic_power.name=Magic Power Potion
 item.terraria:dev_jae_glock.name=Jae's Glock
-item.terraria:armor/dev_jae/helm.name=Jae's Helmet
-item.terraria:armor/dev_jae/body.name=Jae's Breastplate
-item.terraria:armor/dev_jae/legs.name=Jae's Leggings
+item.terraria:armor/dev_jae/helm.name=Jar's Jar
+item.terraria:armor/dev_jae/body.name=Jar's Cosmic Suit
+item.terraria:armor/dev_jae/legs.name=Jar's Cosmic Leggings
 item.terraria:tools/sword_wooden.name=Wooden Sword
 item.terraria:tools/sword_boreal.name=Boreal Wood Sword
 item.terraria:tools/sword_palm.name=Palm Wood Sword
@@ -280,7 +280,7 @@ item.terraria:tools/sword_night_edge.name=Night's Edge
 item.terraria:armor/dev_zeith/helm.name=Zeith's Headsuit
 item.terraria:armor/dev_zeith/body.name=Zeith's Bodysuit
 item.terraria:armor/dev_zeith/legs.name=Zeith's Feetpaws
-item.terraria:armor/dev_zeith.desc=Oh no, a furfag!
+item.terraria:armor/dev_zeith.desc=Oh no, a furry!
 item.terraria:star_cannon.name=Star Cannon
 item.terraria:musket_ball.name=Musket Ball
 item.terraria:minishark.name=Minishark
@@ -665,7 +665,7 @@ tile.terraria:slime_lantern.name=Slime Lantern
 tile.terraria:wood/spooky.name=Spooky Wood
 tile.terraria:lihzahrd_furnace.name=Lihzahrd Furnace
 tile.terraria:steampunk_lantern.name=Steampunk Lantern
-tile.terraria:campfire.name=Campfire
+tile.terraria:campfires/wood.name=Campfire
 tile.terraria:lamp_post.name=Lamp Post
 tile.terraria:pots/general.name=Pot
 tile.terraria:cobweb.name=Cobweb
@@ -817,6 +817,10 @@ tile.terraria:furniture/doors/iron.name=Iron Door
 tile.terraria:furniture/doors/lead.name=Lead Door
 tile.terraria:furniture/doors/marble.name=Marble Door
 tile.terraria:furniture/doors/rich_mahogany.name=Rich Mahogany Door
+tile.terraria:furniture/bookcases/slime.name=Slime Bookcase
+tile.terraria:furniture/bookcases/shadewood.name=Shadewood Bookcase
+tile.terraria:furniture/bookcases/blue_dungeon.name=Blue Dungeon Bookcase
+tile.terraria:statues/armed_zombie.name=Armed Zombie Statue
 
 ##################
 
@@ -990,6 +994,10 @@ tooltip.terraria:blindfold=Immunity to Darkness
 tooltip.terraria:rotten_chunk=Looks tasty!
 tooltip.terraria:ichor=The blood of gods
 tooltip.terraria:empty_bullet=Used to craft various types of ammo
+
+tooltip.terraria:armor/dev_jae/helm=jar.
+tooltip.terraria:armor/dev_jae/body=need oxygen
+tooltip.terraria:armor/dev_jae/legs=yes, very
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed

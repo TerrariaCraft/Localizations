@@ -280,7 +280,7 @@ item.terraria:tools/sword_night_edge.name=Грань ночи
 item.terraria:armor/dev_zeith/helm.name=Zeith's Headsuit
 item.terraria:armor/dev_zeith/body.name=Zeith's Bodysuit
 item.terraria:armor/dev_zeith/legs.name=Zeith's Feetpaws
-item.terraria:armor/dev_zeith.desc=О нет, фурфаг!
+item.terraria:armor/dev_zeith.desc=О нет, фурри!
 item.terraria:star_cannon.name=Звёдная пушка
 item.terraria:musket_ball.name=Musket Ball
 item.terraria:minishark.name=Minishark
@@ -665,7 +665,7 @@ tile.terraria:slime_lantern.name=Slime Lantern
 tile.terraria:wood/spooky.name=Страшная древесина
 tile.terraria:lihzahrd_furnace.name=Печь ящщеров
 tile.terraria:steampunk_lantern.name=Steampunk Lantern
-tile.terraria:campfire.name=Campfire
+tile.terraria:campfires/wood.name=Campfire
 tile.terraria:lamp_post.name=Фонарный столб
 tile.terraria:pots/general.name=Горшок
 tile.terraria:cobweb.name=Паутина
@@ -817,6 +817,7 @@ tile.terraria:furniture/doors/iron.name=Iron Door
 tile.terraria:furniture/doors/lead.name=Lead Door
 tile.terraria:furniture/doors/marble.name=Marble Door
 tile.terraria:furniture/doors/rich_mahogany.name=Rich Mahogany Door
+tile.terraria:furniture/bookcases/slime.name=Slime Bookcase
 
 ##################
 
@@ -990,6 +991,10 @@ tooltip.terraria:blindfold=Immunity to Darkness
 tooltip.terraria:rotten_chunk=Looks tasty!
 tooltip.terraria:ichor=The blood of gods
 tooltip.terraria:empty_bullet=Used to craft various types of ammo
+
+tooltip.terraria:armor/dev_jae/helm=jar.
+tooltip.terraria:armor/dev_jae/body=need oxygen
+tooltip.terraria:armor/dev_jae/legs=yes, very
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed
