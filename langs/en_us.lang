@@ -17,9 +17,11 @@ gui.terraria:changeexpert=Expert Mode: %s
 gui.terraria:on=ON
 gui.terraria:off=OFF
 
+worldsize.terraria:tiny=Tiny
 worldsize.terraria:small=Small
 worldsize.terraria:medium=Medium
 worldsize.terraria:large=Large
+worldsize.terraria:humongous=Humongous
 
 jei.terraria.supercrafting=Terraria Crafting
 jei.terraria.block_around=<B>
@@ -429,6 +431,9 @@ item.terraria:armor/snow/legs.name=Snow Pants
 item.terraria:armor/pink_snow/helm.name=Pink Snow Hood
 item.terraria:armor/pink_snow/body.name=Pink Snow Coat
 item.terraria:armor/pink_snow/legs.name=Pink Snow Pants
+item.terraria:bloody_tear.name=Bloody Tear
+item.terraria:solar_tablet_fragment.name=Solar Tablet Fragment
+item.terraria:solar_tablet.name=Solar Tablet
 
 #################
 
@@ -821,6 +826,13 @@ tile.terraria:furniture/bookcases/slime.name=Slime Bookcase
 tile.terraria:furniture/bookcases/shadewood.name=Shadewood Bookcase
 tile.terraria:furniture/bookcases/blue_dungeon.name=Blue Dungeon Bookcase
 tile.terraria:statues/armed_zombie.name=Armed Zombie Statue
+tile.terraria:keg.name=Keg
+tile.terraria:statues/firefly.name=Firefly Statue
+tile.terraria:statues/angel.name=Angel Statue
+tile.terraria:statues/gargoyle.name=Gargoyle Statue
+tile.terraria:furniture/tables/martian.name=Martian Table
+tile.terraria:furniture/bookcases/cactus.name=Cactus Bookcase
+tile.terraria:statues/reaper.name=Reaper Statue
 
 ##################
 
@@ -981,6 +993,8 @@ tooltip.terraria:vanity_item=Vanity Item
 tooltip.terraria:rctoopen=Right click to open
 tooltip.terraria:debug_item=Debug Item
 tooltip.terraria:gravity_control=[WIP] Allows the control of gravity
+tooltip.terraria:bloody_tear=What a horrible night to have a curse.
+tooltip.terraria:solar_tablet=Summons the Eclipse
 
 tooltip.terraria:star_cannon=Shoots fallen stars
 tooltip.terraria:cursed_flame=Not even water can put the flame out
