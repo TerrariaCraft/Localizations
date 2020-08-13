@@ -69,8 +69,8 @@ item.terraria:silver_coin.name=银币
 item.terraria:gold_coin.name=金币
 item.terraria:platinum_coin.name=铂金币
 item.terraria:mana_crystal.name=魔力水晶
-item.terraria:game_obj/mana_star.name=Mana Star
-item.terraria:game_obj/heart.name=Heart
+item.terraria:game_obj/mana_star.name=魔力之星
+item.terraria:game_obj/heart.name=心
 item.terraria:flower_of_fire.name=火之花
 item.terraria:band_regen.name=再生手环
 item.terraria:band_starpower.name=星力手环
@@ -431,9 +431,9 @@ item.terraria:armor/snow/legs.name=雪原裤装
 item.terraria:armor/pink_snow/helm.name=粉雪原兜帽
 item.terraria:armor/pink_snow/body.name=粉雪原外衣
 item.terraria:armor/pink_snow/legs.name=粉雪原裤装
-item.terraria:bloody_tear.name=Bloody Tear
-item.terraria:solar_tablet_fragment.name=Solar Tablet Fragment
-item.terraria:solar_tablet.name=Solar Tablet
+item.terraria:bloody_tear.name=血泪
+item.terraria:solar_tablet_fragment.name=日耀碑牌碎片
+item.terraria:solar_tablet.name=日耀碑牌
 item.terraria:holy_hand_grenade.name=神圣手榴弹
 
 #################
@@ -451,11 +451,11 @@ setbonus.terraria:no_consume_thrown=%,d%%的几率不消耗投掷类物品
 
 tile.terraria:redstone_tranciever.name=红石能量收发器
 
-tile.terraria:work_benches/wood.name=Work Bench
+tile.terraria:work_benches/wood.name=工作台
 tile.terraria:clay_pot.name=粘土盆
 tile.terraria:empty_bottle.name=玻璃瓶
 tile.terraria:furnace.name=熔炉
-tile.terraria:torches/_.name=Torch
+tile.terraria:torches/_.name=火把
 tile.terraria:pressure_plate_blue.name=蓝压力板
 tile.terraria:pressure_plate_brown.name=棕压力板
 tile.terraria:pressure_plate_gray.name=灰压力板
@@ -471,8 +471,8 @@ tile.terraria:plants/fireblossom.name=火焰花种子
 tile.terraria:plants/daybloom.name=太阳花种子
 tile.terraria:mushroom.name=蘑菇
 tile.terraria:glowing_mushroom.name=发光蘑菇
-tile.terraria:statues/heart.name=Heart Statue
-tile.terraria:statues/star.name=Star Statue
+tile.terraria:statues/heart.name=心形雕像
+tile.terraria:statues/star.name=星星雕像
 tile.terraria:alchemical_station.name=炼金站
 tile.terraria:crystal_shard.name=水晶碎块
 tile.terraria:wooden_crate.name=木匣
@@ -485,7 +485,7 @@ tile.terraria:dirt.name=土块
 tile.terraria:stone.name=石块
 tile.terraria:hellforge.name=地狱熔炉
 tile.terraria:adamantite_forge.name=精金熔炉
-tile.terraria:statues/slime.name=Slime Statue
+tile.terraria:statues/slime.name=史莱姆雕像
 tile.terraria:titanium_forge.name=钛金熔炉
 tile.terraria:dart_trap.name=飞镖机关
 tile.terraria:iron_anvil.name=铁砧
@@ -513,7 +513,7 @@ tile.terraria:ore/luminite.name=夜明矿
 tile.terraria:ore/orichalcum.name=山铜矿
 tile.terraria:ore/palladium.name=钯金矿
 tile.terraria:ore/titanium.name=钛金矿
-tile.terraria:obsidian.name=Obsidian
+tile.terraria:obsidian.name=黑曜石
 tile.terraria:ash.name=灰烬块
 tile.terraria:clay.name=粘土块
 tile.terraria:sand.name=沙块
@@ -638,7 +638,7 @@ tile.terraria:furniture/doors/ebonwood.name=乌木门
 tile.terraria:star_in_a_bottle.name=星星瓶
 tile.terraria:glass_kiln.name=玻璃窑
 tile.terraria:ebonwood_lantern.name=乌木灯笼
-tile.terraria:furniture/doors/livingwood.name=生命木们
+tile.terraria:furniture/doors/livingwood.name=生命木门
 tile.terraria:furniture/doors/mushroom.name=蘑菇门
 tile.terraria:furniture/doors/skyware.name=天域门
 tile.terraria:furniture/doors/pumpkin.name=南瓜门
@@ -827,18 +827,18 @@ tile.terraria:furniture/bookcases/slime.name=史莱姆书架
 tile.terraria:furniture/bookcases/shadewood.name=暗影木书架
 tile.terraria:furniture/bookcases/blue_dungeon.name=蓝地牢书架
 tile.terraria:statues/armed_zombie.name=武装僵尸雕像
-tile.terraria:keg.name=Keg
-tile.terraria:statues/firefly.name=Firefly Statue
-tile.terraria:statues/angel.name=Angel Statue
-tile.terraria:statues/gargoyle.name=Gargoyle Statue
-tile.terraria:furniture/tables/martian.name=Martian Table
-tile.terraria:furniture/bookcases/cactus.name=Cactus Bookcase
-tile.terraria:statues/reaper.name=Reaper Statue
-tile.terraria:furniture/bookcases/living_wood.name=Living Wood Bookcase
-tile.terraria:graves/cross_grave_marker.name=Cross Grave Marker
-tile.terraria:graves/gravestone.name=Gravestone
-tile.terraria:graves/tombstone.name=Tombstone
-tile.terraria:graves/headstone.name=Headstone
+tile.terraria:keg.name=酒桶
+tile.terraria:statues/firefly.name=萤火虫雕像
+tile.terraria:statues/angel.name=天使雕像
+tile.terraria:statues/gargoyle.name=石像鬼雕像
+tile.terraria:furniture/tables/martian.name=火星桌
+tile.terraria:furniture/bookcases/cactus.name=仙人掌书架
+tile.terraria:statues/reaper.name=死神雕像
+tile.terraria:furniture/bookcases/living_wood.name=生命木书架
+tile.terraria:graves/cross_grave_marker.name=十字墓石碑
+tile.terraria:graves/gravestone.name=墓碑
+tile.terraria:graves/tombstone.name=墓石
+tile.terraria:graves/headstone.name=碑石
 
 ##################
 
@@ -1000,7 +1000,7 @@ tooltip.terraria:rctoopen=右击以开启
 tooltip.terraria:debug_item=调试物品
 tooltip.terraria:gravity_control=[WIP] 可控制重力
 tooltip.terraria:bloody_tear=What a horrible night to have a curse.
-tooltip.terraria:solar_tablet=Summons the Eclipse
+tooltip.terraria:solar_tablet=召唤日食
 tooltip.terraria:holy_hand_grenade=上帝的选择
 
 tooltip.terraria:star_cannon=射出坠落之星
@@ -1117,18 +1117,18 @@ chat.terraria:defeatenemy=%s 击败了 %,d-th %s!
 
 ######BIOMES######
 
-tbiome.terraria:corruption=Corruption
-tbiome.terraria:crimson=Crimson
-tbiome.terraria:desert=Desert
-tbiome.terraria:forest=Forest
-tbiome.terraria:graveyard=Graveyard
-tbiome.terraria:jungle=Jungle
-tbiome.terraria:meteorite=Meteorite
-tbiome.terraria:mushroom=Mushroom
-tbiome.terraria:ocean=Ocean
-tbiome.terraria:snow=Snow
-tbiome.terraria:space=Space
-tbiome.terraria:underworld=Underworld
+tbiome.terraria:corruption=腐化之地
+tbiome.terraria:crimson=猩红之地
+tbiome.terraria:desert=沙漠
+tbiome.terraria:forest=森林
+tbiome.terraria:graveyard=墓地
+tbiome.terraria:jungle=丛林
+tbiome.terraria:meteorite=陨石
+tbiome.terraria:mushroom=蘑菇
+tbiome.terraria:ocean=海洋
+tbiome.terraria:snow=雪原
+tbiome.terraria:space=太空
+tbiome.terraria:underworld=地狱
 
 ##################
 
