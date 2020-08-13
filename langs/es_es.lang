@@ -434,6 +434,7 @@ item.terraria:armor/pink_snow/legs.name=Pink Snow Pants
 item.terraria:bloody_tear.name=Bloody Tear
 item.terraria:solar_tablet_fragment.name=Solar Tablet Fragment
 item.terraria:solar_tablet.name=Solar Tablet
+item.terraria:holy_hand_grenade.name=Holy Hand Grenade
 
 #################
 
@@ -833,6 +834,11 @@ tile.terraria:statues/gargoyle.name=Gargoyle Statue
 tile.terraria:furniture/tables/martian.name=Martian Table
 tile.terraria:furniture/bookcases/cactus.name=Cactus Bookcase
 tile.terraria:statues/reaper.name=Reaper Statue
+tile.terraria:furniture/bookcases/living_wood.name=Living Wood Bookcase
+tile.terraria:graves/cross_grave_marker.name=Cross Grave Marker
+tile.terraria:graves/gravestone.name=Gravestone
+tile.terraria:graves/tombstone.name=Tombstone
+tile.terraria:graves/headstone.name=Headstone
 
 ##################
 
@@ -995,6 +1001,7 @@ tooltip.terraria:debug_item=Debug Item
 tooltip.terraria:gravity_control=[WIP] Allows the control of gravity
 tooltip.terraria:bloody_tear=What a horrible night to have a curse.
 tooltip.terraria:solar_tablet=Summons the Eclipse
+tooltip.terraria:holy_hand_grenade=The Lord's chosen weapon
 
 tooltip.terraria:star_cannon=Dispara estrellas
 tooltip.terraria:cursed_flame=Ni la agua te puede extinguir el fuego
@@ -1105,6 +1112,25 @@ hud.terraria:mana=Mana
 chat.terraria:defeatenemy=%s has defeated %,d-th %s!
 
 ################
+
+
+
+######BIOMES######
+
+tbiome.terraria:corruption=Corruption
+tbiome.terraria:crimson=Crimson
+tbiome.terraria:desert=Desert
+tbiome.terraria:forest=Forest
+tbiome.terraria:graveyard=Graveyard
+tbiome.terraria:jungle=Jungle
+tbiome.terraria:meteorite=Meteorite
+tbiome.terraria:mushroom=Mushroom
+tbiome.terraria:ocean=Ocean
+tbiome.terraria:snow=Snow
+tbiome.terraria:space=Space
+tbiome.terraria:underworld=Underworld
+
+##################
 
 
 
