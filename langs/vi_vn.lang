@@ -13,7 +13,7 @@ deathScreen.title.terraria=Bạn đã bị giết.....
 
 gui.terraria:changecurse=Đổi lời nguyền của thế giới
 gui.terraria:world_size=Kích cỡ thế giới: %s
-gui.terraria:changeexpert=Chế độ Expert: %s
+gui.terraria:changeexpert=Chế độ chuyên gia: %s
 gui.terraria:on=BẬT
 gui.terraria:off=TẮT
 
@@ -31,7 +31,7 @@ jei.terraria.furnace.any=Bất kỳ lò nung nào
 jei.terraria.furnace.hellforge=Lò nung địa ngục (hoặc hơn)
 jei.terraria.furnace.adamantiteortitanium=Lò luyện kim Adamantite/Titanium
 jei.terraria.anvil_around=<T>
-jei.terraria.anvil.any=Bất kì đe nào
+jei.terraria.anvil.any=Bất kì loại đe nào
 jei.terraria.anvil.mythrilororichalcum=Đe Mythril/Orichalcum
 jei.terraria.table_chair_around=Bàn và ghế
 
@@ -68,13 +68,13 @@ item.terraria:copper_coin.name=Xu Đồng
 item.terraria:silver_coin.name=Đồng Bạc
 item.terraria:gold_coin.name=Động Vàng
 item.terraria:platinum_coin.name=Đồng Bạch Kim
-item.terraria:mana_crystal.name=Pha Lê Linh Lực
-item.terraria:game_obj/mana_star.name=Sao Linh Lực
+item.terraria:mana_crystal.name=Pha Lê Mana
+item.terraria:game_obj/mana_star.name=Sao Mana
 item.terraria:game_obj/heart.name=Tim
 item.terraria:flower_of_fire.name=Đoá Hoa Của Lửa
 item.terraria:band_regen.name=Vòng Hồi Máu
 item.terraria:band_starpower.name=Vòng Sao
-item.terraria:band_mana_regen.name=Vòng Hồi Linh Lực
+item.terraria:band_mana_regen.name=Vòng Hồi Mana
 item.terraria:hermes_boots.name=Giày Hermes
 item.terraria:wand_of_sparking.name=Trượng Lấp Lánh
 item.terraria:fallen_star.name=Sao Băng
@@ -110,25 +110,25 @@ item.terraria:tools/sword_tin.name=Kiếm Thiếc
 item.terraria:tools/sword_silver.name=Kiếm Bạc
 item.terraria:tools/sword_tungsten.name=Kiếm Tungsten
 item.terraria:tools/sword_enchanted.name=Kiếm Phép
-item.terraria:tools/sword_starfury.name=Cơn Thịnh Nộ Của Những Vì Sao
-item.terraria:tools/bow_copper.name=Cung Đồng
+item.terraria:tools/sword_starfury.name=Cuồng Nộ Tinh
+em.terraria:tools/bow_copper.name=Cung Đồng
 item.terraria:tools/bow_lead.name=Cung Chì
 item.terraria:tools/bow_tin.name=Cung Thiếc
 item.terraria:tools/bow_silver.name=Cung Bạc
 item.terraria:tools/bow_tungsten.name=Cung Tungsten
 item.terraria:potions/lesser_healing.name=Thuốc Hồi Máu Nhỏ
-item.terraria:potions/lesser_mana.name=Thuốc Linh Lực Nhỏ
+item.terraria:potions/lesser_mana.name=Thuốc Mana Nhỏ
 item.terraria:potions/spelunker.name=Thuốc Đào Mỏ
 item.terraria:potions/water.name=Bình Nước
 item.terraria:potions/regeneration.name=Thuốc Hồi Phục
 item.terraria:potions/mining.name=Thuốc Thợ Mỏ
 item.terraria:potions/healing.name=Thuốc Hồi Máu
-item.terraria:potions/mana.name=Thuốc Linh Lực
+item.terraria:potions/mana.name=Thuốc Mana
 item.terraria:potions/greater_healing.name=Thuốc Hồi Máu Lớn
 item.terraria:potions/ammo_reservation.name=Thuốc Tiết Kiệm Đạn
-item.terraria:potions/greater_mana.name=Thuốc Linh Lực Lớn
+item.terraria:potions/greater_mana.name=Thuốc Mana Lớn
 item.terraria:potions/super_healing.name=Thuốc Hồi Máu Cực Đại
-item.terraria:potions/super_mana.name=Thuốc Linh Lực Cực Đại
+item.terraria:potions/super_mana.name=Thuốc Mana Cực Đại
 item.terraria:wire.name=Dây Điện
 item.terraria:blinkroot.name=Rễ Nháy
 item.terraria:waterleaf.name=Lá Nước
@@ -402,48 +402,48 @@ item.terraria:armor/ninja/legs.tooltip=Tăng 10% Tỉ Lệ Chí Mạng Của Vũ
 item.terraria:armor/ancient_cobalt/helm.name=Mũ Coban Cổ Đại
 item.terraria:armor/ancient_cobalt/body.name=Giáp Coban Cổ Đại
 item.terraria:armor/ancient_cobalt/legs.name=Quần Coban Cổ Đại
-item.terraria:armor/ancient_cobalt/helm.tooltip=Increases maximum mana by 40</br>4%% increased magic critical strike chance
-item.terraria:armor/ancient_cobalt/body.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
-item.terraria:armor/ancient_cobalt/legs.tooltip=Increases maximum mana by 20</br>4%% increased magic critical strike chance
-item.terraria:undertaker.name=The Undertaker
-item.terraria:armor/gladiator/helm.name=Gladiator Helmet
-item.terraria:armor/gladiator/body.name=Gladiator Breastplate
-item.terraria:armor/gladiator/legs.name=Gladiator Leggings
-item.terraria:armor/jungle/helm.name=Jungle Hat
-item.terraria:armor/jungle/body.name=Jungle Shirt
-item.terraria:armor/jungle/legs.name=Jungle Pants
-item.terraria:vine.name=Vine
-item.terraria:armor/rain/helm.name=Rain Hat
-item.terraria:armor/rain/body.name=Rain Coat
-item.terraria:turtle_shell.name=Turtle Shell
-item.terraria:ancient_cloth.name=Ancient Cloth
-item.terraria:bee_wax.name=Bee Wax
-item.terraria:beetle_husk.name=Beetle Husk
-item.terraria:gold_dust.name=Gold Dust
-item.terraria:ichor.name=Ichor
-item.terraria:empty_bullet.name=Empty Bullet
-item.terraria:forbidden_fragment.name=Forbidden Fragment
-item.terraria:explosive_powder.name=Explosive Powder
-item.terraria:frost_core.name=Frost Core
-item.terraria:armor/snow/helm.name=Snow Hood
-item.terraria:armor/snow/body.name=Snow Coat
-item.terraria:armor/snow/legs.name=Snow Pants
-item.terraria:armor/pink_snow/helm.name=Pink Snow Hood
-item.terraria:armor/pink_snow/body.name=Pink Snow Coat
-item.terraria:armor/pink_snow/legs.name=Pink Snow Pants
-item.terraria:bloody_tear.name=Bloody Tear
-item.terraria:solar_tablet_fragment.name=Solar Tablet Fragment
-item.terraria:solar_tablet.name=Solar Tablet
-item.terraria:holy_hand_grenade.name=Holy Hand Grenade
+item.terraria:armor/ancient_cobalt/helm.tooltip=Tăng Trữ Lượng Mana lên 40</br>4%% increased magic critical strike chance
+item.terraria:armor/ancient_cobalt/body.tooltip=Tăng Trữ Lượng Mana lên 20</br>4%% increased magic critical strike chance
+item.terraria:armor/ancient_cobalt/legs.tooltip=Tăng Trữ Lượng Mana lên 20</br>4%% increased magic critical strike chance
+item.terraria:undertaker.name=Kẻ Tiễn Biệt
+item.terraria:armor/gladiator/helm.name=Mũ Đấu Sĩ
+item.terraria:armor/gladiator/body.name=Giáp Đấu Sĩ
+item.terraria:armor/gladiator/legs.name=Quần Đấu Sĩ
+item.terraria:armor/jungle/helm.name=Mũ Rừng Rậm
+item.terraria:armor/jungle/body.name=Giáp Rừng Rậm
+item.terraria:armor/jungle/legs.name=Quần Rừng Rậm
+item.terraria:vine.name=Dây Leo
+item.terraria:armor/rain/helm.name=Mũ Che Mưa
+item.terraria:armor/rain/body.name=Áo Mưa
+item.terraria:turtle_shell.name=Mai Rùa
+item.terraria:ancient_cloth.name=Vải Cổ Đại
+item.terraria:bee_wax.name=Sáp Ong
+item.terraria:beetle_husk.name=Vỏ Bọ Hung
+item.terraria:gold_dust.name=Bụi Vàng
+item.terraria:ichor.name=Huyết Tương
+item.terraria:empty_bullet.name=Đạn Rỗng
+item.terraria:forbidden_fragment.name=Mảnh Cấm Kị
+item.terraria:explosive_powder.name=Thuốc Nổ
+item.terraria:frost_core.name=Lõi Băng Giá
+item.terraria:armor/snow/helm.name=Mũ Trùm Tuyết
+item.terraria:armor/snow/body.name=Áo Tuyết
+item.terraria:armor/snow/legs.name=Quần Tuyết
+item.terraria:armor/pink_snow/helm.name=Mũ Trùm Hồng
+item.terraria:armor/pink_snow/body.name=Áo Tuyết Hồng
+item.terraria:armor/pink_snow/legs.name=Quần Tuyết Hồng
+item.terraria:bloody_tear.name=Huyết Lệ
+item.terraria:solar_tablet_fragment.name=Mảnh Phiến Mặt Trời
+item.terraria:solar_tablet.name=Phiến Mặt Trời
+item.terraria:holy_hand_grenade.name=Lưu Đạn Thần Linh
 
 #################
 
 ######ARMOR BONUSES######
 
-setbonus.terraria:defense=%,d defense
-setbonus.terraria:mining=30%% increased mining speed
-setbonus.terraria:extra_melee_damage=%,d%% extra melee damage
-setbonus.terraria:no_consume_thrown=%,d%% chance to not consume thrown item
+setbonus.terraria:defense=%,d Chỉ Số Phòng Thủ
+setbonus.terraria:mining=30%% Tăng Tốc Độ Đào
+setbonus.terraria:extra_melee_damage=%,d%% Tăng Sát Thương Cận Chiến
+setbonus.terraria:no_consume_thrown=%,d%% Khả Năng Vật Phẩm Ném Không Bị Sử Dụng
 
 #########################
 
@@ -847,11 +847,11 @@ tile.terraria:graves/headstone.name=Headstone
 ######KEYBOARD######
 
 key.category.terraria=Terraria Craft
-key.terraria.toggle_gravity=Toggle Gravity
+key.terraria.toggle_gravity=Đảo Trọng Lực
 key.hotbar.0=Hotbar Slot 10
-key.terraria.healing=Activate healing potion
-key.terraria.mana=Activate mana potion
-key.terraria.buffs=Activate all buff potions
+key.terraria.healing=Sử Dụng Thuốc Hồi Máu
+key.terraria.mana=Sử Dụng Thuốc Hồi Mana
+key.terraria.buffs=Sử Dụng Tất Cả Thuốc Tăng Sức Mạnh
 
 ####################
 
@@ -859,11 +859,11 @@ key.terraria.buffs=Activate all buff potions
 
 ######DAMAGE SOURCE DEATH######
 
-death.terraria:arrow=%s was shot by %s.
-death.terraria:starfury=%s was killed by %s using Starfury.
-death.terraria:falling_star=%s saw deadly falling star.
-death.terraria:dart_trap=%s became a victim to dart trap.
-death.attack.terraria:thorn_bushes=%s was prickled to death.
+death.terraria:arrow=%s Bị Bắn Chết Bởi %s.
+death.terraria:starfury=%s Bị Giết Bởi  %s Bằng Cuồng Nộ Tinh.
+death.terraria:falling_star=%s Bị Sao Băng Rơi Trúng Đầu.
+death.terraria:dart_trap=%s Trở Thành Nạn Nhân Của Bẫy Phi Tiêu.
+death.attack.terraria:thorn_bushes=%s Bị Chích Đến Chết.
 
 #########################
 
@@ -871,74 +871,74 @@ death.attack.terraria:thorn_bushes=%s was prickled to death.
 
 ######BUFFS######
 
-buff.potion_sickness.name=Potion Sickness
-tooltip.terraria:buff.potion_sickness=Can't use any healing items
+buff.potion_sickness.name=Sốc Thuốc
+tooltip.terraria:buff.potion_sickness=Không Thể Sử Dụng Đồ Hồi Máu
 
-buff.spelunker.name=Spelunker
-tooltip.terraria:buff.spelunker=Shows the location of treasure and ore
+buff.spelunker.name=Thợ Mỏ
+tooltip.terraria:buff.spelunker=Thấy Được Vị Trí Kho Báu Và Quặng Dưới Lòng Đất
 
-buff.regeneration.name=Regeneration
-tooltip.terraria:buff.regeneration=Regenerates health
+buff.regeneration.name=Phục Hồi
+tooltip.terraria:buff.regeneration=Phục Hồi Máu
 
-buff.mining.name=Mining
-tooltip.terraria:increase_spmining=Mining speed increased by %,d%%
+buff.mining.name=Đập Phá
+tooltip.terraria:increase_spmining=Tăng Tốc Đào Lên %,d%%
 
-buff.ammo_reservation.name=Ammo Reservation
-tooltip.terraria:buff.ammo_reservation=Grants 20%% chance to retain ammo
+buff.ammo_reservation.name=Tiết Kiệm Đạn
+tooltip.terraria:buff.ammo_reservation=20%% Không Mất Đạn
 
-buff.baby_slime.name=Baby Slime
-tooltip.terraria:buff.baby_slime=The baby slime will fight for you
+buff.baby_slime.name=Slime Sơ Sinh
+tooltip.terraria:buff.baby_slime=Slime Sơ Sinh Tấn Công Cùng Bạn
 
-buff.burning.name=Burning
-tooltip.terraria:buff.burning=Slowly Losing life
+buff.burning.name=Bốc Cháy
+tooltip.terraria:buff.burning=Mất Máu Từ Từ
 
-buff.poisoned.name=Poisoned
-tooltip.terraria:buff.poisoned=Slowly Losing life
+buff.poisoned.name=Trúng Độc
+tooltip.terraria:buff.poisoned=Mất Máu Từ Từ
 
-buff.happy.name=Happy!
+buff.happy.name=Vui Tươi!
 
-buff.swiftness.name=Swiftness
+buff.swiftness.name=Nhanh Nhẹn
 
-buff.ironskin.name=Ironskin
+buff.ironskin.name=Mình Đồng Da Sắt
 
-buff.shine.name=Shine
-tooltip.terraria:buff.shine=Emitting light
+buff.shine.name=Toả Sáng
+tooltip.terraria:buff.shine=Phát Ra Ánh Sáng
 
-buff.creative.name=Creative
-tooltip.terraria:buff.creative=Unlimited resources and immediate block destruction
+buff.creative.name=Chế Độ Sáng Tạo
+tooltip.terraria:buff.creative=Tài Nguyên Vô Tận Và Đập Khối Tức Thời
 
-buff.star_in_a_bottle.name=Star in a Bottle
-tooltip.terraria:buff.star_in_a_bottle=Increased mana regeneration
+buff.star_in_a_bottle.name=Sao Trong Bình
+tooltip.terraria:buff.star_in_a_bottle=Tăng Tốc Độ Hồi Phục Mana
 
-buff.heart_lamp.name=Heart Lamp
-tooltip.terraria:buff.heart_lamp=Life regen is increased
+buff.heart_lamp.name=Đèn Trái Tim
+tooltip.terraria:buff.heart_lamp=Tăng Tốc Độ Hồi Máu
 
-buff.cozy_fire.name=Cozy Fire
-tooltip.terraria:buff.cozy_fire=Life regen is slightly increased
+buff.cozy_fire.name=Ngọn Lửa Ấm Áp
+tooltip.terraria:buff.cozy_fire=Tăng Tốc Độ Hồi Máu
 
-buff.magic_power.name=Magic Power
-tooltip.terraria:buff.magic_power=20%% increased magic damage
+buff.magic_power.name=Sức Mạnh Ma Thuật
+tooltip.terraria:buff.magic_power=20%% Tăng Sát Thương Phép
 
-buff.cursed_inferno.name=Cursed Inferno
-tooltip.terraria:buff.cursed_inferno=Losing life
+buff.cursed_inferno.name=Lửa Nguyền
+tooltip.terraria:buff.cursed_inferno=Mất Máu
 
-buff.builder.name=Builder
-tooltip.terraria:buff.builder=Increased placement speed and range
+buff.builder.name=Thợ Xây
+tooltip.terraria:buff.builder=Tăng Tốc Và Tầm Với Khi Đặt Khối
 
-buff.water_walking.name=Water Walking
-tooltip.terraria:buff.water_walking=Sneak to enter water
+buff.water_walking.name=Đi Trên Mặt Nước
+tooltip.terraria:buff.water_walking=Ngồi Xổm Để Xuống Nước
 
-buff.clairvoyance.name=Clairvoyance
-tooltip.terraria:buff.clairvoyance=Magic powers are increased
+buff.clairvoyance.name=Minh Mẫn
+tooltip.terraria:buff.clairvoyance=Tăng Sức Mạnh Ma Thuật
 
-buff.darkness.name=Darkness
-tooltip.terraria:buff.darkness=Decreased light vision
+buff.darkness.name=Màn Đêm
+tooltip.terraria:buff.darkness=Giảm Tầm Nhìn
 
-buff.gravitation.name=Gravitation
-tooltip.terraria:buff.gravitation=Press %s to reverse gravity
+buff.gravitation.name=Điều Khiển Trọng Lực
+tooltip.terraria:buff.gravitation=Nhấn %s Để Đảo Trọng Lực
 
-buff.banner.name=Banner
-tooltip.terraria:buff.banner=Increased damage and defense from the following:
+buff.banner.name=Biểu Ngữ
+tooltip.terraria:buff.banner=Tăng Sát Thương Và Phòng Thủ Đối Với:
 
 #################
 
@@ -946,95 +946,95 @@ tooltip.terraria:buff.banner=Increased damage and defense from the following:
 
 ######TOOLTIPS######
 
-tooltip.terraria:material=Material
-tooltip.terraria:ammo=Ammo
+tooltip.terraria:material=Vật liệu
+tooltip.terraria:ammo=Đạn
 tooltip.terraria:mana=Mana
-tooltip.terraria:consumable=Consumable
-tooltip.terraria:equipable=Equipable
-tooltip.terraria:uses_mana=Uses %s mana
-tooltip.terraria:restores_life=Restores %s life
-tooltip.terraria:restores_mana=Restores %s mana
-tooltip.terraria:potion_duration=Duration: %s min
-tooltip.terraria:regen_speed_increase=Increased regeneration speed
-tooltip.terraria:increased_movement_speed=%,d%% increased movement speed
-tooltip.terraria:whoopie_cushion=May annoy others
-tooltip.terraria:demonite_ingot=Pulsing with dark energy
-tooltip.terraria:meteorite_ingot=Warm to the touch
-tooltip.terraria:hellstone_ingot=Hot to the touch
-tooltip.terraria:chlorophyte_ingot=Reacts to the light
-tooltip.terraria:luminite_ingot=It vibrates with luminous celestial energy
-tooltip.terraria:band_regen=Slowly regenerates life
-tooltip.terraria:band_starpower0=Slowly regenerates mana
-tooltip.terraria:band_starpower1=Permanently increases maximum mana by 20
-tooltip.terraria:flower_of_fire=Throws balls of fire
-tooltip.terraria:wand_of_sparking=Shoots a small spark
-tooltip.terraria:placeWhileHoldingKey=Can be placed while holding %s key
-tooltip.terraria:remove_buff=Remove Buff
-tooltip.terraria:dropped=Dropped:
-tooltip.terraria:mines.meteorite=Mines Meteorite
-tooltip.terraria:obsidianskull=Gives immunity to fire blocks
-tooltip.terraria:incrpermhp=Permanently increases health by %,d
-tooltip.terraria:jungle_rose='It's pretty, oh so pretty'
-tooltip.terraria:increased_defense=Increase defense by %,d
-tooltip.terraria:shine_potion=Emits an aura of light
-tooltip.terraria:defense=%,d defense
-tooltip.terraria:setbonus=Set bonus: %s
-tooltip.terraria:bloodmoon=The Blood Moon is rising...
-tooltip.terraria:solareclipse=A solar eclipse is happening!
-tooltip.terraria:pickaxe_power=Pickaxe Power: %,d%%
-tooltip.terraria:axe_power=Axe Power: %,d%%
-tooltip.terraria:hammer_power=Hammer Power: %,d%%
-tooltip.terraria:reduced_mana_usage=%,d%% reduced mana usage
-tooltip.terraria:bless_ore/cobalt=Your world has been blessed with Cobalt!
-tooltip.terraria:bless_ore/palladium=Your world has been blessed with Palladium!
-tooltip.terraria:bless_ore/mythril=Your world has been blessed with Mythril!
-tooltip.terraria:bless_ore/orichalcum=Your world has been blessed with Orichalcum!
-tooltip.terraria:bless_ore/adamantite=Your world has been blessed with Adamantite!
-tooltip.terraria:bless_ore/titanium=Your world has been blessed with Titanium!
+tooltip.terraria:consumable=Đồ dùng một lần
+tooltip.terraria:equipable=Có thể trang bị
+tooltip.terraria:uses_mana=Sử dụng %s mana
+tooltip.terraria:restores_life=Hồi %s máu
+tooltip.terraria:restores_mana=Hồi %s mana
+tooltip.terraria:potion_duration=Thời gian hiệu lực: %s phút
+tooltip.terraria:regen_speed_increase=Tăng tốc độ hồi máu
+tooltip.terraria:increased_movement_speed=Tăng %,d%% tốc chạy
+tooltip.terraria:whoopie_cushion=Chọc tức người khác
+tooltip.terraria:demonite_ingot=Phản ứng với năng lượng màn đêm
+tooltip.terraria:meteorite_ingot=Ấm nóng
+tooltip.terraria:hellstone_ingot=Nóng chảy
+tooltip.terraria:chlorophyte_ingot=Phản ứng với ánh sáng
+tooltip.terraria:luminite_ingot=Phản ứng với năng lượng thiên thể chói sáng
+tooltip.terraria:band_regen=Hồi máu từ từ
+tooltip.terraria:band_starpower0=Hồi mana từ từ
+tooltip.terraria:band_starpower1=Tăng trữ lượng mana Lên 20
+tooltip.terraria:flower_of_fire=Phát ra cầu lửa
+tooltip.terraria:wand_of_sparking=Phóng ra một luồng sáng nhỏ
+tooltip.terraria:placeWhileHoldingKey=Có thể đặt khi giữ phím %s
+tooltip.terraria:remove_buff=Xoá hiệu ứng
+tooltip.terraria:dropped=Đã thả:
+tooltip.terraria:mines.meteorite=Đào thiên thạch
+tooltip.terraria:obsidianskull=Kháng lại những khối bốc lửa
+tooltip.terraria:incrpermhp=Tăng trữ lượng máu thêm %,d
+tooltip.terraria:jungle_rose='Nó thật đẹp'
+tooltip.terraria:increased_defense=Tăng chỉ số phòng thủ thêm %,d
+tooltip.terraria:shine_potion=Tạo ra một luồng sáng
+tooltip.terraria:defense=%,d Chỉ số phòng thủ
+tooltip.terraria:setbonus=Năng lực của bộ giáp: %s
+tooltip.terraria:bloodmoon=Màn đêm dần buông, Trăng dần thấm đỏ...
+tooltip.terraria:solareclipse=Khi ba vì sao thẳng hàng, những con quái vật từ màn đêm sâu thẳm đang trỗi dậy!
+tooltip.terraria:pickaxe_power=Sức  đào khối: %,d%%
+tooltip.terraria:axe_power=Sức chặt cây: %,d%%
+tooltip.terraria:hammer_power=Sức búa: %,d%%
+tooltip.terraria:reduced_mana_usage=Giảm %,d%% lượng mana sử dụng
+tooltip.terraria:bless_ore/cobalt=Cobalt đã xuất hiện trong thế giới này!
+tooltip.terraria:bless_ore/palladium=Palladium đã xuất hiện trong thế giới này!
+tooltip.terraria:bless_ore/mythril=Mythril đã xuất hiện trong thế giới này!
+tooltip.terraria:bless_ore/orichalcum=Orichalcum đã xuất hiện trong thế giới này!
+tooltip.terraria:bless_ore/adamantite=Adamantite đã xuất hiện trong thế giới này!
+tooltip.terraria:bless_ore/titanium=Titanium đã xuất hiện trong thế giới này!
 tooltip.terraria:dev_item=Great for impersonating devs!
-tooltip.terraria:critical_strike_chance=%,d%% critical strike chance
-tooltip.terraria:campfire=Life regen is increased when near a campfire
+tooltip.terraria:critical_strike_chance=%,d%% Tỉ lệ chí mạng
+tooltip.terraria:campfire=Hồi máu khi gần lửa trại
 tooltip.terraria:dev_jae_glock=Top rated in schools all around the globe!
-tooltip.terraria:vanity_item=Vanity Item
-tooltip.terraria:rctoopen=Right click to open
+tooltip.terraria:vanity_item=Vật phẩm trang trí
+tooltip.terraria:rctoopen=Bấm chuột phải để mở
 tooltip.terraria:debug_item=Debug Item
-tooltip.terraria:gravity_control=[WIP] Allows the control of gravity
-tooltip.terraria:bloody_tear=What a horrible night to have a curse.
-tooltip.terraria:solar_tablet=Summons the Eclipse
-tooltip.terraria:holy_hand_grenade=The Lord's chosen weapon
+tooltip.terraria:gravity_control=[WIP] Cho phép thao túng trọng lực
+tooltip.terraria:bloody_tear=Quả là một đêm tệ hại để bị nguyền.
+tooltip.terraria:solar_tablet=Triệu hồi nhật thực
+tooltip.terraria:holy_hand_grenade=Vũ khí của chúa
 
-tooltip.terraria:star_cannon=Shoots fallen stars
-tooltip.terraria:cursed_flame=Not even water can put the flame out
-tooltip.terraria:vial_of_venom=Extremely toxic
-tooltip.terraria:bomb=A small explosion that will destroy some blocks
-tooltip.terraria:dynamite=A large explosion that will destroy most tiles
-tooltip.terraria:golden_key=Opens one Gold or Dungeon Chest
-tooltip.terraria:guide_to_plant_fiber_cordage=Allows the collection of Vine Rope from vines
-tooltip.terraria:rope_item=Can be climbed on
-tooltip.terraria:blindfold=Immunity to Darkness
-tooltip.terraria:rotten_chunk=Looks tasty!
-tooltip.terraria:ichor=The blood of gods
-tooltip.terraria:empty_bullet=Used to craft various types of ammo
+tooltip.terraria:star_cannon=Bắn ra sao băng
+tooltip.terraria:cursed_flame=Cả nước cũng không dập tắt được ngọn lửa này
+tooltip.terraria:vial_of_venom=Kịch độc
+tooltip.terraria:bomb=Tạo nên vụ nổ nhỏ, phá huỷ khối
+tooltip.terraria:dynamite=Tạo nên vụ nổ lớn, phá huỷ nhiều khối
+tooltip.terraria:golden_key=Mở rương báu vàng hoặc rương trong ngục tối
+tooltip.terraria:guide_to_plant_fiber_cordage=Cho phép thu dây thừng từ dây leo
+tooltip.terraria:rope_item=Có thể trèo lên
+tooltip.terraria:blindfold=Kháng lại hiệu ứng Màn đêm
+tooltip.terraria:rotten_chunk=Trông ngon đấy!
+tooltip.terraria:ichor=Máu của những vị thần
+tooltip.terraria:empty_bullet=Dùng để chế tạo nhiều loại đạn
 
 tooltip.terraria:armor/dev_jae/helm=jar.
 tooltip.terraria:armor/dev_jae/body=need oxygen
 tooltip.terraria:armor/dev_jae/legs=yes, very
 
-speed.terraria:insanely_fast=Insanely Fast Speed
-speed.terraria:very_fast=Very Fast Speed
-speed.terraria:fast=Fast Speed
-speed.terraria:average=Average Speed
-speed.terraria:slow=Slow Speed
-speed.terraria:very_slow=Very Slow Speed
-speed.terraria:extremely_slow=Extremely Slow Speed
-speed.terraria:snail=Snail Speed
-speed.terraria:mysterious=Mysterious Speed
+speed.terraria:insanely_fast=Cực kì nhanh
+speed.terraria:very_fast=Rất nhanh
+speed.terraria:fast=Nhanh
+speed.terraria:average=Trung bình
+speed.terraria:slow=Chậm
+speed.terraria:very_slow=Rất chậm
+speed.terraria:extremely_slow=Cực kì chậm
+speed.terraria:snail=Tốc độ của sên
+speed.terraria:mysterious=Tốc độ bí ẩn
 
-damage.terraria:melee=%,d melee damage
-damage.terraria:ranged=%,d ranged damage
-damage.terraria:magic=%,d magic damage
-damage.terraria:summon=%,d summon damage
-damage.terraria:throwing=%,d throwing damage
+damage.terraria:melee=%,d sát thương cận chiến
+damage.terraria:ranged=%,d sát thương xạ chiến
+damage.terraria:magic=%,d sát thương phép
+damage.terraria:summon=%,d sát thương triệu hồi
+damage.terraria:throwing=%,d sát thương ném
 
 ####################
 
@@ -1107,9 +1107,9 @@ achievement.terraria:you_can_do_it.desc=Survive your character's first full nigh
 
 feature.terraria:from_author=From Mod Author
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
-hud.terraria:life=Life: %s
+hud.terraria:life=Máu: %s
 hud.terraria:mana=Mana
-chat.terraria:defeatenemy=%s has defeated %,d-th %s!
+chat.terraria:defeatenemy=%s đã tiêu diệt %,d-th %s!
 
 ################
 
@@ -1119,16 +1119,16 @@ chat.terraria:defeatenemy=%s has defeated %,d-th %s!
 
 tbiome.terraria:corruption=Corruption
 tbiome.terraria:crimson=Crimson
-tbiome.terraria:desert=Desert
-tbiome.terraria:forest=Forest
-tbiome.terraria:graveyard=Graveyard
-tbiome.terraria:jungle=Jungle
-tbiome.terraria:meteorite=Meteorite
-tbiome.terraria:mushroom=Mushroom
-tbiome.terraria:ocean=Ocean
-tbiome.terraria:snowy=Snow
-tbiome.terraria:space=Space
-tbiome.terraria:underworld=Underworld
+tbiome.terraria:desert=Sa Mạc
+tbiome.terraria:forest=Rừng
+tbiome.terraria:graveyard=Nghĩa Địa
+tbiome.terraria:jungle=Rừng Nhiệt Đới
+tbiome.terraria:meteorite=Thiên Thạch
+tbiome.terraria:mushroom=Xứ Sở Nấm
+tbiome.terraria:ocean=Đại Dương
+tbiome.terraria:snowy=Vùng Đất Băng Giá
+tbiome.terraria:space=Vũ Trụ
+tbiome.terraria:underworld=Hoả Ngục
 
 ##################
 
@@ -1136,22 +1136,22 @@ tbiome.terraria:underworld=Underworld
 
 ######ENTITIES######
 
-entity.terraria:green_slime.name=Green Slime
-entity.terraria:blue_slime.name=Blue Slime
-entity.terraria:baby_slime.name=Baby Slime
+entity.terraria:green_slime.name=Slime Xanh Lá
+entity.terraria:blue_slime.name=Slime Xanh Biển
+entity.terraria:baby_slime.name=Slime Sơ Sinh
 entity.terraria:pinky_slime.name=Pinky
 entity.terraria:npc.name=NPC
-entity.terraria:bunny.name=Bunny
-entity.terraria:demon_eye.name=Demon Eye
-entity.terraria:firefly.name=Firefly
-entity.terraria:worm.name=Worm
-entity.terraria:red_slime.name=Red Slime
-entity.terraria:purple_slime.name=Purple Slime
-entity.terraria:yellow_slime.name=Yellow Slime
-entity.terraria:black_slime.name=Black Slime
+entity.terraria:bunny.name=Thỏ
+entity.terraria:demon_eye.name=Mắt Quỷ
+entity.terraria:firefly.name=Đom Đóm
+entity.terraria:worm.name=Giun Đất
+entity.terraria:red_slime.name=Slime Đỏ
+entity.terraria:purple_slime.name=Slime Tím
+entity.terraria:yellow_slime.name=Slime Vàng
+entity.terraria:black_slime.name=Slime Đen
 entity.terraria:drippler.name=Drippler
-entity.terraria:jungle_slime.name=Jungle Slime
-entity.terraria:eater_of_souls.name=Eater of Souls
+entity.terraria:jungle_slime.name=Slime Rừng
+entity.terraria:eater_of_souls.name=Kẻ Cắp Linh Hồn
 entity.terraria:crimera.name=Crimera
 
 ####################
