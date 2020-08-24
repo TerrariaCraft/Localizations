@@ -435,6 +435,10 @@ item.terraria:bloody_tear.name=Bloody Tear
 item.terraria:solar_tablet_fragment.name=Solar Tablet Fragment
 item.terraria:solar_tablet.name=Solar Tablet
 item.terraria:holy_hand_grenade.name=Holy Hand Grenade
+item.terraria:bone.name=Bone
+item.terraria:snowball.name=Snowball
+item.terraria:rotten_egg.name=Rotten Egg
+item.terraria:spiky_ball.name=Spiky Ball
 
 #################
 
@@ -839,6 +843,28 @@ tile.terraria:graves/cross_grave_marker.name=Cross Grave Marker
 tile.terraria:graves/gravestone.name=Gravestone
 tile.terraria:graves/tombstone.name=Tombstone
 tile.terraria:graves/headstone.name=Headstone
+tile.terraria:torches/bone.name=Bone Torch
+tile.terraria:beams/wooden.name=Wooden Beam
+tile.terraria:skyware_chest.name=Skyware Chest
+tile.terraria:torches/ultrabright.name=Ultrabright Torch
+tile.terraria:torches/demon.name=Demon Torch
+tile.terraria:teapot.name=Teapot
+tile.terraria:banners/world.name=World Banner
+tile.terraria:banners/gravity.name=Gravity Banner
+tile.terraria:banners/sun.name=Sun Banner
+tile.terraria:mushroom_chest.name=Mushroom Chest
+tile.terraria:banners/blue.name=Blue Banner
+tile.terraria:banners/green.name=Green Banner
+tile.terraria:banners/red.name=Red Banner
+tile.terraria:banners/yellow.name=Yellow Banner
+tile.terraria:furniture/bookcases/skyware.name=Skyware Bookcase
+tile.terraria:graves/golden_grave_marker.name=Golden Grave Marker
+tile.terraria:banners/marching_bones.name=Marching Bones Banner
+tile.terraria:banners/necromantic_sign.name=Necromantic Sigil
+tile.terraria:banners/rusted_company_standard.name=Rusted Company Standard
+tile.terraria:banners/ragged_brotherhood_sigil.name=Ragged Brotherhood Sigil
+tile.terraria:banners/molten_legion.name=Molten Legion Flag
+tile.terraria:banners/diabolic_sigil.name=Diabolic Sigil
 
 ##################
 
@@ -1002,6 +1028,7 @@ tooltip.terraria:gravity_control=[TEC] Permet le contrôle de la gravité
 tooltip.terraria:bloody_tear=What a horrible night to have a curse.
 tooltip.terraria:solar_tablet=Summons the Eclipse
 tooltip.terraria:holy_hand_grenade=The Lord's chosen weapon
+tooltip.terraria:rotten_egg=Best used for pranking townsfolk
 
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme
