@@ -866,6 +866,8 @@ tile.terraria:banners/rusted_company_standard.name=Rusted Company Standard
 tile.terraria:banners/ragged_brotherhood_sigil.name=Ragged Brotherhood Sigil
 tile.terraria:banners/molten_legion.name=Molten Legion Flag
 tile.terraria:banners/diabolic_sigil.name=Diabolic Sigil
+tile.terraria:statues/crab.name=Crab Statue
+tile.terraria:statues/snail.name=Snail Statue
 
 ##################
 
