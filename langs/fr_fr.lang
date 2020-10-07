@@ -417,6 +417,7 @@ item.terraria:snowball.name=Snowball
 item.terraria:rotten_egg.name=Rotten Egg
 item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
+item.terraria:tungsten_bullet.name=Tungsten Bullet
 
 #################
 
@@ -1002,11 +1003,11 @@ tooltip.terraria:potion_duration=Duration: %s min
 tooltip.terraria:regen_speed_increase=Augmentation de la vitesse de régénération
 tooltip.terraria:increased_movement_speed=%,d%% d’augmentation de vitesse de déplacement
 tooltip.terraria:whoopie_cushion='Peut ennuyer les autres'
-tooltip.terraria:demonite_ingot='pulsant avec de l'énergie sombre'
-tooltip.terraria:meteorite_ingot='chaud au toucher'
-tooltip.terraria:hellstone_ingot='brûlant au toucher'
-tooltip.terraria:chlorophyte_ingot='Réagit à la lumière'
-tooltip.terraria:luminite_ingot='Il vibre avec une énergie céleste lumineuse'
+tooltip.terraria:bars/demonite='pulsant avec de l'énergie sombre'
+tooltip.terraria:bars/meteorite='chaud au toucher'
+tooltip.terraria:bars/hellstone='brûlant au toucher'
+tooltip.terraria:bars/chlorophyte='Réagit à la lumière'
+tooltip.terraria:bars/luminite='Il vibre avec une énergie céleste lumineuse'
 tooltip.terraria:band_regen=Régénère lentement la vie
 tooltip.terraria:band_starpower0=Régénère lentement le mana
 tooltip.terraria:band_starpower1=Augmentation permanente de mana maximum de 20

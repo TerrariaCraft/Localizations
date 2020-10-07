@@ -417,6 +417,7 @@ item.terraria:snowball.name=Snowball
 item.terraria:rotten_egg.name=Rotten Egg
 item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
+item.terraria:tungsten_bullet.name=Tungsten Bullet
 
 #################
 
@@ -1002,11 +1003,11 @@ tooltip.terraria:potion_duration=Длительность: %s мин.
 tooltip.terraria:regen_speed_increase=Ускоряет регенерацию здоровья
 tooltip.terraria:increased_movement_speed=%,d%%-ное увеличение скорости передвижения
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
-tooltip.terraria:demonite_ingot=Пульсирует тёмной энергией
-tooltip.terraria:meteorite_ingot=Тёплый на ощупь
-tooltip.terraria:hellstone_ingot=Горячий на ощупь
-tooltip.terraria:chlorophyte_ingot=Светочувствительна
-tooltip.terraria:luminite_ingot=Это вибрирует световой небесной энергией
+tooltip.terraria:bars/demonite=Пульсирует тёмной энергией
+tooltip.terraria:bars/meteorite=Тёплый на ощупь
+tooltip.terraria:bars/hellstone=Горячий на ощупь
+tooltip.terraria:bars/chlorophyte=Светочувствительна
+tooltip.terraria:bars/luminite=Это вибрирует световой небесной энергией
 tooltip.terraria:band_regen=Медленно восстанавливает здоровье
 tooltip.terraria:band_starpower0=Медленно восстанавливает ману
 tooltip.terraria:band_starpower1=Постоянно увеличивает максимальный запас маны на 20 ед.

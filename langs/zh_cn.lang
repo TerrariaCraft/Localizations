@@ -417,6 +417,7 @@ item.terraria:snowball.name=Snowball
 item.terraria:rotten_egg.name=Rotten Egg
 item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
+item.terraria:tungsten_bullet.name=Tungsten Bullet
 
 #################
 
@@ -1002,11 +1003,11 @@ tooltip.terraria:potion_duration=%s分钟持续时间
 tooltip.terraria:regen_speed_increase=提供生命再生
 tooltip.terraria:increased_movement_speed=移动速度提高%,d%%
 tooltip.terraria:whoopie_cushion='可能会惹恼别人'
-tooltip.terraria:demonite_ingot='与黑暗能量休戚与共'
-tooltip.terraria:meteorite_ingot='摸起来很温暖'
-tooltip.terraria:hellstone_ingot='摸起来烫手'
-tooltip.terraria:chlorophyte_ingot='对光产生反应'
-tooltip.terraria:luminite_ingot='它汇聚了闪耀的天界能量'
+tooltip.terraria:bars/demonite='与黑暗能量休戚与共'
+tooltip.terraria:bars/meteorite='摸起来很温暖'
+tooltip.terraria:bars/hellstone='摸起来烫手'
+tooltip.terraria:bars/chlorophyte='对光产生反应'
+tooltip.terraria:bars/luminite='它汇聚了闪耀的天界能量'
 tooltip.terraria:band_regen=缓慢回复生命
 tooltip.terraria:band_starpower0=缓慢回复魔力
 tooltip.terraria:band_starpower1=永久增加20点魔力上限

@@ -417,6 +417,7 @@ item.terraria:snowball.name=Snowball
 item.terraria:rotten_egg.name=Rotten Egg
 item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
+item.terraria:tungsten_bullet.name=Tungsten Bullet
 
 #################
 
@@ -1002,11 +1003,11 @@ tooltip.terraria:potion_duration=Thời gian hiệu lực: %s phút
 tooltip.terraria:regen_speed_increase=Tăng tốc độ hồi máu
 tooltip.terraria:increased_movement_speed=Tăng %,d%% tốc chạy
 tooltip.terraria:whoopie_cushion=Chọc tức người khác
-tooltip.terraria:demonite_ingot=Phản ứng với năng lượng màn đêm
-tooltip.terraria:meteorite_ingot=Ấm nóng
-tooltip.terraria:hellstone_ingot=Nóng chảy
-tooltip.terraria:chlorophyte_ingot=Phản ứng với ánh sáng
-tooltip.terraria:luminite_ingot=Phản ứng với năng lượng thiên thể chói sáng
+tooltip.terraria:bars/demonite=Phản ứng với năng lượng màn đêm
+tooltip.terraria:bars/meteorite=Ấm nóng
+tooltip.terraria:bars/hellstone=Nóng chảy
+tooltip.terraria:bars/chlorophyte=Phản ứng với ánh sáng
+tooltip.terraria:bars/luminite=Phản ứng với năng lượng thiên thể chói sáng
 tooltip.terraria:band_regen=Hồi máu từ từ
 tooltip.terraria:band_starpower0=Hồi mana từ từ
 tooltip.terraria:band_starpower1=Tăng trữ lượng mana Lên 20
