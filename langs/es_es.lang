@@ -1159,6 +1159,17 @@ chat.terraria:defeatenemy=%s has defeated %,d-th %s!
 chat.terraria:spawn_point.set=Spawn point set!
 chat.terraria:spawn_point.remove=Spawn point removed!
 
+house.terraria:limits=House size limit exceeded: %s/%s
+house.terraria:occupied=This house is already occupied!
+house.terraria:small=House is too small!
+house.terraria:tables=No tables found in house!
+house.terraria:lights=No light sources found in house!
+house.terraria:doors=No doors found in house!
+house.terraria:chairs=No chairs found in house!
+house.terraria:ok=This is suitable home.
+
+gui.terraria:buy=Buy for
+
 ################
 
 
@@ -1203,3 +1214,128 @@ entity.terraria:eater_of_souls.name=Devoraalmas
 entity.terraria:crimera.name=Carmebicho
 
 ####################
+
+#######NPCs#######
+
+npc.terraria:ui.vending=Shop
+npc.terraria:ui.happiness=Happiness
+npc.terraria:ui.close=Close
+npc.terraria:ui.advice=Help
+
+npc.terraria:guide.name=Guide
+npc.terraria:guide=%s the Guide
+npc.terraria:guide.names=Andrew,Asher,Bradley,Brandon,Brett,Brian,Cody,Cole,Colin,Connor,Daniel,Dylan,Garrett,Harley,Jack,Jacob,Jake,Jeff,Jeffrey,Joe,Kevin,Kyle,Levi,Logan,Luke,Marty,Maxwell,Ryan,Scott,Seth,Steve,Tanner,Trent,Wyatt,Zach
+
+npc.terraria:guide.interact.1=Greetings, %s. Is there something I can help you with?
+npc.terraria:guide.interact.2=I am here to give you advice on what to do next. It is recommended that you talk with me anytime you get stuck.
+npc.terraria:guide.interact.3=They say there is a person who will tell you how to survive in this land... oh wait. That's me.
+
+npc.terraria:guide.happiness.homeless=I'm quite used to not having a home, but I wouldn't mind one.
+npc.terraria:guide.happiness.home.far=I'm far from my home, it seems.
+npc.terraria:guide.happiness.biome.forest=I'm quite fond of wandering through the Forest. I like it here.
+npc.terraria:guide.happiness.biome.ocean=I don't really like the Ocean. There's little to accomplish.
+npc.terraria:guide.happiness.evil.crimson=I hate the Crimson, the terrors here can tear a person apart in moments.
+npc.terraria:guide.happiness.evil.corruption=I hate the Corruption, the terrors here can tear a person apart in moments.
+npc.terraria:guide.happiness.evil.dungeon=I hate the Dungeon, the terrors here can tear a person apart in moments.
+npc.terraria:guide.happiness.sparse=Getting this place to myself... I greatly appreciate it.
+npc.terraria:guide.happiness.npc.overcrowded.1=I'm a free spirit. I dislike so many people being close to me.
+npc.terraria:guide.happiness.npc.overcrowded.2=I hate overcrowding. I prefer the open world!
+npc.terraria:guide.happiness.npc.clothier=I don't really like {BiomeName}. There's little to accomplish.
+npc.terraria:guide.happiness.npc.zoologist=I'm quite fond of %s, we have a lot in common.
+npc.terraria:guide.happiness.npc.steampunker=%s rubs me the wrong way. Maybe it's the weird clothing?
+npc.terraria:guide.happiness.npc.painter=I hate that %s is around. The world is fine the way it was made!
+npc.terraria:guide.happiness.neutral=I'm feeling quite alright.
+
+
+
+npc.terraria:merchant.name=Merchant
+npc.terraria:merchant=%s the Merchant
+npc.terraria:merchant.names=Alfred,Barney,Calvin,Edmund,Edwin,Eugene,Finn,Frank,Frederick,Gilbert,Gus,Harold,Howard,Humphrey,Isaac,Joseph,Kristian,Louis,Milton,Mortimer,Ralph,Seymour,Walter,Wilbur
+
+npc.terraria:merchant.morning.1=Sword beats paper! Get one today.
+npc.terraria:merchant.morning.2=You want apples? You want carrots? You want pineapples? We got torches.
+npc.terraria:merchant.morning.3=Lovely morning, wouldn't you say? Was there something you needed?
+npc.terraria:merchant.afternoon.1=Check out my dirt blocks; they are extra dirty.
+npc.terraria:merchant.afternoon.2=Boy, that sun is hot! I do have some perfectly ventilated armor.
+npc.terraria:merchant.afternoon.3=The sun is high, but my prices are not.
+npc.terraria:merchant.evening.1=Night will be upon us soon, friend. Make your choices while you can.
+npc.terraria:merchant.evening.2=You have no idea how much Dirt Blocks sell for overseas.
+npc.terraria:merchant.evening.3=Ah, they will tell tales of %s some day... good ones I'm sure.
+npc.terraria:merchant.night.start.1=Kosh, kapleck Mog. Oh sorry, that's klingon for 'Buy something or die.'
+npc.terraria:merchant.night.start.2=%s is it? I've heard good things, friend!
+npc.terraria:merchant.night.mid.1=The last guy who was here left me some junk... er I mean... treasures!
+npc.terraria:merchant.night.mid.2=I wonder if the moon is made of cheese...huh, what? Oh yes, buy something!
+npc.terraria:merchant.night.mid.3=Did you say gold? I'll take that off of ya.
+npc.terraria:merchant.night.end.1=I hear there's a secret treasure... oh never mind.
+npc.terraria:merchant.night.end.2=Angel Statue you say? I'm sorry, I'm not a junk dealer.
+
+npc.terraria:merchant.happiness.homeless=I don't have a place to set up shop, friend.
+npc.terraria:merchant.happiness.home.far=Boy, I need to get back to my merchandise!
+npc.terraria:merchant.happiness.sparse=This is nice, lots of privacy to store my wares.
+npc.terraria:merchant.happiness.npc.overcrowded.1=The number of neighbors has me a little unsettled.
+npc.terraria:merchant.happiness.npc.overcrowded.2=I hate how many people hang around, but none of them buy anything!
+npc.terraria:merchant.happiness.biome.forest=I like the scenery in Forest, a good view attracts customers!
+npc.terraria:merchant.happiness.biome.desert=Hmm, the Desert is a terrible place for business, I don't like it.
+npc.terraria:merchant.happiness.evil.corruption=I don't think I can sell goods to monsters in the Corruption!
+npc.terraria:merchant.happiness.evil.crimson=I don't think I can sell goods to monsters in the Crimson!
+npc.terraria:merchant.happiness.evil.dungeon=I don't think I can sell goods to monsters in the Dungeon!
+npc.terraria:merchant.happiness.npc.golfer=%s the Golfer makes loads of money, I like deep pockets.
+npc.terraria:merchant.happiness.npc.nurse=%s the Nurse makes loads of money, I like deep pockets.
+npc.terraria:merchant.happiness.npc.tax_collector=I dislike %s the Tax Collector, too frugal and doesn't ever buy my things.
+npc.terraria:merchant.happiness.npc.angler=I hate %s the Angler's terrible personality!
+npc.terraria:merchant.happiness.neutral=I'm feeling successful! Want to buy something?
+
+
+
+npc.terraria:demolitionist.name=Demolitionist
+npc.terraria:demolitionist=%s the Demolitionist
+npc.terraria:demolitionist.names=Bazdin,Beldin,Boften,Darur,Dias,Dolbere,Dolgen,Dolgrim,Duerthen,Durim,Fikod,Garval,Gimli,Gimut,Jarut,Morthal,Norkas,Norsun,Oten,Ovbere,Tordak,Urist
+
+npc.terraria:demolitionist.interact.1=Explosives are da' bomb these days. Buy some now!
+npc.terraria:demolitionist.interact.2=It's a good day to die!
+npc.terraria:demolitionist.interact.3=I wonder what happens if I... (BOOM!)... Oh, sorry, did you need that leg?
+npc.terraria:demolitionist.interact.4=Dynamite, my own special cure-all for what ails ya.
+npc.terraria:demolitionist.interact.5=Check out my goods; they have explosive prices!
+
+npc.terraria:demolitionist.corrupt=Trying to get past that Corruption, eh? Why not introduce it to one of these explosives!
+npc.terraria:demolitionist.crimson=Trying to get past that Crimson, eh? Why not introduce it to one of these explosives!
+npc.terraria:demolitionist.npc.dryad=Why purify the world when you can just blow it up?
+npc.terraria:demolitionist.npc.nurse=I'm sure %s will help if you accidentally lose a limb to these.
+npc.terraria:demolitionist.npc.arms_dealer.1=Even %s wants what I'm selling!
+npc.terraria:demolitionist.npc.arms_dealer.2=Would you rather have a bullet hole or a grenade hole? That's what I thought.
+npc.terraria:demolitionist.npc.arms_dealer.3=Let's strap %s to a rocket and see what happens!
+npc.terraria:demolitionist.night.1=If you throw this one in the bathtub and close all the windows, it'll clear your sinuses and pop your ears!
+npc.terraria:demolitionist.night.2=Wanna play Fuse Chicken?
+npc.terraria:demolitionist.night.3=Hey, could you sign this Griefing Waiver?
+npc.terraria:demolitionist.night.4=NO SMOKING IN HERE!!
+npc.terraria:demolitionist.bloodmoon.1=Hey, have you seen a clown around?
+npc.terraria:demolitionist.bloodmoon.2=There was a bomb sitting right here, and now I can't seem to find it...
+npc.terraria:demolitionist.bloodmoon.3=I've got something for them zombies alright!
+npc.terraria:demolitionist.party=You might want to be careful today. Us dwarves tend to have pretty explosive parties.
+npc.terraria:demolitionist.ooa.1=I don't see why we can't just blow up those portals.
+npc.terraria:demolitionist.rain.1=This is a terrible day to be a dwarf.
+npc.terraria:demolitionist.rain.2=ARGH! Another fuse put out by all this wet stuff! This never happens underground!
+npc.terraria:demolitionist.thunderstorm.1=You shoulda seen it when lightning struck one of my carts filled with explosives!
+npc.terraria:demolitionist.thunderstorm.2=BOOM! Even mother nature likes a taste of gratifying demolition!
+npc.terraria:demolitionist.windyday.1=Now might not be the best time to lob grenades on the surface, my tall friend!
+npc.terraria:demolitionist.windyday.2=You want boomerang bombs? Throw some out in that gust, they'll come back to you alright!
+npc.terraria:demolitionist.graveyard.1=The stench of death here is worse than the skeleton-infested caverns where I work!
+npc.terraria:demolitionist.graveyard.2=All these piles of bones and stones... perfect for blowin' up!
+
+npc.terraria:demolitionist.happiness.homeless=I don't have a place to live, did I blow up my last one?
+npc.terraria:demolitionist.happiness.home.far=I need more BOOM, I think I left it way back at home.
+npc.terraria:demolitionist.happiness.sparse=Ah, no one around - I can test new bombs without creating a graveyard for limbs!
+npc.terraria:demolitionist.happiness.npc.overcrowded.1=I dislike the number of people here, for safety reasons, of course...
+npc.terraria:demolitionist.happiness.npc.overcrowded.2=Too many people around! One mistake making dynamite, and... well, they'd HATE the outcome!
+npc.terraria:demolitionist.happiness.biome.underground=Dwarves are naturally drawn to the Underground, it's in our blood!
+npc.terraria:demolitionist.happiness.biome.ocean=I can't stand the Ocean, my fuses have trouble igniting here!
+npc.terraria:demolitionist.happiness.evil.corruption=It reeks of death and malice in the Corruption, I wanna blast holes everywhere!
+npc.terraria:demolitionist.happiness.evil.crimson=It reeks of death and malice in the Crimson, I wanna blast holes everywhere!
+npc.terraria:demolitionist.happiness.evil.dungeon=It reeks of death and malice in the Dungeon, I wanna blast holes everywhere!
+npc.terraria:demolitionist.happiness.npc.tavernkeep=I love how well %s the Tavernkeep can handle a container of fireball!
+npc.terraria:demolitionist.happiness.npc.mechanic=%s the Mechanic is a good friend I like, helps me load the gunpowder!
+npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=I wanna strap %s the Goblin Tinkerer to a rocket and watch what happens!
+npc.terraria:demolitionist.happiness.npc.arms_dealer=I wanna strap %s the Arms Dealer to a rocket and watch what happens!
+npc.terraria:demolitionist.happiness.neutral=Well, I don't feel like exploding today!
+
+##################
