@@ -418,6 +418,7 @@ item.terraria:rotten_egg.name=Rotten Egg
 item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
 item.terraria:tungsten_bullet.name=Tungsten Bullet
+item.terraria:illegal_gun_parts.name=Illegal Gun Parts
 
 #################
 
@@ -1048,6 +1049,7 @@ tooltip.terraria:bloody_tear=What a horrible night to have a curse.
 tooltip.terraria:solar_tablet=Summons the Eclipse
 tooltip.terraria:holy_hand_grenade=The Lord's chosen weapon
 tooltip.terraria:rotten_egg=Best used for pranking townsfolk
+tooltip.terraria:illegal_gun_parts=Banned in most places
 
 tooltip.terraria:star_cannon=Shoots fallen stars
 tooltip.terraria:cursed_flame=Not even water can put the flame out
@@ -1169,6 +1171,7 @@ house.terraria:chairs=No chairs found in house!
 house.terraria:ok=This is suitable home.
 
 gui.terraria:buy=Buy for
+gui.terraria:nurse.heal=Heal for
 
 ################
 
@@ -1221,6 +1224,7 @@ npc.terraria:ui.vending=Shop
 npc.terraria:ui.happiness=Happiness
 npc.terraria:ui.close=Close
 npc.terraria:ui.advice=Help
+npc.terraria:ui.heal=Heal
 
 npc.terraria:guide.name=Guide
 npc.terraria:guide=%s the Guide
@@ -1337,5 +1341,107 @@ npc.terraria:demolitionist.happiness.npc.mechanic=%s the Mechanic is a good frie
 npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=I wanna strap %s the Goblin Tinkerer to a rocket and watch what happens!
 npc.terraria:demolitionist.happiness.npc.arms_dealer=I wanna strap %s the Arms Dealer to a rocket and watch what happens!
 npc.terraria:demolitionist.happiness.neutral=Well, I don't feel like exploding today!
+
+
+
+npc.terraria:nurse.name=Nurse
+npc.terraria:nurse=%s the Nurse
+npc.terraria:nurse.names=Abigail,Allison,Amy,Caitlin,Carly,Claire,Emily,Emma,Hannah,Heather,Helen,Holly,Jenna,Kaitlin,Kaitlyn,Katelyn,Katherine,Kathryn,Katie,Kayla,Lisa,Lorraine,Madeline,Molly
+
+npc.terraria:nurse.interact.1=Turn your head and cough.
+npc.terraria:nurse.interact.2=That's not the biggest I've ever seen... Yes, I've seen bigger wounds for sure.
+npc.terraria:nurse.interact.3=Would you like a lollipop?
+npc.terraria:nurse.interact.4=Show me where it hurts.
+npc.terraria:nurse.rain.1=Great! Now my uniform is all wet. Stop staring!
+npc.terraria:nurse.rain.2=If you stay out there too long, you'll catch a cold!
+npc.terraria:nurse.thunderstorm.1=I do not perform shock therapy, just go stand outside under a tree!
+npc.terraria:nurse.thunderstorm.2=Just stay inside! I've already treated too many electrocuted patients today.
+npc.terraria:nurse.windyday.1=I been chasing my medical supplies all day. This gale is keeping me fit!
+npc.terraria:nurse.windyday.2=This breeze is really extra right now! Beware of flying needles.
+npc.terraria:nurse.graveyard.1=Ahh!! I'd rather be working at an abandoned hospital than hanging around here!
+npc.terraria:nurse.graveyard.2=This place creeps me out, and I can't treat dead patients!
+npc.terraria:nurse.npc.guide=I need to have a serious talk with %s. How many times a week can you come in with severe lava burns?
+npc.terraria:nurse.npc.clothier=Have you seen that old man pacing around the dungeon? He looks troubled.
+npc.terraria:nurse.npc.demolitionist=I wish %s would be more careful. I'm getting tired of having to sew his limbs back on every day.
+npc.terraria:nurse.npc.arms_dealer=Hey, has %s mentioned needing to go to the doctor for any reason? Just wondering.
+npc.terraria:nurse.npc.tavernkeep=I keep asking for wine, but all %s gives me are mugs of ale.
+npc.terraria:nurse.hp.33.1=What is that supposed to mean?!
+npc.terraria:nurse.hp.33.2=I don't think I like your tone.
+npc.terraria:nurse.hp.33.3=Why are you even here? If you aren't bleeding, you don't need to be here. Get out.
+npc.terraria:nurse.hp.33.4=WHAT?!
+npc.terraria:nurse.hp.01.1=You better not get blood on me.
+npc.terraria:nurse.hp.01.2=Hurry up and stop bleeding.
+npc.terraria:nurse.hp.01.3=If you're going to die, do it outside.
+
+npc.terraria:nurse.heal.99=That didn't hurt too bad, now did it?
+npc.terraria:nurse.heal.75=All better. I don't want to see you jumping off anymore cliffs.
+npc.terraria:nurse.heal.50=That's probably going to leave a scar.
+npc.terraria:nurse.heal.25=I managed to sew your face back on. Be more careful next time.
+npc.terraria:nurse.fullhp.1=I don't give happy endings.
+npc.terraria:nurse.fullhp.2=I can't do anymore for you without plastic surgery.
+npc.terraria:nurse.fullhp.3=Quit wasting my time.
+npc.terraria:nurse.nocoins.1=I'm sorry, but you can't afford me.
+npc.terraria:nurse.nocoins.2=I'm gonna need more gold than that.
+npc.terraria:nurse.nocoins.3=I don't work for free you know.
+
+npc.terraria:nurse.happiness.homeless=Tch, not having a house REALLY puts me in a bad mood.
+npc.terraria:nurse.happiness.home.far=I'm TOO FAR from my house, I hate all this walking.
+npc.terraria:nurse.happiness.sparse=These digs are great - loving the personal space.
+npc.terraria:nurse.happiness.npc.overcrowded.1=Hey, I dislike the lack of social distancing here.
+npc.terraria:nurse.happiness.npc.overcrowded.2=UGH, I hate how unhealthy it is to cram so many people in one place!
+npc.terraria:nurse.happiness.biome.hallow=I like how the Hallow is a beautiful place to get daily exercise.
+npc.terraria:nurse.happiness.biome.snow=Eww, I don't like the Snow's propensity for illness.
+npc.terraria:nurse.happiness.evil.corruption=Yuck, the Corruption is extremely putrid and filthy, it'll make me sick!
+npc.terraria:nurse.happiness.evil.crimson=Yuck, the Crimson is extremely putrid and filthy, it'll make me sick!
+npc.terraria:nurse.happiness.evil.dungeon=Yuck, the Dungeon is extremely putrid and filthy, it'll make me sick!
+npc.terraria:nurse.happiness.npc.arms_dealer=What? %s the Arms Dealer? I don't have a crush! I don't! Shut up!
+npc.terraria:nurse.happiness.npc.wizard=%s the Wizard is a smart and likeable goof.
+npc.terraria:nurse.happiness.npc.dryad=I don't like %s the Dryad that much, kinda weirds me out.
+npc.terraria:nurse.happiness.npc.party_girl=I don't like %s the Party Girl that much, kinda weirds me out.
+npc.terraria:nurse.happiness.npc.zoologist=I hate treating %s the Zoologist, so difficult!
+npc.terraria:nurse.happiness.neutral=My vital signs are normal, if that's what you're asking.
+
+
+
+npc.terraria:arms_dealer.name=Arms Dealer
+npc.terraria:arms_dealer=%s the Arms Dealer
+npc.terraria:arms_dealer.names=Andre,Brimst,Bronson,Dante,Darius,Darnell,Darryl,DeAndre,Demetrius,DeShawn,Dominique,Jalen,Jamal,Malik,Marquis,Maurice,Reginald,Terrance,Terrell,Tony,Trevon,Tyrone,Willie,Xavier
+
+npc.terraria:arms_dealer.interact.1=Keep your hands off my gun, buddy!
+npc.terraria:arms_dealer.interact.2=Hey, this ain't a movie, pal. Ammo is extra.
+npc.terraria:arms_dealer.interact.3=I see you're eyeballin' the Minishark.. You really don't want to know how it was made.
+npc.terraria:arms_dealer.rain.1=Heard a rumor that some clouds are literally out to get you! Show 'em whose boss with one of my guns!
+npc.terraria:arms_dealer.rain.2=Flying fish? I call that target practice!
+npc.terraria:arms_dealer.thunderstorm.1=A lightning gun? Don't have time for that, man. I love my bullets!
+npc.terraria:arms_dealer.thunderstorm.2=If you time it right, no one will hear your gunshots with the thunder.
+npc.terraria:arms_dealer.windyday.1=Was tryin' out my new gun, but the wind kept me off target!
+npc.terraria:arms_dealer.windyday.2=Don't spray and pray in the wind, buddy!
+npc.terraria:arms_dealer.graveyard.1=I hate places like this. I can't kill what's already dead!
+npc.terraria:arms_dealer.graveyard.2=If you see any suspicious activity out in that fog, I wasn't involved.
+npc.terraria:arms_dealer.bloodmoon.1=I love nights like tonight. There is never a shortage of things to kill!
+npc.terraria:arms_dealer.bloodmoon.2=Man, it's a good night not to talk to anybody, don't you think, %s?
+npc.terraria:arms_dealer.npc.nurse.1=Make it quick! I've got a date with %s in an hour.
+npc.terraria:arms_dealer.npc.nurse.2=I want what %s is sellin'. What do you mean, she doesn't sell anything?
+npc.terraria:arms_dealer.npc.dryad=%s is a looker. Too bad she's such a prude.
+npc.terraria:arms_dealer.npc.demolitionist.1=Don't bother with %s, I've got all you need right here.
+npc.terraria:arms_dealer.npc.demolitionist.2=What's %s's problem? Does he even realize we sell completely different stuff?
+npc.terraria:arms_dealer.npc.guide=I heard there is a doll that looks very similar to %s somewhere in the underworld. I'd like to put a few rounds in it.
+
+
+npc.terraria:arms_dealer.happiness.homeless=I don't have a place to stay, pal!
+npc.terraria:arms_dealer.happiness.home.far=I don't like doin' business this far from home.
+npc.terraria:arms_dealer.happiness.sparse=This is what I'm talkin' about, privacy!
+npc.terraria:arms_dealer.happiness.npc.overcrowded.1=Shh, I think there's some people nearby, don't like doin' my deals here.
+npc.terraria:arms_dealer.happiness.npc.overcrowded.2=Hey, I can't do what I do with so many people watchin' me.
+npc.terraria:arms_dealer.happiness.biome.desert=Ya know, the Desert is secluded and great for business, if you catch my drift.
+npc.terraria:arms_dealer.happiness.biome.snow=Yeah, no, the Snow makes me very uncomfortable.
+npc.terraria:arms_dealer.happiness.evil.corruption=I hate the Corruption - hunting isn't quite as fun if you're the prey!
+npc.terraria:arms_dealer.happiness.evil.crimson=I hate the Crimson - hunting isn't quite as fun if you're the prey!
+npc.terraria:arms_dealer.happiness.evil.dungeon=I hate the Dungeon - hunting isn't quite as fun if you're the prey!
+npc.terraria:arms_dealer.happiness.npc.nurse=Think %s the Nurse ever, ya know, checks me out?
+npc.terraria:arms_dealer.happiness.npc.steampunker=Yeah, I like %s the Steampunker, wicked cool person.
+npc.terraria:arms_dealer.happiness.npc.golfer=I don't really like %s the Golfer bein' on my turf, ya know?
+npc.terraria:arms_dealer.happiness.npc.demolitionist=I'd REALLY like to use %s the Demolitionist as a range target sometime.
+npc.terraria:arms_dealer.happiness.neutral=I'm good, buddy!
 
 ##################
