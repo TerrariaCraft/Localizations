@@ -348,7 +348,6 @@ item.terraria:armor/molten/legs.name=熔岩护胫
 item.terraria:armor/dev_ashryman/helm.name=Ashryman的亵渎之盔
 item.terraria:armor/dev_ashryman/body.name=Ashryman的英勇胸膛
 item.terraria:armor/dev_ashryman/legs.name=Ashryman的凯旋长靴
-item.terraria:armor/dev_ashryman.desc=曾经被黑暗之魂吞噬的英雄所穿
 item.terraria:wings/dev_ashryman.name=Ashryman的荣耀之翼
 item.terraria:armor/boreal_wood/helm.name=针叶木头盔
 item.terraria:armor/boreal_wood/body.name=针叶木胸甲
@@ -419,6 +418,10 @@ item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
 item.terraria:tungsten_bullet.name=Tungsten Bullet
 item.terraria:illegal_gun_parts.name=Illegal Gun Parts
+item.terraria:shotgun.name=Shotgun
+item.terraria:sandgun.name=Sandgun
+item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
+item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
 
 #################
 
@@ -885,6 +888,15 @@ tile.terraria:bars/titanium.name=钛金锭
 tile.terraria:bars/shroomite.name=蘑菇矿锭
 tile.terraria:bars/spectre.name=幽灵锭
 tile.terraria:bars/luminite.name=夜明锭
+tile.terraria:smooth_sandstone.name=Smooth Sandstone
+tile.terraria:furniture/bookcases/sandstone.name=Sandstone Bookcase
+tile.terraria:bricks/blue.name=Blue Brick
+tile.terraria:bricks/green.name=Green Brick
+tile.terraria:bricks/pink.name=Pink Brick
+tile.terraria:furniture/bookcases/golden.name=Golden Bookcase
+tile.terraria:mushroom_green.name=Green Mushroom
+tile.terraria:mushroom_teal.name=Teal Mushroom
+tile.terraria:dye_vat.name=Dye Vat
 
 ##################
 
@@ -986,6 +998,12 @@ tooltip.terraria:buff.gravitation=按%s可逆转重力
 buff.banner.name=旗帜
 tooltip.terraria:buff.banner=伤害和防御力因下列原因增加：
 
+buff.chilled.name=Chilled
+tooltip.terraria:buff.chilled=Your movement speed has been reduced
+
+buff.frozen.name=Frozen
+tooltip.terraria:buff.frozen=You can't move!
+
 #################
 
 
@@ -1050,6 +1068,8 @@ tooltip.terraria:solar_tablet=召唤日食
 tooltip.terraria:holy_hand_grenade=上帝的选择
 tooltip.terraria:rotten_egg=Best used for pranking townsfolk
 tooltip.terraria:illegal_gun_parts=Banned in most places
+tooltip.terraria:shotgun=Fires a spread of bullets
+tooltip.terraria:sandgun=This is a good idea!
 
 tooltip.terraria:star_cannon=射出坠落之星
 tooltip.terraria:cursed_flame=用水也无法扑灭
@@ -1064,9 +1084,16 @@ tooltip.terraria:rotten_chunk=看上去很好吃！
 tooltip.terraria:ichor=The blood of gods
 tooltip.terraria:empty_bullet=用于制作各种弹药
 
+tooltip.terraria:mushroom_green=Used to make Green Dye
+tooltip.terraria:mushroom_teal=Used to make Teal Dye
+tooltip.terraria:dye_vat=Used to Craft Dyes
+
+tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
+
 tooltip.terraria:armor/dev_jae/helm=罐子.
 tooltip.terraria:armor/dev_jae/body=需要氧气
 tooltip.terraria:armor/dev_jae/legs=是的，我可以
+tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 
 speed.terraria:insanely_fast=超快速度
 speed.terraria:very_fast=很快速度
@@ -1215,6 +1242,8 @@ entity.terraria:drippler.name=滴滴怪
 entity.terraria:jungle_slime.name=丛林史莱姆
 entity.terraria:eater_of_souls.name=噬魂怪
 entity.terraria:crimera.name=猩红喀迈拉
+entity.terraria:ice_slime.name=Ice Slime
+entity.terraria:ice_slime_spiked.name=Spiked Ice Slime
 
 ####################
 

@@ -348,7 +348,6 @@ item.terraria:armor/molten/legs.name=Quần Nóng Chảy
 item.terraria:armor/dev_ashryman/helm.name=Ashryman's Helm of Infamy
 item.terraria:armor/dev_ashryman/body.name=Ashryman's Chest of Valor
 item.terraria:armor/dev_ashryman/legs.name=Ashryman's Boots of Triumph
-item.terraria:armor/dev_ashryman.desc=Once worn by a hero consumed by the spirits of darkness
 item.terraria:wings/dev_ashryman.name=Ashryman's Wings of Glory
 item.terraria:armor/boreal_wood/helm.name=Mũ Gỗ Phương Bắc
 item.terraria:armor/boreal_wood/body.name=Giáp Gỗ Phương Bắc
@@ -419,6 +418,10 @@ item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
 item.terraria:tungsten_bullet.name=Tungsten Bullet
 item.terraria:illegal_gun_parts.name=Illegal Gun Parts
+item.terraria:shotgun.name=Shotgun
+item.terraria:sandgun.name=Sandgun
+item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
+item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
 
 #################
 
@@ -885,6 +888,15 @@ tile.terraria:bars/titanium.name=Thỏi Titan
 tile.terraria:bars/shroomite.name=Thỏi Nấm
 tile.terraria:bars/spectre.name=Thỏi Ma
 tile.terraria:bars/luminite.name=Thỏi Luminite
+tile.terraria:smooth_sandstone.name=Smooth Sandstone
+tile.terraria:furniture/bookcases/sandstone.name=Sandstone Bookcase
+tile.terraria:bricks/blue.name=Blue Brick
+tile.terraria:bricks/green.name=Green Brick
+tile.terraria:bricks/pink.name=Pink Brick
+tile.terraria:furniture/bookcases/golden.name=Golden Bookcase
+tile.terraria:mushroom_green.name=Green Mushroom
+tile.terraria:mushroom_teal.name=Teal Mushroom
+tile.terraria:dye_vat.name=Dye Vat
 
 ##################
 
@@ -986,6 +998,12 @@ tooltip.terraria:buff.gravitation=Nhấn %s Để Đảo Trọng Lực
 buff.banner.name=Biểu Ngữ
 tooltip.terraria:buff.banner=Tăng Sát Thương Và Phòng Thủ Đối Với:
 
+buff.chilled.name=Chilled
+tooltip.terraria:buff.chilled=Your movement speed has been reduced
+
+buff.frozen.name=Frozen
+tooltip.terraria:buff.frozen=You can't move!
+
 #################
 
 
@@ -1050,6 +1068,8 @@ tooltip.terraria:solar_tablet=Triệu hồi nhật thực
 tooltip.terraria:holy_hand_grenade=Vũ khí của chúa
 tooltip.terraria:rotten_egg=Best used for pranking townsfolk
 tooltip.terraria:illegal_gun_parts=Banned in most places
+tooltip.terraria:shotgun=Fires a spread of bullets
+tooltip.terraria:sandgun=This is a good idea!
 
 tooltip.terraria:star_cannon=Bắn ra sao băng
 tooltip.terraria:cursed_flame=Cả nước cũng không dập tắt được ngọn lửa này
@@ -1064,9 +1084,16 @@ tooltip.terraria:rotten_chunk=Trông ngon đấy!
 tooltip.terraria:ichor=Máu của những vị thần
 tooltip.terraria:empty_bullet=Dùng để chế tạo nhiều loại đạn
 
+tooltip.terraria:mushroom_green=Used to make Green Dye
+tooltip.terraria:mushroom_teal=Used to make Teal Dye
+tooltip.terraria:dye_vat=Used to Craft Dyes
+
+tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
+
 tooltip.terraria:armor/dev_jae/helm=jar.
 tooltip.terraria:armor/dev_jae/body=need oxygen
 tooltip.terraria:armor/dev_jae/legs=yes, very
+tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 
 speed.terraria:insanely_fast=Cực kì nhanh
 speed.terraria:very_fast=Rất nhanh
@@ -1215,6 +1242,8 @@ entity.terraria:drippler.name=Drippler
 entity.terraria:jungle_slime.name=Slime Rừng
 entity.terraria:eater_of_souls.name=Kẻ Cắp Linh Hồn
 entity.terraria:crimera.name=Crimera
+entity.terraria:ice_slime.name=Ice Slime
+entity.terraria:ice_slime_spiked.name=Spiked Ice Slime
 
 ####################
 

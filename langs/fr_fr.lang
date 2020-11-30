@@ -348,7 +348,6 @@ item.terraria:armor/molten/legs.name=Grèves en fusion
 item.terraria:armor/dev_ashryman/helm.name=Ashryman's Helm of Infamy
 item.terraria:armor/dev_ashryman/body.name=Ashryman's Chest of Valor
 item.terraria:armor/dev_ashryman/legs.name=Ashryman's Boots of Triumph
-item.terraria:armor/dev_ashryman.desc=Once worn by a hero consumed by the spirits of darkness
 item.terraria:wings/dev_ashryman.name=Ailes d'Ashryman
 item.terraria:armor/boreal_wood/helm.name=Casque en bois boréal
 item.terraria:armor/boreal_wood/body.name=Plastron en bois boréal
@@ -419,6 +418,10 @@ item.terraria:spiky_ball.name=Spiky Ball
 item.terraria:star_anise.name=Star Anise
 item.terraria:tungsten_bullet.name=Tungsten Bullet
 item.terraria:illegal_gun_parts.name=Illegal Gun Parts
+item.terraria:shotgun.name=Shotgun
+item.terraria:sandgun.name=Sandgun
+item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
+item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
 
 #################
 
@@ -885,6 +888,15 @@ tile.terraria:bars/titanium.name=Lingot de titane
 tile.terraria:bars/shroomite.name=Lingot de champignite
 tile.terraria:bars/spectre.name=Lingot spectral
 tile.terraria:bars/luminite.name=Lingot de luminite
+tile.terraria:smooth_sandstone.name=Smooth Sandstone
+tile.terraria:furniture/bookcases/sandstone.name=Sandstone Bookcase
+tile.terraria:bricks/blue.name=Blue Brick
+tile.terraria:bricks/green.name=Green Brick
+tile.terraria:bricks/pink.name=Pink Brick
+tile.terraria:furniture/bookcases/golden.name=Golden Bookcase
+tile.terraria:mushroom_green.name=Green Mushroom
+tile.terraria:mushroom_teal.name=Teal Mushroom
+tile.terraria:dye_vat.name=Dye Vat
 
 ##################
 
@@ -986,6 +998,12 @@ tooltip.terraria:buff.gravitation=Appuyez sur %s pour inverser la gravité
 buff.banner.name=Bannière
 tooltip.terraria:buff.banner=Augmentation des dégâts et de la défense contre les éléments suivants :
 
+buff.chilled.name=Chilled
+tooltip.terraria:buff.chilled=Your movement speed has been reduced
+
+buff.frozen.name=Frozen
+tooltip.terraria:buff.frozen=You can't move!
+
 #################
 
 
@@ -1050,6 +1068,8 @@ tooltip.terraria:solar_tablet=Summons the Eclipse
 tooltip.terraria:holy_hand_grenade=The Lord's chosen weapon
 tooltip.terraria:rotten_egg=Best used for pranking townsfolk
 tooltip.terraria:illegal_gun_parts=Banned in most places
+tooltip.terraria:shotgun=Fires a spread of bullets
+tooltip.terraria:sandgun=This is a good idea!
 
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme
@@ -1064,9 +1084,16 @@ tooltip.terraria:rotten_chunk=Ça a l'air délicieux !
 tooltip.terraria:ichor=Le sang des dieux
 tooltip.terraria:empty_bullet=Utilisé pour fabriquer différents types de munitions
 
+tooltip.terraria:mushroom_green=Used to make Green Dye
+tooltip.terraria:mushroom_teal=Used to make Teal Dye
+tooltip.terraria:dye_vat=Used to Craft Dyes
+
+tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
+
 tooltip.terraria:armor/dev_jae/helm=jar.
 tooltip.terraria:armor/dev_jae/body=besoin d'oxygène
 tooltip.terraria:armor/dev_jae/legs=oui, vraiment
+tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 
 speed.terraria:insanely_fast=Vitesse incroyablement rapide
 speed.terraria:very_fast=Vitesse très rapide
@@ -1215,6 +1242,8 @@ entity.terraria:drippler.name=Dégoulineur
 entity.terraria:jungle_slime.name=Slime de la jungle
 entity.terraria:eater_of_souls.name=Dévoreur d’âme
 entity.terraria:crimera.name=Carminera
+entity.terraria:ice_slime.name=Ice Slime
+entity.terraria:ice_slime_spiked.name=Spiked Ice Slime
 
 ####################
 

@@ -348,7 +348,6 @@ item.terraria:armor/molten/legs.name=Литые ботинки
 item.terraria:armor/dev_ashryman/helm.name=Шлем позора Аширмана
 item.terraria:armor/dev_ashryman/body.name=Нагрудник доблести Аширмана
 item.terraria:armor/dev_ashryman/legs.name=Ботинки триумфа Аширмана
-item.terraria:armor/dev_ashryman.desc=Когда-то носил герой, поглощенный духами тьмы
 item.terraria:wings/dev_ashryman.name=Крылья Аширмана
 item.terraria:armor/boreal_wood/helm.name=Шлем из заснеженной древесины
 item.terraria:armor/boreal_wood/body.name=Нагрудник из заснеженной древесины
@@ -419,6 +418,10 @@ item.terraria:spiky_ball.name=Колючий шар
 item.terraria:star_anise.name=Анисовая звёздочка
 item.terraria:tungsten_bullet.name=Вольфрамовая пуля
 item.terraria:illegal_gun_parts.name=Illegal Gun Parts
+item.terraria:shotgun.name=Shotgun
+item.terraria:sandgun.name=Sandgun
+item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
+item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
 
 #################
 
@@ -885,6 +888,15 @@ tile.terraria:bars/titanium.name=Титановый слиток
 tile.terraria:bars/shroomite.name=Грибной слиток
 tile.terraria:bars/spectre.name=Спектральный слиток
 tile.terraria:bars/luminite.name=Люминитовый слиток
+tile.terraria:smooth_sandstone.name=Smooth Sandstone
+tile.terraria:furniture/bookcases/sandstone.name=Sandstone Bookcase
+tile.terraria:bricks/blue.name=Blue Brick
+tile.terraria:bricks/green.name=Green Brick
+tile.terraria:bricks/pink.name=Pink Brick
+tile.terraria:furniture/bookcases/golden.name=Golden Bookcase
+tile.terraria:mushroom_green.name=Green Mushroom
+tile.terraria:mushroom_teal.name=Teal Mushroom
+tile.terraria:dye_vat.name=Dye Vat
 
 ##################
 
@@ -986,6 +998,12 @@ tooltip.terraria:buff.gravitation=Нажмите кнопку %s для обра
 buff.banner.name=Знамя
 tooltip.terraria:buff.banner=Увеличен урон и защита от следующего:
 
+buff.chilled.name=Chilled
+tooltip.terraria:buff.chilled=Your movement speed has been reduced
+
+buff.frozen.name=Frozen
+tooltip.terraria:buff.frozen=You can't move!
+
 #################
 
 
@@ -1050,6 +1068,8 @@ tooltip.terraria:solar_tablet=Призывает солнечное затмен
 tooltip.terraria:holy_hand_grenade=Это выбранное Лордом оружее
 tooltip.terraria:rotten_egg=Отлично подходит для розыгрышей горожан
 tooltip.terraria:illegal_gun_parts=Banned in most places
+tooltip.terraria:shotgun=Fires a spread of bullets
+tooltip.terraria:sandgun=This is a good idea!
 
 tooltip.terraria:star_cannon=Стреляет падающими звездами
 tooltip.terraria:cursed_flame=Даже вода не может потушить пламя
@@ -1064,9 +1084,16 @@ tooltip.terraria:rotten_chunk=Выглядит вкусно!
 tooltip.terraria:ichor=Кровь богов
 tooltip.terraria:empty_bullet=Используется для создания различных типов боеприпасов
 
+tooltip.terraria:mushroom_green=Used to make Green Dye
+tooltip.terraria:mushroom_teal=Used to make Teal Dye
+tooltip.terraria:dye_vat=Used to Craft Dyes
+
+tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
+
 tooltip.terraria:armor/dev_jae/helm=банка.
 tooltip.terraria:armor/dev_jae/body=нужен кислород
 tooltip.terraria:armor/dev_jae/legs=да, очень
+tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 
 speed.terraria:insanely_fast=Невероятно высокая скорость
 speed.terraria:very_fast=Очень высокая скорость
@@ -1215,6 +1242,8 @@ entity.terraria:drippler.name=Стекатель
 entity.terraria:jungle_slime.name=Слизень джунглей
 entity.terraria:eater_of_souls.name=Пожиратель душ
 entity.terraria:crimera.name=Кримера
+entity.terraria:ice_slime.name=Ice Slime
+entity.terraria:ice_slime_spiked.name=Spiked Ice Slime
 
 ####################
 
