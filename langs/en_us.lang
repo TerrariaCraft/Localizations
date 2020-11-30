@@ -423,9 +423,12 @@ item.terraria:sandgun.name=Sandgun
 item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
 item.terraria:dyes/negative.name=Negative Dye
+item.terraria:dyes/black.name=Black Dye
+item.terraria:dyes/brown.name=Brown Dye
 item.terraria:husk_red.name=Red Husk
 item.terraria:husk_cyan.name=Cyan Husk
 item.terraria:husk_violet.name=Violet Husk
+item.terraria:black_ink.name=Black Ink
 
 #################
 
@@ -1091,8 +1094,10 @@ tooltip.terraria:empty_bullet=Used to craft various types of ammo
 tooltip.terraria:husk_red=Used to make Red Dye
 tooltip.terraria:husk_cyan=Used to make Cyan Dye
 tooltip.terraria:husk_violet=Used to make Violet Dye
+tooltip.terraria:pink_prickly_pear=Used to make Pink Dye
 tooltip.terraria:mushroom_green=Used to make Green Dye
 tooltip.terraria:mushroom_teal=Used to make Teal Dye
+tooltip.terraria:black_ink=Used to make Black Dye
 tooltip.terraria:dye_vat=Used to Craft Dyes
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
@@ -1479,5 +1484,41 @@ npc.terraria:arms_dealer.happiness.npc.steampunker=Yeah, I like %s the Steampunk
 npc.terraria:arms_dealer.happiness.npc.golfer=I don't really like %s the Golfer bein' on my turf, ya know?
 npc.terraria:arms_dealer.happiness.npc.demolitionist=I'd REALLY like to use %s the Demolitionist as a range target sometime.
 npc.terraria:arms_dealer.happiness.neutral=I'm good, buddy!
+
+
+
+npc.terraria:dye_trader.name=Dye Trader
+npc.terraria:dye_trader=%s the Dye Trader
+npc.terraria:dye_trader.names=Abdosir,Ahinadab,Ahirom,Akbar,Batnoam,Bodashtart,Danel,Hannibal,Hanno,Hiram,Kanmi,Philosir,Sikarbaal,Tabnit,Yehomilk,Yutpan
+
+npc.terraria:dye_trader.interact.1=I bring you the richest colors in exchange for your riches!
+npc.terraria:dye_trader.interact.2=My dear, what you're wearing is much too drab. You absolutely must take a lesson in dyeing your tired attire!
+npc.terraria:dye_trader.interact.3=The only kind of wood I would bother dyeing is RICH Mahogany. Dyeing any other wood is such a waste.
+npc.terraria:dye_trader.rain.1=No, no, these robes cannot get wet! They will lose their vibrant color!
+npc.terraria:dye_trader.rain.2=Too much water dilutes my selection! This rain better pass, soon!
+npc.terraria:dye_trader.thunderstorm.1=Please, do tell when the wrath of nature has ended out there!
+npc.terraria:dye_trader.thunderstorm.2=Egads! I loathe these bothersome storms!
+npc.terraria:dye_trader.windyday.1=Give me a moment, my dear. I must secure my palette from the gusty gales!
+npc.terraria:dye_trader.windyday.2=Marvelous! The wind brings me petals of all colors!
+npc.terraria:dye_trader.graveyard.1=My, my... this is no good. The putrid surroundings are dulling my dye petals.
+npc.terraria:dye_trader.graveyard.2=You think this a place worthy of my presence? So drab, so dull, these people are literally below me.
+
+
+npc.terraria:dye_trader.happiness.homeless=No no, this will not do, need a place to call mine.
+npc.terraria:dye_trader.happiness.home.far=You think I can make brilliant colors so far from my shop? Don't think so!
+npc.terraria:dye_trader.happiness.sparse=My dear, this palace is quiet enough to sleep like a sultan!
+npc.terraria:dye_trader.happiness.npc.overcrowded.1=I truly dislike crowds, unless of course they are here for my vivid colors!
+npc.terraria:dye_trader.happiness.npc.overcrowded.2=When I'm not doing business, I'd much rather be alone, yes? I hate feeling crammed in!
+npc.terraria:dye_trader.happiness.biome.desert=Ahh, the Desert is really nice, reminds me of my home town, I like it very much so!
+npc.terraria:dye_trader.happiness.biome.forest=Oh no, the Forest does not inspire me, don't like, don't like.
+npc.terraria:dye_trader.happiness.evil.corruption=Gross, the Corruption is draining the color from my palettes!
+npc.terraria:dye_trader.happiness.evil.crimson=Gross, the Crimson is draining the color from my palettes!
+npc.terraria:dye_trader.happiness.evil.dungeon=Gross, the Dungeon is draining the color from my palettes!
+npc.terraria:dye_trader.happiness.npc.princess=The hues on %s the Princess’s dress are deeper and more vivid than I’ve ever seen in my entire life!
+npc.terraria:dye_trader.happiness.npc.arms_dealer=%s the Arms Dealer has good eyes for vividness and business, I like it, yes?
+npc.terraria:dye_trader.happiness.npc.painter=%s the Painter has good eyes for vividness and business, I like it, yes?
+npc.terraria:dye_trader.happiness.npc.steampunker=Oh dear, that %s the Steampunker has no sense of color or style, I don’t like.
+npc.terraria:dye_trader.happiness.npc.pirate=I truly, truly hate how unsavory %s the Pirate can be.
+npc.terraria:dye_trader.happiness.neutral=Me? I’m fine, I’m fine.
 
 ##################
