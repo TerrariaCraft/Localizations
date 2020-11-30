@@ -422,6 +422,10 @@ item.terraria:shotgun.name=Shotgun
 item.terraria:sandgun.name=Sandgun
 item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
+item.terraria:dyes/negative.name=Negative Dye
+item.terraria:husk_red.name=Red Husk
+item.terraria:husk_cyan.name=Cyan Husk
+item.terraria:husk_violet.name=Violet Husk
 
 #################
 
@@ -1084,6 +1088,9 @@ tooltip.terraria:rotten_chunk=Trông ngon đấy!
 tooltip.terraria:ichor=Máu của những vị thần
 tooltip.terraria:empty_bullet=Dùng để chế tạo nhiều loại đạn
 
+tooltip.terraria:husk_red=Used to make Red Dye
+tooltip.terraria:husk_cyan=Used to make Cyan Dye
+tooltip.terraria:husk_violet=Used to make Violet Dye
 tooltip.terraria:mushroom_green=Used to make Green Dye
 tooltip.terraria:mushroom_teal=Used to make Teal Dye
 tooltip.terraria:dye_vat=Used to Craft Dyes
