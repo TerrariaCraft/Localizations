@@ -233,14 +233,14 @@ item.terraria:tools/shortsword_platinum.name=Платиновый коротки
 item.terraria:wings/demon.name=Крылья демона
 item.terraria:wings/dev_zeith.name=Лапы Зейта
 item.terraria:wings/dev_flamb.name=Фламбовы Крылья
-item.terraria:wings/dev_jae.name=Крылья Джея
+item.terraria:wings/dev_jar.name=Крылья Джея
 item.terraria:wings/dev_ganza.name=Крылья Ганзы
 item.terraria:space_gun.name=Космическая пушка
 item.terraria:potions/magic_power.name=Зелье магической силы
-item.terraria:dev_jae_glock.name=Глок Джея
-item.terraria:armor/dev_jae/helm.name=Шлем Джея
-item.terraria:armor/dev_jae/body.name=Нагрудник Джея
-item.terraria:armor/dev_jae/legs.name=Ботинки Джея
+item.terraria:dev_jar_glock.name=Jar's Glock
+item.terraria:armor/dev_jar/helm.name=Шлем Джея
+item.terraria:armor/dev_jar/body.name=Нагрудник Джея
+item.terraria:armor/dev_jar/legs.name=Ботинки Джея
 item.terraria:tools/sword_wooden.name=Деревянный Меч
 item.terraria:tools/sword_boreal.name=Меч из заснеженной древесины
 item.terraria:tools/sword_palm.name=Меч из пальмовой древесины
@@ -1101,10 +1101,7 @@ tooltip.terraria:black_ink=Used to make Black Dye
 tooltip.terraria:dye_vat=Used to Craft Dyes
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
-
-tooltip.terraria:armor/dev_jae/helm=банка.
-tooltip.terraria:armor/dev_jae/body=нужен кислород
-tooltip.terraria:armor/dev_jae/legs=да, очень
+tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
 tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 
 speed.terraria:insanely_fast=Невероятно высокая скорость

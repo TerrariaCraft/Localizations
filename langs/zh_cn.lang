@@ -233,14 +233,14 @@ item.terraria:tools/shortsword_platinum.name=铂金短剑
 item.terraria:wings/demon.name=恶魔之翼
 item.terraria:wings/dev_zeith.name=Zeith的翅膀
 item.terraria:wings/dev_flamb.name=FLamb的翅膀
-item.terraria:wings/dev_jae.name=Jae的翅膀
+item.terraria:wings/dev_jar.name=Jae的翅膀
 item.terraria:wings/dev_ganza.name=Ganza的翅膀
 item.terraria:space_gun.name=太空枪
 item.terraria:potions/magic_power.name=魔能药水
-item.terraria:dev_jae_glock.name=Jae的左轮
-item.terraria:armor/dev_jae/helm.name=Jar的罐子
-item.terraria:armor/dev_jae/body.name=Jar的宇航服
-item.terraria:armor/dev_jae/legs.name=Jar的宇航护腿
+item.terraria:dev_jar_glock.name=Jar's Glock
+item.terraria:armor/dev_jar/helm.name=Jar的罐子
+item.terraria:armor/dev_jar/body.name=Jar的宇航服
+item.terraria:armor/dev_jar/legs.name=Jar的宇航护腿
 item.terraria:tools/sword_wooden.name=木剑
 item.terraria:tools/sword_boreal.name=针叶木剑
 item.terraria:tools/sword_palm.name=棕榈木剑
@@ -1101,10 +1101,7 @@ tooltip.terraria:black_ink=Used to make Black Dye
 tooltip.terraria:dye_vat=Used to Craft Dyes
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
-
-tooltip.terraria:armor/dev_jae/helm=罐子.
-tooltip.terraria:armor/dev_jae/body=需要氧气
-tooltip.terraria:armor/dev_jae/legs=是的，我可以
+tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
 tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 
 speed.terraria:insanely_fast=超快速度

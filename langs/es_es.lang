@@ -233,14 +233,14 @@ item.terraria:tools/shortsword_platinum.name=Espada Corta de Platino
 item.terraria:wings/demon.name=Alas Demoníacas
 item.terraria:wings/dev_zeith.name=Patas de Zeith
 item.terraria:wings/dev_flamb.name=Alas de Flamb
-item.terraria:wings/dev_jae.name=Alas de Jae
+item.terraria:wings/dev_jar.name=Alas de Jae
 item.terraria:wings/dev_ganza.name=Alas de Ganza
 item.terraria:space_gun.name=Pistola Espacial
 item.terraria:potions/magic_power.name=Poción de Poder Mágico
-item.terraria:dev_jae_glock.name=Pistola de Jae
-item.terraria:armor/dev_jae/helm.name=Casco de Jae
-item.terraria:armor/dev_jae/body.name=Peto de Jae
-item.terraria:armor/dev_jae/legs.name=Mallas de Jae
+item.terraria:dev_jar_glock.name=Jar's Glock
+item.terraria:armor/dev_jar/helm.name=Casco de Jae
+item.terraria:armor/dev_jar/body.name=Peto de Jae
+item.terraria:armor/dev_jar/legs.name=Mallas de Jae
 item.terraria:tools/sword_wooden.name=Espada de Madera
 item.terraria:tools/sword_boreal.name=Espada Boreal
 item.terraria:tools/sword_palm.name=Espada de Palma
@@ -1101,10 +1101,7 @@ tooltip.terraria:black_ink=Used to make Black Dye
 tooltip.terraria:dye_vat=Used to Craft Dyes
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
-
-tooltip.terraria:armor/dev_jae/helm=jar.
-tooltip.terraria:armor/dev_jae/body=need oxygen
-tooltip.terraria:armor/dev_jae/legs=yes, very
+tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
 tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 
 speed.terraria:insanely_fast=Velocidad Insanamente Rápida
