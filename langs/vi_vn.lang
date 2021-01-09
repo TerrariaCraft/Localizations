@@ -429,6 +429,8 @@ item.terraria:husk_red.name=Red Husk
 item.terraria:husk_cyan.name=Cyan Husk
 item.terraria:husk_violet.name=Violet Husk
 item.terraria:black_ink.name=Black Ink
+item.terraria:tools/pickaxe_iron.name=Iron Pickaxe
+item.terraria:tools/sword_iron.name=Iron Broadsword
 
 #################
 
