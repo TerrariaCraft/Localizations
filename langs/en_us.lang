@@ -5,6 +5,9 @@ itemGroup.terraria:weapons=Terraria Craft: Weapons
 itemGroup.terraria:accessories=Terraria Craft: Accessories
 itemGroup.terraria:blocks=Terraria Craft: Blocks
 itemGroup.terraria:armor=Terraria Craft: Armor
+itemGroup.terraria:potions=Terraria Craft: Potions
+itemGroup.terraria:critters=Terraria Craft: Critters
+
 generator.Terraria=Terraria World
 gui.achievements=Achievements
 soundCategory.terraria.music=Terrarian Music
@@ -431,6 +434,43 @@ item.terraria:husk_violet.name=Violet Husk
 item.terraria:black_ink.name=Black Ink
 item.terraria:tools/pickaxe_iron.name=Iron Pickaxe
 item.terraria:tools/sword_iron.name=Iron Broadsword
+item.terraria:bug_net.name=Bug Net
+item.terraria:potions/food/golden_delight.name=Golden Delight
+item.terraria:potions/food/bunny_stew.name=Bunny Stew
+item.terraria:potions/food/apple.name=Apple
+item.terraria:potions/food/apricot.name=Apricot
+item.terraria:potions/food/banana.name=Banana
+item.terraria:potions/food/blackcurrant.name=Blackcurrant
+item.terraria:potions/food/blood_orange.name=Blood Orange
+item.terraria:potions/food/cherry.name=Cherry
+item.terraria:potions/food/coconut.name=Coconut
+item.terraria:potions/food/dragon_fruit.name=Dragon Fruit
+item.terraria:potions/food/elderberry.name=Elderberry
+item.terraria:potions/food/grapefruit.name=Grapefruit
+item.terraria:potions/food/lemon.name=Lemon
+item.terraria:potions/food/mango.name=Mango
+item.terraria:potions/food/peach.name=Peach
+item.terraria:potions/food/pineapple.name=Pineapple
+item.terraria:potions/food/plum.name=Plum
+item.terraria:potions/food/rambutan.name=Rambutan
+item.terraria:potions/food/star_fruit.name=Star Fruit
+item.terraria:potions/food/fruit_juice.name=Fruit Juice
+item.terraria:potions/food/apple_juice.name=Apple Juice
+item.terraria:potions/food/bloody_moscato.name=Bloody Moscato
+item.terraria:potions/food/frozen_banana_daiquiri.name=Frozen Banana Daiquiri
+item.terraria:potions/food/peach_sangria.name=Peach Sangria
+item.terraria:potions/food/pina_colada.name=Piña Colada
+item.terraria:potions/food/prismatic_punch.name=Prismatic Punch
+item.terraria:potions/food/lemonade.name=Lemonade
+item.terraria:potions/food/smoothie_of_darkness.name=Smoothie of Darkness
+item.terraria:potions/food/tropical_smoothie.name=Tropical Smoothie
+
+item.terraria:critters/bunny.name=Bunny
+item.terraria:critters/golden/bunny.name=Gold Bunny
+item.terraria:critters/firefly.name=Firefly
+item.terraria:critters/worm.name=Worm
+item.terraria:critters/golden/worm.name=Gold Worm
+item.terraria:critters/enchanted_nightcrawler.name=Enchanted Nightcrawler
 
 #################
 
@@ -1013,6 +1053,18 @@ tooltip.terraria:buff.chilled=Your movement speed has been reduced
 buff.frozen.name=Frozen
 tooltip.terraria:buff.frozen=You can't move!
 
+buff.well_fed.name=Well Fed
+tooltip.terraria:food.0=Minor improvements to all stats
+tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
+
+buff.plenty_satisfied.name=Plenty Satisfied
+tooltip.terraria:food.1=Medium improvements to all stats
+tooltip.terraria:food.expert.1=Medium improvements to all stats and increased life regeneration
+
+buff.exquisitely_stuffed.name=Exquisitely Stuffed
+tooltip.terraria:food.2=Major improvements to all stats
+tooltip.terraria:food.expert.2=Major improvements to all stats and increased life regeneration
+
 #################
 
 
@@ -1079,6 +1131,28 @@ tooltip.terraria:rotten_egg=Best used for pranking townsfolk
 tooltip.terraria:illegal_gun_parts=Banned in most places
 tooltip.terraria:shotgun=Fires a spread of bullets
 tooltip.terraria:sandgun=This is a good idea!
+tooltip.terraria:bait_power=Bait Power: %,d%%
+
+tooltip.terraria:food/golden_delight=(Au)some!
+tooltip.terraria:food/bunny_stew=This one's luck has run out.
+tooltip.terraria:food/apple=An apple a day keeps Doctor Bones away!
+tooltip.terraria:food/apricot=You'll apricate this!
+tooltip.terraria:food/banana=Good source of potassium!
+tooltip.terraria:food/blood_orange=A vegan option for vampires
+tooltip.terraria:food/coconut=Are you suggesting that coconuts can migrate?
+tooltip.terraria:food/elderberry=Smells like your father!
+tooltip.terraria:food/lemon=When life gives you lemons...
+tooltip.terraria:food/pineapple=Goes great with pizza
+tooltip.terraria:food/fruit_juice=With 5% real fruit juice!
+tooltip.terraria:food/apple_juice=Hungry for Apples?
+tooltip.terraria:food/bloody_moscato=Not really blood... or is it?
+tooltip.terraria:food/frozen_banana_daiquiri=Yellow and mellow
+tooltip.terraria:food/peach_sangria=Life's a peach
+tooltip.terraria:food/pina_colada=If you like piña coladas and getting caught in the rain
+tooltip.terraria:food/prismatic_punch=Feel the rainbow, taste the crystal!
+tooltip.terraria:food/lemonade=...make lemonade!
+tooltip.terraria:food/smoothie_of_darkness=Come to the dark side, we have smoothies
+tooltip.terraria:food/tropical_smoothie=Real smooth
 
 tooltip.terraria:star_cannon=Shoots fallen stars
 tooltip.terraria:cursed_flame=Not even water can put the flame out
@@ -1255,6 +1329,7 @@ entity.terraria:eater_of_souls.name=Eater of Souls
 entity.terraria:crimera.name=Crimera
 entity.terraria:ice_slime.name=Ice Slime
 entity.terraria:ice_slime_spiked.name=Spiked Ice Slime
+entity.terraria:enchanted_nightcrawler.name=Enchanted Nightcrawler
 
 ####################
 
