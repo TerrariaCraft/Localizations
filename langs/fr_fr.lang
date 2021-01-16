@@ -464,6 +464,9 @@ item.terraria:potions/food/prismatic_punch.name=Prismatic Punch
 item.terraria:potions/food/lemonade.name=Lemonade
 item.terraria:potions/food/smoothie_of_darkness.name=Smoothie of Darkness
 item.terraria:potions/food/tropical_smoothie.name=Tropical Smoothie
+item.terraria:potions/food/grub_soup.name=Grub Soup
+item.terraria:potions/food/fruit_salad.name=Fruit Salad
+item.terraria:potions/food/teacup.name=Teacup
 
 item.terraria:critters/bunny.name=Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
@@ -471,6 +474,9 @@ item.terraria:critters/firefly.name=Firefly
 item.terraria:critters/worm.name=Worm
 item.terraria:critters/golden/worm.name=Gold Worm
 item.terraria:critters/enchanted_nightcrawler.name=Enchanted Nightcrawler
+item.terraria:critters/buggy.name=Buggy
+item.terraria:critters/grubby.name=Grubby
+item.terraria:critters/maggot.name=Maggot
 
 #################
 
@@ -946,6 +952,7 @@ tile.terraria:furniture/bookcases/golden.name=Golden Bookcase
 tile.terraria:mushroom_green.name=Green Mushroom
 tile.terraria:mushroom_teal.name=Teal Mushroom
 tile.terraria:dye_vat.name=Dye Vat
+tile.terraria:bowl.name=Bowl
 
 ##################
 
@@ -1071,6 +1078,8 @@ tooltip.terraria:food.expert.2=Major improvements to all stats and increased lif
 
 ######TOOLTIPS######
 
+# General Tooltips
+
 tooltip.terraria:material=Materiel
 tooltip.terraria:ammo=Munitions
 tooltip.terraria:mana=Mana
@@ -1133,6 +1142,8 @@ tooltip.terraria:shotgun=Fires a spread of bullets
 tooltip.terraria:sandgun=This is a good idea!
 tooltip.terraria:bait_power=Bait Power: %,d%%
 
+# Item Tooltips
+
 tooltip.terraria:food/golden_delight=(Au)some!
 tooltip.terraria:food/bunny_stew=This one's luck has run out.
 tooltip.terraria:food/apple=An apple a day keeps Doctor Bones away!
@@ -1153,7 +1164,8 @@ tooltip.terraria:food/prismatic_punch=Feel the rainbow, taste the crystal!
 tooltip.terraria:food/lemonade=...make lemonade!
 tooltip.terraria:food/smoothie_of_darkness=Come to the dark side, we have smoothies
 tooltip.terraria:food/tropical_smoothie=Real smooth
-
+tooltip.terraria:food/grub_soup=Grub's up!
+tooltip.terraria:food/teacup=A must-have for tea parties
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme
 tooltip.terraria:vial_of_venom=Extrêmement toxique
@@ -1166,7 +1178,6 @@ tooltip.terraria:blindfold=Immunité aux ténèbres
 tooltip.terraria:rotten_chunk=Ça a l'air délicieux !
 tooltip.terraria:ichor=Le sang des dieux
 tooltip.terraria:empty_bullet=Utilisé pour fabriquer différents types de munitions
-
 tooltip.terraria:husk_red=Used to make Red Dye
 tooltip.terraria:husk_cyan=Used to make Cyan Dye
 tooltip.terraria:husk_violet=Used to make Violet Dye
@@ -1175,10 +1186,21 @@ tooltip.terraria:mushroom_green=Used to make Green Dye
 tooltip.terraria:mushroom_teal=Used to make Teal Dye
 tooltip.terraria:black_ink=Used to make Black Dye
 tooltip.terraria:dye_vat=Used to Craft Dyes
+tooltip.terraria:bezoar=Immunity to Poison
+tooltip.terraria:hermes_boots=The wearer can run super fast
+tooltip.terraria:lucky_horseshoe=Negates fall damage
+tooltip.terraria:cloud_bottle=Allows the holder to double jump
+tooltip.terraria:ice_skates.1=Provides extra mobility on ice.
+tooltip.terraria:ice_skates.2=Ice will not break when you fall on it
+tooltip.terraria:water_walking_boots=Provides the ability to walk on water & honey
+tooltip.terraria:obsidian_water_walking_boots=Grants immunity to fire blocks
+tooltip.terraria:wings=Allows flight and slow fall
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
 tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
 tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
+
+# Misc Tooltips
 
 speed.terraria:insanely_fast=Vitesse incroyablement rapide
 speed.terraria:very_fast=Vitesse très rapide
@@ -1330,6 +1352,10 @@ entity.terraria:crimera.name=Carminera
 entity.terraria:ice_slime.name=Ice Slime
 entity.terraria:ice_slime_spiked.name=Spiked Ice Slime
 entity.terraria:enchanted_nightcrawler.name=Enchanted Nightcrawler
+entity.terraria:buggy.name=Buggy
+entity.terraria:grubby.name=Grubby
+entity.terraria:maggot.name=Maggot
+entity.terraria:jungle_slime_spiked.name=Spiked Jungle Slime
 
 ####################
 
