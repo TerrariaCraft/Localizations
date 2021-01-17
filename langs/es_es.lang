@@ -477,6 +477,7 @@ item.terraria:critters/enchanted_nightcrawler.name=Enchanted Nightcrawler
 item.terraria:critters/buggy.name=Buggy
 item.terraria:critters/grubby.name=Grubby
 item.terraria:critters/maggot.name=Maggot
+item.terraria:critters/sluggy.name=Sluggy
 
 #################
 
@@ -953,6 +954,9 @@ tile.terraria:mushroom_green.name=Green Mushroom
 tile.terraria:mushroom_teal.name=Teal Mushroom
 tile.terraria:dye_vat.name=Dye Vat
 tile.terraria:bowl.name=Bowl
+tile.terraria:statues/buggy.name=Buggy Statue
+tile.terraria:seashell.name=Seashell
+tile.terraria:starfish.name=Starfish
 
 ##################
 
@@ -1356,6 +1360,7 @@ entity.terraria:buggy.name=Buggy
 entity.terraria:grubby.name=Grubby
 entity.terraria:maggot.name=Maggot
 entity.terraria:jungle_slime_spiked.name=Spiked Jungle Slime
+entity.terraria:sluggy.name=Sluggy
 
 ####################
 
