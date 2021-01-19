@@ -467,6 +467,8 @@ item.terraria:potions/food/tropical_smoothie.name=Tropical Smoothie
 item.terraria:potions/food/grub_soup.name=Grub Soup
 item.terraria:potions/food/fruit_salad.name=Fruit Salad
 item.terraria:potions/food/teacup.name=Teacup
+item.terraria:lavaproof_bug_net.name=Lavaproof Bug Net
+item.terraria:golden_bug_net.name=Golden Bug Net
 
 item.terraria:critters/bunny.name=Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
@@ -478,6 +480,25 @@ item.terraria:critters/buggy.name=Buggy
 item.terraria:critters/grubby.name=Grubby
 item.terraria:critters/maggot.name=Maggot
 item.terraria:critters/sluggy.name=Sluggy
+item.terraria:critters/grasshopper.name=Grasshopper
+item.terraria:critters/golden/grasshopper.name=Gold Grasshopper
+item.terraria:critters/golden/butterfly.name=Gold Butterfly
+item.terraria:critters/butterflies/julia.name=Julia Butterfly
+item.terraria:critters/butterflies/monarch.name=Monarch Butterfly
+item.terraria:critters/butterflies/purple_emperor.name=Purple Emperor Butterfly
+item.terraria:critters/butterflies/red_admiral.name=Red Admiral Butterfly
+item.terraria:critters/butterflies/sulphur.name=Sulphur Butterfly
+item.terraria:critters/butterflies/tree_nymph.name=Tree Nymph Butterfly
+item.terraria:critters/butterflies/ulysses.name=Ulysses Butterfly
+item.terraria:critters/butterflies/zebra_swallowtail.name=Zebra Swallowtail Butterfly
+item.terraria:critters/butterflies/hell.name=Hell Butterfly
+item.terraria:critters/bunnies/amethyst.name=Amethyst Bunny
+item.terraria:critters/bunnies/topaz.name=Topaz Bunny
+item.terraria:critters/bunnies/sapphire.name=Sapphire Bunny
+item.terraria:critters/bunnies/emerald.name=Emerald Bunny
+item.terraria:critters/bunnies/ruby.name=Ruby Bunny
+item.terraria:critters/bunnies/diamond.name=Diamond Bunny
+item.terraria:critters/bunnies/amber.name=Amber Bunny
 
 #################
 
@@ -957,6 +978,11 @@ tile.terraria:bowl.name=Bowl
 tile.terraria:statues/buggy.name=Buggy Statue
 tile.terraria:seashell.name=Seashell
 tile.terraria:starfish.name=Starfish
+tile.terraria:glass_bowl.name=Glass Bowl
+tile.terraria:dynasty_bowl.name=Dynasty Bowl
+tile.terraria:tulip_shell.name=Tulip Shell
+tile.terraria:lightning_whelk_shell.name=Lighning Whelk Shell
+tile.terraria:junonia_shell.name=Junonia Shell
 
 ##################
 
@@ -1199,6 +1225,10 @@ tooltip.terraria:ice_skates.2=Ice will not break when you fall on it
 tooltip.terraria:water_walking_boots=Provides the ability to walk on water & honey
 tooltip.terraria:obsidian_water_walking_boots=Grants immunity to fire blocks
 tooltip.terraria:wings=Allows flight and slow fall
+tooltip.terraria:magic_mirror=Gaze in the mirror to return home
+tooltip.terraria:bug_net=Used to catch critters
+tooltip.terraria:lavaproof_bug_net=For when things get too hot to handle
+tooltip.terraria:golden_bug_net=Can catch lava critters too!
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
 tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
@@ -1345,6 +1375,7 @@ entity.terraria:bunny.name=兔兔
 entity.terraria:demon_eye.name=恶魔眼
 entity.terraria:firefly.name=萤火虫
 entity.terraria:worm.name=蠕虫
+entity.terraria:gold/worm.name=Gold Worm
 entity.terraria:red_slime.name=红史莱姆
 entity.terraria:purple_slime.name=紫史莱姆
 entity.terraria:yellow_slime.name=黄史莱姆
@@ -1361,6 +1392,9 @@ entity.terraria:grubby.name=Grubby
 entity.terraria:maggot.name=Maggot
 entity.terraria:jungle_slime_spiked.name=Spiked Jungle Slime
 entity.terraria:sluggy.name=Sluggy
+entity.terraria:grasshopper.name=Grasshopper
+entity.terraria:gold/grasshopper.name=Gold Grasshopper
+entity.terraria:butterfly.name=Butterfly
 
 ####################
 
