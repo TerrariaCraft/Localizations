@@ -469,6 +469,9 @@ item.terraria:potions/food/fruit_salad.name=Фруктовый салат
 item.terraria:potions/food/teacup.name=Чашка чая
 item.terraria:lavaproof_bug_net.name=Лавостойкий сачок
 item.terraria:golden_bug_net.name=Золотой сачок
+item.terraria:tulip_shell.name=Лепесток тюльпана
+item.terraria:lightning_whelk_shell.name=Лепесток молниевой багрянки
+item.terraria:junonia_shell.name=Ракушка улитки юноны
 
 item.terraria:critters/bunny.name=Кролик
 item.terraria:critters/golden/bunny.name=Золотой кролик
@@ -499,6 +502,7 @@ item.terraria:critters/bunnies/emerald.name=Изумрудный кролик
 item.terraria:critters/bunnies/ruby.name=Рубиновый кролик
 item.terraria:critters/bunnies/diamond.name=Алмазный кролик
 item.terraria:critters/bunnies/amber.name=Янтарный кролик
+item.terraria:critters/penguin.name=Penguin
 
 #################
 
@@ -980,9 +984,6 @@ tile.terraria:seashell.name=Ракушка
 tile.terraria:starfish.name=Морская звезда
 tile.terraria:glass_bowl.name=Стеклянная тарелка
 tile.terraria:dynasty_bowl.name=Династическая тарелка
-tile.terraria:tulip_shell.name=Лепесток тюльпана
-tile.terraria:lightning_whelk_shell.name=Лепесток молниевой багрянки
-tile.terraria:junonia_shell.name=Ракушка улитки юноны
 
 ##################
 
@@ -1395,6 +1396,7 @@ entity.terraria:sluggy.name=Слизнячок
 entity.terraria:grasshopper.name=Кузнечик
 entity.terraria:gold/grasshopper.name=Золотой кузнечик
 entity.terraria:butterfly.name=Бабочка
+entity.terraria:penguin.name=Penguin
 
 ####################
 

@@ -469,6 +469,9 @@ item.terraria:potions/food/fruit_salad.name=Fruit Salad
 item.terraria:potions/food/teacup.name=Teacup
 item.terraria:lavaproof_bug_net.name=Lavaproof Bug Net
 item.terraria:golden_bug_net.name=Golden Bug Net
+item.terraria:tulip_shell.name=Tulip Shell
+item.terraria:lightning_whelk_shell.name=Lighning Whelk Shell
+item.terraria:junonia_shell.name=Junonia Shell
 
 item.terraria:critters/bunny.name=Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
@@ -499,6 +502,7 @@ item.terraria:critters/bunnies/emerald.name=Emerald Bunny
 item.terraria:critters/bunnies/ruby.name=Ruby Bunny
 item.terraria:critters/bunnies/diamond.name=Diamond Bunny
 item.terraria:critters/bunnies/amber.name=Amber Bunny
+item.terraria:critters/penguin.name=Penguin
 
 #################
 
@@ -980,9 +984,6 @@ tile.terraria:seashell.name=Seashell
 tile.terraria:starfish.name=Starfish
 tile.terraria:glass_bowl.name=Glass Bowl
 tile.terraria:dynasty_bowl.name=Dynasty Bowl
-tile.terraria:tulip_shell.name=Tulip Shell
-tile.terraria:lightning_whelk_shell.name=Lighning Whelk Shell
-tile.terraria:junonia_shell.name=Junonia Shell
 
 ##################
 
@@ -1395,6 +1396,7 @@ entity.terraria:sluggy.name=Sluggy
 entity.terraria:grasshopper.name=Grasshopper
 entity.terraria:gold/grasshopper.name=Gold Grasshopper
 entity.terraria:butterfly.name=Butterfly
+entity.terraria:penguin.name=Penguin
 
 ####################
 
