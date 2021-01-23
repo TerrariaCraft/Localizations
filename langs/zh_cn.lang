@@ -999,6 +999,12 @@ tile.terraria:seashell.name=Seashell
 tile.terraria:starfish.name=Starfish
 tile.terraria:glass_bowl.name=Glass Bowl
 tile.terraria:dynasty_bowl.name=Dynasty Bowl
+tile.terraria:statues/bird.name=Bird Statue
+tile.terraria:statues/butterfly.name=Butterfly Statue
+tile.terraria:statues/grasshopper.name=Grasshopper Statue
+tile.terraria:statues/mouse.name=Mouse Statue
+tile.terraria:statues/penguin.name=Penguin Statue
+tile.terraria:statues/squirrel.name=Squirrel Statue
 
 ##################
 
