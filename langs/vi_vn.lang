@@ -472,6 +472,8 @@ item.terraria:golden_bug_net.name=Golden Bug Net
 item.terraria:tulip_shell.name=Tulip Shell
 item.terraria:lightning_whelk_shell.name=Lighning Whelk Shell
 item.terraria:junonia_shell.name=Junonia Shell
+item.terraria:potions/food/roasted_bird.name=Roasted Bird
+item.terraria:potions/food/grilled_squirrel.name=Grilled Squirrel
 
 item.terraria:critters/bunny.name=Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
@@ -503,6 +505,19 @@ item.terraria:critters/bunnies/ruby.name=Ruby Bunny
 item.terraria:critters/bunnies/diamond.name=Diamond Bunny
 item.terraria:critters/bunnies/amber.name=Amber Bunny
 item.terraria:critters/penguin.name=Penguin
+item.terraria:critters/mouse.name=Mouse
+item.terraria:critters/golden/mouse.name=Gold Mouse
+item.terraria:critters/rat.name=Rat
+item.terraria:critters/squirrel.name=Squirrel
+item.terraria:critters/golden/squirrel.name=Gold Squirrel
+item.terraria:critters/squirrels/red.name=Red Squirrel
+item.terraria:critters/squirrels/amethyst.name=Amethyst Squirrel
+item.terraria:critters/squirrels/topaz.name=Topaz Squirrel
+item.terraria:critters/squirrels/sapphire.name=Sapphire Squirrel
+item.terraria:critters/squirrels/emerald.name=Emerald Squirrel
+item.terraria:critters/squirrels/ruby.name=Ruby Squirrel
+item.terraria:critters/squirrels/diamond.name=Diamond Squirrel
+item.terraria:critters/squirrels/amber.name=Amber Squirrel
 
 #################
 
@@ -1230,6 +1245,8 @@ tooltip.terraria:magic_mirror=Gaze in the mirror to return home
 tooltip.terraria:bug_net=Used to catch critters
 tooltip.terraria:lavaproof_bug_net=For when things get too hot to handle
 tooltip.terraria:golden_bug_net=Can catch lava critters too!
+tooltip.terraria:food/roasted_bird=Serving Size: 1 child.
+tooltip.terraria:food/grilled_squirrel=That'll keep you out of my birdfeeders...
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
 tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
@@ -1360,6 +1377,10 @@ tbiome.terraria:ocean=Đại Dương
 tbiome.terraria:snowy=Vùng Đất Băng Giá
 tbiome.terraria:space=Vũ Trụ
 tbiome.terraria:underworld=Hoả Ngục
+tbiome.terraria:temple=Lihzahrd Temple
+tbiome.terraria:dungeon=Dungeon
+tbiome.terraria:granite_cave=Granite Cave
+tbiome.terraria:marble_cave=Marbles Cave
 
 ##################
 
@@ -1397,6 +1418,10 @@ entity.terraria:grasshopper.name=Grasshopper
 entity.terraria:gold/grasshopper.name=Gold Grasshopper
 entity.terraria:butterfly.name=Butterfly
 entity.terraria:penguin.name=Penguin
+entity.terraria:mouse.name=Mouse
+entity.terraria:gold/mouse.name=Gold Mouse
+entity.terraria:rat.name=Rat
+entity.terraria:squirrel.name=Squirrel
 
 ####################
 
