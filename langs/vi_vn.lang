@@ -1,4 +1,7 @@
 
+agreement.terraria:text=Hello, %PLAYER%! Before we proceed to the game, please ensure you agree to the following:\n\n1) You have downloaded mod from %SRC%!\nIf not, re-download the mod from there to ensure you do not have any malware alongside it.\n\n2) You are not using pirated minecraft!\nWe highly recommend you buying an actual Minecraft account to play the mod.\n\n3) This is a fan-made project and is not affiliated with Re-Logic.
+agreement.terraria:accept=I Accept
+
 itemGroup.terraria:items=Terraria Craft: Vật Phẩm
 itemGroup.terraria:tools=Terraria Craft: Dụng Cụ
 itemGroup.terraria:weapons=Terraria Craft: Vũ Khí

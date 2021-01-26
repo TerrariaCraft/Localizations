@@ -1,4 +1,7 @@
 
+agreement.terraria:text=Привет, %PLAYER%! Перед тем как мы преступим к игре, пожалуйста убедитесь, что вы согласны со следующим:\n\n1) Вы загрузили мод с %SRC%!\nЕсли нет, перезагрузите мод оттуда что бы не было риска получить вредоносное ПО.\n\n2) Вы не используете пиратский Minecraft!\nМы настоятельно рекомендуем вам купить учетную запись Minecraft, чтобы играть с модом.\n\n3) Это фанатский проект, не связанный с Re-Logic.
+agreement.terraria:accept=Я принимаю
+
 itemGroup.terraria:items=Terraria Craft: Предметы
 itemGroup.terraria:tools=Terraria Craft: Инструменты
 itemGroup.terraria:weapons=Terraria Craft: Оружие
