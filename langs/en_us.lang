@@ -481,6 +481,7 @@ item.terraria:potions/food/grilled_squirrel.name=Grilled Squirrel
 item.terraria:critters/bunny.name=Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
 item.terraria:critters/firefly.name=Firefly
+item.terraria:critters/lavafly.name=Lavafly
 item.terraria:critters/worm.name=Worm
 item.terraria:critters/golden/worm.name=Gold Worm
 item.terraria:critters/enchanted_nightcrawler.name=Enchanted Nightcrawler
@@ -527,6 +528,13 @@ item.terraria:critters/birds/cardinal.name=Cardinal
 item.terraria:critters/golden/bird.name=Gold Bird
 item.terraria:critters/scorpion.name=Scorpion
 item.terraria:critters/black_scorpion.name=Black Scorpion
+item.terraria:critters/golden/dragonfly.name=Gold Dragonfly
+item.terraria:critters/dragonflies/black.name=Black Dragonfly
+item.terraria:critters/dragonflies/blue.name=Blue Dragonfly
+item.terraria:critters/dragonflies/green.name=Green Dragonfly
+item.terraria:critters/dragonflies/orange.name=Orange Dragonfly
+item.terraria:critters/dragonflies/red.name=Red Dragonfly
+item.terraria:critters/dragonflies/yellow.name=Yellow Dragonfly
 
 #################
 
@@ -1411,6 +1419,7 @@ entity.terraria:npc.name=NPC
 entity.terraria:bunny.name=Bunny
 entity.terraria:demon_eye.name=Demon Eye
 entity.terraria:firefly.name=Firefly
+entity.terraria:lavafly.name=Lavafly
 entity.terraria:worm.name=Worm
 entity.terraria:gold/worm.name=Gold Worm
 entity.terraria:red_slime.name=Red Slime
@@ -1439,6 +1448,7 @@ entity.terraria:rat.name=Rat
 entity.terraria:squirrel.name=Squirrel
 entity.terraria:bird.name=Bird
 entity.terraria:scorpion.name=Scorpion
+entity.terraria:dragonfly.name=Dragonfly
 
 ####################
 
