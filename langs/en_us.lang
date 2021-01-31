@@ -477,6 +477,13 @@ item.terraria:lightning_whelk_shell.name=Lighning Whelk Shell
 item.terraria:junonia_shell.name=Junonia Shell
 item.terraria:potions/food/roasted_bird.name=Roasted Bird
 item.terraria:potions/food/grilled_squirrel.name=Grilled Squirrel
+item.terraria:shark_tooth_necklace.name=Shark Tooth Necklace
+item.terraria:oyster.name=Oyster
+item.terraria:potions/food/shucked_oyster.name=Shucked Oyster
+item.terraria:potions/food/burger.name=Burger
+item.terraria:pearls/white.name=White Pearl
+item.terraria:pearls/black.name=Black Pearl
+item.terraria:pearls/pink.name=Pink Pearl
 
 item.terraria:critters/bunny.name=Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
@@ -1270,6 +1277,9 @@ tooltip.terraria:lavaproof_bug_net=For when things get too hot to handle
 tooltip.terraria:golden_bug_net=Can catch lava critters too!
 tooltip.terraria:food/roasted_bird=Serving Size: 1 child.
 tooltip.terraria:food/grilled_squirrel=That'll keep you out of my birdfeeders...
+tooltip.terraria:shark_tooth_necklace=Increases armor penetration by 5
+tooltip.terraria:food/shucked_oyster=Aw, shucks!
+tooltip.terraria:food/burger=...but wait! It was 99 cents.
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
 tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
@@ -1449,6 +1459,27 @@ entity.terraria:squirrel.name=Squirrel
 entity.terraria:bird.name=Bird
 entity.terraria:scorpion.name=Scorpion
 entity.terraria:dragonfly.name=Dragonfly
+entity.terraria:hornet.name=Hornet
+
+entity.terraria:hornets/hornet=Little Stinger
+entity.terraria:hornets/hornet.s=Little Stinger
+entity.terraria:hornets/hornet.b=Big Stinger
+entity.terraria:hornets/fatty=Fatty Hornet
+entity.terraria:hornets/fatty.s=Little Fatty Hornet
+entity.terraria:hornets/fatty.b=Big Fatty Hornet
+entity.terraria:hornets/honey=Honey Hornet
+entity.terraria:hornets/honey.s=Little Honey Hornet
+entity.terraria:hornets/honey.b=Big Honey Hornet
+entity.terraria:hornets/leafy=Leafy Hornet
+entity.terraria:hornets/leafy.s=Little Leafy Hornet
+entity.terraria:hornets/leafy.b=Big Leafy Hornet
+entity.terraria:hornets/spikey=Spikey Hornet
+entity.terraria:hornets/spikey.s=Little Spikey Hornet
+entity.terraria:hornets/spikey.b=Big Spikey Hornet
+entity.terraria:hornets/stingy=Stingy Hornet
+entity.terraria:hornets/stingy.s=Little Stingy Hornet
+entity.terraria:hornets/stingy.b=Big Stingy Hornet
+
 
 ####################
 
