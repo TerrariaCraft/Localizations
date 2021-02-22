@@ -484,8 +484,10 @@ item.terraria:potions/food/burger.name=Burger
 item.terraria:pearls/white.name=White Pearl
 item.terraria:pearls/black.name=Black Pearl
 item.terraria:pearls/pink.name=Pink Pearl
+item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
 
 item.terraria:critters/bunny.name=Bunny
+item.terraria:critters/bunny_explosive.name=Explosive Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
 item.terraria:critters/firefly.name=Firefly
 item.terraria:critters/lavafly.name=Lavafly
@@ -542,6 +544,7 @@ item.terraria:critters/dragonflies/green.name=Green Dragonfly
 item.terraria:critters/dragonflies/orange.name=Orange Dragonfly
 item.terraria:critters/dragonflies/red.name=Red Dragonfly
 item.terraria:critters/dragonflies/yellow.name=Yellow Dragonfly
+item.terraria:critters/owl.name=Owl
 
 #################
 
@@ -1249,6 +1252,7 @@ tooltip.terraria:bomb=Tạo nên vụ nổ nhỏ, phá huỷ khối
 tooltip.terraria:dynamite=Tạo nên vụ nổ lớn, phá huỷ nhiều khối
 tooltip.terraria:golden_key=Mở rương báu vàng hoặc rương trong ngục tối
 tooltip.terraria:guide_to_plant_fiber_cordage=Cho phép thu dây thừng từ dây leo
+tooltip.terraria:guide_to_plant_critter_companionship=Prevents you from hurting critters while in the inventory
 tooltip.terraria:rope_item=Có thể trèo lên
 tooltip.terraria:blindfold=Kháng lại hiệu ứng Màn đêm
 tooltip.terraria:rotten_chunk=Trông ngon đấy!
@@ -1460,6 +1464,8 @@ entity.terraria:bird.name=Bird
 entity.terraria:scorpion.name=Scorpion
 entity.terraria:dragonfly.name=Dragonfly
 entity.terraria:hornet.name=Hornet
+entity.terraria:bunny_explosive.name=Explosive Bunny
+entity.terraria:owl.name=Owl
 
 entity.terraria:hornets/hornet=Little Stinger
 entity.terraria:hornets/hornet.s=Little Stinger

@@ -484,8 +484,10 @@ item.terraria:potions/food/burger.name=Burger
 item.terraria:pearls/white.name=White Pearl
 item.terraria:pearls/black.name=Black Pearl
 item.terraria:pearls/pink.name=Pink Pearl
+item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
 
 item.terraria:critters/bunny.name=Кролик
+item.terraria:critters/bunny_explosive.name=Explosive Bunny
 item.terraria:critters/golden/bunny.name=Золотой кролик
 item.terraria:critters/firefly.name=Светлячок
 item.terraria:critters/lavafly.name=Lavafly
@@ -542,6 +544,7 @@ item.terraria:critters/dragonflies/green.name=Green Dragonfly
 item.terraria:critters/dragonflies/orange.name=Orange Dragonfly
 item.terraria:critters/dragonflies/red.name=Red Dragonfly
 item.terraria:critters/dragonflies/yellow.name=Yellow Dragonfly
+item.terraria:critters/owl.name=Owl
 
 #################
 
@@ -1249,6 +1252,7 @@ tooltip.terraria:bomb=Небольшой взрыв, который уничто
 tooltip.terraria:dynamite=Большой взрыв уничтожающий много блоков
 tooltip.terraria:golden_key=Открывает золотой сундук в темнице
 tooltip.terraria:guide_to_plant_fiber_cordage=Позволяет собирать лозу с виноградников
+tooltip.terraria:guide_to_plant_critter_companionship=Prevents you from hurting critters while in the inventory
 tooltip.terraria:rope_item=Можно взобраться
 tooltip.terraria:blindfold=Имунитет к темноте
 tooltip.terraria:rotten_chunk=Выглядит вкусно!
@@ -1460,6 +1464,8 @@ entity.terraria:bird.name=Bird
 entity.terraria:scorpion.name=Scorpion
 entity.terraria:dragonfly.name=Dragonfly
 entity.terraria:hornet.name=Hornet
+entity.terraria:bunny_explosive.name=Explosive Bunny
+entity.terraria:owl.name=Owl
 
 entity.terraria:hornets/hornet=Little Stinger
 entity.terraria:hornets/hornet.s=Little Stinger
