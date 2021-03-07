@@ -545,6 +545,8 @@ item.terraria:critters/dragonflies/orange.name=Orange Dragonfly
 item.terraria:critters/dragonflies/red.name=Red Dragonfly
 item.terraria:critters/dragonflies/yellow.name=Yellow Dragonfly
 item.terraria:critters/owl.name=Owl
+item.terraria:critters/turtles/normal.name=Turtle
+item.terraria:critters/turtles/jungle.name=Jungle Turtle
 
 #################
 
@@ -1032,6 +1034,8 @@ tile.terraria:statues/grasshopper.name=Grasshopper Statue
 tile.terraria:statues/mouse.name=Mouse Statue
 tile.terraria:statues/penguin.name=Penguin Statue
 tile.terraria:statues/squirrel.name=Squirrel Statue
+tile.terraria:statues/scorpion.name=Scorpion Statue
+tile.terraria:statues/turtle.name=Turtle Statue
 
 ##################
 
@@ -1466,6 +1470,7 @@ entity.terraria:dragonfly.name=Dragonfly
 entity.terraria:hornet.name=Hornet
 entity.terraria:bunny_explosive.name=Explosive Bunny
 entity.terraria:owl.name=Owl
+entity.terraria:turtle.name=Turtle
 
 entity.terraria:hornets/hornet=Little Stinger
 entity.terraria:hornets/hornet.s=Little Stinger

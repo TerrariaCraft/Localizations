@@ -545,6 +545,8 @@ item.terraria:critters/dragonflies/orange.name=Оранжевая стрекоз
 item.terraria:critters/dragonflies/red.name=Красная стрекоза
 item.terraria:critters/dragonflies/yellow.name=Желтая стрекоза
 item.terraria:critters/owl.name=Сова
+item.terraria:critters/turtles/normal.name=Turtle
+item.terraria:critters/turtles/jungle.name=Jungle Turtle
 
 #################
 
@@ -1032,6 +1034,8 @@ tile.terraria:statues/grasshopper.name=Статуя кузнечика
 tile.terraria:statues/mouse.name=Статуя мыши
 tile.terraria:statues/penguin.name=Статуя пингвина
 tile.terraria:statues/squirrel.name=Статуя белки
+tile.terraria:statues/scorpion.name=Scorpion Statue
+tile.terraria:statues/turtle.name=Turtle Statue
 
 ##################
 
@@ -1466,6 +1470,7 @@ entity.terraria:dragonfly.name=Стрекоза
 entity.terraria:hornet.name=Шершень
 entity.terraria:bunny_explosive.name=Взрывной кролик
 entity.terraria:owl.name=Сова
+entity.terraria:turtle.name=Turtle
 
 entity.terraria:hornets/hornet=Шершень
 entity.terraria:hornets/hornet.s=Маленький шершень
