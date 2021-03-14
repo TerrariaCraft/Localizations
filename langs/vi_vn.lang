@@ -485,6 +485,45 @@ item.terraria:pearls/white.name=White Pearl
 item.terraria:pearls/black.name=Black Pearl
 item.terraria:pearls/pink.name=Pink Pearl
 item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
+item.terraria:potions/food/sauteed_frog_legs.name=Sauteed Frog Legs
+item.terraria:yoyo/wooden.name=Wooden Yoyo
+item.terraria:yoyo/rally.name=Rally
+item.terraria:yoyo/malaise.name=Malaise
+item.terraria:yoyo/artery.name=Artery
+item.terraria:yoyo/amazon.name=Amazon
+item.terraria:yoyo/code_1.name=Code 1
+item.terraria:yoyo/valor.name=Valor
+item.terraria:yoyo/cascade.name=Cascade
+item.terraria:yoyo/chik.name=Chik
+item.terraria:yoyo/format_c.name=Format:C
+item.terraria:yoyo/hel_fire.name=Hel-fire
+item.terraria:yoyo/amarok.name=Amarok
+item.terraria:yoyo/gradient.name=Gradient
+item.terraria:yoyo/code_2.name=Code 2
+item.terraria:yoyo/yelets.name=Yelets
+item.terraria:yoyo/dev_zeith_throw.name=Zeith's Throw
+item.terraria:yoyo/dev_red_throw.name=Red's Throw
+item.terraria:yoyo/dev_valkyrie.name=Valkyrie Yoyo
+item.terraria:yoyo/kraken.name=Kraken
+item.terraria:yoyo/eye_cthulhu.name=The Eye of Cthulhu
+item.terraria:yoyo/terrarian.name=Terrarian
+item.terraria:yoyo/string/black.name=Black String
+item.terraria:yoyo/string/blue.name=Blue String
+item.terraria:yoyo/string/brown.name=Brown String
+item.terraria:yoyo/string/cyan.name=Cyan String
+item.terraria:yoyo/string/green.name=Green String
+item.terraria:yoyo/string/lime.name=Lime String
+item.terraria:yoyo/string/orange.name=Orange String
+item.terraria:yoyo/string/pink.name=Pink String
+item.terraria:yoyo/string/purple.name=Purple String
+item.terraria:yoyo/string/rainbow.name=Rainbow String
+item.terraria:yoyo/string/red.name=Red String
+item.terraria:yoyo/string/sky_blue.name=Sky Blue String
+item.terraria:yoyo/string/teal.name=Teal String
+item.terraria:yoyo/string/violet.name=Violet String
+item.terraria:yoyo/string/white.name=White String
+item.terraria:yoyo/string/yellow.name=Yellow String
+item.terraria:frostburn_arrow.name=Frostburn Arrow
 
 item.terraria:critters/bunny.name=Bunny
 item.terraria:critters/bunny_explosive.name=Explosive Bunny
@@ -547,6 +586,8 @@ item.terraria:critters/dragonflies/yellow.name=Yellow Dragonfly
 item.terraria:critters/owl.name=Owl
 item.terraria:critters/turtles/normal.name=Turtle
 item.terraria:critters/turtles/jungle.name=Jungle Turtle
+item.terraria:critters/frog.name=Frog
+item.terraria:critters/golden/frog.name=Gold Frog
 
 #################
 
@@ -1036,6 +1077,9 @@ tile.terraria:statues/penguin.name=Penguin Statue
 tile.terraria:statues/squirrel.name=Squirrel Statue
 tile.terraria:statues/scorpion.name=Scorpion Statue
 tile.terraria:statues/turtle.name=Turtle Statue
+tile.terraria:furniture/chairs/dynasty.name=Dynasty Chair
+tile.terraria:furniture/chairs/palm_wood.name=Palm Wood Chair
+tile.terraria:furniture/chairs/sandstone.name=Sandstone Chair
 
 ##################
 
@@ -1088,6 +1132,9 @@ tooltip.terraria:buff.baby_slime=Slime Sơ Sinh Tấn Công Cùng Bạn
 
 buff.burning.name=Bốc Cháy
 tooltip.terraria:buff.burning=Mất Máu Từ Từ
+
+buff.on_fire.name=On Fire!
+tooltip.terraria:buff.on_fire=Slowly losing life
 
 buff.poisoned.name=Trúng Độc
 tooltip.terraria:buff.poisoned=Mất Máu Từ Từ
@@ -1142,6 +1189,9 @@ tooltip.terraria:buff.chilled=Your movement speed has been reduced
 
 buff.frozen.name=Frozen
 tooltip.terraria:buff.frozen=You can't move!
+
+buff.frostburn.name=Frostburn
+tooltip.terraria:buff.frostburn=It's either really hot or really cold. Either way it REALLY hurts
 
 buff.well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
@@ -1288,6 +1338,7 @@ tooltip.terraria:food/grilled_squirrel=That'll keep you out of my birdfeeders...
 tooltip.terraria:shark_tooth_necklace=Increases armor penetration by 5
 tooltip.terraria:food/shucked_oyster=Aw, shucks!
 tooltip.terraria:food/burger=...but wait! It was 99 cents.
+tooltip.terraria:food/sauteed_frog_legs=The other, other white meat.
 
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
 tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
@@ -1317,14 +1368,16 @@ damage.terraria:throwing=%,d sát thương ném
 
 ######ACHIEVEMENTS######
 
+achievement.terraria:complete=Achievement Complete!
+
 achievement.terraria:timber.name=Timber!!
 achievement.terraria:timber.desc=Chop down your first tree.
 
 achievement.terraria:no_hobo.name=No Hobo
 achievement.terraria:no_hobo.desc=Build a house suitable enough for your first town NPC, such as the guide, to move into.
 
-achievement.terraria:ooo_shiny_.name=Ooo! Shiny!
-achievement.terraria:ooo_shiny_.desc=Mine your first nugget of ore with a pickaxe.
+achievement.terraria:ooo_shiny.name=Ooo! Shiny!
+achievement.terraria:ooo_shiny.desc=Mine your first nugget of ore with a pickaxe.
 
 achievement.terraria:heart_breaker.name=Heart Breaker
 achievement.terraria:heart_breaker.desc=Discover and smash your first heart crystal underground.
@@ -1373,6 +1426,30 @@ achievement.terraria:topped_off.desc=Attain maximum health and mana possible wit
 
 achievement.terraria:you_can_do_it.name=You Can Do It!
 achievement.terraria:you_can_do_it.desc=Survive your character's first full night.
+
+achievement.terraria:bloodbath.name=Bloodbath
+achievement.terraria:bloodbath.desc=Survive a blood moon, a nocturnal event where the rivers run red and monsters swarm aplenty.
+
+achievement.terraria:throwing_lines.name=Throwing Lines
+achievement.terraria:throwing_lines.desc=Throw a yoyo.
+
+achievement.terraria:hammer_time.name=Stop! Hammer Time!
+achievement.terraria:hammer_time.desc=Obtain your first hammer via crafting or otherwise.
+
+achievement.terraria:benched.name=Benched
+achievement.terraria:benched.desc=Craft your first work bench.
+
+achievement.terraria:quiet_neighborhood.name=Quiet Neighborhood
+achievement.terraria:quiet_neighborhood.desc=Enter a misty graveyard filled with the surly dead.
+
+achievement.terraria:matching_attire.name=Matching Attire
+achievement.terraria:matching_attire.desc=Equip armor in all three armor slots: head, chest, and feet.
+
+achievement.terraria:head_in_clouds.name=Head in the Clouds
+achievement.terraria:head_in_clouds.desc=Equip a pair of wings.
+
+achievement.terraria:sick_throw.name=Sick Throw
+achievement.terraria:sick_throw.desc=Obtain the Terrarian.
 
 ########################
 
@@ -1471,6 +1548,8 @@ entity.terraria:hornet.name=Hornet
 entity.terraria:bunny_explosive.name=Explosive Bunny
 entity.terraria:owl.name=Owl
 entity.terraria:turtle.name=Turtle
+entity.terraria:frog.name=Frog
+entity.terraria:gold/frog.name=Gold Frog
 
 entity.terraria:hornets/hornet=Little Stinger
 entity.terraria:hornets/hornet.s=Little Stinger
