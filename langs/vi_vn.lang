@@ -17,6 +17,7 @@ soundCategory.terraria.music=Nhạc Terraria
 soundCategory.terraria.ambience=Nhạc Nền Terraria
 deathScreen.title.terraria=Bạn đã bị giết.....
 
+options.terraria:gore=Gore Effects
 gui.terraria:changecurse=Đổi lời nguyền của thế giới
 gui.terraria:world_size=Kích cỡ thế giới: %s
 gui.terraria:changeexpert=Chế độ chuyên gia: %s
@@ -1080,6 +1081,11 @@ tile.terraria:statues/turtle.name=Turtle Statue
 tile.terraria:furniture/chairs/dynasty.name=Dynasty Chair
 tile.terraria:furniture/chairs/palm_wood.name=Palm Wood Chair
 tile.terraria:furniture/chairs/sandstone.name=Sandstone Chair
+tile.terraria:furniture/chairs/lunar_nebula.name=Nebula Chair
+tile.terraria:furniture/chairs/lunar_solar.name=Solar Chair
+tile.terraria:furniture/chairs/lunar_stardust.name=Stardust Chair
+tile.terraria:furniture/chairs/lunar_vortex.name=Vortex Chair
+tile.terraria:furniture/chairs/martian.name=Martian Hover Chair
 
 ##################
 
@@ -1550,6 +1556,16 @@ entity.terraria:owl.name=Owl
 entity.terraria:turtle.name=Turtle
 entity.terraria:frog.name=Frog
 entity.terraria:gold/frog.name=Gold Frog
+entity.terraria:zombie.name=Zombie
+
+entity.terraria:zombies/normal=Zombie
+entity.terraria:zombies/bald=Bald Zombie
+entity.terraria:zombies/pincushion=Pincushion Zombie
+entity.terraria:zombies/slimed=Slimed Zombie
+entity.terraria:zombies/swamp=Swamp Zombie
+entity.terraria:zombies/twiggy=Twiggy Zombie
+entity.terraria:zombies/female=Female Zombie
+entity.terraria:zombies/torch=Torch Zombie
 
 entity.terraria:hornets/hornet=Little Stinger
 entity.terraria:hornets/hornet.s=Little Stinger
