@@ -248,6 +248,9 @@ item.terraria:potions/magic_power.name=Potion de puissance magique
 item.terraria:potions/builder.name=Potion de construction
 item.terraria:potions/water_walking.name=Potion pour marcher sur l'eau
 item.terraria:potions/gravitation.name=Potion de gravitation
+item.terraria:potions/lesser_luck.name=Lesser Luck Potion
+item.terraria:potions/luck.name=Luck Potion
+item.terraria:potions/greater_luck.name=Greater Luck Potion
 item.terraria:potions/food/golden_delight.name=Golden Delight
 item.terraria:potions/food/bunny_stew.name=Bunny Stew
 item.terraria:potions/food/apple.name=Apple
@@ -1212,6 +1215,9 @@ tooltip.terraria:buff.frozen=You can't move!
 buff.frostburn.name=Frostburn
 tooltip.terraria:buff.frostburn=It's either really hot or really cold. Either way it REALLY hurts
 
+buff.luck.name=Luck
+tooltip.terraria:buff.luck=You are feeling pretty lucky
+
 buff.well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
 tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
@@ -1327,6 +1333,7 @@ tooltip.terraria:food/smoothie_of_darkness=Come to the dark side, we have smooth
 tooltip.terraria:food/tropical_smoothie=Real smooth
 tooltip.terraria:food/grub_soup=Grub's up!
 tooltip.terraria:food/teacup=A must-have for tea parties
+tooltip.terraria:potions/luck=Increases the Luck of the user
 tooltip.terraria:star_cannon=Tirer des étoiles filantes
 tooltip.terraria:cursed_flame=Même l'eau ne peut éteindre la flamme
 tooltip.terraria:vial_of_venom=Extrêmement toxique
