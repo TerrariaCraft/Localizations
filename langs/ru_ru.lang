@@ -599,7 +599,7 @@ item.terraria:critters/turtles/normal.name=Turtle
 item.terraria:critters/turtles/jungle.name=Jungle Turtle
 item.terraria:critters/frog.name=Frog
 item.terraria:critters/golden/frog.name=Gold Frog
-item.terraria:critters/wladybug.name=Ladybug
+item.terraria:critters/ladybug.name=Ladybug
 item.terraria:critters/golden/ladybug.name=Gold Ladybug
 
 #################
