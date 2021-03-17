@@ -346,6 +346,9 @@ item.terraria:materials/junonia_shell.name=Ракушка улитки юнон�
 item.terraria:materials/pearls/white.name=Белая жемчужина
 item.terraria:materials/pearls/black.name=Черная жемчужина
 item.terraria:materials/pearls/pink.name=Розовая жемчужина
+item.terraria:materials/baits/apprentice.name=Apprentice Bait
+item.terraria:materials/baits/journeyman.name=Journeyman Bait
+item.terraria:materials/baits/master.name=Master Bait
 
 # Armor
 item.terraria:armor/wooden/helm.name=Деревянный шлем

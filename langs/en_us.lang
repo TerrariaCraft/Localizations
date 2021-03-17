@@ -346,6 +346,9 @@ item.terraria:materials/junonia_shell.name=Junonia Shell
 item.terraria:materials/pearls/white.name=White Pearl
 item.terraria:materials/pearls/black.name=Black Pearl
 item.terraria:materials/pearls/pink.name=Pink Pearl
+item.terraria:materials/baits/apprentice.name=Apprentice Bait
+item.terraria:materials/baits/journeyman.name=Journeyman Bait
+item.terraria:materials/baits/master.name=Master Bait
 
 # Armor
 item.terraria:armor/wooden/helm.name=Wood Helmet
