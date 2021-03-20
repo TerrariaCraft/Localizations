@@ -17,7 +17,7 @@ soundCategory.terraria.music=Музыка Terraria
 soundCategory.terraria.ambience=Окружение Terraria
 deathScreen.title.terraria=Вы были убиты...
 
-options.terraria:gore=Gore Effects
+options.terraria:gore=Кровавые эффекты
 gui.terraria:changecurse=Изменить тип проклятия
 gui.terraria:world_size=Размер мира: %s
 gui.terraria:changeexpert=Эксперт: %s
@@ -101,7 +101,7 @@ item.terraria:swords/blood_butcherer.name=Кровавый мясорез
 item.terraria:swords/night_edge.name=Грань ночи
 item.terraria:swords/dev_ashryman.name=Последнее желание
 item.terraria:swords/iron.name=Железный меч
-item.terraria:swords/zombie_arm.name=Zombie Arm
+item.terraria:swords/zombie_arm.name=Рука зомби
 item.terraria:shortswords/copper.name=Медный короткий меч
 item.terraria:shortswords/tin.name=Оловянный короткий меч
 item.terraria:shortswords/iron.name=Железный короткий меч
@@ -136,27 +136,27 @@ item.terraria:guns/handgun.name=Пистолет
 item.terraria:guns/shotgun.name=Дробовик
 item.terraria:guns/minishark.name=Мини-акула
 item.terraria:guns/sandgun.name=Песочный пистолет
-item.terraria:yoyos/wooden.name=Wooden Yoyo
-item.terraria:yoyos/rally.name=Rally
-item.terraria:yoyos/malaise.name=Malaise
-item.terraria:yoyos/artery.name=Artery
-item.terraria:yoyos/amazon.name=Amazon
-item.terraria:yoyos/code_1.name=Code 1
-item.terraria:yoyos/valor.name=Valor
-item.terraria:yoyos/cascade.name=Cascade
-item.terraria:yoyos/chik.name=Chik
-item.terraria:yoyos/format_c.name=Format:C
-item.terraria:yoyos/hel_fire.name=Hel-fire
-item.terraria:yoyos/amarok.name=Amarok
-item.terraria:yoyos/gradient.name=Gradient
-item.terraria:yoyos/code_2.name=Code 2
-item.terraria:yoyos/yelets.name=Yelets
-item.terraria:yoyos/dev_zeith_throw.name=Zeith's Throw
-item.terraria:yoyos/dev_red_throw.name=Red's Throw
-item.terraria:yoyos/dev_valkyrie.name=Valkyrie Yoyo
-item.terraria:yoyos/kraken.name=Kraken
-item.terraria:yoyos/eye_cthulhu.name=The Eye of Cthulhu
-item.terraria:yoyos/terrarian.name=Terrarian
+item.terraria:yoyos/wooden.name=Деревянное йо-йо
+item.terraria:yoyos/rally.name=Ралли
+item.terraria:yoyos/malaise.name=Дискомфорт
+item.terraria:yoyos/artery.name=Артерия
+item.terraria:yoyos/amazon.name=Амазония
+item.terraria:yoyos/code_1.name=Код 1
+item.terraria:yoyos/valor.name=Доблесть
+item.terraria:yoyos/cascade.name=Каскад
+item.terraria:yoyos/chik.name=Чик
+item.terraria:yoyos/format_c.name=Формат C
+item.terraria:yoyos/hel_fire.name=Пекло
+item.terraria:yoyos/amarok.name=Амарок
+item.terraria:yoyos/gradient.name=Градиент
+item.terraria:yoyos/code_2.name=Код 2
+item.terraria:yoyos/yelets.name=Елец
+item.terraria:yoyos/dev_zeith_throw.name=Бросок Зейта
+item.terraria:yoyos/dev_red_throw.name=Бросок Реда
+item.terraria:yoyos/dev_valkyrie.name=Йо-йо Валькирии
+item.terraria:yoyos/kraken.name=Кракен
+item.terraria:yoyos/eye_cthulhu.name=Глаз Ктулху
+item.terraria:yoyos/terrarian.name=Террариан
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
@@ -191,22 +191,22 @@ item.terraria:artifacts/wings/dev_flamb.name=Фламбовы Крылья
 item.terraria:artifacts/wings/dev_jar.name=Крылья Джея
 item.terraria:artifacts/wings/dev_ganza.name=Крылья Ганзы
 item.terraria:artifacts/wings/dev_ashryman.name=Крылья Аширмана
-item.terraria:artifacts/strings/black.name=Black String
-item.terraria:artifacts/strings/blue.name=Blue String
-item.terraria:artifacts/strings/brown.name=Brown String
-item.terraria:artifacts/strings/cyan.name=Cyan String
-item.terraria:artifacts/strings/green.name=Green String
-item.terraria:artifacts/strings/lime.name=Lime String
-item.terraria:artifacts/strings/orange.name=Orange String
-item.terraria:artifacts/strings/pink.name=Pink String
-item.terraria:artifacts/strings/purple.name=Purple String
-item.terraria:artifacts/strings/rainbow.name=Rainbow String
-item.terraria:artifacts/strings/red.name=Red String
-item.terraria:artifacts/strings/sky_blue.name=Sky Blue String
-item.terraria:artifacts/strings/teal.name=Teal String
-item.terraria:artifacts/strings/violet.name=Violet String
-item.terraria:artifacts/strings/white.name=White String
-item.terraria:artifacts/strings/yellow.name=Yellow String
+item.terraria:artifacts/strings/black.name=Черная нитка
+item.terraria:artifacts/strings/blue.name=Красная нитка
+item.terraria:artifacts/strings/brown.name=Коричневая нитка
+item.terraria:artifacts/strings/cyan.name=Циановая нитка
+item.terraria:artifacts/strings/green.name=Зеленая нитка
+item.terraria:artifacts/strings/lime.name=Лаймовая нитка
+item.terraria:artifacts/strings/orange.name=Оранжевая нитка
+item.terraria:artifacts/strings/pink.name=Розовая нитка
+item.terraria:artifacts/strings/purple.name=Пурпурная нитка
+item.terraria:artifacts/strings/rainbow.name=Радужная нитка
+item.terraria:artifacts/strings/red.name=Красная нитка
+item.terraria:artifacts/strings/sky_blue.name=Небесно-синяя нитка
+item.terraria:artifacts/strings/teal.name=Бирюзовая нитка
+item.terraria:artifacts/strings/violet.name=Фиолетовая нитка
+item.terraria:artifacts/strings/white.name=Белая нитка
+item.terraria:artifacts/strings/yellow.name=Желтая нитка
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -230,9 +230,9 @@ item.terraria:potions/magic_power.name=Зелье магической силы
 item.terraria:potions/builder.name=Зелье строителя
 item.terraria:potions/water_walking.name=Зелье хождения по воде
 item.terraria:potions/gravitation.name=Зелье гравитации
-item.terraria:potions/lesser_luck.name=Lesser Luck Potion
-item.terraria:potions/luck.name=Luck Potion
-item.terraria:potions/greater_luck.name=Greater Luck Potion
+item.terraria:potions/lesser_luck.name=Малое зелье удачи
+item.terraria:potions/luck.name=Зелье удачи
+item.terraria:potions/greater_luck.name=Большое зелье удачи
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
 item.terraria:potions/food/apple.name=Яблоко
@@ -269,7 +269,7 @@ item.terraria:potions/food/roasted_bird.name=Прожаренная птица
 item.terraria:potions/food/grilled_squirrel.name=Белка на гриле
 item.terraria:potions/food/shucked_oyster.name=Очищенная устрица
 item.terraria:potions/food/burger.name=Бургер
-item.terraria:potions/food/sauteed_frog_legs.name=Sauteed Frog Legs
+item.terraria:potions/food/sauteed_frog_legs.name=Обжаренные лягушачьи лапки
 
 # Materials
 item.terraria:materials/fallen_star.name=Упавшая звезда
@@ -346,9 +346,9 @@ item.terraria:materials/junonia_shell.name=Ракушка улитки юнон�
 item.terraria:materials/pearls/white.name=Белая жемчужина
 item.terraria:materials/pearls/black.name=Черная жемчужина
 item.terraria:materials/pearls/pink.name=Розовая жемчужина
-item.terraria:materials/baits/apprentice.name=Apprentice Bait
-item.terraria:materials/baits/journeyman.name=Journeyman Bait
-item.terraria:materials/baits/master.name=Master Bait
+item.terraria:materials/baits/apprentice.name=Наживка новичка
+item.terraria:materials/baits/journeyman.name=Наживка подмастерья
+item.terraria:materials/baits/master.name=Наживка мастера
 
 # Armor
 item.terraria:armor/wooden/helm.name=Деревянный шлем
@@ -535,7 +535,7 @@ item.terraria:lavaproof_bug_net.name=Лавостойкий сачок
 item.terraria:golden_bug_net.name=Золотой сачок
 item.terraria:oyster.name=Устрица
 item.terraria:guide_to_plant_critter_companionship.name=Руководство по общению с животными
-item.terraria:frostburn_arrow.name=Frostburn Arrow
+item.terraria:frostburn_arrow.name=Стрела ледяного пламени
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -597,12 +597,12 @@ item.terraria:critters/dragonflies/orange.name=Оранжевая стрекоз
 item.terraria:critters/dragonflies/red.name=Красная стрекоза
 item.terraria:critters/dragonflies/yellow.name=Желтая стрекоза
 item.terraria:critters/owl.name=Сова
-item.terraria:critters/turtles/normal.name=Turtle
-item.terraria:critters/turtles/jungle.name=Jungle Turtle
-item.terraria:critters/frog.name=Frog
-item.terraria:critters/golden/frog.name=Gold Frog
-item.terraria:critters/ladybug.name=Ladybug
-item.terraria:critters/golden/ladybug.name=Gold Ladybug
+item.terraria:critters/turtles/normal.name=Черепаха
+item.terraria:critters/turtles/jungle.name=Черепаха джунглей
+item.terraria:critters/frog.name=Лягушка
+item.terraria:critters/golden/frog.name=Золотая лягушка
+item.terraria:critters/ladybug.name=Божья коровка
+item.terraria:critters/golden/ladybug.name=Золотая божья коровка
 
 #################
 
@@ -953,9 +953,9 @@ tile.terraria:statues/grasshopper.name=Статуя кузнечика
 tile.terraria:statues/mouse.name=Статуя мыши
 tile.terraria:statues/penguin.name=Статуя пингвина
 tile.terraria:statues/squirrel.name=Статуя белки
-tile.terraria:statues/scorpion.name=Scorpion Statue
-tile.terraria:statues/turtle.name=Turtle Statue
-tile.terraria:statues/frog.name=Frog Statue
+tile.terraria:statues/scorpion.name=Статуя скорпиона
+tile.terraria:statues/turtle.name=Статуя черепахи
+tile.terraria:statues/frog.name=Статуя лягушки
 tile.terraria:boreal_lantern.name=Фонарь из заснеженной древесины
 tile.terraria:steampunk_boiler.name=Паровой котёл
 tile.terraria:crystal_ball.name=Кристальный шар
@@ -1093,15 +1093,15 @@ tile.terraria:seashell.name=Ракушка
 tile.terraria:starfish.name=Морская звезда
 tile.terraria:glass_bowl.name=Стеклянная тарелка
 tile.terraria:dynasty_bowl.name=Династическая тарелка
-tile.terraria:furniture/chairs/dynasty.name=Dynasty Chair
-tile.terraria:furniture/chairs/palm_wood.name=Palm Wood Chair
-tile.terraria:furniture/chairs/sandstone.name=Sandstone Chair
-tile.terraria:furniture/chairs/lunar_nebula.name=Nebula Chair
-tile.terraria:furniture/chairs/lunar_solar.name=Solar Chair
-tile.terraria:furniture/chairs/lunar_stardust.name=Stardust Chair
-tile.terraria:furniture/chairs/lunar_vortex.name=Vortex Chair
-tile.terraria:furniture/chairs/martian.name=Martian Hover Chair
-tile.terraria:garden_gnome.name=Garden Gnome
+tile.terraria:furniture/chairs/dynasty.name=Стул династии
+tile.terraria:furniture/chairs/palm_wood.name=Стул из пальмовой древесины
+tile.terraria:furniture/chairs/sandstone.name=Песчаниковый стул
+tile.terraria:furniture/chairs/lunar_nebula.name=Стул туманности
+tile.terraria:furniture/chairs/lunar_solar.name=Солнечный стул
+tile.terraria:furniture/chairs/lunar_stardust.name=Стул звёздной пыли
+tile.terraria:furniture/chairs/lunar_vortex.name=Вихревой стул
+tile.terraria:furniture/chairs/martian.name=Марсианское парящее кресло
+tile.terraria:garden_gnome.name=Садовый гном
 
 ##################
 
@@ -1155,8 +1155,8 @@ tooltip.terraria:buff.baby_slime=Слизень-малыш будет сража
 buff.burning.name=Горение
 tooltip.terraria:buff.burning=Потеря здоровья
 
-buff.on_fire.name=On Fire!
-tooltip.terraria:buff.on_fire=Slowly losing life
+buff.on_fire.name=В огне!
+tooltip.terraria:buff.on_fire=Медленная потеря здоровья
 
 buff.poisoned.name=Отравление
 tooltip.terraria:buff.poisoned=Медленная потеря здоровья
@@ -1212,11 +1212,11 @@ tooltip.terraria:buff.chilled=Ваша скорость передвижения
 buff.frozen.name=Заморожен
 tooltip.terraria:buff.frozen=Вы не можете двигаться!
 
-buff.frostburn.name=Frostburn
-tooltip.terraria:buff.frostburn=It's either really hot or really cold. Either way it REALLY hurts
+buff.frostburn.name=Морозное пламя
+tooltip.terraria:buff.frostburn=Либо очень жарко, либо очень холодно. В любом случае это ДЕЙСТВИТЕЛЬНО больно
 
-buff.luck.name=Luck
-tooltip.terraria:buff.luck=You are feeling pretty lucky
+buff.luck.name=Удача
+tooltip.terraria:buff.luck=Ты наполнен удачей
 
 buff.well_fed.name=Сытость
 tooltip.terraria:food.0=Незначительные улучшения всех характеристик
@@ -1277,7 +1277,7 @@ tooltip.terraria:rctoopen=Правый щелчок мыши что-бы отк�
 tooltip.terraria:debug_item=Предмет отладки
 tooltip.terraria:gravity_control=[WIP] Позволяет управлять гравитацией
 tooltip.terraria:bait_power=Сила наживки: %,d%%
-tooltip.terraria:vanity_artifact=Can be worn in vanity slots
+tooltip.terraria:vanity_artifact=Можно носить в слотах для украшений
 
 # Item Tooltips
 
@@ -1333,7 +1333,7 @@ tooltip.terraria:food/smoothie_of_darkness=Переходите на темну�
 tooltip.terraria:food/tropical_smoothie=Настоящие смузи
 tooltip.terraria:food/grub_soup=С жуками!
 tooltip.terraria:food/teacup=Обязательно к чаепитию
-tooltip.terraria:potions/luck=Increases the Luck of the user
+tooltip.terraria:potions/luck=Усиливает вашу удачу
 tooltip.terraria:star_cannon=Стреляет падающими звездами
 tooltip.terraria:cursed_flame=Даже вода не может потушить пламя
 tooltip.terraria:vial_of_venom=Экстримально токсичен
@@ -1365,7 +1365,7 @@ tooltip.terraria:food/roasted_bird=Размер порции: 1 ребенок.
 tooltip.terraria:food/grilled_squirrel=Это убережет вас от моих кормушек...
 tooltip.terraria:food/shucked_oyster=Ой, черт возьми!
 tooltip.terraria:food/burger=...но подождите! Он стоил 99 центов.
-tooltip.terraria:food/sauteed_frog_legs=The other, other white meat.
+tooltip.terraria:food/sauteed_frog_legs=Другой, другое белое мясо.
 item.terraria:armor/sunglasses/helm.desc=Делает твой вид круче!
 item.terraria:armor/dev_zeith.desc=О нет, фурри!
 item.terraria:armor/ninja/helm.tooltip=Увеличенная скорость броска на 15%%
@@ -1403,7 +1403,7 @@ damage.terraria:throwing=%,d ед. метательного урона
 
 ######ACHIEVEMENTS######
 
-achievement.terraria:complete=Achievement Complete!
+achievement.terraria:complete=Достижение выполнено!
 
 achievement.terraria:timber.name=Древесина!!
 achievement.terraria:timber.desc=Срубите ваше первое дерево.
@@ -1462,32 +1462,32 @@ achievement.terraria:topped_off.desc=Получите полный запас м
 achievement.terraria:you_can_do_it.name=У тебя получится!
 achievement.terraria:you_can_do_it.desc=Переживите первую полную ночь своего персонажа.
 
-achievement.terraria:bloodbath.name=Bloodbath
-achievement.terraria:bloodbath.desc=Survive a blood moon, a nocturnal event where the rivers run red and monsters swarm aplenty.
+achievement.terraria:bloodbath.name=Кровавая ванна
+achievement.terraria:bloodbath.desc=Переживите кровавую луну, ночное событие, в котором реки становятся красными, а монстры кишат множеством.
 
-achievement.terraria:throwing_lines.name=Throwing Lines
-achievement.terraria:throwing_lines.desc=Throw a yoyo.
+achievement.terraria:throwing_lines.name=Метательные линии
+achievement.terraria:throwing_lines.desc=Бросьте йо-йо.
 
-achievement.terraria:hammer_time.name=Stop! Hammer Time!
-achievement.terraria:hammer_time.desc=Obtain your first hammer via crafting or otherwise.
+achievement.terraria:hammer_time.name=Стоп! Время молота!
+achievement.terraria:hammer_time.desc=Получи свой первый молот, создав его или найдя.
 
-achievement.terraria:benched.name=Benched
-achievement.terraria:benched.desc=Craft your first work bench.
+achievement.terraria:benched.name=Верстачный
+achievement.terraria:benched.desc=Создайте ваш первый верстак.
 
-achievement.terraria:quiet_neighborhood.name=Quiet Neighborhood
-achievement.terraria:quiet_neighborhood.desc=Enter a misty graveyard filled with the surly dead.
+achievement.terraria:quiet_neighborhood.name=Тихий район
+achievement.terraria:quiet_neighborhood.desc=Войдите на туманное кладбище, полное угрюмых мертвецов.
 
-achievement.terraria:matching_attire.name=Matching Attire
-achievement.terraria:matching_attire.desc=Equip armor in all three armor slots: head, chest, and feet.
+achievement.terraria:matching_attire.name=Соответствующий наряд
+achievement.terraria:matching_attire.desc=Экипируйте полный комплект брони — шлем, доспех и поножи.
 
-achievement.terraria:head_in_clouds.name=Head in the Clouds
-achievement.terraria:head_in_clouds.desc=Equip a pair of wings.
+achievement.terraria:head_in_clouds.name=Витать в облаках
+achievement.terraria:head_in_clouds.desc=Оденьте пару крыльев.
 
-achievement.terraria:sick_throw.name=Sick Throw
-achievement.terraria:sick_throw.desc=Obtain the Terrarian.
+achievement.terraria:sick_throw.name=Крутой бросок
+achievement.terraria:sick_throw.desc=Заполучите террариан.
 
-achievement.terraria:heliophobia.name=Heliophobia
-achievement.terraria:heliophobia.desc=Trick a gnome into turning into stone!
+achievement.terraria:heliophobia.name=Гелиофобия
+achievement.terraria:heliophobia.desc=Обманите гнома, чтобы он превратился в камень!
 
 ########################
 
@@ -1585,22 +1585,22 @@ entity.terraria:dragonfly.name=Стрекоза
 entity.terraria:hornet.name=Шершень
 entity.terraria:bunny_explosive.name=Взрывной кролик
 entity.terraria:owl.name=Сова
-entity.terraria:turtle.name=Turtle
-entity.terraria:frog.name=Frog
-entity.terraria:gold/frog.name=Gold Frog
-entity.terraria:zombie.name=Zombie
-entity.terraria:ladybug.name=Ladybug
-entity.terraria:gold/ladybug.name=Gold Ladybug
-entity.terraria:gnome.name=Gnome
+entity.terraria:turtle.name=Черепаха
+entity.terraria:frog.name=Лягушка
+entity.terraria:gold/frog.name=Золотая лягушка
+entity.terraria:zombie.name=Зомби
+entity.terraria:ladybug.name=Божья коровка
+entity.terraria:gold/ladybug.name=Золотая божья коровка
+entity.terraria:gnome.name=Гном
 
-entity.terraria:zombies/normal=Zombie
-entity.terraria:zombies/bald=Bald Zombie
-entity.terraria:zombies/pincushion=Pincushion Zombie
-entity.terraria:zombies/slimed=Slimed Zombie
-entity.terraria:zombies/swamp=Swamp Zombie
-entity.terraria:zombies/twiggy=Twiggy Zombie
-entity.terraria:zombies/female=Female Zombie
-entity.terraria:zombies/torch=Torch Zombie
+entity.terraria:zombies/normal=Зомби
+entity.terraria:zombies/bald=Лысый зомби
+entity.terraria:zombies/pincushion=Зомби со стрелами
+entity.terraria:zombies/slimed=Зомби со слизнем
+entity.terraria:zombies/swamp=Болотный зомби
+entity.terraria:zombies/twiggy=Зомби-росток
+entity.terraria:zombies/female=Зомби-девушка
+entity.terraria:zombies/torch=Зомби с факелом
 
 entity.terraria:hornets/hornet=Шершень
 entity.terraria:hornets/hornet.s=Маленький шершень
@@ -1656,49 +1656,49 @@ npc.terraria:guide.happiness.npc.steampunker=%s натирает меня неп
 npc.terraria:guide.happiness.npc.painter=Я ненавижу если %s рядом. Мир прекрасен таким, каким он был создан!
 npc.terraria:guide.happiness.neutral=Я чувствую себя неплохо.
 
-guide.tip.1=You can use your pickaxe to dig through dirt, and your axe to chop down trees. Just aim your cursor over the tile and click!
-guide.tip.2=If you want to survive, you will need to create weapons and shelter. Start by chopping down trees and gathering wood.
-guide.tip.3=Press %s to access your crafting menu. When you have enough wood, create a workbench. This will allow you to create more complicated things, as long as you are standing close to it.
-guide.tip.4=You can build a shelter by placing wood or other blocks in the world.
-guide.tip.5=Once you have a wooden sword, you might try to gather some gel from the slimes. Combine wood and gel to make a torch!
-guide.tip.6=To change block's shape, use a hammer!
-guide.tip.7=You should do some mining to find metal ore. You can craft very useful things with it.
-guide.tip.8=Now that you have some ore, you will need to turn it into a bar in order to make items with it. This requires a furnace!
-guide.tip.9=You can create a furnace out of torches, wood, and stone. Make sure you are standing near a work bench.
-guide.tip.10=When the moon goes red, the water becomes like blood. Creatures submerged within may become grotesque and malicious.
-guide.tip.11=Underground are crystal hearts which can be used to increase your max life. You can smash them with a pickaxe.
-guide.tip.12=Stars fall all over the world at night. They can be used for all sorts of useful things. If you see one, be sure to grab it because they disappear after sunrise.
-guide.tip.13=If you combine lenses at a demon altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.
-guide.tip.14=If you combine lenses at a crimson altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.
-guide.tip.15=If you thought rainy days were a drag, wait till you see it raining slime!
-guide.tip.16=If you place an empty bottle on a table, you can use it to craft all sorts of neat potions!
-guide.tip.17=Hang up any banners you earn from defeating foes, as they will help you in future combat with that creature.
-guide.tip.18=It's pretty cold in the snow biome, but there are some unique treasures there as well. I'd check it out!
-guide.tip.19=There are antlion tunnels deep beneath the desert, full of rare fossils and many hazards!
-guide.tip.20=If you find a marble biome, be careful! They say that those locations are inhabited by some very dangerous creatures!
-guide.tip.21=In granite biomes, the very stone itself is a threat, frequently coming to life and attacking intruders!
-guide.tip.22=While you explore the underground, you may occasionally encounter helpful fairies. If you follow them, maybe they will lead you to treasure!
-guide.tip.23=If you see a pot, be sure to smash it open. They contain all sorts of useful supplies.
-guide.tip.24=There is treasure hidden all over the world. Some amazing things can be found deep underground!
-guide.tip.25=Smashing a shadow orb will sometimes cause a meteor to fall out of the sky. Shadow orbs can usually be found in the chasms around corrupt areas.
-guide.tip.26=Smashing a crimson heart will sometimes cause a meteor to fall out of the sky. Crimson hearts can usually be found in the chasms around crimtane areas.
-guide.tip.27=You should focus on gathering more life crystals to increase your maximum life.
-guide.tip.28=Your current equipment simply won't do. You need to make better armor.
-guide.tip.29=I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a demon altar.
-guide.tip.30=I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a crimson altar.
-guide.tip.31=You will want to increase your life before facing your next challenge. Fifteen hearts should be enough.
-guide.tip.32=The ebonstone in the corruption can be purified using some powder from a dryad, or it can be destroyed with explosives.
-guide.tip.33=Your next step should be to explore the corrupt chasms. Destroy any shadow orb you find.
-guide.tip.34=Your next step should be to explore the caverns of the Crimson. Find and destroy any Crimson Hearts that you come across.
-guide.tip.35=The Crimstone in the Crimson can be purified using some powder from a Dryad, or it can be destroyed with explosives.
-guide.tip.36=There is an old dungeon not far from here. Now would be a good time to go check it out.
-guide.tip.37=You should make an attempt to max out your available life. Try to gather twenty hearts.
-guide.tip.38=There are many treasures to be discovered in the jungle, if you are willing to dig deep enough.
-guide.tip.39=The underworld is made of a material called hellstone. It's perfect for making weapons and armor.
-guide.tip.40=When you are ready to challenge the keeper of the underworld, you will have to make a living sacrifice. Everything you need for it can be found in the underworld.
-guide.tip.41=Try to gather some obsidian, formed when water and lava meet. It can be used to protect against intense heat.
-guide.tip.42=Some say there are giant bee hives buried underground in the jungle. I could do with some honey myself.
-guide.tip.43=It's time to upgrade that old Furnace! Look for a Hellforge in the Underworld, it's the only way to craft Hellstone bars.
+guide.tip.1=Вы можете использовать кирку, чтобы копать землю, и топор, чтобы рубить деревья. Просто наведите курсор на блок и щелкните!
+guide.tip.2=Если вы хотите выжить, вам нужно будет создать оружие и укрытие. Начните с рубки деревьев и сбора дров.
+guide.tip.3=Нажмите %s, чтобы открыть меню крафта. Когда у вас будет достаточно дерева, создайте верстак. Он позволит вам создавать более сложные вещи, пока вы стоите рядом с ним.
+guide.tip.4=Вы можете построить убежище, разместив в мире дерево или другие блоки.
+guide.tip.5=Если у вас есть деревянный меч, вы можете попытаться собрать гель из слизней. Соедините дерево и гель, чтобы сделать факел!
+guide.tip.6=Чтобы изменить форму блока, используйте молот!
+guide.tip.7=Вам следует заняться добычей полезных ископаемых, чтобы найти руды разных металлов. Из них можно создавать очень полезные вещи.
+guide.tip.8=Теперь, когда у вас есть немного руды, вам нужно будет превратить ее в слиток, чтобы делать из нее предметы. Для этого нужна печь!
+guide.tip.9=Вы можете создать печь из факелов, дерева и камня. Убедитесь, что вы стоите рядом с верстаком.
+guide.tip.10=Когда луна становится красной, вода становится похожей на кровь. Существа, погруженные внутрь, могут стать гротескными и злобными.
+guide.tip.11=Под землей находятся кристальные сердца, с помощью которых можно увеличить максимальное количество жизней. Вы можете разбить их киркой.
+guide.tip.12=Ночью по всему миру падают звезды. Их можно использовать для всяких полезных вещей. Если вы видите одну, обязательно возьмите ее, потому что они исчезают после восхода солнца.
+guide.tip.13=Если вы объедините линзы у демонического алтаря, вы сможете найти способ вызвать могущественного монстра. Однако вам лучше подождать до ночи, прежде чем использовать его.
+guide.tip.14=Если вы объедините линзы у кровавого алтаря, вы сможете найти способ вызвать могущественного монстра. Однако вам лучше подождать до ночи, прежде чем использовать его.
+guide.tip.15=Если вы думали, что дождливые дни были утомительны, подождите, пока не увидите, как идет дождь из слизи!
+guide.tip.16=Если вы поставите пустую бутылку на стол, вы можете использовать ее для создания самых разнообразных зелий!
+guide.tip.17=Повесьте все знамена, которые вы заработали, побеждая врагов, так как они помогут вам в будущих битвах с этими же существами.
+guide.tip.18=В снежном биоме довольно холодно, но и там есть уникальные сокровища. Я бы его проверил!
+guide.tip.19=Глубоко под пустыней есть туннели с муравьиными львами, полные редких окаменелостей и множества опасностей!
+guide.tip.20=Если вы найдете мраморный биом, будьте осторожны! Говорят, что в этих местах обитают какие-то очень опасные существа!
+guide.tip.21=В гранитных биомах сам камень представляет собой угрозу, часто оживая и нападая на злоумышленников!
+guide.tip.22=Пока вы исследуете подземелье, вы можете иногда встретить услужливых фей. Если вы последуете за ними, возможно, они приведут вас к сокровищам!
+guide.tip.23=Если вы видите горшок, обязательно разбейте его. В них есть всевозможные полезные припасы.
+guide.tip.24=По всему миру спрятаны сокровища. Некоторые удивительные вещи можно найти глубоко под землей!
+guide.tip.25=Разбивая теневые сферы, иногда с неба падает метеор. Теневые сферы обычно можно найти в пропастях, в биоме порча.
+guide.tip.26=Разбив багровое сердце, иногда с неба падает метеор. Багровые сердца обычно можно найти в пропастях, в биоме кримзона.
+guide.tip.27=Вам следует сосредоточиться на сборе большего количества кристаллов жизни, чтобы увеличить свое максимальное здоровье.
+guide.tip.28=Ваше нынешнее снаряжение просто не подходит. Вам нужно сделать броню по лучше.
+guide.tip.29=Думаю, вы готовы к своей первой крупной битве. Соберите на ночь линзы из демонических глаз и отнесите их к демоническому алтарю.
+guide.tip.30=Думаю, вы готовы к своей первой крупной битве. Соберите на ночь линзы из демонических глаз и отнесите их к кровавому алтарю.
+guide.tip.31=Вы захотите увеличить ваше максимальное здоровье, прежде чем столкнетесь со следующей задачей. Пятнадцати сердец должно хватить.
+guide.tip.32=Эбонит в порче можно очистить с помощью порошка дриады или уничтожить взрывчаткой.
+guide.tip.33=Следующим шагом должно стать исследование зараженных пропастей. Уничтожьте любой теневой шар, который найдете.
+guide.tip.34=Следующим шагом должно стать исследование пещер багрянца. Найдите и уничтожьте любые багровые сердца, которые вам встретятся.
+guide.tip.35=Кровавый камень в кримзоне можно очистить с помощью порошка дриады или уничтожить взрывчаткой.
+guide.tip.36=Недалеко отсюда есть старая темница. Сейчас самое подходящее время, чтобы сходить туда.
+guide.tip.37=Вы должны попытаться максимально использовать доступную вам жизнь. Попробуйте собрать двадцать сердечек.
+guide.tip.38=Если вы хотите копать достаточно глубоко, в джунглях можно найти множество сокровищ.
+guide.tip.39=Преисподняя сделана из материала, называемого адским камнем. Идеально подходит для изготовления оружия и доспехов.
+guide.tip.40=Когда вы будете готовы бросить вызов хранителю преисподней, вам придется принести живую жертву. Все необходимое для этого можно найти в подземном мире.
+guide.tip.41=Попробуйте собрать обсидиан, образовавшийся при встрече воды и лавы. Его можно использовать для защиты от сильного жара.
+guide.tip.42=Некоторые говорят, что в джунглях под землей зарыты гигантские пчелиные ульи. Я мог бы что-то сделать из меда.
+guide.tip.43=Пришло время обновить эту старую печь! Ищите Адскую Кузню в Подземном мире, это единственный способ создать слитки Адского Камня.
 
 
 
