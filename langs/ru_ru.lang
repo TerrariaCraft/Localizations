@@ -1101,6 +1101,7 @@ tile.terraria:furniture/chairs/lunar_solar.name=Solar Chair
 tile.terraria:furniture/chairs/lunar_stardust.name=Stardust Chair
 tile.terraria:furniture/chairs/lunar_vortex.name=Vortex Chair
 tile.terraria:furniture/chairs/martian.name=Martian Hover Chair
+tile.terraria:garden_gnome.name=Garden Gnome
 
 ##################
 
@@ -1485,6 +1486,9 @@ achievement.terraria:head_in_clouds.desc=Equip a pair of wings.
 achievement.terraria:sick_throw.name=Sick Throw
 achievement.terraria:sick_throw.desc=Obtain the Terrarian.
 
+achievement.terraria:heliophobia.name=Heliophobia
+achievement.terraria:heliophobia.desc=Trick a gnome into turning into stone!
+
 ########################
 
 
@@ -1587,6 +1591,7 @@ entity.terraria:gold/frog.name=Gold Frog
 entity.terraria:zombie.name=Zombie
 entity.terraria:ladybug.name=Ladybug
 entity.terraria:gold/ladybug.name=Gold Ladybug
+entity.terraria:gnome.name=Gnome
 
 entity.terraria:zombies/normal=Zombie
 entity.terraria:zombies/bald=Bald Zombie
@@ -1650,6 +1655,51 @@ npc.terraria:guide.happiness.npc.zoologist=Я очень люблю %s, у на�
 npc.terraria:guide.happiness.npc.steampunker=%s натирает меня неправильно. Может дело в странной одежде?
 npc.terraria:guide.happiness.npc.painter=Я ненавижу если %s рядом. Мир прекрасен таким, каким он был создан!
 npc.terraria:guide.happiness.neutral=Я чувствую себя неплохо.
+
+guide.tip.1=You can use your pickaxe to dig through dirt, and your axe to chop down trees. Just aim your cursor over the tile and click!
+guide.tip.2=If you want to survive, you will need to create weapons and shelter. Start by chopping down trees and gathering wood.
+guide.tip.3=Press %s to access your crafting menu. When you have enough wood, create a workbench. This will allow you to create more complicated things, as long as you are standing close to it.
+guide.tip.4=You can build a shelter by placing wood or other blocks in the world.
+guide.tip.5=Once you have a wooden sword, you might try to gather some gel from the slimes. Combine wood and gel to make a torch!
+guide.tip.6=To change block's shape, use a hammer!
+guide.tip.7=You should do some mining to find metal ore. You can craft very useful things with it.
+guide.tip.8=Now that you have some ore, you will need to turn it into a bar in order to make items with it. This requires a furnace!
+guide.tip.9=You can create a furnace out of torches, wood, and stone. Make sure you are standing near a work bench.
+guide.tip.10=When the moon goes red, the water becomes like blood. Creatures submerged within may become grotesque and malicious.
+guide.tip.11=Underground are crystal hearts which can be used to increase your max life. You can smash them with a pickaxe.
+guide.tip.12=Stars fall all over the world at night. They can be used for all sorts of useful things. If you see one, be sure to grab it because they disappear after sunrise.
+guide.tip.13=If you combine lenses at a demon altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.
+guide.tip.14=If you combine lenses at a crimson altar, you might be able to find a way to summon a powerful monster. You will want to wait until night before using it, though.
+guide.tip.15=If you thought rainy days were a drag, wait till you see it raining slime!
+guide.tip.16=If you place an empty bottle on a table, you can use it to craft all sorts of neat potions!
+guide.tip.17=Hang up any banners you earn from defeating foes, as they will help you in future combat with that creature.
+guide.tip.18=It's pretty cold in the snow biome, but there are some unique treasures there as well. I'd check it out!
+guide.tip.19=There are antlion tunnels deep beneath the desert, full of rare fossils and many hazards!
+guide.tip.20=If you find a marble biome, be careful! They say that those locations are inhabited by some very dangerous creatures!
+guide.tip.21=In granite biomes, the very stone itself is a threat, frequently coming to life and attacking intruders!
+guide.tip.22=While you explore the underground, you may occasionally encounter helpful fairies. If you follow them, maybe they will lead you to treasure!
+guide.tip.23=If you see a pot, be sure to smash it open. They contain all sorts of useful supplies.
+guide.tip.24=There is treasure hidden all over the world. Some amazing things can be found deep underground!
+guide.tip.25=Smashing a shadow orb will sometimes cause a meteor to fall out of the sky. Shadow orbs can usually be found in the chasms around corrupt areas.
+guide.tip.26=Smashing a crimson heart will sometimes cause a meteor to fall out of the sky. Crimson hearts can usually be found in the chasms around crimtane areas.
+guide.tip.27=You should focus on gathering more life crystals to increase your maximum life.
+guide.tip.28=Your current equipment simply won't do. You need to make better armor.
+guide.tip.29=I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a demon altar.
+guide.tip.30=I think you are ready for your first major battle. Gather some lenses from the eyeballs at night and take them to a crimson altar.
+guide.tip.31=You will want to increase your life before facing your next challenge. Fifteen hearts should be enough.
+guide.tip.32=The ebonstone in the corruption can be purified using some powder from a dryad, or it can be destroyed with explosives.
+guide.tip.33=Your next step should be to explore the corrupt chasms. Destroy any shadow orb you find.
+guide.tip.34=Your next step should be to explore the caverns of the Crimson. Find and destroy any Crimson Hearts that you come across.
+guide.tip.35=The Crimstone in the Crimson can be purified using some powder from a Dryad, or it can be destroyed with explosives.
+guide.tip.36=There is an old dungeon not far from here. Now would be a good time to go check it out.
+guide.tip.37=You should make an attempt to max out your available life. Try to gather twenty hearts.
+guide.tip.38=There are many treasures to be discovered in the jungle, if you are willing to dig deep enough.
+guide.tip.39=The underworld is made of a material called hellstone. It's perfect for making weapons and armor.
+guide.tip.40=When you are ready to challenge the keeper of the underworld, you will have to make a living sacrifice. Everything you need for it can be found in the underworld.
+guide.tip.41=Try to gather some obsidian, formed when water and lava meet. It can be used to protect against intense heat.
+guide.tip.42=Some say there are giant bee hives buried underground in the jungle. I could do with some honey myself.
+guide.tip.43=It's time to upgrade that old Furnace! Look for a Hellforge in the Underworld, it's the only way to craft Hellstone bars.
+
 
 
 
