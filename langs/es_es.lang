@@ -536,6 +536,7 @@ item.terraria:golden_bug_net.name=Golden Bug Net
 item.terraria:oyster.name=Oyster
 item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
 item.terraria:frostburn_arrow.name=Frostburn Arrow
+item.terraria:slime_crown.name=Slime Crown
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
@@ -1378,6 +1379,7 @@ tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits 
 tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
 tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
 tooltip.terraria:guns/dev_jar_glock=¡Mejor valorados en las escuelas de todo el mundo!
+tooltip.terraria:slime_crown=Summons King Slime
 
 # Misc Tooltips
 
@@ -1488,6 +1490,9 @@ achievement.terraria:sick_throw.desc=Obtain the Terrarian.
 
 achievement.terraria:heliophobia.name=Heliophobia
 achievement.terraria:heliophobia.desc=Trick a gnome into turning into stone!
+
+achievement.terraria:slippery_shinobi.name=Slippery Shinobi
+achievement.terraria:slippery_shinobi.desc=Defeat King Slime, the lord of all things slimy.
 
 ########################
 
@@ -1621,6 +1626,9 @@ entity.terraria:hornets/stingy=Stingy Hornet
 entity.terraria:hornets/stingy.s=Little Stingy Hornet
 entity.terraria:hornets/stingy.b=Big Stingy Hornet
 
+entity.terraria:king_slime.name=King Slime
+boss.terraria:king_slime.awake=King Slime has awoken!
+boss.terraria:king_slime.defeat=King Slime has been defeated!
 
 ####################
 

@@ -536,6 +536,7 @@ item.terraria:golden_bug_net.name=Золотой сачок
 item.terraria:oyster.name=Устрица
 item.terraria:guide_to_plant_critter_companionship.name=Руководство по общению с животными
 item.terraria:frostburn_arrow.name=Стрела ледяного пламени
+item.terraria:slime_crown.name=Slime Crown
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -1378,6 +1379,7 @@ tooltip.terraria:armor/dev_ashryman=Когда-то носил герой, по�
 tooltip.terraria:armor/dev_jar=Критические показатели жизненно важных функций, немедленно обратитесь за медицинской помощью
 tooltip.terraria:armor/dev_degeh03=Подожди, опять задерживается???
 tooltip.terraria:guns/dev_jar_glock=Лучший выбор в школах по всему миру!
+tooltip.terraria:slime_crown=Summons King Slime
 
 # Misc Tooltips
 
@@ -1488,6 +1490,9 @@ achievement.terraria:sick_throw.desc=Заполучите террариан.
 
 achievement.terraria:heliophobia.name=Гелиофобия
 achievement.terraria:heliophobia.desc=Обманите гнома, чтобы он превратился в камень!
+
+achievement.terraria:slippery_shinobi.name=Slippery Shinobi
+achievement.terraria:slippery_shinobi.desc=Defeat King Slime, the lord of all things slimy.
 
 ########################
 
@@ -1621,6 +1626,9 @@ entity.terraria:hornets/stingy=Жалящий шершень
 entity.terraria:hornets/stingy.s=Маленький жалящий шершень
 entity.terraria:hornets/stingy.b=Большой жалящий шершень
 
+entity.terraria:king_slime.name=King Slime
+boss.terraria:king_slime.awake=King Slime has awoken!
+boss.terraria:king_slime.defeat=King Slime has been defeated!
 
 ####################
 
