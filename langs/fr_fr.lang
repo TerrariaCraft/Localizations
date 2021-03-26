@@ -10,6 +10,7 @@ itemGroup.terraria:blocks=Terraria Craft: Blocs
 itemGroup.terraria:armor=Terraria Craft: Armure
 itemGroup.terraria:potions=Terraria Craft: Potions
 itemGroup.terraria:critters=Terraria Craft: Critters
+itemGroup.terraria:hostiles=Terraria Craft: Enemies
 
 generator.Terraria=Monde Terraria
 gui.achievements=Progrès
@@ -442,6 +443,8 @@ item.terraria:armor/pink_snow/body.name=Manteau de neige rose
 item.terraria:armor/pink_snow/legs.name=Pantalon de neige rose
 item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
+item.terraria:armor/gold_crown/helm.name=Gold Crown
+item.terraria:armor/platinum_crown/helm.name=Platinum Crown
 
 # Misc
 item.terraria:whoopie_cushion.name=Coussin Péteur
@@ -604,6 +607,26 @@ item.terraria:critters/frog.name=Frog
 item.terraria:critters/golden/frog.name=Gold Frog
 item.terraria:critters/ladybug.name=Ladybug
 item.terraria:critters/golden/ladybug.name=Gold Ladybug
+
+# Hostiles
+item.terraria:hostiles/slimes/green.name=Green Slime
+item.terraria:hostiles/slimes/blue.name=Blue Slime
+item.terraria:hostiles/slimes/purple.name=Purple Slime
+item.terraria:hostiles/slimes/pinky.name=Pinky Slime
+item.terraria:hostiles/slimes/red.name=Red Slime
+item.terraria:hostiles/slimes/yellow.name=Yellow Slime
+item.terraria:hostiles/slimes/black.name=Black Slime
+item.terraria:hostiles/slimes/ice.name=Ice Slime
+item.terraria:hostiles/slimes/ice_spiked.name=Spiky Ice Slime
+item.terraria:hostiles/slimes/jungle.name=Jungle Slime
+item.terraria:hostiles/slimes/jungle_spiked.name=Spiky Jungle Slime
+item.terraria:hostiles/zombie.name=Zombie
+item.terraria:hostiles/demon_eye.name=Demon Eye
+item.terraria:hostiles/crimera.name=Crimera
+item.terraria:hostiles/eater_of_souls.name=Eater of Souls
+item.terraria:hostiles/drippler.name=Drippler
+item.terraria:hostiles/gnome.name=Gnome
+item.terraria:hostiles/hornet.name=Hornet
 
 #################
 
@@ -1103,6 +1126,7 @@ tile.terraria:furniture/chairs/lunar_stardust.name=Stardust Chair
 tile.terraria:furniture/chairs/lunar_vortex.name=Vortex Chair
 tile.terraria:furniture/chairs/martian.name=Martian Hover Chair
 tile.terraria:garden_gnome.name=Garden Gnome
+tile.terraria:crispy_honey_block.name=Crispy Honey Block
 
 ##################
 
@@ -1250,7 +1274,8 @@ tooltip.terraria:restores_mana=Restore %s de mana
 tooltip.terraria:potion_duration=Duration: %s min
 tooltip.terraria:regen_speed_increase=Augmentation de la vitesse de régénération
 tooltip.terraria:increased_movement_speed=%,d%% d’augmentation de vitesse de déplacement
-tooltip.terraria:placeWhileHoldingKey=Peut être placé en maintenant la touche %s
+tooltip.terraria:placeable.key=Peut être placé en maintenant la touche %s
+tooltip.terraria:placeable=Can be placed
 tooltip.terraria:remove_buff=Supprimer le buff
 tooltip.terraria:dropped=Tomber:
 tooltip.terraria:mines.meteorite=Mine de météorite
@@ -1519,6 +1544,10 @@ house.terraria:ok=This is suitable home.
 
 gui.terraria:buy=Buy for
 gui.terraria:nurse.heal=Heal for
+
+fluid.terraria:water=Water
+fluid.terraria:lava=Lava
+fluid.terraria:honey=Honey
 
 ################
 
