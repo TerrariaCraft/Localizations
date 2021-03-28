@@ -237,6 +237,9 @@ item.terraria:potions/gravitation.name=Зелье гравитации
 item.terraria:potions/lesser_luck.name=Малое зелье удачи
 item.terraria:potions/luck.name=Зелье удачи
 item.terraria:potions/greater_luck.name=Большое зелье удачи
+item.terraria:potions/gills.name=Gills Potion
+item.terraria:potions/honey.name=Bottled Honey
+
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
 item.terraria:potions/food/apple.name=Яблоко
@@ -1257,6 +1260,9 @@ buff.terraria:luck.desc=Ты наполнен удачей
 
 buff.terraria:gills.name=Gills
 buff.terraria:gills.desc=Breathe underwater
+
+buff.terraria:honey.name=Honey
+buff.terraria:honey.desc=Life regeneration is increased
 
 buff.terraria:well_fed.name=Сытость
 tooltip.terraria:food.0=Незначительные улучшения всех характеристик

@@ -237,6 +237,9 @@ item.terraria:potions/gravitation.name=Potion de gravitation
 item.terraria:potions/lesser_luck.name=Lesser Luck Potion
 item.terraria:potions/luck.name=Luck Potion
 item.terraria:potions/greater_luck.name=Greater Luck Potion
+item.terraria:potions/gills.name=Gills Potion
+item.terraria:potions/honey.name=Bottled Honey
+
 item.terraria:potions/food/golden_delight.name=Golden Delight
 item.terraria:potions/food/bunny_stew.name=Bunny Stew
 item.terraria:potions/food/apple.name=Apple
@@ -1257,6 +1260,9 @@ buff.terraria:luck.desc=You are feeling pretty lucky
 
 buff.terraria:gills.name=Gills
 buff.terraria:gills.desc=Breathe underwater
+
+buff.terraria:honey.name=Honey
+buff.terraria:honey.desc=Life regeneration is increased
 
 buff.terraria:well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
