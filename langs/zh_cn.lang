@@ -208,6 +208,9 @@ item.terraria:artifacts/strings/teal.name=Teal String
 item.terraria:artifacts/strings/violet.name=Violet String
 item.terraria:artifacts/strings/white.name=White String
 item.terraria:artifacts/strings/yellow.name=Yellow String
+item.terraria:artifacts/obsidian_rose.name=Obsidian Rose
+item.terraria:artifacts/lava_charm.name=Lava Charm
+item.terraria:artifacts/molten_charm.name=Molten Charm
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=弱效治疗药水
@@ -539,7 +542,15 @@ item.terraria:golden_bug_net.name=Golden Bug Net
 item.terraria:oyster.name=Oyster
 item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
 item.terraria:frostburn_arrow.name=Frostburn Arrow
-item.terraria:slime_crown.name=Slime Crown
+item.terraria:flower_seeds/blue.name=Blue Flower Seeds
+item.terraria:flower_seeds/magenta.name=Magenta Flower Seeds
+item.terraria:flower_seeds/pink.name=Pink Flower Seeds
+item.terraria:flower_seeds/red.name=Red Flower Seeds
+item.terraria:flower_seeds/yellow.name=Yellow Flower Seeds
+item.terraria:flower_seeds/violet.name=Violet Flower Seeds
+item.terraria:flower_seeds/white.name=White Flower Seeds
+item.terraria:flower_seeds/wild.name=Wild Flower Seeds
+item.terraria:flower_seeds/tall_grass.name=Tall Grass Seeds
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
@@ -627,6 +638,7 @@ item.terraria:hostiles/eater_of_souls.name=Eater of Souls
 item.terraria:hostiles/drippler.name=Drippler
 item.terraria:hostiles/gnome.name=Gnome
 item.terraria:hostiles/hornet.name=Hornet
+item.terraria:slime_crown.name=Slime Crown
 
 #################
 
@@ -1159,99 +1171,102 @@ death.attack.terraria:thorn_bushes=%s被刺死了
 
 ######BUFFS######
 
-buff.potion_sickness.name=药水疾病
-tooltip.terraria:buff.potion_sickness=不能再消耗治疗物品
+buff.terraria:potion_sickness.name=药水疾病
+buff.terraria:potion_sickness.desc=不能再消耗治疗物品
 
-buff.spelunker.name=洞穴探险
-tooltip.terraria:buff.spelunker=显示宝藏和矿石的位置
+buff.terraria:spelunker.name=洞穴探险
+buff.terraria:spelunker.desc=显示宝藏和矿石的位置
 
-buff.regeneration.name=再生药水
-tooltip.terraria:buff.regeneration=提供生命再生
+buff.terraria:regeneration.name=再生药水
+buff.terraria:regeneration.desc=提供生命再生
 
-buff.mining.name=采矿
-tooltip.terraria:increase_spmining=挖矿速度增加%,d%%
+buff.terraria:mining.name=采矿
+buff.terraria:mining.desc=挖矿速度增加%,d%%
 
-buff.ammo_reservation.name=弹药储备
-tooltip.terraria:buff.ammo_reservation=20%%的几率不消耗弹药
+buff.terraria:ammo_reservation.name=弹药储备
+buff.terraria:ammo_reservation.desc=20%%的几率不消耗弹药
 
-buff.baby_slime.name=史莱姆宝宝
-tooltip.terraria:buff.baby_slime=史莱姆宝宝将为你而战
+buff.terraria:baby_slime.name=史莱姆宝宝
+buff.terraria:baby_slime.desc=史莱姆宝宝将为你而战
 
-buff.burning.name=燃烧
-tooltip.terraria:buff.burning=正在损失生命值且移动已放缓
+buff.terraria:burning.name=燃烧
+buff.terraria:burning.desc=正在损失生命值且移动已放缓
 
-buff.on_fire.name=On Fire!
-tooltip.terraria:buff.on_fire=Slowly losing life
+buff.terraria:on_fire.name=On Fire!
+buff.terraria:on_fire.desc=Slowly losing life
 
-buff.poisoned.name=中毒
-tooltip.terraria:buff.poisoned=缓慢失去生命值
+buff.terraria:poisoned.name=中毒
+buff.terraria:poisoned.desc=缓慢失去生命值
 
-buff.happy.name=快乐！
+buff.terraria:happy.name=快乐！
 
-buff.swiftness.name=敏捷
+buff.terraria:swiftness.name=敏捷
 
-buff.ironskin.name=铁皮
+buff.terraria:ironskin.name=铁皮
 
-buff.shine.name=光芒
-tooltip.terraria:buff.shine=发光
+buff.terraria:shine.name=光芒
+buff.terraria:shine.desc=发光
 
-buff.creative.name=创造
-tooltip.terraria:buff.creative=无限的资源和即时破坏能力
+buff.terraria:creative.name=创造
+buff.terraria:creative.desc=无限的资源和即时破坏能力
 
-buff.star_in_a_bottle.name=星星瓶
-tooltip.terraria:buff.star_in_a_bottle=魔力再生增加
+buff.terraria:star_in_a_bottle.name=星星瓶
+buff.terraria:star_in_a_bottle.desc=魔力再生增加
 
-buff.heart_lamp.name=心灯
-tooltip.terraria:buff.heart_lamp=生命再生速度提高
+buff.terraria:heart_lamp.name=心灯
+buff.terraria:heart_lamp.desc=生命再生速度提高
 
-buff.cozy_fire.name=温馨之火
-tooltip.terraria:buff.cozy_fire=生命再生速度略有提高
+buff.terraria:cozy_fire.name=温馨之火
+buff.terraria:cozy_fire.desc=生命再生速度略有提高
 
-buff.magic_power.name=魔能
-tooltip.terraria:buff.magic_power=魔法伤害增加20%%
+buff.terraria:magic_power.name=魔能
+buff.terraria:magic_power.desc=魔法伤害增加20%%
 
-buff.cursed_inferno.name=诅咒地狱
-tooltip.terraria:buff.cursed_inferno=正在损失生命值
+buff.terraria:cursed_inferno.name=诅咒地狱
+buff.terraria:cursed_inferno.desc=正在损失生命值
 
-buff.builder.name=建筑工
-tooltip.terraria:buff.builder=放置速度和范围增加
+buff.terraria:builder.name=建筑工
+buff.terraria:builder.desc=放置速度和范围增加
 
-buff.water_walking.name=水上漂
-tooltip.terraria:buff.water_walking=按下蹲进入水中
+buff.terraria:water_walking.name=水上漂
+buff.terraria:water_walking.desc=按下蹲进入水中
 
-buff.clairvoyance.name=千里眼
-tooltip.terraria:buff.clairvoyance=魔能增加
+buff.terraria:clairvoyance.name=千里眼
+buff.terraria:clairvoyance.desc=魔能增加
 
-buff.darkness.name=黑暗
-tooltip.terraria:buff.darkness=光视能力下降
+buff.terraria:darkness.name=黑暗
+buff.terraria:darkness.desc=光视能力下降
 
-buff.gravitation.name=重力
-tooltip.terraria:buff.gravitation=按%s可逆转重力
+buff.terraria:gravitation.name=重力
+buff.terraria:gravitation.desc=按%s可逆转重力
 
-buff.banner.name=旗帜
-tooltip.terraria:buff.banner=伤害和防御力因下列原因增加：
+buff.terraria:banner.name=旗帜
+buff.terraria:banner.desc=伤害和防御力因下列原因增加：
 
-buff.chilled.name=Chilled
-tooltip.terraria:buff.chilled=Your movement speed has been reduced
+buff.terraria:chilled.name=Chilled
+buff.terraria:chilled.desc=Your movement speed has been reduced
 
-buff.frozen.name=Frozen
-tooltip.terraria:buff.frozen=You can't move!
+buff.terraria:frozen.name=Frozen
+buff.terraria:frozen.desc=You can't move!
 
-buff.frostburn.name=Frostburn
-tooltip.terraria:buff.frostburn=It's either really hot or really cold. Either way it REALLY hurts
+buff.terraria:frostburn.name=Frostburn
+buff.terraria:frostburn.desc=It's either really hot or really cold. Either way it REALLY hurts
 
-buff.luck.name=Luck
-tooltip.terraria:buff.luck=You are feeling pretty lucky
+buff.terraria:luck.name=Luck
+buff.terraria:luck.desc=You are feeling pretty lucky
 
-buff.well_fed.name=Well Fed
+buff.terraria:gills.name=Gills
+buff.terraria:gills.desc=Breathe underwater
+
+buff.terraria:well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
 tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
 
-buff.plenty_satisfied.name=Plenty Satisfied
+buff.terraria:plenty_satisfied.name=Plenty Satisfied
 tooltip.terraria:food.1=Medium improvements to all stats
 tooltip.terraria:food.expert.1=Medium improvements to all stats and increased life regeneration
 
-buff.exquisitely_stuffed.name=Exquisitely Stuffed
+buff.terraria:exquisitely_stuffed.name=Exquisitely Stuffed
 tooltip.terraria:food.2=Major improvements to all stats
 tooltip.terraria:food.expert.2=Major improvements to all stats and increased life regeneration
 
@@ -1321,6 +1336,9 @@ tooltip.terraria:artifacts/band_starpower.1=永久增加20点魔力上限
 tooltip.terraria:artifacts/obsidian_skull=增加对火块的免疫力
 tooltip.terraria:artifacts/wings=Allows flight and slow fall
 tooltip.terraria:artifacts/string=Increases yoyo range
+tooltip.terraria:artifacts/obsidian_rose=Reduces damage from touching lava
+tooltip.terraria:artifacts/lava_charm=Provides 7 seconds of immunity to lava
+
 tooltip.terraria:shine_potion=散发一圈亮光
 tooltip.terraria:whoopie_cushion='可能会惹恼别人'
 tooltip.terraria:bars/demonite='与黑暗能量休戚与共'

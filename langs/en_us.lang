@@ -208,6 +208,9 @@ item.terraria:artifacts/strings/teal.name=Teal String
 item.terraria:artifacts/strings/violet.name=Violet String
 item.terraria:artifacts/strings/white.name=White String
 item.terraria:artifacts/strings/yellow.name=Yellow String
+item.terraria:artifacts/obsidian_rose.name=Obsidian Rose
+item.terraria:artifacts/lava_charm.name=Lava Charm
+item.terraria:artifacts/molten_charm.name=Molten Charm
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Lesser Healing Potion
@@ -539,7 +542,15 @@ item.terraria:golden_bug_net.name=Golden Bug Net
 item.terraria:oyster.name=Oyster
 item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
 item.terraria:frostburn_arrow.name=Frostburn Arrow
-item.terraria:slime_crown.name=Slime Crown
+item.terraria:flower_seeds/blue.name=Blue Flower Seeds
+item.terraria:flower_seeds/magenta.name=Magenta Flower Seeds
+item.terraria:flower_seeds/pink.name=Pink Flower Seeds
+item.terraria:flower_seeds/red.name=Red Flower Seeds
+item.terraria:flower_seeds/yellow.name=Yellow Flower Seeds
+item.terraria:flower_seeds/violet.name=Violet Flower Seeds
+item.terraria:flower_seeds/white.name=White Flower Seeds
+item.terraria:flower_seeds/wild.name=Wild Flower Seeds
+item.terraria:flower_seeds/tall_grass.name=Tall Grass Seeds
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
@@ -627,6 +638,7 @@ item.terraria:hostiles/eater_of_souls.name=Eater of Souls
 item.terraria:hostiles/drippler.name=Drippler
 item.terraria:hostiles/gnome.name=Gnome
 item.terraria:hostiles/hornet.name=Hornet
+item.terraria:slime_crown.name=Slime Crown
 
 #################
 
@@ -1159,99 +1171,102 @@ death.attack.terraria:thorn_bushes=%s was prickled to death.
 
 ######BUFFS######
 
-buff.potion_sickness.name=Potion Sickness
-tooltip.terraria:buff.potion_sickness=Can't use any healing items
+buff.terraria:potion_sickness.name=Potion Sickness
+buff.terraria:potion_sickness.desc=Can't use any healing items
 
-buff.spelunker.name=Spelunker
-tooltip.terraria:buff.spelunker=Shows the location of treasure and ore
+buff.terraria:spelunker.name=Spelunker
+buff.terraria:spelunker.desc=Shows the location of treasure and ore
 
-buff.regeneration.name=Regeneration
-tooltip.terraria:buff.regeneration=Regenerates health
+buff.terraria:regeneration.name=Regeneration
+buff.terraria:regeneration.desc=Regenerates health
 
-buff.mining.name=Mining
-tooltip.terraria:increase_spmining=Mining speed increased by %,d%%
+buff.terraria:mining.name=Mining
+buff.terraria:mining.desc=Mining speed increased by %,d%%
 
-buff.ammo_reservation.name=Ammo Reservation
-tooltip.terraria:buff.ammo_reservation=Grants 20%% chance to retain ammo
+buff.terraria:ammo_reservation.name=Ammo Reservation
+buff.terraria:ammo_reservation.desc=Grants 20%% chance to retain ammo
 
-buff.baby_slime.name=Baby Slime
-tooltip.terraria:buff.baby_slime=The baby slime will fight for you
+buff.terraria:baby_slime.name=Baby Slime
+buff.terraria:baby_slime.desc=The baby slime will fight for you
 
-buff.burning.name=Burning
-tooltip.terraria:buff.burning=Losing life and slowed movement
+buff.terraria:burning.name=Burning
+buff.terraria:burning.desc=Losing life and slowed movement
 
-buff.on_fire.name=On Fire!
-tooltip.terraria:buff.on_fire=Slowly losing life
+buff.terraria:on_fire.name=On Fire!
+buff.terraria:on_fire.desc=Slowly losing life
 
-buff.poisoned.name=Poisoned
-tooltip.terraria:buff.poisoned=Slowly losing life
+buff.terraria:poisoned.name=Poisoned
+buff.terraria:poisoned.desc=Slowly losing life
 
-buff.happy.name=Happy!
+buff.terraria:happy.name=Happy!
 
-buff.swiftness.name=Swiftness
+buff.terraria:swiftness.name=Swiftness
 
-buff.ironskin.name=Ironskin
+buff.terraria:ironskin.name=Ironskin
 
-buff.shine.name=Shine
-tooltip.terraria:buff.shine=Emitting light
+buff.terraria:shine.name=Shine
+buff.terraria:shine.desc=Emitting light
 
-buff.creative.name=Creative
-tooltip.terraria:buff.creative=Unlimited resources and immediate block destruction
+buff.terraria:creative.name=Creative
+buff.terraria:creative.desc=Unlimited resources and immediate block destruction
 
-buff.star_in_a_bottle.name=Star in a Bottle
-tooltip.terraria:buff.star_in_a_bottle=Increased mana regeneration
+buff.terraria:star_in_a_bottle.name=Star in a Bottle
+buff.terraria:star_in_a_bottle.desc=Increased mana regeneration
 
-buff.heart_lamp.name=Heart Lamp
-tooltip.terraria:buff.heart_lamp=Life regen is increased
+buff.terraria:heart_lamp.name=Heart Lamp
+buff.terraria:heart_lamp.desc=Life regen is increased
 
-buff.cozy_fire.name=Cozy Fire
-tooltip.terraria:buff.cozy_fire=Life regen is slightly increased
+buff.terraria:cozy_fire.name=Cozy Fire
+buff.terraria:cozy_fire.desc=Life regen is slightly increased
 
-buff.magic_power.name=Magic Power
-tooltip.terraria:buff.magic_power=20%% increased magic damage
+buff.terraria:magic_power.name=Magic Power
+buff.terraria:magic_power.desc=20%% increased magic damage
 
-buff.cursed_inferno.name=Cursed Inferno
-tooltip.terraria:buff.cursed_inferno=Losing life
+buff.terraria:cursed_inferno.name=Cursed Inferno
+buff.terraria:cursed_inferno.desc=Losing life
 
-buff.builder.name=Builder
-tooltip.terraria:buff.builder=Increased placement speed and range
+buff.terraria:builder.name=Builder
+buff.terraria:builder.desc=Increased placement speed and range
 
-buff.water_walking.name=Water Walking
-tooltip.terraria:buff.water_walking=Sneak to enter water
+buff.terraria:water_walking.name=Water Walking
+buff.terraria:water_walking.desc=Sneak to enter water
 
-buff.clairvoyance.name=Clairvoyance
-tooltip.terraria:buff.clairvoyance=Magic powers are increased
+buff.terraria:clairvoyance.name=Clairvoyance
+buff.terraria:clairvoyance.desc=Magic powers are increased
 
-buff.darkness.name=Darkness
-tooltip.terraria:buff.darkness=Decreased light vision
+buff.terraria:darkness.name=Darkness
+buff.terraria:darkness.desc=Decreased light vision
 
-buff.gravitation.name=Gravitation
-tooltip.terraria:buff.gravitation=Press %s to reverse gravity
+buff.terraria:gravitation.name=Gravitation
+buff.terraria:gravitation.desc=Press %s to reverse gravity
 
-buff.banner.name=Banner
-tooltip.terraria:buff.banner=Increased damage and defense from the following:
+buff.terraria:banner.name=Banner
+buff.terraria:banner.desc=Increased damage and defense from the following:
 
-buff.chilled.name=Chilled
-tooltip.terraria:buff.chilled=Your movement speed has been reduced
+buff.terraria:chilled.name=Chilled
+buff.terraria:chilled.desc=Your movement speed has been reduced
 
-buff.frozen.name=Frozen
-tooltip.terraria:buff.frozen=You can't move!
+buff.terraria:frozen.name=Frozen
+buff.terraria:frozen.desc=You can't move!
 
-buff.frostburn.name=Frostburn
-tooltip.terraria:buff.frostburn=It's either really hot or really cold. Either way it REALLY hurts
+buff.terraria:frostburn.name=Frostburn
+buff.terraria:frostburn.desc=It's either really hot or really cold. Either way it REALLY hurts
 
-buff.luck.name=Luck
-tooltip.terraria:buff.luck=You are feeling pretty lucky
+buff.terraria:luck.name=Luck
+buff.terraria:luck.desc=You are feeling pretty lucky
 
-buff.well_fed.name=Well Fed
+buff.terraria:gills.name=Gills
+buff.terraria:gills.desc=Breathe underwater
+
+buff.terraria:well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
 tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
 
-buff.plenty_satisfied.name=Plenty Satisfied
+buff.terraria:plenty_satisfied.name=Plenty Satisfied
 tooltip.terraria:food.1=Medium improvements to all stats
 tooltip.terraria:food.expert.1=Medium improvements to all stats and increased life regeneration
 
-buff.exquisitely_stuffed.name=Exquisitely Stuffed
+buff.terraria:exquisitely_stuffed.name=Exquisitely Stuffed
 tooltip.terraria:food.2=Major improvements to all stats
 tooltip.terraria:food.expert.2=Major improvements to all stats and increased life regeneration
 
@@ -1318,9 +1333,12 @@ tooltip.terraria:artifacts/obsidian_water_walking_boots=Grants immunity to fire 
 tooltip.terraria:artifacts/shark_tooth_necklace=Increases armor penetration by 5
 tooltip.terraria:artifacts/band_starpower.0=Slowly regenerates mana
 tooltip.terraria:artifacts/band_starpower.1=Permanently increases maximum mana by 20
-tooltip.terraria:artifacts/obsidian_skull=Gives immunity to fire blocks
+tooltip.terraria:artifacts/obsidian_skull=Grants immunity to fire blocks
 tooltip.terraria:artifacts/wings=Allows flight and slow fall
 tooltip.terraria:artifacts/string=Increases yoyo range
+tooltip.terraria:artifacts/obsidian_rose=Reduces damage from touching lava
+tooltip.terraria:artifacts/lava_charm=Provides 7 seconds of immunity to lava
+
 tooltip.terraria:shine_potion=Emits an aura of light
 tooltip.terraria:whoopie_cushion=May annoy others
 tooltip.terraria:bars/demonite=Pulsing with dark energy

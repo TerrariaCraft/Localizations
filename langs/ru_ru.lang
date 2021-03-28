@@ -208,6 +208,9 @@ item.terraria:artifacts/strings/teal.name=Бирюзовая нитка
 item.terraria:artifacts/strings/violet.name=Фиолетовая нитка
 item.terraria:artifacts/strings/white.name=Белая нитка
 item.terraria:artifacts/strings/yellow.name=Желтая нитка
+item.terraria:artifacts/obsidian_rose.name=Obsidian Rose
+item.terraria:artifacts/lava_charm.name=Lava Charm
+item.terraria:artifacts/molten_charm.name=Molten Charm
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -539,7 +542,15 @@ item.terraria:golden_bug_net.name=Золотой сачок
 item.terraria:oyster.name=Устрица
 item.terraria:guide_to_plant_critter_companionship.name=Руководство по общению с животными
 item.terraria:frostburn_arrow.name=Стрела ледяного пламени
-item.terraria:slime_crown.name=Slime Crown
+item.terraria:flower_seeds/blue.name=Blue Flower Seeds
+item.terraria:flower_seeds/magenta.name=Magenta Flower Seeds
+item.terraria:flower_seeds/pink.name=Pink Flower Seeds
+item.terraria:flower_seeds/red.name=Red Flower Seeds
+item.terraria:flower_seeds/yellow.name=Yellow Flower Seeds
+item.terraria:flower_seeds/violet.name=Violet Flower Seeds
+item.terraria:flower_seeds/white.name=White Flower Seeds
+item.terraria:flower_seeds/wild.name=Wild Flower Seeds
+item.terraria:flower_seeds/tall_grass.name=Tall Grass Seeds
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -627,6 +638,7 @@ item.terraria:hostiles/eater_of_souls.name=Eater of Souls
 item.terraria:hostiles/drippler.name=Drippler
 item.terraria:hostiles/gnome.name=Gnome
 item.terraria:hostiles/hornet.name=Hornet
+item.terraria:slime_crown.name=Slime Crown
 
 #################
 
@@ -1159,99 +1171,102 @@ death.attack.terraria:thorn_bushes=%s был заколот до смерти.
 
 ######BUFFS######
 
-buff.potion_sickness.name=Послезельевая болезнь
-tooltip.terraria:buff.potion_sickness=Нельзя потреблять лечащие предметы
+buff.terraria:potion_sickness.name=Послезельевая болезнь
+buff.terraria:potion_sickness.desc=Нельзя потреблять лечащие предметы
 
-buff.spelunker.name=Спелеолог
-tooltip.terraria:buff.spelunker=Отображает местоположение руды и сокровищ
+buff.terraria:spelunker.name=Спелеолог
+buff.terraria:spelunker.desc=Отображает местоположение руды и сокровищ
 
-buff.regeneration.name=Регенерация
-tooltip.terraria:buff.regeneration=Ускорение регенерации здоровья
+buff.terraria:regeneration.name=Регенерация
+buff.terraria:regeneration.desc=Ускорение регенерации здоровья
 
-buff.mining.name=Шахтер
-tooltip.terraria:increase_spmining=Скорость добычи увеличена на %,d%%
+buff.terraria:mining.name=Шахтер
+buff.terraria:mining.desc=Скорость добычи увеличена на %,d%%
 
-buff.ammo_reservation.name=Экономия боезапаса
-tooltip.terraria:buff.ammo_reservation=Дает 20%% шанс не потратить снаряд
+buff.terraria:ammo_reservation.name=Экономия боезапаса
+buff.terraria:ammo_reservation.desc=Дает 20%% шанс не потратить снаряд
 
-buff.baby_slime.name=Слизень-малыш
-tooltip.terraria:buff.baby_slime=Слизень-малыш будет сражаться за вас
+buff.terraria:baby_slime.name=Слизень-малыш
+buff.terraria:baby_slime.desc=Слизень-малыш будет сражаться за вас
 
-buff.burning.name=Горение
-tooltip.terraria:buff.burning=Потеря здоровья
+buff.terraria:burning.name=Горение
+buff.terraria:burning.desc=Потеря здоровья
 
-buff.on_fire.name=В огне!
-tooltip.terraria:buff.on_fire=Медленная потеря здоровья
+buff.terraria:on_fire.name=В огне!
+buff.terraria:on_fire.desc=Медленная потеря здоровья
 
-buff.poisoned.name=Отравление
-tooltip.terraria:buff.poisoned=Медленная потеря здоровья
+buff.terraria:poisoned.name=Отравление
+buff.terraria:poisoned.desc=Медленная потеря здоровья
 
-buff.happy.name=Счастье!
+buff.terraria:happy.name=Счастье!
 
-buff.swiftness.name=Скорость
+buff.terraria:swiftness.name=Скорость
 
-buff.ironskin.name=Железная кожа
+buff.terraria:ironskin.name=Железная кожа
 
-buff.shine.name=Свечение
-tooltip.terraria:buff.shine=Вы излучаете свет
+buff.terraria:shine.name=Свечение
+buff.terraria:shine.desc=Вы излучаете свет
 
-buff.creative.name=Творчество
-tooltip.terraria:buff.creative=Неограниченные ресурсы и мгновенное разрушение блоков
+buff.terraria:creative.name=Творчество
+buff.terraria:creative.desc=Неограниченные ресурсы и мгновенное разрушение блоков
 
-buff.star_in_a_bottle.name=Звезда в бутылке
-tooltip.terraria:buff.star_in_a_bottle=Увеличивает скорость востановления маны
+buff.terraria:star_in_a_bottle.name=Звезда в бутылке
+buff.terraria:star_in_a_bottle.desc=Увеличивает скорость востановления маны
 
-buff.heart_lamp.name=Лампа сердце
-tooltip.terraria:buff.heart_lamp=Увеличивает скорость востановления здоровья
+buff.terraria:heart_lamp.name=Лампа сердце
+buff.terraria:heart_lamp.desc=Увеличивает скорость востановления здоровья
 
-buff.cozy_fire.name=Уютный огонь
-tooltip.terraria:buff.cozy_fire=Восстановление жизни немного ускорено
+buff.terraria:cozy_fire.name=Уютный огонь
+buff.terraria:cozy_fire.desc=Восстановление жизни немного ускорено
 
-buff.magic_power.name=Магическая сила
-tooltip.terraria:buff.magic_power=Увеличивает магический урон на 20%%
+buff.terraria:magic_power.name=Магическая сила
+buff.terraria:magic_power.desc=Увеличивает магический урон на 20%%
 
-buff.cursed_inferno.name=Проклятие ада
-tooltip.terraria:buff.cursed_inferno=Медленная потеря здоровья
+buff.terraria:cursed_inferno.name=Проклятие ада
+buff.terraria:cursed_inferno.desc=Медленная потеря здоровья
 
-buff.builder.name=Строитель
-tooltip.terraria:buff.builder=Увеличена скорость и дальность размещения
+buff.terraria:builder.name=Строитель
+buff.terraria:builder.desc=Увеличена скорость и дальность размещения
 
-buff.water_walking.name=Хождение по воде
-tooltip.terraria:buff.water_walking=Крадись что-бы идти по воде
+buff.terraria:water_walking.name=Хождение по воде
+buff.terraria:water_walking.desc=Крадись что-бы идти по воде
 
-buff.clairvoyance.name=Ясновидение
-tooltip.terraria:buff.clairvoyance=Небольшое увеличение всех магических характеристик
+buff.terraria:clairvoyance.name=Ясновидение
+buff.terraria:clairvoyance.desc=Небольшое увеличение всех магических характеристик
 
-buff.darkness.name=Тьма
-tooltip.terraria:buff.darkness=Яркость света понижается
+buff.terraria:darkness.name=Тьма
+buff.terraria:darkness.desc=Яркость света понижается
 
-buff.gravitation.name=Гравитация
-tooltip.terraria:buff.gravitation=Нажмите кнопку %s для обратной гравитации
+buff.terraria:gravitation.name=Гравитация
+buff.terraria:gravitation.desc=Нажмите кнопку %s для обратной гравитации
 
-buff.banner.name=Знамя
-tooltip.terraria:buff.banner=Увеличен урон и защита от следующего:
+buff.terraria:banner.name=Знамя
+buff.terraria:banner.desc=Увеличен урон и защита от следующего:
 
-buff.chilled.name=Охлажденный
-tooltip.terraria:buff.chilled=Ваша скорость передвижения снижена
+buff.terraria:chilled.name=Охлажденный
+buff.terraria:chilled.desc=Ваша скорость передвижения снижена
 
-buff.frozen.name=Заморожен
-tooltip.terraria:buff.frozen=Вы не можете двигаться!
+buff.terraria:frozen.name=Заморожен
+buff.terraria:frozen.desc=Вы не можете двигаться!
 
-buff.frostburn.name=Морозное пламя
-tooltip.terraria:buff.frostburn=Либо очень жарко, либо очень холодно. В любом случае это ДЕЙСТВИТЕЛЬНО больно
+buff.terraria:frostburn.name=Морозное пламя
+buff.terraria:frostburn.desc=Либо очень жарко, либо очень холодно. В любом случае это ДЕЙСТВИТЕЛЬНО больно
 
-buff.luck.name=Удача
-tooltip.terraria:buff.luck=Ты наполнен удачей
+buff.terraria:luck.name=Удача
+buff.terraria:luck.desc=Ты наполнен удачей
 
-buff.well_fed.name=Сытость
+buff.terraria:gills.name=Gills
+buff.terraria:gills.desc=Breathe underwater
+
+buff.terraria:well_fed.name=Сытость
 tooltip.terraria:food.0=Незначительные улучшения всех характеристик
 tooltip.terraria:food.expert.0=Незначительные улучшения всех характеристик и увеличенная регенерация здоровья
 
-buff.plenty_satisfied.name=Полное удовлетворение
+buff.terraria:plenty_satisfied.name=Полное удовлетворение
 tooltip.terraria:food.1=Средние улучшения всех характеристик
 tooltip.terraria:food.expert.1=Средние улучшения всех характеристик и увеличенная регенерация здоровья
 
-buff.exquisitely_stuffed.name=Изысканное удовольствие
+buff.terraria:exquisitely_stuffed.name=Изысканное удовольствие
 tooltip.terraria:food.2=Значительные улучшения всех характеристик
 tooltip.terraria:food.expert.2=Значительные улучшения всех характеристик и увеличенная регенерация здоровья
 
@@ -1321,6 +1336,9 @@ tooltip.terraria:artifacts/band_starpower.1=Увеличивает максим�
 tooltip.terraria:artifacts/obsidian_skull=Даёт иммунитет от огненных блоков
 tooltip.terraria:artifacts/wings=Позволяет летать и замедлять падение
 tooltip.terraria:artifacts/string=Increases yoyo range
+tooltip.terraria:artifacts/obsidian_rose=Reduces damage from touching lava
+tooltip.terraria:artifacts/lava_charm=Provides 7 seconds of immunity to lava
+
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
 tooltip.terraria:bars/demonite=Пульсирует тёмной энергией

@@ -208,6 +208,9 @@ item.terraria:artifacts/strings/teal.name=Teal String
 item.terraria:artifacts/strings/violet.name=Violet String
 item.terraria:artifacts/strings/white.name=White String
 item.terraria:artifacts/strings/yellow.name=Yellow String
+item.terraria:artifacts/obsidian_rose.name=Obsidian Rose
+item.terraria:artifacts/lava_charm.name=Lava Charm
+item.terraria:artifacts/molten_charm.name=Molten Charm
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Thuốc Hồi Máu Nhỏ
@@ -539,7 +542,15 @@ item.terraria:golden_bug_net.name=Golden Bug Net
 item.terraria:oyster.name=Oyster
 item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
 item.terraria:frostburn_arrow.name=Frostburn Arrow
-item.terraria:slime_crown.name=Slime Crown
+item.terraria:flower_seeds/blue.name=Blue Flower Seeds
+item.terraria:flower_seeds/magenta.name=Magenta Flower Seeds
+item.terraria:flower_seeds/pink.name=Pink Flower Seeds
+item.terraria:flower_seeds/red.name=Red Flower Seeds
+item.terraria:flower_seeds/yellow.name=Yellow Flower Seeds
+item.terraria:flower_seeds/violet.name=Violet Flower Seeds
+item.terraria:flower_seeds/white.name=White Flower Seeds
+item.terraria:flower_seeds/wild.name=Wild Flower Seeds
+item.terraria:flower_seeds/tall_grass.name=Tall Grass Seeds
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
@@ -627,6 +638,7 @@ item.terraria:hostiles/eater_of_souls.name=Eater of Souls
 item.terraria:hostiles/drippler.name=Drippler
 item.terraria:hostiles/gnome.name=Gnome
 item.terraria:hostiles/hornet.name=Hornet
+item.terraria:slime_crown.name=Slime Crown
 
 #################
 
@@ -1159,99 +1171,102 @@ death.attack.terraria:thorn_bushes=%s Bị Chích Đến Chết.
 
 ######BUFFS######
 
-buff.potion_sickness.name=Sốc Thuốc
-tooltip.terraria:buff.potion_sickness=Không Thể Sử Dụng Đồ Hồi Máu
+buff.terraria:potion_sickness.name=Sốc Thuốc
+buff.terraria:potion_sickness.desc=Không Thể Sử Dụng Đồ Hồi Máu
 
-buff.spelunker.name=Thợ Mỏ
-tooltip.terraria:buff.spelunker=Thấy Được Vị Trí Kho Báu Và Quặng Dưới Lòng Đất
+buff.terraria:spelunker.name=Thợ Mỏ
+buff.terraria:spelunker.desc=Thấy Được Vị Trí Kho Báu Và Quặng Dưới Lòng Đất
 
-buff.regeneration.name=Phục Hồi
-tooltip.terraria:buff.regeneration=Phục Hồi Máu
+buff.terraria:regeneration.name=Phục Hồi
+buff.terraria:regeneration.desc=Phục Hồi Máu
 
-buff.mining.name=Đập Phá
-tooltip.terraria:increase_spmining=Tăng Tốc Đào Lên %,d%%
+buff.terraria:mining.name=Đập Phá
+buff.terraria:mining.desc=Tăng Tốc Đào Lên %,d%%
 
-buff.ammo_reservation.name=Tiết Kiệm Đạn
-tooltip.terraria:buff.ammo_reservation=20%% Không Mất Đạn
+buff.terraria:ammo_reservation.name=Tiết Kiệm Đạn
+buff.terraria:ammo_reservation.desc=20%% Không Mất Đạn
 
-buff.baby_slime.name=Slime Sơ Sinh
-tooltip.terraria:buff.baby_slime=Slime Sơ Sinh Tấn Công Cùng Bạn
+buff.terraria:baby_slime.name=Slime Sơ Sinh
+buff.terraria:baby_slime.desc=Slime Sơ Sinh Tấn Công Cùng Bạn
 
-buff.burning.name=Bốc Cháy
-tooltip.terraria:buff.burning=Mất Máu Từ Từ
+buff.terraria:burning.name=Bốc Cháy
+buff.terraria:burning.desc=Mất Máu Từ Từ
 
-buff.on_fire.name=On Fire!
-tooltip.terraria:buff.on_fire=Slowly losing life
+buff.terraria:on_fire.name=On Fire!
+buff.terraria:on_fire.desc=Slowly losing life
 
-buff.poisoned.name=Trúng Độc
-tooltip.terraria:buff.poisoned=Mất Máu Từ Từ
+buff.terraria:poisoned.name=Trúng Độc
+buff.terraria:poisoned.desc=Mất Máu Từ Từ
 
-buff.happy.name=Vui Tươi!
+buff.terraria:happy.name=Vui Tươi!
 
-buff.swiftness.name=Nhanh Nhẹn
+buff.terraria:swiftness.name=Nhanh Nhẹn
 
-buff.ironskin.name=Mình Đồng Da Sắt
+buff.terraria:ironskin.name=Mình Đồng Da Sắt
 
-buff.shine.name=Toả Sáng
-tooltip.terraria:buff.shine=Phát Ra Ánh Sáng
+buff.terraria:shine.name=Toả Sáng
+buff.terraria:shine.desc=Phát Ra Ánh Sáng
 
-buff.creative.name=Chế Độ Sáng Tạo
-tooltip.terraria:buff.creative=Tài Nguyên Vô Tận Và Đập Khối Tức Thời
+buff.terraria:creative.name=Chế Độ Sáng Tạo
+buff.terraria:creative.desc=Tài Nguyên Vô Tận Và Đập Khối Tức Thời
 
-buff.star_in_a_bottle.name=Sao Trong Bình
-tooltip.terraria:buff.star_in_a_bottle=Tăng Tốc Độ Hồi Phục Mana
+buff.terraria:star_in_a_bottle.name=Sao Trong Bình
+buff.terraria:star_in_a_bottle.desc=Tăng Tốc Độ Hồi Phục Mana
 
-buff.heart_lamp.name=Đèn Trái Tim
-tooltip.terraria:buff.heart_lamp=Tăng Tốc Độ Hồi Máu
+buff.terraria:heart_lamp.name=Đèn Trái Tim
+buff.terraria:heart_lamp.desc=Tăng Tốc Độ Hồi Máu
 
-buff.cozy_fire.name=Ngọn Lửa Ấm Áp
-tooltip.terraria:buff.cozy_fire=Tăng Tốc Độ Hồi Máu
+buff.terraria:cozy_fire.name=Ngọn Lửa Ấm Áp
+buff.terraria:cozy_fire.desc=Tăng Tốc Độ Hồi Máu
 
-buff.magic_power.name=Sức Mạnh Ma Thuật
-tooltip.terraria:buff.magic_power=20%% Tăng Sát Thương Phép
+buff.terraria:magic_power.name=Sức Mạnh Ma Thuật
+buff.terraria:magic_power.desc=20%% Tăng Sát Thương Phép
 
-buff.cursed_inferno.name=Lửa Nguyền
-tooltip.terraria:buff.cursed_inferno=Mất Máu
+buff.terraria:cursed_inferno.name=Lửa Nguyền
+buff.terraria:cursed_inferno.desc=Mất Máu
 
-buff.builder.name=Thợ Xây
-tooltip.terraria:buff.builder=Tăng Tốc Và Tầm Với Khi Đặt Khối
+buff.terraria:builder.name=Thợ Xây
+buff.terraria:builder.desc=Tăng Tốc Và Tầm Với Khi Đặt Khối
 
-buff.water_walking.name=Đi Trên Mặt Nước
-tooltip.terraria:buff.water_walking=Ngồi Xổm Để Xuống Nước
+buff.terraria:water_walking.name=Đi Trên Mặt Nước
+buff.terraria:water_walking.desc=Ngồi Xổm Để Xuống Nước
 
-buff.clairvoyance.name=Minh Mẫn
-tooltip.terraria:buff.clairvoyance=Tăng Sức Mạnh Ma Thuật
+buff.terraria:clairvoyance.name=Minh Mẫn
+buff.terraria:clairvoyance.desc=Tăng Sức Mạnh Ma Thuật
 
-buff.darkness.name=Màn Đêm
-tooltip.terraria:buff.darkness=Giảm Tầm Nhìn
+buff.terraria:darkness.name=Màn Đêm
+buff.terraria:darkness.desc=Giảm Tầm Nhìn
 
-buff.gravitation.name=Điều Khiển Trọng Lực
-tooltip.terraria:buff.gravitation=Nhấn %s Để Đảo Trọng Lực
+buff.terraria:gravitation.name=Điều Khiển Trọng Lực
+buff.terraria:gravitation.desc=Nhấn %s Để Đảo Trọng Lực
 
-buff.banner.name=Biểu Ngữ
-tooltip.terraria:buff.banner=Tăng Sát Thương Và Phòng Thủ Đối Với:
+buff.terraria:banner.name=Biểu Ngữ
+buff.terraria:banner.desc=Tăng Sát Thương Và Phòng Thủ Đối Với:
 
-buff.chilled.name=Chilled
-tooltip.terraria:buff.chilled=Your movement speed has been reduced
+buff.terraria:chilled.name=Chilled
+buff.terraria:chilled.desc=Your movement speed has been reduced
 
-buff.frozen.name=Frozen
-tooltip.terraria:buff.frozen=You can't move!
+buff.terraria:frozen.name=Frozen
+buff.terraria:frozen.desc=You can't move!
 
-buff.frostburn.name=Frostburn
-tooltip.terraria:buff.frostburn=It's either really hot or really cold. Either way it REALLY hurts
+buff.terraria:frostburn.name=Frostburn
+buff.terraria:frostburn.desc=It's either really hot or really cold. Either way it REALLY hurts
 
-buff.luck.name=Luck
-tooltip.terraria:buff.luck=You are feeling pretty lucky
+buff.terraria:luck.name=Luck
+buff.terraria:luck.desc=You are feeling pretty lucky
 
-buff.well_fed.name=Well Fed
+buff.terraria:gills.name=Gills
+buff.terraria:gills.desc=Breathe underwater
+
+buff.terraria:well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
 tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
 
-buff.plenty_satisfied.name=Plenty Satisfied
+buff.terraria:plenty_satisfied.name=Plenty Satisfied
 tooltip.terraria:food.1=Medium improvements to all stats
 tooltip.terraria:food.expert.1=Medium improvements to all stats and increased life regeneration
 
-buff.exquisitely_stuffed.name=Exquisitely Stuffed
+buff.terraria:exquisitely_stuffed.name=Exquisitely Stuffed
 tooltip.terraria:food.2=Major improvements to all stats
 tooltip.terraria:food.expert.2=Major improvements to all stats and increased life regeneration
 
@@ -1321,6 +1336,9 @@ tooltip.terraria:artifacts/band_starpower.1=Tăng trữ lượng mana Lên 20
 tooltip.terraria:artifacts/obsidian_skull=Kháng lại những khối bốc lửa
 tooltip.terraria:artifacts/wings=Allows flight and slow fall
 tooltip.terraria:artifacts/string=Increases yoyo range
+tooltip.terraria:artifacts/obsidian_rose=Reduces damage from touching lava
+tooltip.terraria:artifacts/lava_charm=Provides 7 seconds of immunity to lava
+
 tooltip.terraria:shine_potion=Tạo ra một luồng sáng
 tooltip.terraria:whoopie_cushion=Chọc tức người khác
 tooltip.terraria:bars/demonite=Phản ứng với năng lượng màn đêm
