@@ -1304,8 +1304,6 @@ tooltip.terraria:incrpermhp=Permanently increases health by %,d
 tooltip.terraria:increased_defense=Increase defense by %,d
 tooltip.terraria:defense=%,d defense
 tooltip.terraria:setbonus=Set bonus: %s
-tooltip.terraria:bloodmoon=The Blood Moon is rising...
-tooltip.terraria:solareclipse=A solar eclipse is happening!
 tooltip.terraria:pickaxe_power=Pickaxe Power: %,d%%
 tooltip.terraria:axe_power=Axe Power: %,d%%
 tooltip.terraria:hammer_power=Hammer Power: %,d%%
@@ -1548,6 +1546,26 @@ achievement.terraria:slippery_shinobi.desc=Defeat King Slime, the lord of all th
 
 
 ######MISC######
+
+event.terraria:blood_moon=Blood Moon
+event.terraria:blood_moon.start=The Blood Moon is rising...
+event.terraria:blood_moon.end=The Blood Moon is descending...
+
+event.terraria:solar_eclipse=Solar Eclipse
+event.terraria:solar_eclipse.start=A solar eclipse is happening!
+event.terraria:solar_eclipse.end=A solar eclipse is vanishing...
+
+event.terraria:meteor_shower=Meteor Shower
+event.terraria:meteor_shower.start=Meteors are showering from the sky!
+event.terraria:meteor_shower.end=Mateors have stopped showering from the sky.
+
+event.terraria:rain=Rain
+event.terraria:rain.start=It started to rain!
+event.terraria:rain.end=The rain is over.
+
+event.terraria:slime_rain=Slime Rain
+event.terraria:slime_rain.start=Slime is falling from the sky!
+event.terraria:slime_rain.end=Slime has stopped falling from the sky.
 
 feature.terraria:from_author=From Mod Author
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
