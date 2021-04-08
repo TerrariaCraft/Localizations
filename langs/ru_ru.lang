@@ -995,6 +995,8 @@ tile.terraria:statues/squirrel.name=Статуя белки
 tile.terraria:statues/scorpion.name=Статуя скорпиона
 tile.terraria:statues/turtle.name=Статуя черепахи
 tile.terraria:statues/frog.name=Статуя лягушки
+tile.terraria:statues/owl.name=Owl Statue
+tile.terraria:statues/dragonfly.name=Dragonfly Statue
 tile.terraria:boreal_lantern.name=Фонарь из заснеженной древесины
 tile.terraria:steampunk_boiler.name=Паровой котёл
 tile.terraria:crystal_ball.name=Кристальный шар
@@ -1446,6 +1448,15 @@ damage.terraria:magic=%,d ед. магического урона
 damage.terraria:summon=%,d ед. призываемого урона
 damage.terraria:throwing=%,d ед. метательного урона
 
+itweaks.enabled=This tweak is enabled
+itweaks.disabled=This tweak is disabled
+
+itweaks.terraria:forge_smt_chunks.name=Forge Multithreaded Chunk Rendering
+itweaks.terraria:forge_smt_chunks.desc=This option enables forge to use more threads for rendering chunks.<LN>It is recommended to be used alongside at least 8-thread CPU<LN>to prevent large queues of chunks.
+
+itweaks.terraria:forge_sel_res_load.name=Forge Selective Resource Loading
+itweaks.terraria:forge_sel_res_load.desc=Lets forge reload languages quicker on another thread.<LN>Improves resource reload times as well as game launch times slightly.
+
 ####################
 
 
@@ -1540,6 +1551,9 @@ achievement.terraria:heliophobia.desc=Обманите гнома, чтобы о
 
 achievement.terraria:slippery_shinobi.name=Slippery Shinobi
 achievement.terraria:slippery_shinobi.desc=Defeat King Slime, the lord of all things slimy.
+
+achievement.terraria:sticky_situation.name=Sticky Situation
+achievement.terraria:sticky_situation.desc=Survive the slime rain, where gelatinous organisms fall from the sky in droves.
 
 ########################
 
