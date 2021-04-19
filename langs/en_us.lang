@@ -211,6 +211,10 @@ item.terraria:artifacts/strings/yellow.name=Yellow String
 item.terraria:artifacts/obsidian_rose.name=Obsidian Rose
 item.terraria:artifacts/lava_charm.name=Lava Charm
 item.terraria:artifacts/molten_charm.name=Molten Charm
+item.terraria:artifacts/frog_leg.name=Frog Leg
+item.terraria:artifacts/flipper.name=Flipper
+item.terraria:artifacts/frog_flipper.name=Frog Flipper
+item.terraria:artifacts/amphibian_boots.name=Amphibian Boots
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Lesser Healing Potion
@@ -1344,6 +1348,9 @@ tooltip.terraria:artifacts/wings=Allows flight and slow fall
 tooltip.terraria:artifacts/string=Increases yoyo range
 tooltip.terraria:artifacts/obsidian_rose=Reduces damage from touching lava
 tooltip.terraria:artifacts/lava_charm=Provides 7 seconds of immunity to lava
+tooltip.terraria:artifacts/frog_leg.1=Increases jump speed and allows auto-jump
+tooltip.terraria:artifacts/frog_leg.2=Increases fall resistance
+tooltip.terraria:artifacts/flipper=Grants the ability to swim
 
 tooltip.terraria:shine_potion=Emits an aura of light
 tooltip.terraria:whoopie_cushion=May annoy others

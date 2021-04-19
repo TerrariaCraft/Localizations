@@ -211,6 +211,10 @@ item.terraria:artifacts/strings/yellow.name=Желтая нитка
 item.terraria:artifacts/obsidian_rose.name=Обсидиановая роза
 item.terraria:artifacts/lava_charm.name=Амулет лавы
 item.terraria:artifacts/molten_charm.name=Литой амулет
+item.terraria:artifacts/frog_leg.name=Frog Leg
+item.terraria:artifacts/flipper.name=Flipper
+item.terraria:artifacts/frog_flipper.name=Frog Flipper
+item.terraria:artifacts/amphibian_boots.name=Amphibian Boots
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -1344,6 +1348,9 @@ tooltip.terraria:artifacts/wings=Позволяет летать и замедл
 tooltip.terraria:artifacts/string=Увеличивает дальность йо-йо
 tooltip.terraria:artifacts/obsidian_rose=Уменьшает урон от прикосновения к лаве
 tooltip.terraria:artifacts/lava_charm=Дает 7 секунд невосприимчивости к лаве
+tooltip.terraria:artifacts/frog_leg.1=Increases jump speed and allows auto-jump
+tooltip.terraria:artifacts/frog_leg.2=Increases fall resistance
+tooltip.terraria:artifacts/flipper=Grants the ability to swim
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
