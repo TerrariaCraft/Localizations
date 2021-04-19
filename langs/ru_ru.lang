@@ -211,10 +211,10 @@ item.terraria:artifacts/strings/yellow.name=Желтая нитка
 item.terraria:artifacts/obsidian_rose.name=Обсидиановая роза
 item.terraria:artifacts/lava_charm.name=Амулет лавы
 item.terraria:artifacts/molten_charm.name=Литой амулет
-item.terraria:artifacts/frog_leg.name=Frog Leg
-item.terraria:artifacts/flipper.name=Flipper
-item.terraria:artifacts/frog_flipper.name=Frog Flipper
-item.terraria:artifacts/amphibian_boots.name=Amphibian Boots
+item.terraria:artifacts/frog_leg.name=Лягушачья лапка
+item.terraria:artifacts/flipper.name=Ласты
+item.terraria:artifacts/frog_flipper.name=Лягушачьи ласты
+item.terraria:artifacts/amphibian_boots.name=Ботинки амфибии
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -368,7 +368,7 @@ item.terraria:armor/wooden/legs.name=Деревянные ботинки
 item.terraria:armor/jungle_wood/helm.name=Шлем из красной древесины
 item.terraria:armor/jungle_wood/body.name=Нагрудник из красной древесины
 item.terraria:armor/jungle_wood/legs.name=Ботинки из красной древесины
-item.terraria:armor/sunglasses/helm.name=Солнцезащитные Очки
+item.terraria:armor/sunglasses/helm.name=Солнцезащитные очки
 item.terraria:armor/dev_jar/helm.name=Шлем Jar-а
 item.terraria:armor/dev_jar/body.name=Нагрудник Jar-а
 item.terraria:armor/dev_jar/legs.name=Ботинки Jar-а
@@ -1264,11 +1264,11 @@ buff.terraria:frostburn.desc=Либо очень жарко, либо очень
 buff.terraria:luck.name=Удача
 buff.terraria:luck.desc=Ты наполнен удачей
 
-buff.terraria:gills.name=Gills
-buff.terraria:gills.desc=Breathe underwater
+buff.terraria:gills.name=Жабры
+buff.terraria:gills.desc=Возможность дышать под водой
 
-buff.terraria:honey.name=Honey
-buff.terraria:honey.desc=Life regeneration is increased
+buff.terraria:honey.name=Мёд
+buff.terraria:honey.desc=Регенерация здоровья увеличена
 
 buff.terraria:well_fed.name=Сытость
 tooltip.terraria:food.0=Незначительные улучшения всех характеристик
@@ -1348,9 +1348,9 @@ tooltip.terraria:artifacts/wings=Позволяет летать и замедл
 tooltip.terraria:artifacts/string=Увеличивает дальность йо-йо
 tooltip.terraria:artifacts/obsidian_rose=Уменьшает урон от прикосновения к лаве
 tooltip.terraria:artifacts/lava_charm=Дает 7 секунд невосприимчивости к лаве
-tooltip.terraria:artifacts/frog_leg.1=Increases jump speed and allows auto-jump
-tooltip.terraria:artifacts/frog_leg.2=Increases fall resistance
-tooltip.terraria:artifacts/flipper=Grants the ability to swim
+tooltip.terraria:artifacts/frog_leg.1=Увеличивает скорость прыжка и активирует авто-прыжок
+tooltip.terraria:artifacts/frog_leg.2=Увеличивает стойкость к падению
+tooltip.terraria:artifacts/flipper=Дает возможность плавать
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
