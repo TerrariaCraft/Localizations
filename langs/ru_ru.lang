@@ -10,7 +10,7 @@ itemGroup.terraria:blocks=Terraria Craft: Блоки
 itemGroup.terraria:armor=Terraria Craft: Броня
 itemGroup.terraria:potions=Terraria Craft: Зелья
 itemGroup.terraria:critters=Terraria Craft: Существа
-itemGroup.terraria:hostiles=Terraria Craft: Enemies
+itemGroup.terraria:hostiles=Terraria Craft: Враги
 
 generator.Terraria=Мир "Террария"
 gui.achievements=Достижения
@@ -208,9 +208,9 @@ item.terraria:artifacts/strings/teal.name=Бирюзовая нитка
 item.terraria:artifacts/strings/violet.name=Фиолетовая нитка
 item.terraria:artifacts/strings/white.name=Белая нитка
 item.terraria:artifacts/strings/yellow.name=Желтая нитка
-item.terraria:artifacts/obsidian_rose.name=Obsidian Rose
-item.terraria:artifacts/lava_charm.name=Lava Charm
-item.terraria:artifacts/molten_charm.name=Molten Charm
+item.terraria:artifacts/obsidian_rose.name=Обсидиановая роза
+item.terraria:artifacts/lava_charm.name=Амулет лавы
+item.terraria:artifacts/molten_charm.name=Литой амулет
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -237,8 +237,8 @@ item.terraria:potions/gravitation.name=Зелье гравитации
 item.terraria:potions/lesser_luck.name=Малое зелье удачи
 item.terraria:potions/luck.name=Зелье удачи
 item.terraria:potions/greater_luck.name=Большое зелье удачи
-item.terraria:potions/gills.name=Gills Potion
-item.terraria:potions/honey.name=Bottled Honey
+item.terraria:potions/gills.name=Зелье жабр
+item.terraria:potions/honey.name=Банка мёда
 
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
@@ -449,8 +449,8 @@ item.terraria:armor/pink_snow/body.name=Розовая эскимосская п
 item.terraria:armor/pink_snow/legs.name=Розовая эскимосская торбаса
 item.terraria:armor/dev_degeh03/body.name=Накитдка Degeh-а
 item.terraria:armor/dev_degeh03/legs.name=Штаны Degeh-а
-item.terraria:armor/gold_crown/helm.name=Gold Crown
-item.terraria:armor/platinum_crown/helm.name=Platinum Crown
+item.terraria:armor/gold_crown/helm.name=Золотая корона
+item.terraria:armor/platinum_crown/helm.name=Платиновая корона
 
 # Misc
 item.terraria:whoopie_cushion.name=Подушка-пердушка
@@ -545,15 +545,15 @@ item.terraria:golden_bug_net.name=Золотой сачок
 item.terraria:oyster.name=Устрица
 item.terraria:guide_to_plant_critter_companionship.name=Руководство по общению с животными
 item.terraria:frostburn_arrow.name=Стрела ледяного пламени
-item.terraria:flower_seeds/blue.name=Blue Flower Seeds
-item.terraria:flower_seeds/magenta.name=Magenta Flower Seeds
-item.terraria:flower_seeds/pink.name=Pink Flower Seeds
-item.terraria:flower_seeds/red.name=Red Flower Seeds
-item.terraria:flower_seeds/yellow.name=Yellow Flower Seeds
-item.terraria:flower_seeds/violet.name=Violet Flower Seeds
-item.terraria:flower_seeds/white.name=White Flower Seeds
-item.terraria:flower_seeds/wild.name=Wild Flower Seeds
-item.terraria:flower_seeds/tall_grass.name=Tall Grass Seeds
+item.terraria:flower_seeds/blue.name=Семена синего цетка
+item.terraria:flower_seeds/magenta.name=Семена пурпурного цветка
+item.terraria:flower_seeds/pink.name=Семена розового цветка
+item.terraria:flower_seeds/red.name=Семена красного цветка
+item.terraria:flower_seeds/yellow.name=Семена желтого цветка
+item.terraria:flower_seeds/violet.name=Семена фиолетового цветка
+item.terraria:flower_seeds/white.name=Семена белого цветка
+item.terraria:flower_seeds/wild.name=Семена дикого цветка
+item.terraria:flower_seeds/tall_grass.name=Семена высокой травы
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -623,25 +623,25 @@ item.terraria:critters/ladybug.name=Божья коровка
 item.terraria:critters/golden/ladybug.name=Золотая божья коровка
 
 # Hostiles
-item.terraria:hostiles/slimes/green.name=Green Slime
-item.terraria:hostiles/slimes/blue.name=Blue Slime
-item.terraria:hostiles/slimes/purple.name=Purple Slime
-item.terraria:hostiles/slimes/pinky.name=Pinky Slime
-item.terraria:hostiles/slimes/red.name=Red Slime
-item.terraria:hostiles/slimes/yellow.name=Yellow Slime
-item.terraria:hostiles/slimes/black.name=Black Slime
-item.terraria:hostiles/slimes/ice.name=Ice Slime
-item.terraria:hostiles/slimes/ice_spiked.name=Spiky Ice Slime
-item.terraria:hostiles/slimes/jungle.name=Jungle Slime
-item.terraria:hostiles/slimes/jungle_spiked.name=Spiky Jungle Slime
-item.terraria:hostiles/zombie.name=Zombie
-item.terraria:hostiles/demon_eye.name=Demon Eye
-item.terraria:hostiles/crimera.name=Crimera
-item.terraria:hostiles/eater_of_souls.name=Eater of Souls
-item.terraria:hostiles/drippler.name=Drippler
-item.terraria:hostiles/gnome.name=Gnome
-item.terraria:hostiles/hornet.name=Hornet
-item.terraria:slime_crown.name=Slime Crown
+item.terraria:hostiles/slimes/green.name=Зеленый слизень
+item.terraria:hostiles/slimes/blue.name=Синий слизень
+item.terraria:hostiles/slimes/purple.name=Фиолетовый слизень
+item.terraria:hostiles/slimes/pinky.name=Пинки
+item.terraria:hostiles/slimes/red.name=Красный слизень
+item.terraria:hostiles/slimes/yellow.name=Желтый слизень
+item.terraria:hostiles/slimes/black.name=Черный слизень
+item.terraria:hostiles/slimes/ice.name=Ледяной слизень
+item.terraria:hostiles/slimes/ice_spiked.name=Шипастый ледяной слизень
+item.terraria:hostiles/slimes/jungle.name=Слизень джунглей
+item.terraria:hostiles/slimes/jungle_spiked.name=Шипастый слизень джунглей
+item.terraria:hostiles/zombie.name=Зомби
+item.terraria:hostiles/demon_eye.name=Демонический глаз
+item.terraria:hostiles/crimera.name=Кримера
+item.terraria:hostiles/eater_of_souls.name=Пожиратель душ
+item.terraria:hostiles/drippler.name=Стекатель
+item.terraria:hostiles/gnome.name=Гном
+item.terraria:hostiles/hornet.name=Шершень
+item.terraria:slime_crown.name=Корона слизня
 
 #################
 
@@ -995,8 +995,8 @@ tile.terraria:statues/squirrel.name=Статуя белки
 tile.terraria:statues/scorpion.name=Статуя скорпиона
 tile.terraria:statues/turtle.name=Статуя черепахи
 tile.terraria:statues/frog.name=Статуя лягушки
-tile.terraria:statues/owl.name=Owl Statue
-tile.terraria:statues/dragonfly.name=Dragonfly Statue
+tile.terraria:statues/owl.name=Статуя совы
+tile.terraria:statues/dragonfly.name=Статуя стрекозы
 tile.terraria:boreal_lantern.name=Фонарь из заснеженной древесины
 tile.terraria:steampunk_boiler.name=Паровой котёл
 tile.terraria:crystal_ball.name=Кристальный шар
@@ -1143,7 +1143,7 @@ tile.terraria:furniture/chairs/lunar_stardust.name=Стул звёздной п�
 tile.terraria:furniture/chairs/lunar_vortex.name=Вихревой стул
 tile.terraria:furniture/chairs/martian.name=Марсианское парящее кресло
 tile.terraria:garden_gnome.name=Садовый гном
-tile.terraria:crispy_honey_block.name=Crispy Honey Block
+tile.terraria:crispy_honey_block.name=Хрустящий медовый блок
 
 ##################
 
@@ -1341,9 +1341,9 @@ tooltip.terraria:artifacts/band_starpower.0=Медленно восстанав�
 tooltip.terraria:artifacts/band_starpower.1=Увеличивает максимальный запас маны на 20 ед.
 tooltip.terraria:artifacts/obsidian_skull=Даёт иммунитет от огненных блоков
 tooltip.terraria:artifacts/wings=Позволяет летать и замедлять падение
-tooltip.terraria:artifacts/string=Increases yoyo range
-tooltip.terraria:artifacts/obsidian_rose=Reduces damage from touching lava
-tooltip.terraria:artifacts/lava_charm=Provides 7 seconds of immunity to lava
+tooltip.terraria:artifacts/string=Увеличивает дальность йо-йо
+tooltip.terraria:artifacts/obsidian_rose=Уменьшает урон от прикосновения к лаве
+tooltip.terraria:artifacts/lava_charm=Дает 7 секунд невосприимчивости к лаве
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -1428,7 +1428,7 @@ tooltip.terraria:armor/dev_ashryman=Когда-то носил герой, по�
 tooltip.terraria:armor/dev_jar=Критические показатели жизненно важных функций, немедленно обратитесь за медицинской помощью
 tooltip.terraria:armor/dev_degeh03=Подожди, опять задерживается???
 tooltip.terraria:guns/dev_jar_glock=Лучший выбор в школах по всему миру!
-tooltip.terraria:slime_crown=Summons King Slime
+tooltip.terraria:slime_crown=Призывает короля слизней
 
 # Misc Tooltips
 
@@ -1448,14 +1448,14 @@ damage.terraria:magic=%,d ед. магического урона
 damage.terraria:summon=%,d ед. призываемого урона
 damage.terraria:throwing=%,d ед. метательного урона
 
-itweaks.enabled=This tweak is enabled
-itweaks.disabled=This tweak is disabled
+itweaks.enabled=Этот твик включен
+itweaks.disabled=Этот твик отключен
 
-itweaks.terraria:forge_smt_chunks.name=Forge Multithreaded Chunk Rendering
-itweaks.terraria:forge_smt_chunks.desc=This option enables forge to use more threads for rendering chunks.<LN>It is recommended to be used alongside at least 8-thread CPU<LN>to prevent large queues of chunks.
+itweaks.terraria:forge_smt_chunks.name=Многопоточный рендеринг фрагментов Forge
+itweaks.terraria:forge_smt_chunks.desc=Эта опция позволяет Forge использовать больше потоков для рендеринга чанков.<LN>Рекомендуется использовать вместе с как минимум 8-поточным ЦП<LN>, чтобы предотвратить большие очереди чанков.
 
-itweaks.terraria:forge_sel_res_load.name=Forge Selective Resource Loading
-itweaks.terraria:forge_sel_res_load.desc=Lets forge reload languages quicker on another thread.<LN>Improves resource reload times as well as game launch times slightly.
+itweaks.terraria:forge_sel_res_load.name=Выборочная загрузка ресурсов Forge
+itweaks.terraria:forge_sel_res_load.desc=Позволяет Forge быстрее перезагружать языки в другом потоке.<LN>Немного сокращает время перезагрузки ресурсов, а также время запуска игры.
 
 ####################
 
@@ -1549,11 +1549,11 @@ achievement.terraria:sick_throw.desc=Заполучите террариан.
 achievement.terraria:heliophobia.name=Гелиофобия
 achievement.terraria:heliophobia.desc=Обманите гнома, чтобы он превратился в камень!
 
-achievement.terraria:slippery_shinobi.name=Slippery Shinobi
-achievement.terraria:slippery_shinobi.desc=Defeat King Slime, the lord of all things slimy.
+achievement.terraria:slippery_shinobi.name=Скользкий шиноби
+achievement.terraria:slippery_shinobi.desc=Победите короля слизней, повелителя всего слизистого.
 
-achievement.terraria:sticky_situation.name=Sticky Situation
-achievement.terraria:sticky_situation.desc=Survive the slime rain, where gelatinous organisms fall from the sky in droves.
+achievement.terraria:sticky_situation.name=Липкая ситуация
+achievement.terraria:sticky_situation.desc=Переживите слизневый дождь, когда студенистые организмы падают с неба толпами.
 
 ########################
 
@@ -1561,25 +1561,25 @@ achievement.terraria:sticky_situation.desc=Survive the slime rain, where gelatin
 
 ######MISC######
 
-event.terraria:blood_moon=Blood Moon
-event.terraria:blood_moon.start=The Blood Moon is rising...
-event.terraria:blood_moon.end=The Blood Moon is descending...
+event.terraria:blood_moon=Кровавоя луна
+event.terraria:blood_moon.start=Восходит кровавая луна...
+event.terraria:blood_moon.end=Кровавая луна спускается...
 
-event.terraria:solar_eclipse=Solar Eclipse
-event.terraria:solar_eclipse.start=A solar eclipse is happening!
-event.terraria:solar_eclipse.end=A solar eclipse is vanishing...
+event.terraria:solar_eclipse=Солнечное затмение
+event.terraria:solar_eclipse.start=Наступило солнечное затмение!
+event.terraria:solar_eclipse.end=Солнечное затмение исчезает...
 
-event.terraria:meteor_shower=Meteor Shower
-event.terraria:meteor_shower.start=Meteors are showering from the sky!
-event.terraria:meteor_shower.end=Mateors have stopped showering from the sky.
+event.terraria:meteor_shower=Метеоритный дождь
+event.terraria:meteor_shower.start=Метеоры падают с неба!
+event.terraria:meteor_shower.end=Метеоры перестали падать с неба.
 
-event.terraria:rain=Rain
-event.terraria:rain.start=It started to rain!
-event.terraria:rain.end=The rain is over.
+event.terraria:rain=Дождь
+event.terraria:rain.start=Начался дождь!
+event.terraria:rain.end=Дождь закончился.
 
-event.terraria:slime_rain=Slime Rain
-event.terraria:slime_rain.start=Slime is falling from the sky!
-event.terraria:slime_rain.end=Slime has stopped falling from the sky.
+event.terraria:slime_rain=Слизневый дождь
+event.terraria:slime_rain.start=С неба падают слизни!
+event.terraria:slime_rain.end=Слизни прекратили падать с неба.
 
 feature.terraria:from_author=От разработчика мода
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <сохранить воздух true|false> <имя>
@@ -1601,9 +1601,9 @@ house.terraria:ok=Этот дом подходит.
 gui.terraria:buy=Купить за
 gui.terraria:nurse.heal=Вылечится за
 
-fluid.terraria:water=Water
-fluid.terraria:lava=Lava
-fluid.terraria:honey=Honey
+fluid.terraria:water=Вода
+fluid.terraria:lava=Лава
+fluid.terraria:honey=Мёд
 
 ################
 
@@ -1711,9 +1711,9 @@ entity.terraria:hornets/stingy=Жалящий шершень
 entity.terraria:hornets/stingy.s=Маленький жалящий шершень
 entity.terraria:hornets/stingy.b=Большой жалящий шершень
 
-entity.terraria:king_slime.name=King Slime
-boss.terraria:king_slime.awake=King Slime has awoken!
-boss.terraria:king_slime.defeat=King Slime has been defeated!
+entity.terraria:king_slime.name=Король слизней
+boss.terraria:king_slime.awake=Пробудился король слизней!
+boss.terraria:king_slime.defeat=Король слизней побежден!
 
 ####################
 
