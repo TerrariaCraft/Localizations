@@ -215,6 +215,13 @@ item.terraria:artifacts/frog_leg.name=Лягушачья лапка
 item.terraria:artifacts/flipper.name=Ласты
 item.terraria:artifacts/frog_flipper.name=Лягушачьи ласты
 item.terraria:artifacts/amphibian_boots.name=Ботинки амфибии
+item.terraria:artifacts/flower_boots.name=Flower Boots
+item.terraria:artifacts/magma_stone.name=Magma Stone
+item.terraria:artifacts/magma_skull.name=Magma Skull
+item.terraria:artifacts/molten_skull_rose.name=Molten Skull Rose
+item.terraria:artifacts/obsidian_skull_rose.name=Obsidian Skull Rose
+item.terraria:artifacts/flurry_boots.name=Flurry Boots
+item.terraria:artifacts/lucky_coin.name=Lucky Coin
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -1209,6 +1216,8 @@ buff.terraria:poisoned.desc=Медленная потеря здоровья
 
 buff.terraria:happy.name=Счастье!
 
+buff.terraria:hellfire.name=Hellfire
+
 buff.terraria:swiftness.name=Скорость
 
 buff.terraria:ironskin.name=Железная кожа
@@ -1351,6 +1360,9 @@ tooltip.terraria:artifacts/lava_charm=Дает 7 секунд невосприи
 tooltip.terraria:artifacts/frog_leg.1=Увеличивает скорость прыжка и активирует авто-прыжок
 tooltip.terraria:artifacts/frog_leg.2=Увеличивает стойкость к падению
 tooltip.terraria:artifacts/flipper=Дает возможность плавать
+tooltip.terraria:artifacts/flower_boots=Flowers grow on the grass you walk on
+tooltip.terraria:artifacts/magma_stone=Melee attacks inflict fire damage
+tooltip.terraria:artifacts/lucky_coin=Hitting enemies will sometimes drop extra coins
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -1799,7 +1811,6 @@ guide.tip.40=Когда вы будете готовы бросить вызов
 guide.tip.41=Попробуйте собрать обсидиан, образовавшийся при встрече воды и лавы. Его можно использовать для защиты от сильного жара.
 guide.tip.42=Некоторые говорят, что в джунглях под землей зарыты гигантские пчелиные ульи. Я мог бы что-то сделать из меда.
 guide.tip.43=Пришло время обновить эту старую печь! Ищите Адскую Кузню в Подземном мире, это единственный способ создать слитки Адского Камня.
-
 
 
 
