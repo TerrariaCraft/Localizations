@@ -11,6 +11,7 @@ itemGroup.terraria:armor=Terraria Craft: Rüstung
 itemGroup.terraria:potions=Terraria Craft: Tränke
 itemGroup.terraria:critters=Terraria Craft: Critters
 itemGroup.terraria:hostiles=Terraria Craft: Gegner
+
 generator.Terraria=Terraria Welt
 gui.achievements=Erungenschaften
 soundCategory.terraria.music=Terraria Musik
@@ -21,8 +22,8 @@ options.terraria:gore=Blut Effekte
 gui.terraria:changecurse=Change World Curse
 gui.terraria:world_size=Welt Größe: %s
 gui.terraria:changeexpert=Expert Modus: %s
-gui.terraria:An=ON
-gui.terraria:Aus=OFF
+gui.terraria:on=An
+gui.terraria:off=Aus
 
 worldsize.terraria:tiny=Winzig
 worldsize.terraria:small=Klein
