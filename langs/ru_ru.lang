@@ -224,6 +224,7 @@ item.terraria:artifacts/flurry_boots.name=Flurry Boots
 item.terraria:artifacts/lucky_coin.name=Lucky Coin
 item.terraria:artifacts/jellyfish_necklace.name=Jellyfish Necklace
 item.terraria:artifacts/expert/royal_gel.name=Royal Gel
+item.terraria:artifacts/philosopher_stone.name=Philosopher's Stone
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -467,6 +468,15 @@ item.terraria:armor/platinum_crown/helm.name=Платиновая корона
 item.terraria:armor/cactus/helm.name=Cactus Helmet
 item.terraria:armor/cactus/body.name=Cactus Breastplate
 item.terraria:armor/cactus/legs.name=Cactus Leggings
+item.terraria:armor/meteor/helm.name=Meteor Helmet
+item.terraria:armor/meteor/body.name=Meteor Suit
+item.terraria:armor/meteor/legs.name=Meteor Leggings
+item.terraria:armor/crimson/helm.name=Crimson Helmet
+item.terraria:armor/crimson/body.name=Crimson Scalemail
+item.terraria:armor/crimson/legs.name=Crimson Greaves
+item.terraria:armor/angler/helm.name=Angler Hat
+item.terraria:armor/angler/body.name=Angler Vest
+item.terraria:armor/angler/legs.name=Angler Pants
 
 # Misc
 item.terraria:whoopie_cushion.name=Подушка-пердушка
@@ -669,6 +679,8 @@ setbonus.terraria:defense=%,d защиты
 setbonus.terraria:mining=Скорость добычи увеличена на 30%%
 setbonus.terraria:molten=%,d%% extra melee damage,<LN>Cannot be set on fire
 setbonus.terraria:cactus=Attackers take damage from the cactus spines
+setbonus.terraria:meteor=Space Gun costs 0 mana
+setbonus.terraria:crimson=Greatly increased life regen
 setbonus.terraria:extra_melee_damage=Увеличение урона на %,d%%
 setbonus.terraria:no_consume_thrown=%,d%% шанс не потратить метательный предмет
 
@@ -1347,6 +1359,7 @@ tooltip.terraria:debug_item=Предмет отладки
 tooltip.terraria:gravity_control=[WIP] Позволяет управлять гравитацией
 tooltip.terraria:bait_power=Сила наживки: %,d%%
 tooltip.terraria:vanity_artifact=Можно носить в слотах для украшений
+tooltip.terraria:angler_armor=Increases fishing power
 
 # Item Tooltips
 
@@ -1374,6 +1387,7 @@ tooltip.terraria:artifacts/magma_stone=Melee attacks inflict fire damage
 tooltip.terraria:artifacts/lucky_coin=Hitting enemies will sometimes drop extra coins
 tooltip.terraria:artifacts/jellyfish_necklace=Generates a very subtle glow which becomes more vibrant underwater
 tooltip.terraria:artifacts/expert/royal_gel=Slimes become friendly
+tooltip.terraria:artifacts/philosopher_stone=Reduces the cooldown of healing potions by 25%%
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
