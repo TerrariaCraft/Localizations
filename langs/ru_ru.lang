@@ -664,6 +664,7 @@ item.terraria:slime_crown.name=Корона слизня
 
 setbonus.terraria:defense=%,d защиты
 setbonus.terraria:mining=Скорость добычи увеличена на 30%%
+setbonus.terraria:molten=%,d%% extra melee damage,<LN>Cannot be set on fire
 setbonus.terraria:extra_melee_damage=Увеличение урона на %,d%%
 setbonus.terraria:no_consume_thrown=%,d%% шанс не потратить метательный предмет
 
@@ -1446,9 +1447,9 @@ item.terraria:armor/dev_zeith.desc=О нет, фурри!
 item.terraria:armor/ninja/helm.tooltip=Увеличенная скорость броска на 15%%
 item.terraria:armor/ninja/body.tooltip=Увеличенный урон броска на 15%%
 item.terraria:armor/ninja/legs.tooltip=Увеличен шанс критического удара броска на 10%%
-item.terraria:armor/ancient_cobalt/helm.tooltip=Увеличевает максимум маны на 40</br>Увеличает шанс критического урона на 4%%
-item.terraria:armor/ancient_cobalt/body.tooltip=Увеличевает максимум маны на 20</br>Увеличает шанс критического урона на 4%%
-item.terraria:armor/ancient_cobalt/legs.tooltip=Увеличевает максимум маны на 20</br>Увеличает шанс критического урона на 4%%
+item.terraria:armor/ancient_cobalt/helm.tooltip=Увеличевает максимум маны на 40</br>Увеличает шанс критического урона на 6%%
+item.terraria:armor/ancient_cobalt/body.tooltip=Увеличевает максимум маны на 20</br>Увеличает шанс критического урона на 6%%
+item.terraria:armor/ancient_cobalt/legs.tooltip=Увеличевает максимум маны на 20</br>Увеличает шанс критического урона на 6%%
 tooltip.terraria:armor/dev_ashryman=Когда-то носил герой, поглощенный духами тьмы
 tooltip.terraria:armor/dev_jar=Критические показатели жизненно важных функций, немедленно обратитесь за медицинской помощью
 tooltip.terraria:armor/dev_degeh03=Подожди, опять задерживается???

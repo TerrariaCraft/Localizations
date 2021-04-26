@@ -664,6 +664,7 @@ item.terraria:slime_crown.name=Slime Crown
 
 setbonus.terraria:defense=%,d 防御力
 setbonus.terraria:mining=挖矿速度增加30%%
+setbonus.terraria:molten=%,d%% extra melee damage,<LN>Cannot be set on fire
 setbonus.terraria:extra_melee_damage=%,d%%额外近战伤害
 setbonus.terraria:no_consume_thrown=%,d%%的几率不消耗投掷类物品
 
@@ -1446,9 +1447,9 @@ item.terraria:armor/dev_zeith.desc=噢不, 毛茸茸!
 item.terraria:armor/ninja/helm.tooltip=投掷射速提高15%%
 item.terraria:armor/ninja/body.tooltip=投掷伤害增加15%%
 item.terraria:armor/ninja/legs.tooltip=投掷暴击率增加10%%
-item.terraria:armor/ancient_cobalt/helm.tooltip=最大魔力值增加40</br>魔法暴击率增加4%%
-item.terraria:armor/ancient_cobalt/body.tooltip=最大魔力值增加20</br>魔法暴击率增加4%%
-item.terraria:armor/ancient_cobalt/legs.tooltip=最大魔力值增加20</br>魔法暴击率增加4%%
+item.terraria:armor/ancient_cobalt/helm.tooltip=最大魔力值增加40</br>魔法暴击率增加6%%
+item.terraria:armor/ancient_cobalt/body.tooltip=最大魔力值增加20</br>魔法暴击率增加6%%
+item.terraria:armor/ancient_cobalt/legs.tooltip=最大魔力值增加20</br>魔法暴击率增加6%%
 tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
 tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
 tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
