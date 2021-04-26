@@ -464,6 +464,9 @@ item.terraria:armor/dev_degeh03/body.name=Накитдка Degeh-а
 item.terraria:armor/dev_degeh03/legs.name=Штаны Degeh-а
 item.terraria:armor/gold_crown/helm.name=Золотая корона
 item.terraria:armor/platinum_crown/helm.name=Платиновая корона
+item.terraria:armor/cactus/helm.name=Cactus Helmet
+item.terraria:armor/cactus/body.name=Cactus Breastplate
+item.terraria:armor/cactus/legs.name=Cactus Leggings
 
 # Misc
 item.terraria:whoopie_cushion.name=Подушка-пердушка
@@ -665,6 +668,7 @@ item.terraria:slime_crown.name=Корона слизня
 setbonus.terraria:defense=%,d защиты
 setbonus.terraria:mining=Скорость добычи увеличена на 30%%
 setbonus.terraria:molten=%,d%% extra melee damage,<LN>Cannot be set on fire
+setbonus.terraria:cactus=Attackers take damage from the cactus spines
 setbonus.terraria:extra_melee_damage=Увеличение урона на %,d%%
 setbonus.terraria:no_consume_thrown=%,d%% шанс не потратить метательный предмет
 

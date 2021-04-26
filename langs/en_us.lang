@@ -464,6 +464,9 @@ item.terraria:armor/dev_degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev_degeh03/legs.name=Degeh's Pants
 item.terraria:armor/gold_crown/helm.name=Gold Crown
 item.terraria:armor/platinum_crown/helm.name=Platinum Crown
+item.terraria:armor/cactus/helm.name=Cactus Helmet
+item.terraria:armor/cactus/body.name=Cactus Breastplate
+item.terraria:armor/cactus/legs.name=Cactus Leggings
 
 # Misc
 item.terraria:whoopie_cushion.name=Whoopie Cushion
@@ -665,6 +668,7 @@ item.terraria:slime_crown.name=Slime Crown
 setbonus.terraria:defense=%,d defense
 setbonus.terraria:mining=30%% increased mining speed
 setbonus.terraria:molten=%,d%% extra melee damage,<LN>Cannot be set on fire
+setbonus.terraria:cactus=Attackers take damage from the cactus spines
 setbonus.terraria:extra_melee_damage=%,d%% extra melee damage
 setbonus.terraria:no_consume_thrown=%,d%% chance to not consume thrown item
 
