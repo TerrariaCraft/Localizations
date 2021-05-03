@@ -225,6 +225,10 @@ item.terraria:artifacts/lucky_coin.name=Lucky Coin
 item.terraria:artifacts/jellyfish_necklace.name=Jellyfish Necklace
 item.terraria:artifacts/expert/royal_gel.name=Royal Gel
 item.terraria:artifacts/philosopher_stone.name=Philosopher's Stone
+item.terraria:artifacts/angler_earring.name=Angler Earring
+item.terraria:artifacts/tackle_box.name=Tackle Box
+item.terraria:artifacts/high_test_fishing_line.name=High Test Fishing Line
+item.terraria:artifacts/angler_tackle_bag.name=Angler Tackle Bag
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Poción de Curación Menor
@@ -253,6 +257,8 @@ item.terraria:potions/luck.name=Luck Potion
 item.terraria:potions/greater_luck.name=Greater Luck Potion
 item.terraria:potions/gills.name=Gills Potion
 item.terraria:potions/honey.name=Bottled Honey
+item.terraria:potions/fishing.name=Fishing Potion
+item.terraria:potions/honeyfin.name=Honeyfin
 
 item.terraria:potions/food/golden_delight.name=Golden Delight
 item.terraria:potions/food/bunny_stew.name=Bunny Stew
@@ -291,6 +297,11 @@ item.terraria:potions/food/grilled_squirrel.name=Grilled Squirrel
 item.terraria:potions/food/shucked_oyster.name=Shucked Oyster
 item.terraria:potions/food/burger.name=Burger
 item.terraria:potions/food/sauteed_frog_legs.name=Sauteed Frog Legs
+item.terraria:potions/food/cooked_fish.name=Cooked Fish
+item.terraria:potions/food/cooked_shrimp.name=Cooked Shrimp
+item.terraria:potions/food/sashimi.name=Shashimi
+item.terraria:potions/food/lobster_tail.name=Lobster Tail
+item.terraria:potions/food/seafood_dinner.name=Seafood Dinner
 
 # Materials
 item.terraria:materials/fallen_star.name=Estrella Caída
@@ -370,6 +381,35 @@ item.terraria:materials/pearls/pink.name=Pink Pearl
 item.terraria:materials/baits/apprentice.name=Apprentice Bait
 item.terraria:materials/baits/journeyman.name=Journeyman Bait
 item.terraria:materials/baits/master.name=Master Bait
+item.terraria:materials/fishing/armored_cavefish.name=Armored Cavefish
+item.terraria:materials/fishing/atlantic_cod.name=Atlantic Cod
+item.terraria:materials/fishing/bass.name=Bass
+item.terraria:materials/fishing/chaos_fish.name=Chaos Fish
+item.terraria:materials/fishing/crimson_tigerfish.name=Crimson Tigerfish
+item.terraria:materials/fishing/damselfish.name=Damselfish
+item.terraria:materials/fishing/double_cod.name=Double Cod
+item.terraria:materials/fishing/ebonkoi.name=Ebonkoi
+item.terraria:materials/fishing/flarefin_koi.name=Flarefin Koi
+item.terraria:materials/fishing/flounder.name=Flounder
+item.terraria:materials/fishing/frost_minnow.name=Frost Minnow
+item.terraria:materials/fishing/golden_carp.name=Golden Carp
+item.terraria:materials/fishing/hemopiranha.name=Hemopiranha
+item.terraria:materials/fishing/neon_tetra.name=Neon Tetra
+item.terraria:materials/fishing/obsidifish.name=Obsidifish
+item.terraria:materials/fishing/princess.name=Princess Fish
+item.terraria:materials/fishing/prismite.name=Prismite
+item.terraria:materials/fishing/red_snapper.name=Red Snapper
+item.terraria:materials/fishing/rock_lobster.name=Rock Lobster
+item.terraria:materials/fishing/salmon.name=Salmon
+item.terraria:materials/fishing/shrimp.name=Shrimp
+item.terraria:materials/fishing/specular_fish.name=Specular Fish
+item.terraria:materials/fishing/stinkfish.name=Stinkfish
+item.terraria:materials/fishing/trout.name=Trout
+item.terraria:materials/fishing/tuna.name=Tuna
+item.terraria:materials/fishing/variegated_lardfish.name=Variegated Lardfish
+item.terraria:materials/fishing/old_shoe.name=Old Shoe
+item.terraria:materials/fishing/seaweed.name=Seaweed
+item.terraria:materials/fishing/tin_can.name=Tin Can
 
 # Armor
 item.terraria:armor/wooden/helm.name=Casco de Madera
@@ -1177,6 +1217,7 @@ tile.terraria:furniture/chairs/martian.name=Martian Hover Chair
 tile.terraria:garden_gnome.name=Garden Gnome
 tile.terraria:crispy_honey_block.name=Crispy Honey Block
 tile.terraria:furniture/bookcases/green_dungeon.name=Green Dungeon Bookcase
+tile.terraria:pots/tundra.name=Tundra Pot
 
 ##################
 
@@ -1301,6 +1342,9 @@ buff.terraria:gills.desc=Breathe underwater
 buff.terraria:honey.name=Honey
 buff.terraria:honey.desc=Life regeneration is increased
 
+buff.terraria:fishing.name=Fishing
+buff.terraria:fishing.desc=Increased fishing power
+
 buff.terraria:well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
 tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
@@ -1389,6 +1433,9 @@ tooltip.terraria:artifacts/lucky_coin=Hitting enemies will sometimes drop extra 
 tooltip.terraria:artifacts/jellyfish_necklace=Generates a very subtle glow which becomes more vibrant underwater
 tooltip.terraria:artifacts/expert/royal_gel=Slimes become friendly
 tooltip.terraria:artifacts/philosopher_stone=Reduces the cooldown of healing potions by 25%%
+tooltip.terraria:artifacts/angler_earring=Increases fishing power
+tooltip.terraria:artifacts/tackle_box=Decreases chance of bait consumption
+tooltip.terraria:artifacts/high_test_fishing_line=Fishing line will never break
 
 tooltip.terraria:shine_potion=Emite una aura brillante
 tooltip.terraria:whoopie_cushion='Podría fastidiar a otros'
@@ -1461,6 +1508,13 @@ tooltip.terraria:food/grilled_squirrel=That'll keep you out of my birdfeeders...
 tooltip.terraria:food/shucked_oyster=Aw, shucks!
 tooltip.terraria:food/burger=...but wait! It was 99 cents.
 tooltip.terraria:food/sauteed_frog_legs=The other, other white meat.
+tooltip.terraria:food/cooked_fish=Where's the chips!?
+tooltip.terraria:food/cooked_shrimp=Barbecue it, boil it, broil it, bake it...
+tooltip.terraria:food/sashimi=It's raw! It's exotic!
+tooltip.terraria:food/lobster_tail=Delicious with a bit of butter
+tooltip.terraria:food/seafood_dinner=I sea food, I eat it.
+tooltip.terraria:potions/gills=Breathe water instead of air
+tooltip.terraria:potions/fishing=Increases fishing power
 item.terraria:armor/sunglasses/helm.desc=Lindura!
 item.terraria:armor/dev_zeith.desc=No puede ser, ¡un furro!
 item.terraria:armor/ninja/helm.tooltip=15%% increased throwing velocity

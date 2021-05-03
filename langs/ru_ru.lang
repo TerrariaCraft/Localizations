@@ -225,6 +225,10 @@ item.terraria:artifacts/lucky_coin.name=Счастливая монетка
 item.terraria:artifacts/jellyfish_necklace.name=Ожерелье медузы
 item.terraria:artifacts/expert/royal_gel.name=Королевский гель
 item.terraria:artifacts/philosopher_stone.name=Философский камень
+item.terraria:artifacts/angler_earring.name=Angler Earring
+item.terraria:artifacts/tackle_box.name=Tackle Box
+item.terraria:artifacts/high_test_fishing_line.name=High Test Fishing Line
+item.terraria:artifacts/angler_tackle_bag.name=Angler Tackle Bag
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -253,6 +257,8 @@ item.terraria:potions/luck.name=Зелье удачи
 item.terraria:potions/greater_luck.name=Большое зелье удачи
 item.terraria:potions/gills.name=Зелье жабр
 item.terraria:potions/honey.name=Банка мёда
+item.terraria:potions/fishing.name=Fishing Potion
+item.terraria:potions/honeyfin.name=Honeyfin
 
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
@@ -291,6 +297,11 @@ item.terraria:potions/food/grilled_squirrel.name=Белка на гриле
 item.terraria:potions/food/shucked_oyster.name=Очищенная устрица
 item.terraria:potions/food/burger.name=Бургер
 item.terraria:potions/food/sauteed_frog_legs.name=Обжаренные лягушачьи лапки
+item.terraria:potions/food/cooked_fish.name=Cooked Fish
+item.terraria:potions/food/cooked_shrimp.name=Cooked Shrimp
+item.terraria:potions/food/sashimi.name=Shashimi
+item.terraria:potions/food/lobster_tail.name=Lobster Tail
+item.terraria:potions/food/seafood_dinner.name=Seafood Dinner
 
 # Materials
 item.terraria:materials/fallen_star.name=Упавшая звезда
@@ -370,6 +381,35 @@ item.terraria:materials/pearls/pink.name=Розовая жемчужина
 item.terraria:materials/baits/apprentice.name=Наживка новичка
 item.terraria:materials/baits/journeyman.name=Наживка подмастерья
 item.terraria:materials/baits/master.name=Наживка мастера
+item.terraria:materials/fishing/armored_cavefish.name=Armored Cavefish
+item.terraria:materials/fishing/atlantic_cod.name=Atlantic Cod
+item.terraria:materials/fishing/bass.name=Bass
+item.terraria:materials/fishing/chaos_fish.name=Chaos Fish
+item.terraria:materials/fishing/crimson_tigerfish.name=Crimson Tigerfish
+item.terraria:materials/fishing/damselfish.name=Damselfish
+item.terraria:materials/fishing/double_cod.name=Double Cod
+item.terraria:materials/fishing/ebonkoi.name=Ebonkoi
+item.terraria:materials/fishing/flarefin_koi.name=Flarefin Koi
+item.terraria:materials/fishing/flounder.name=Flounder
+item.terraria:materials/fishing/frost_minnow.name=Frost Minnow
+item.terraria:materials/fishing/golden_carp.name=Golden Carp
+item.terraria:materials/fishing/hemopiranha.name=Hemopiranha
+item.terraria:materials/fishing/neon_tetra.name=Neon Tetra
+item.terraria:materials/fishing/obsidifish.name=Obsidifish
+item.terraria:materials/fishing/princess.name=Princess Fish
+item.terraria:materials/fishing/prismite.name=Prismite
+item.terraria:materials/fishing/red_snapper.name=Red Snapper
+item.terraria:materials/fishing/rock_lobster.name=Rock Lobster
+item.terraria:materials/fishing/salmon.name=Salmon
+item.terraria:materials/fishing/shrimp.name=Shrimp
+item.terraria:materials/fishing/specular_fish.name=Specular Fish
+item.terraria:materials/fishing/stinkfish.name=Stinkfish
+item.terraria:materials/fishing/trout.name=Trout
+item.terraria:materials/fishing/tuna.name=Tuna
+item.terraria:materials/fishing/variegated_lardfish.name=Variegated Lardfish
+item.terraria:materials/fishing/old_shoe.name=Old Shoe
+item.terraria:materials/fishing/seaweed.name=Seaweed
+item.terraria:materials/fishing/tin_can.name=Tin Can
 
 # Armor
 item.terraria:armor/wooden/helm.name=Деревянный шлем
@@ -1177,6 +1217,7 @@ tile.terraria:furniture/chairs/martian.name=Марсианское паряще�
 tile.terraria:garden_gnome.name=Садовый гном
 tile.terraria:crispy_honey_block.name=Хрустящий медовый блок
 tile.terraria:furniture/bookcases/green_dungeon.name=Green Dungeon Bookcase
+tile.terraria:pots/tundra.name=Tundra Pot
 
 ##################
 
@@ -1301,6 +1342,9 @@ buff.terraria:gills.desc=Возможность дышать под водой
 buff.terraria:honey.name=Мёд
 buff.terraria:honey.desc=Регенерация здоровья увеличена
 
+buff.terraria:fishing.name=Fishing
+buff.terraria:fishing.desc=Increased fishing power
+
 buff.terraria:well_fed.name=Сытость
 tooltip.terraria:food.0=Незначительные улучшения всех характеристик
 tooltip.terraria:food.expert.0=Незначительные улучшения всех характеристик и увеличенная регенерация здоровья
@@ -1389,6 +1433,9 @@ tooltip.terraria:artifacts/lucky_coin=При ударе по врагам ино
 tooltip.terraria:artifacts/jellyfish_necklace=Издает очень слабое свечение, которое усиливается под водой
 tooltip.terraria:artifacts/expert/royal_gel=Слизняки становятся дружественными
 tooltip.terraria:artifacts/philosopher_stone=Уменьшает время восстановления лечебных зелий на 25%%
+tooltip.terraria:artifacts/angler_earring=Increases fishing power
+tooltip.terraria:artifacts/tackle_box=Decreases chance of bait consumption
+tooltip.terraria:artifacts/high_test_fishing_line=Fishing line will never break
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -1461,6 +1508,13 @@ tooltip.terraria:food/grilled_squirrel=Это убережет вас от мо�
 tooltip.terraria:food/shucked_oyster=Ой, черт возьми!
 tooltip.terraria:food/burger=...но подождите! Он стоил 99 центов.
 tooltip.terraria:food/sauteed_frog_legs=Другой, другое белое мясо.
+tooltip.terraria:food/cooked_fish=Where's the chips!?
+tooltip.terraria:food/cooked_shrimp=Barbecue it, boil it, broil it, bake it...
+tooltip.terraria:food/sashimi=It's raw! It's exotic!
+tooltip.terraria:food/lobster_tail=Delicious with a bit of butter
+tooltip.terraria:food/seafood_dinner=I sea food, I eat it.
+tooltip.terraria:potions/gills=Breathe water instead of air
+tooltip.terraria:potions/fishing=Increases fishing power
 item.terraria:armor/sunglasses/helm.desc=Делает твой вид круче!
 item.terraria:armor/dev_zeith.desc=О нет, фурри!
 item.terraria:armor/ninja/helm.tooltip=Увеличенная скорость броска на 15%%
