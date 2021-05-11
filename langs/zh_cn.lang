@@ -159,6 +159,9 @@ item.terraria:yoyos/kraken.name=Kraken
 item.terraria:yoyos/eye_cthulhu.name=The Eye of Cthulhu
 item.terraria:yoyos/terrarian.name=Terrarian
 item.terraria:fishing_poles/wood.name=Wood Fishing Pole
+item.terraria:spears/spear.name=Spear
+item.terraria:spears/trident.name=Trident
+item.terraria:spears/swordfish.name=Swordfish
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=再生手环
@@ -262,6 +265,8 @@ item.terraria:potions/fishing.name=Fishing Potion
 item.terraria:potions/honeyfin.name=Honeyfin
 item.terraria:potions/endurance.name=Endurance Potion
 item.terraria:potions/wrath.name=Wrath Potion
+item.terraria:potions/heartreach.name=Heartreach Potion
+item.terraria:potions/crate.name=Crate Potion
 
 item.terraria:potions/food/golden_delight.name=Golden Delight
 item.terraria:potions/food/bunny_stew.name=Bunny Stew
@@ -531,8 +536,12 @@ item.terraria:silver_coin.name=银币
 item.terraria:gold_coin.name=金币
 item.terraria:platinum_coin.name=铂金币
 item.terraria:mana_crystal.name=魔力水晶
-item.terraria:game_obj/mana_star.name=魔力之星
-item.terraria:game_obj/heart.name=心
+item.terraria:mana_star/default.name=魔力之星
+item.terraria:mana_star/soul_cake.name=Soul Cake
+item.terraria:mana_star/sugar_plum.name=Sugar Plum
+item.terraria:heart/default.name=心
+item.terraria:heart/candy_apple.name=Candy Apple
+item.terraria:heart/candy_cane.name=Candy Cane
 item.terraria:flower_of_fire.name=火之花
 item.terraria:wand_of_sparking.name=火花魔棒
 item.terraria:wooden_arrow.name=木箭
@@ -1357,6 +1366,12 @@ buff.terraria:endurance.desc=10%% reduced damage
 buff.terraria:wrath.name=Wrath
 buff.terraria:wrath.desc=10%% increased damage
 
+buff.terraria:heartreach.name=Heartreach
+buff.terraria:heartreach.desc=Increased heart pickup range
+
+buff.terraria:crate.name=Crate
+buff.terraria:crate.desc=Greater chance of fishing up a crate
+
 buff.terraria:well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
 tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
@@ -1530,6 +1545,8 @@ tooltip.terraria:potions/gills=Breathe water instead of air
 tooltip.terraria:potions/fishing=Increases fishing power
 tooltip.terraria:potions/endurance=Reduces damage taken by 10%%
 tooltip.terraria:potions/wrath=Increases damage by 10%%
+tooltip.terraria:potions/heartreach=Increases pickup range for life hearts
+tooltip.terraria:potions/crate=Increases chance to get a crate
 item.terraria:armor/sunglasses/helm.desc=让你看起来酷酷的！
 item.terraria:armor/dev_zeith.desc=噢不, 毛茸茸!
 item.terraria:armor/ninja/helm.tooltip=投掷射速提高15%%
