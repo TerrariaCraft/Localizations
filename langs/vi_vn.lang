@@ -158,6 +158,7 @@ item.terraria:yoyos/dev_valkyrie.name=Valkyrie Yoyo
 item.terraria:yoyos/kraken.name=Kraken
 item.terraria:yoyos/eye_cthulhu.name=The Eye of Cthulhu
 item.terraria:yoyos/terrarian.name=Terrarian
+item.terraria:fishing_poles/wood.name=Wood Fishing Pole
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Vòng Hồi Máu
@@ -259,6 +260,8 @@ item.terraria:potions/gills.name=Gills Potion
 item.terraria:potions/honey.name=Bottled Honey
 item.terraria:potions/fishing.name=Fishing Potion
 item.terraria:potions/honeyfin.name=Honeyfin
+item.terraria:potions/endurance.name=Endurance Potion
+item.terraria:potions/wrath.name=Wrath Potion
 
 item.terraria:potions/food/golden_delight.name=Golden Delight
 item.terraria:potions/food/bunny_stew.name=Bunny Stew
@@ -410,6 +413,9 @@ item.terraria:materials/fishing/variegated_lardfish.name=Variegated Lardfish
 item.terraria:materials/fishing/old_shoe.name=Old Shoe
 item.terraria:materials/fishing/seaweed.name=Seaweed
 item.terraria:materials/fishing/tin_can.name=Tin Can
+item.terraria:materials/baits/jellyfish_blue.name=Blue Jellyfish
+item.terraria:materials/baits/jellyfish_green.name=Green Jellyfish
+item.terraria:materials/baits/jellyfish_pink.name=Pink Jellyfish
 
 # Armor
 item.terraria:armor/wooden/helm.name=Mũ Gỗ
@@ -1345,6 +1351,12 @@ buff.terraria:honey.desc=Life regeneration is increased
 buff.terraria:fishing.name=Fishing
 buff.terraria:fishing.desc=Increased fishing power
 
+buff.terraria:endurance.name=Endurance
+buff.terraria:endurance.desc=10%% reduced damage
+
+buff.terraria:wrath.name=Wrath
+buff.terraria:wrath.desc=10%% increased damage
+
 buff.terraria:well_fed.name=Well Fed
 tooltip.terraria:food.0=Minor improvements to all stats
 tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
@@ -1403,6 +1415,7 @@ tooltip.terraria:rctoopen=Bấm chuột phải để mở
 tooltip.terraria:debug_item=Debug Item
 tooltip.terraria:gravity_control=[WIP] Cho phép thao túng trọng lực
 tooltip.terraria:bait_power=Bait Power: %,d%%
+tooltip.terraria:fishing_power=Fishing Power: %,d%%
 tooltip.terraria:vanity_artifact=Can be worn in vanity slots
 tooltip.terraria:angler_armor=Increases fishing power
 
@@ -1515,6 +1528,8 @@ tooltip.terraria:food/lobster_tail=Delicious with a bit of butter
 tooltip.terraria:food/seafood_dinner=I sea food, I eat it.
 tooltip.terraria:potions/gills=Breathe water instead of air
 tooltip.terraria:potions/fishing=Increases fishing power
+tooltip.terraria:potions/endurance=Reduces damage taken by 10%%
+tooltip.terraria:potions/wrath=Increases damage by 10%%
 item.terraria:armor/sunglasses/helm.desc=Khiến bạn trông ngầu hơn xD
 item.terraria:armor/dev_zeith.desc=Oh no, a furry!
 item.terraria:armor/ninja/helm.tooltip=Tăng 15% Vận Tốc Ném
