@@ -159,6 +159,15 @@ item.terraria:yoyos/kraken.name=Кракен
 item.terraria:yoyos/eye_cthulhu.name=Глаз Ктулху
 item.terraria:yoyos/terrarian.name=Террариан
 item.terraria:fishing_poles/wood.name=Wood Fishing Pole
+item.terraria:fishing_poles/reinforced.name=Reinforced Fishing Pole
+item.terraria:fishing_poles/corrupt.name=Fisher of Souls
+item.terraria:fishing_poles/crimson.name=Fleshcatcher
+item.terraria:fishing_poles/scarab.name=Scarab Fishing Rod
+item.terraria:fishing_poles/chum.name=Chum Caster
+item.terraria:fishing_poles/fiberglass.name=Fiberglass Fishing Pole
+item.terraria:fishing_poles/mechanic.name=Mechanic's Rod
+item.terraria:fishing_poles/sitting_duck.name=Sitting Duck's Fishing Pole
+item.terraria:fishing_poles/golden.name=Golden Fishing Rod
 item.terraria:spears/spear.name=Spear
 item.terraria:spears/trident.name=Trident
 item.terraria:spears/swordfish.name=Swordfish
@@ -267,6 +276,7 @@ item.terraria:potions/endurance.name=Endurance Potion
 item.terraria:potions/wrath.name=Wrath Potion
 item.terraria:potions/heartreach.name=Heartreach Potion
 item.terraria:potions/crate.name=Crate Potion
+item.terraria:potions/eggnog.name=Eggnog
 
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
@@ -310,6 +320,9 @@ item.terraria:potions/food/cooked_shrimp.name=Cooked Shrimp
 item.terraria:potions/food/sashimi.name=Shashimi
 item.terraria:potions/food/lobster_tail.name=Lobster Tail
 item.terraria:potions/food/seafood_dinner.name=Seafood Dinner
+item.terraria:potions/food/christmas_pudding.name=Christmas Pudding
+item.terraria:potions/food/sugar_cookie.name=Sugar Cookie
+item.terraria:potions/food/gingerbread_cookie.name=Gingerbread Cookie
 
 # Materials
 item.terraria:materials/fallen_star.name=Упавшая звезда
@@ -421,6 +434,7 @@ item.terraria:materials/fishing/tin_can.name=Tin Can
 item.terraria:materials/baits/jellyfish_blue.name=Blue Jellyfish
 item.terraria:materials/baits/jellyfish_green.name=Green Jellyfish
 item.terraria:materials/baits/jellyfish_pink.name=Pink Jellyfish
+item.terraria:materials/coal.name=Coal
 
 # Armor
 item.terraria:armor/wooden/helm.name=Деревянный шлем
@@ -1233,6 +1247,7 @@ tile.terraria:garden_gnome.name=Садовый гном
 tile.terraria:crispy_honey_block.name=Хрустящий медовый блок
 tile.terraria:furniture/bookcases/green_dungeon.name=Green Dungeon Bookcase
 tile.terraria:pots/tundra.name=Tundra Pot
+tile.terraria:present.name=Present
 
 ##################
 
@@ -1560,6 +1575,10 @@ tooltip.terraria:armor/dev_jar=Критические показатели жи�
 tooltip.terraria:armor/dev_degeh03=Подожди, опять задерживается???
 tooltip.terraria:guns/dev_jar_glock=Лучший выбор в школах по всему миру!
 tooltip.terraria:slime_crown=Призывает короля слизней
+tooltip.terraria:materials/coal=You've been naughty this year
+tooltip.terraria:food/christmas_pudding=A cozy treat by the fireplace.
+tooltip.terraria:food/sugar_cookie=You'll bounce off the walls!
+tooltip.terraria:food/gingerbread_cookie=Not the gumdrop buttons!
 
 # Misc Tooltips
 
