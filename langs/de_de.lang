@@ -1249,6 +1249,7 @@ tile.terraria:crispy_honey_block.name=Crispy Honey Block
 tile.terraria:furniture/bookcases/green_dungeon.name=Green Dungeon Bookcase
 tile.terraria:pots/tundra.name=Tundra Pot
 tile.terraria:present.name=Present
+tile.terraria:crates/crimson.name=Crimson Crate
 
 ##################
 
@@ -1449,6 +1450,7 @@ tooltip.terraria:bait_power=Bait Power: %,d%%
 tooltip.terraria:fishing_power=Fishing Power: %,d%%
 tooltip.terraria:vanity_artifact=Can be worn in vanity slots
 tooltip.terraria:angler_armor=Increases fishing power
+tooltip.terraria:faved=Marked as favorite
 
 # Item Tooltips
 

@@ -1249,6 +1249,7 @@ tile.terraria:crispy_honey_block.name=Хрустящий медовый блок
 tile.terraria:furniture/bookcases/green_dungeon.name=Зелёный книжный шкаф темницы 
 tile.terraria:pots/tundra.name=Замороженный горшочек
 tile.terraria:present.name=Подарок
+tile.terraria:crates/crimson.name=Crimson Crate
 
 ##################
 
@@ -1449,6 +1450,7 @@ tooltip.terraria:bait_power=Сила наживки: %,d%%
 tooltip.terraria:fishing_power=Мастерство рыбалки: %,d%%
 tooltip.terraria:vanity_artifact=Можно носить в слотах для украшений
 tooltip.terraria:angler_armor=Увеличивает мастерство рыбалки
+tooltip.terraria:faved=Marked as favorite
 
 # Item Tooltips
 

@@ -1249,6 +1249,7 @@ tile.terraria:crispy_honey_block.name=Khối Mật Ong Khô
 tile.terraria:furniture/bookcases/green_dungeon.name=Tủ Sách Hầm Ngục Xanh Lục
 tile.terraria:pots/tundra.name=Bình Băng Tuyết
 tile.terraria:present.name=Quà
+tile.terraria:crates/crimson.name=Crimson Crate
 
 ##################
 
@@ -1449,6 +1450,7 @@ tooltip.terraria:bait_power=Khả năng mồi cá: %,d%%
 tooltip.terraria:fishing_power=Khả năng câu cá: %,d%%
 tooltip.terraria:vanity_artifact=Có thể mặc trong slot trang trí
 tooltip.terraria:angler_armor=Tăng khả năng câu cá
+tooltip.terraria:faved=Marked as favorite
 
 # Item Tooltips
 
