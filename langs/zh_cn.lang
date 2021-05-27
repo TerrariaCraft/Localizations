@@ -652,6 +652,9 @@ item.terraria:flower_seeds/wild.name=Wild Flower Seeds
 item.terraria:flower_seeds/tall_grass.name=Tall Grass Seeds
 item.terraria:worms_can.name=Can of Worms
 item.terraria:treasure_bags/king_slime.name=Treasure Bag
+item.terraria:guns/megashark.name=Megashark
+item.terraria:guns/candy_corn_rifle.name=Candy Corn Rifle
+item.terraria:candy_corn.name=Candy Corn
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
@@ -1250,6 +1253,11 @@ tile.terraria:furniture/bookcases/green_dungeon.name=Green Dungeon Bookcase
 tile.terraria:pots/tundra.name=Tundra Pot
 tile.terraria:present.name=Present
 tile.terraria:crates/crimson.name=Crimson Crate
+tile.terraria:crates/dungeon.name=Dungeon Crate
+tile.terraria:crates/frozen.name=Frozen Crate
+tile.terraria:hardened_sand.name=Hardened Sand
+tile.terraria:sturdy_fossil.name=Sturdy Fossil
+tile.terraria:desert_fossil.name=Desert Fossil
 
 ##################
 
