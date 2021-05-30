@@ -172,6 +172,7 @@ item.terraria:fishing_poles/golden.name=Cần Câu Vàng
 item.terraria:spears/spear.name=Giáo
 item.terraria:spears/trident.name=Đinh Ba
 item.terraria:spears/swordfish.name=Cá Kiếm
+item.terraria:guns/dev_degeh_archilles.name=The Archilles
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Vòng Hồi Máu
@@ -1258,6 +1259,8 @@ tile.terraria:crates/frozen.name=Frozen Crate
 tile.terraria:hardened_sand.name=Hardened Sand
 tile.terraria:sturdy_fossil.name=Sturdy Fossil
 tile.terraria:desert_fossil.name=Desert Fossil
+tile.terraria:crates/oasis.name=Oasis Crate
+tile.terraria:crates/ocean.name=Ocean Crate
 
 ##################
 
