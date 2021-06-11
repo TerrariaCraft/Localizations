@@ -172,7 +172,7 @@ item.terraria:fishing_poles/golden.name=Золотая удочка
 item.terraria:spears/spear.name=Копьё
 item.terraria:spears/trident.name=Трезубец
 item.terraria:spears/swordfish.name=Рыба-меч
-item.terraria:guns/dev_degeh_archilles.name=The Archilles
+item.terraria:guns/dev_degeh_archilles.name=Ахиллес
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
@@ -653,9 +653,9 @@ item.terraria:flower_seeds/wild.name=Семена дикого цветка
 item.terraria:flower_seeds/tall_grass.name=Семена высокой травы
 item.terraria:worms_can.name=Банка с червями
 item.terraria:treasure_bags/king_slime.name=Мешок с сокровищами
-item.terraria:guns/megashark.name=Megashark
-item.terraria:guns/candy_corn_rifle.name=Candy Corn Rifle
-item.terraria:candy_corn.name=Candy Corn
+item.terraria:guns/megashark.name=Мега-акула
+item.terraria:guns/candy_corn_rifle.name=Винтовка из кенди-корна
+item.terraria:candy_corn.name=Кенди-корн
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -1253,14 +1253,14 @@ tile.terraria:crispy_honey_block.name=Хрустящий медовый блок
 tile.terraria:furniture/bookcases/green_dungeon.name=Зелёный книжный шкаф темницы 
 tile.terraria:pots/tundra.name=Замороженный горшочек
 tile.terraria:present.name=Подарок
-tile.terraria:crates/crimson.name=Crimson Crate
-tile.terraria:crates/dungeon.name=Dungeon Crate
-tile.terraria:crates/frozen.name=Frozen Crate
-tile.terraria:hardened_sand.name=Hardened Sand
-tile.terraria:sturdy_fossil.name=Sturdy Fossil
-tile.terraria:desert_fossil.name=Desert Fossil
-tile.terraria:crates/oasis.name=Oasis Crate
-tile.terraria:crates/ocean.name=Ocean Crate
+tile.terraria:crates/crimson.name=Ящик багрянца
+tile.terraria:crates/dungeon.name=Ящик темницы
+tile.terraria:crates/frozen.name=Замороженный ящик
+tile.terraria:hardened_sand.name=Затвердевший песок
+tile.terraria:sturdy_fossil.name=Затвердевшая окаменелость
+tile.terraria:desert_fossil.name=Окаменелость из пустыни
+tile.terraria:crates/oasis.name=Ящик оазиса
+tile.terraria:crates/ocean.name=Океанский ящик
 
 ##################
 
@@ -1432,7 +1432,7 @@ tooltip.terraria:potion_duration=Длительность: %s мин.
 tooltip.terraria:regen_speed_increase=Ускоряет регенерацию здоровья
 tooltip.terraria:increased_movement_speed=%,d%%-ное увеличение скорости передвижения
 tooltip.terraria:placeable.key=Можно установить пока нажата клавиша %s
-tooltip.terraria:placeable=Can be placed
+tooltip.terraria:placeable=Можно поставить
 tooltip.terraria:remove_buff=Снять эффект
 tooltip.terraria:dropped=Выпало:
 tooltip.terraria:mines.meteorite=Может добывать метеорит
@@ -1461,7 +1461,7 @@ tooltip.terraria:bait_power=Сила наживки: %,d%%
 tooltip.terraria:fishing_power=Мастерство рыбалки: %,d%%
 tooltip.terraria:vanity_artifact=Можно носить в слотах для украшений
 tooltip.terraria:angler_armor=Увеличивает мастерство рыбалки
-tooltip.terraria:faved=Marked as favorite
+tooltip.terraria:faved=Помечено как избранное
 
 # Item Tooltips
 
@@ -1588,7 +1588,7 @@ tooltip.terraria:armor/dev_ashryman=Когда-то носил герой, по�
 tooltip.terraria:armor/dev_jar=Критические показатели жизненно важных функций, немедленно обратитесь за медицинской помощью
 tooltip.terraria:armor/dev_degeh03=Подожди, опять задерживается???
 tooltip.terraria:guns/dev_jar_glock=Лучший выбор в школах по всему миру!
-tooltip.terraria:guns/dev_degeh_archilles=Degeh's Rifle - Spread/Precise
+tooltip.terraria:guns/dev_degeh_archilles=Винтовка Degeh'а - Размах/Точность
 tooltip.terraria:slime_crown=Призывает короля слизней
 tooltip.terraria:materials/coal=Ты плохо вёл себя в этом году
 tooltip.terraria:food/christmas_pudding=Приятное угощение у камина
@@ -1726,7 +1726,7 @@ achievement.terraria:sticky_situation.desc=Переживите слизневы
 
 ######MISC######
 
-event.terraria:blood_moon=Кровавоя луна
+event.terraria:blood_moon=Кровавая луна
 event.terraria:blood_moon.start=Восходит кровавая луна...
 event.terraria:blood_moon.end=Кровавая луна спускается...
 
@@ -1788,8 +1788,8 @@ tbiome.terraria:ocean=Океан
 tbiome.terraria:snowy=Снежный биом
 tbiome.terraria:space=Космос
 tbiome.terraria:underworld=Подземелье
-tbiome.terraria:temple=Храм ящщериц
-tbiome.terraria:dungeon=Данж скелетрона
+tbiome.terraria:temple=Храм ящщеров
+tbiome.terraria:dungeon=Темница
 tbiome.terraria:granite_cave=Гранитная пещера
 tbiome.terraria:marble_cave=Мраморная пещера
 
