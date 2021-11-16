@@ -12,6 +12,108 @@ itemGroup.terraria:potions=Terraria Craft: Potions
 itemGroup.terraria:critters=Terraria Craft: Critters
 itemGroup.terraria:hostiles=Terraria Craft: Enemies
 
+itemTab.terraria:items=Items
+itemTab.terraria:tools=Tools
+itemTab.terraria:combat=Combat
+itemTab.terraria:accessories=Accessories
+itemTab.terraria:armor=Armor
+itemTab.terraria:potions=Potions
+itemTab.terraria:blocks=Blocks
+itemTab.terraria:critters=Critters
+itemTab.terraria:hostiles=Enemies
+itemTab.terraria:uncategorized=Uncategorized
+
+itemGroup.terraria:coins=Coins
+itemGroup.terraria:materials=Materials
+itemGroup.terraria:grass_seeds=Grass Seeds
+itemGroup.terraria:fishes=Fishes
+itemGroup.terraria:flower_seeds=Flower Seeds
+itemGroup.terraria:dyes=Dyes
+itemGroup.terraria:wings=Wings
+itemGroup.terraria:glowsticks=Glowsticks
+itemGroup.terraria:pickaxes=Pickaxes
+itemGroup.terraria:axes=Axes
+itemGroup.terraria:hammers=Hammers
+itemGroup.terraria:wrenches=Wrenches
+itemGroup.terraria:fishing_poles=Fishing Poles
+itemGroup.terraria:magic_mirrors=Magic Mirrors
+itemGroup.terraria:bugnets=Bug Nets
+itemGroup.terraria:shuriken=Shurikens
+itemGroup.terraria:knives=Knives
+itemGroup.terraria:grenades=Grenades
+itemGroup.terraria:bombs=Bombs
+itemGroup.terraria:dynamites=Dynamites
+itemGroup.terraria:guns=Guns
+itemGroup.terraria:arrows=Arrows
+itemGroup.terraria:bullets=Bullets
+itemGroup.terraria:swords=Swords
+itemGroup.terraria:shortswords=Shortswords
+itemGroup.terraria:yoyos=Yoyos
+itemGroup.terraria:spears=Spears
+itemGroup.terraria:bows=Bows
+itemGroup.terraria:hermes_boots=Hermes Boots
+itemGroup.terraria:double_jump_bottles=Clouds in Bottles
+itemGroup.terraria:strings=Yoyo Strings
+itemGroup.terraria:mana_potions=Mana Potions
+itemGroup.terraria:healing_potions=Healing Potions
+itemGroup.terraria:foods=Food
+itemGroup.terraria:bricks=Bricks
+itemGroup.terraria:work_benches=Work Benches
+itemGroup.terraria:ores=Ores
+itemGroup.terraria:bars=Bars
+itemGroup.terraria:woods=Wood
+itemGroup.terraria:torches=Torches
+itemGroup.terraria:doors=Doors
+itemGroup.terraria:tables=Tables
+itemGroup.terraria:chairs=Chairs
+itemGroup.terraria:bookcases=Bookcases
+itemGroup.terraria:crates=Crates
+itemGroup.terraria:lanterns=Lanterns
+itemGroup.terraria:statues=Statues
+itemGroup.terraria:banners=Banners
+itemGroup.terraria:chests=Chests
+itemGroup.terraria:bunnies=Bunnies
+itemGroup.terraria:squirrels=Squirrels
+itemGroup.terraria:butterflies=Butterflies
+itemGroup.terraria:dragonflies=Dragonflies
+itemGroup.terraria:bosses=Bosses
+
+itemGroup.terraria:armor/mining=Mining Armor
+itemGroup.terraria:armor/wooden=Wood Armor
+itemGroup.terraria:armor/jungle_wood=Rich Mahogany Armor
+itemGroup.terraria:armor/boreal_wood=Boreal Wood Armor
+itemGroup.terraria:armor/palm_wood=Palm Wood Armor
+itemGroup.terraria:armor/ebonwood=Ebonwood Armor
+itemGroup.terraria:armor/shadewood=Shadewood Armor
+itemGroup.terraria:armor/rain=Rain Outfit
+itemGroup.terraria:armor/snow=Snow Clothing
+itemGroup.terraria:armor/pink_snow=Pink Snow Clothing
+itemGroup.terraria:armor/angler=Angler Outfit
+itemGroup.terraria:armor/cactus=Cactus Armor
+itemGroup.terraria:armor/copper=Copper Armor
+itemGroup.terraria:armor/tin=Tin Armor
+itemGroup.terraria:armor/ninja=Ninja Gear
+itemGroup.terraria:armor/iron=Iron Armor
+itemGroup.terraria:armor/lead=Lead Armor
+itemGroup.terraria:armor/silver=Silver Armor
+itemGroup.terraria:armor/tungsten=Tungsten Armor
+itemGroup.terraria:armor/gold=Gold Armor
+itemGroup.terraria:armor/platinum=Platinum Armor
+itemGroup.terraria:armor/gladiator=Gladiator Armor
+itemGroup.terraria:armor/meteor=Meteor Armor
+itemGroup.terraria:armor/jungle=Jungle Armor
+itemGroup.terraria:armor/ancient_cobalt=Ancient Cobalt Armor
+itemGroup.terraria:armor/shadow=Shadow Armor
+itemGroup.terraria:armor/ancient_shadow=Ancient Shadow Armor
+itemGroup.terraria:armor/crimson=Crimson Armor
+itemGroup.terraria:armor/molten=Molten Armor
+itemGroup.terraria:armor/crowns=Crowns
+itemGroup.terraria:armor/dev_zeith=Zeith's Outfit
+itemGroup.terraria:armor/dev_degeh03=Degeh's Outfit
+itemGroup.terraria:armor/dev_jar=Jar's Outfit
+itemGroup.terraria:armor/dev_ganza=Ganza's Outfit
+itemGroup.terraria:armor/dev_ashryman=Ashryman's Outfit
+
 generator.Terraria=Thế Giới Terraria
 gui.achievements=Thành Tựu
 soundCategory.terraria.music=Nhạc Terraria
@@ -1263,6 +1365,10 @@ tile.terraria:crates/oasis.name=Oasis Crate
 tile.terraria:crates/ocean.name=Ocean Crate
 tile.terraria:furniture/chests/rich_mahogany.name=Rich Mahogany Chest
 tile.terraria:pots/jungle.name=Jungle Pot
+tile.terraria:furniture/bookcases/rich_mahogany.name=Rich Mahogany Bookcase
+tile.terraria:blue_starry_block.name=Blue Starry Block
+tile.terraria:gold_starry_block.name=Gold Starry Block
+tile.terraria:bamboo.name=Bamboo
 
 ##################
 
@@ -1623,6 +1729,12 @@ itweaks.terraria:forge_smt_chunks.desc=This option enables forge to use more thr
 
 itweaks.terraria:forge_sel_res_load.name=Forge Selective Resource Loading
 itweaks.terraria:forge_sel_res_load.desc=Lets forge reload languages quicker on another thread.<LN>Improves resource reload times as well as game launch times slightly.
+
+itweaks.terraria:lower_render_distance.name=Lower Render Distance
+itweaks.terraria:lower_render_distance.desc=Reduces render distance to fix laggy entities,<LN>blocks and general server performance.
+
+itweaks.terraria:reduce_cube_gen_amount.name=Reduce Cube Generation
+itweaks.terraria:reduce_cube_gen_amount.desc=Reduces amount of cubes that can be generated per tick.<LN>Imroves server performance when actively generating new cubes.
 
 ####################
 
