@@ -26,6 +26,7 @@ itemTab.terraria:uncategorized=Uncategorized
 itemGroup.terraria:coins=Coins
 itemGroup.terraria:materials=Materials
 itemGroup.terraria:grass_seeds=Grass Seeds
+itemGroup.terraria:mushrooms=Mushrooms
 itemGroup.terraria:fishes=Fishes
 itemGroup.terraria:flower_seeds=Flower Seeds
 itemGroup.terraria:dyes=Dyes
@@ -1380,6 +1381,12 @@ tile.terraria:furniture/bookcases/rich_mahogany.name=Rich Mahogany Bookcase
 tile.terraria:blue_starry_block.name=Blue Starry Block
 tile.terraria:gold_starry_block.name=Gold Starry Block
 tile.terraria:bamboo.name=Bamboo
+tile.terraria:soul_lanterns/flight.name=Soul of Flight in a Bottle
+tile.terraria:soul_lanterns/fright.name=Soul of Fright in a Bottle
+tile.terraria:soul_lanterns/light.name=Soul of Light in a Bottle
+tile.terraria:soul_lanterns/might.name=Soul of Might in a Bottle
+tile.terraria:soul_lanterns/night.name=Soul of Night in a Bottle
+tile.terraria:soul_lanterns/sight.name=Soul of Sight in a Bottle
 
 ##################
 
