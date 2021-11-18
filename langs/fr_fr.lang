@@ -58,32 +58,45 @@ itemGroup.terraria:strings=Yoyo Strings
 itemGroup.terraria:mana_potions=Mana Potions
 itemGroup.terraria:healing_potions=Healing Potions
 itemGroup.terraria:foods=Food
-itemGroup.terraria:bricks=Bricks
-itemGroup.terraria:work_benches=Work Benches
 itemGroup.terraria:ores=Ores
 itemGroup.terraria:bars=Bars
-itemGroup.terraria:woods=Wood
 itemGroup.terraria:torches=Torches
-itemGroup.terraria:doors=Doors
-itemGroup.terraria:tables=Tables
-itemGroup.terraria:chairs=Chairs
-itemGroup.terraria:bookcases=Bookcases
 itemGroup.terraria:crates=Crates
-itemGroup.terraria:lanterns=Lanterns
-itemGroup.terraria:statues=Statues
 itemGroup.terraria:banners=Banners
-itemGroup.terraria:chests=Chests
+itemGroup.terraria:storage=Storage
 itemGroup.terraria:pots=Pots
-itemGroup.terraria:ropes=Ropes
 itemGroup.terraria:graves=Graves
-itemGroup.terraria:stucco=Stucco
-itemGroup.terraria:bottles=Bottles
-itemGroup.terraria:soils=Soils
+
+itemGroup.terraria:crafting_stations=Crafting Stations
+itemGroup.terraria:crafting_stations.work_benches=Work Benches
+itemGroup.terraria:crafting_stations.bottles=Bottles
+itemGroup.terraria:crafting_stations.furnaces=Furnaces
+itemGroup.terraria:crafting_stations.altars=Altars
+itemGroup.terraria:crafting_stations.anvils=Anvils
+
+itemGroup.terraria:building=Building Blocks
+itemGroup.terraria:building.stucco=Stucco
+itemGroup.terraria:building.soils=Soils
+itemGroup.terraria:building.woods=Wood
+itemGroup.terraria:building.bricks=Bricks
+itemGroup.terraria:building.furniture=Furniture
+itemGroup.terraria:building.furniture.ropes=Ropes
+itemGroup.terraria:building.furniture.bowls=Bowls
+itemGroup.terraria:building.furniture.statues=Statues
+itemGroup.terraria:building.furniture.doors=Doors
+itemGroup.terraria:building.furniture.tables=Tables
+itemGroup.terraria:building.furniture.chairs=Chairs
+itemGroup.terraria:building.furniture.bookcases=Bookcases
+itemGroup.terraria:building.furniture.lanterns=Lanterns
+itemGroup.terraria:building.furniture.campfires=Campfires
+
+itemGroup.terraria:mechanisms=Mechanisms
+itemGroup.terraria:mechanisms.activators=Activators
+itemGroup.terraria:mechanisms.activators.pressure_plates=Pressure Plates
+itemGroup.terraria:mechanisms.traps=Traps
+
 itemGroup.terraria:thorny_bushes=Thorny Bushes
 itemGroup.terraria:seeds=Seeds
-itemGroup.terraria:pressure_plates=Pressure Plates
-itemGroup.terraria:furnaces=Furnaces
-itemGroup.terraria:anvils=Anvils
 itemGroup.terraria:bunnies=Bunnies
 itemGroup.terraria:squirrels=Squirrels
 itemGroup.terraria:butterflies=Butterflies
@@ -439,6 +452,8 @@ item.terraria:potions/food/seafood_dinner.name=Seafood Dinner
 item.terraria:potions/food/christmas_pudding.name=Christmas Pudding
 item.terraria:potions/food/sugar_cookie.name=Sugar Cookie
 item.terraria:potions/food/gingerbread_cookie.name=Gingerbread Cookie
+item.terraria:potions/food/marshmallow.name=Marshmallow
+item.terraria:potions/food/cooked_marshmallow.name=Cooked Marshmallow
 
 # Materials
 item.terraria:materials/fallen_star.name=Étoile filante
@@ -770,6 +785,7 @@ item.terraria:treasure_bags/king_slime.name=Treasure Bag
 item.terraria:guns/megashark.name=Megashark
 item.terraria:guns/candy_corn_rifle.name=Candy Corn Rifle
 item.terraria:candy_corn.name=Candy Corn
+item.terraria:marshmallow_stick.name=Marshmallow on a Stick
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
@@ -1387,6 +1403,7 @@ tile.terraria:soul_lanterns/light.name=Soul of Light in a Bottle
 tile.terraria:soul_lanterns/might.name=Soul of Might in a Bottle
 tile.terraria:soul_lanterns/night.name=Soul of Night in a Bottle
 tile.terraria:soul_lanterns/sight.name=Soul of Sight in a Bottle
+tile.terraria:campfires/jungle.name=Jungle Campfire
 
 ##################
 
@@ -1720,6 +1737,10 @@ tooltip.terraria:materials/coal=You've been naughty this year
 tooltip.terraria:food/christmas_pudding=A cozy treat by the fireplace.
 tooltip.terraria:food/sugar_cookie=You'll bounce off the walls!
 tooltip.terraria:food/gingerbread_cookie=Not the gumdrop buttons!
+tooltip.terraria:food/cooked_marshmallow=How can I have some more of nothing?
+tooltip.terraria:food/marshmallow=Put it on a stick and roast over a campfire
+tooltip.terraria:food/marshmallow2=How many can you fit in your mouth?
+tooltip.terraria:food/marshmallow_stick=Roast it over a campfire!
 
 # Misc Tooltips
 
