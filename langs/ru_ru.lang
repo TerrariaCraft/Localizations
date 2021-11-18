@@ -1413,6 +1413,10 @@ tile.terraria:lanterns/soul/might.name=Soul of Might in a Bottle
 tile.terraria:lanterns/soul/night.name=Soul of Night in a Bottle
 tile.terraria:lanterns/soul/sight.name=Soul of Sight in a Bottle
 tile.terraria:campfires/jungle.name=Jungle Campfire
+tile.terraria:lanterns/lunar/nebula.name=Nebula Lantern
+tile.terraria:lanterns/lunar/solar.name=Solar Lantern
+tile.terraria:lanterns/lunar/stardust.name=Stardust Lantern
+tile.terraria:lanterns/lunar/vortex.name=Vortex Lantern
 
 ##################
 
