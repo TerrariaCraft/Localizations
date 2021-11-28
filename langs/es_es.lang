@@ -1427,6 +1427,8 @@ tile.terraria:furniture/sofas/rich_mahogany.name=Rich Mahogany Sofa
 tile.terraria:furniture/sofas/ebonwood.name=Ebonwood Sofa
 tile.terraria:furniture/sofas/sofa.name=Sofa
 tile.terraria:furniture/sofas/slime.name=Slime Sofa
+tile.terraria:furniture/sofas/palm.name=Palm Sofa
+tile.terraria:campfires/crimson.name=Crimson Campfire
 
 ##################
 
