@@ -90,6 +90,7 @@ itemGroup.terraria:building.furniture.bookcases=Bookcases
 itemGroup.terraria:building.furniture.lanterns=Lanterns
 itemGroup.terraria:building.furniture.campfires=Campfires
 itemGroup.terraria:building.furniture.hanging_pots=Hanging Pots
+itemGroup.terraria:building.furniture.sofas=Sofas
 
 itemGroup.terraria:mechanisms=Mechanisms
 itemGroup.terraria:mechanisms.activators=Activators
@@ -1417,6 +1418,15 @@ tile.terraria:lanterns/lunar/nebula.name=Nebula Lantern
 tile.terraria:lanterns/lunar/solar.name=Solar Lantern
 tile.terraria:lanterns/lunar/stardust.name=Stardust Lantern
 tile.terraria:lanterns/lunar/vortex.name=Vortex Lantern
+tile.terraria:furniture/sofas/chippys_couch.name=Chippy's Couch
+tile.terraria:campfires/frozen.name=Frozen Campfire
+tile.terraria:campfires/desert.name=Desert Campfire
+tile.terraria:lanterns/lesion.name=Lesion Lantern
+tile.terraria:furniture/sofas/lesion.name=Lesion Sofa
+tile.terraria:furniture/sofas/rich_mahogany.name=Rich Mahogany Sofa
+tile.terraria:furniture/sofas/ebonwood.name=Ebonwood Sofa
+tile.terraria:furniture/sofas/sofa.name=Sofa
+tile.terraria:furniture/sofas/slime.name=Slime Sofa
 
 ##################
 
@@ -1754,6 +1764,8 @@ tooltip.terraria:food/cooked_marshmallow=How can I have some more of nothing?
 tooltip.terraria:food/marshmallow=Put it on a stick and roast over a campfire
 tooltip.terraria:food/marshmallow2=How many can you fit in your mouth?
 tooltip.terraria:food/marshmallow_stick=Roast it over a campfire!
+tooltip.terraria:furniture/sofas/chippys_couch_1=Heeellllllo Terraria enthusiasts!
+tooltip.terraria:furniture/sofas/chippys_couch_2='Great for chilling like a streamer!'
 
 # Misc Tooltips
 
