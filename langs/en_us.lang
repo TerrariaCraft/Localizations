@@ -302,6 +302,18 @@ item.terraria:spears/spear.name=Spear
 item.terraria:spears/trident.name=Trident
 item.terraria:spears/swordfish.name=Swordfish
 item.terraria:guns/dev_degeh_archilles.name=The Archilles
+item.terraria:pickaxes/fossil.name=Fossil Pickaxe
+item.terraria:pickaxes/reaver_shark.name=Reaver Shark
+item.terraria:bows/wooden.name=Wooden Bow
+item.terraria:bows/boreal.name=Boreal Wood Bow
+item.terraria:bows/palm.name=Palm Wood Bow
+item.terraria:bows/rich_mahogany.name=Rich Mahogany Bow
+item.terraria:bows/ebonwood.name=Ebonwood Bow
+item.terraria:bows/shadewood.name=Shadewood Bow
+item.terraria:bows/pearlwood.name=Pearlwood Bow
+item.terraria:bows/platinum.name=Platinum Bow
+item.terraria:bows/demon.name=Demon Bow
+item.terraria:bows/tendon.name=Tendon Bow
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Band of Regeneration
@@ -788,6 +800,8 @@ item.terraria:guns/megashark.name=Megashark
 item.terraria:guns/candy_corn_rifle.name=Candy Corn Rifle
 item.terraria:candy_corn.name=Candy Corn
 item.terraria:marshmallow_stick.name=Marshmallow on a Stick
+item.terraria:slime_crown.name=Slime Crown
+item.terraria:game_object.name=[Game Object]
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
@@ -875,7 +889,7 @@ item.terraria:hostiles/eater_of_souls.name=Eater of Souls
 item.terraria:hostiles/drippler.name=Drippler
 item.terraria:hostiles/gnome.name=Gnome
 item.terraria:hostiles/hornet.name=Hornet
-item.terraria:slime_crown.name=Slime Crown
+item.terraria:hostiles/ghost.name=Ghost
 
 #################
 
@@ -1429,6 +1443,11 @@ tile.terraria:furniture/sofas/sofa.name=Sofa
 tile.terraria:furniture/sofas/slime.name=Slime Sofa
 tile.terraria:furniture/sofas/palm.name=Palm Sofa
 tile.terraria:campfires/crimson.name=Crimson Campfire
+tile.terraria:furniture/sofas/boreal.name=Boreal Wood Sofa
+tile.terraria:furniture/sofas/mushroom.name=Mushroom Sofa
+tile.terraria:furniture/sofas/shadewood.name=Shadewood Sofa
+tile.terraria:furniture/sofas/glass.name=Glass Sofa
+tile.terraria:furniture/sofas/skyware.name=Skyware Sofa
 
 ##################
 
@@ -1768,6 +1787,7 @@ tooltip.terraria:food/marshmallow2=How many can you fit in your mouth?
 tooltip.terraria:food/marshmallow_stick=Roast it over a campfire!
 tooltip.terraria:furniture/sofas/chippys_couch_1=Heeellllllo Terraria enthusiasts!
 tooltip.terraria:furniture/sofas/chippys_couch_2='Great for chilling like a streamer!'
+tooltip.terraria:furniture/sofas/slime=Slofa!
 
 # Misc Tooltips
 
@@ -2027,6 +2047,7 @@ entity.terraria:zombie.name=Zombie
 entity.terraria:ladybug.name=Ladybug
 entity.terraria:gold/ladybug.name=Gold Ladybug
 entity.terraria:gnome.name=Gnome
+entity.terraria:ghost.name=Ghost
 
 entity.terraria:zombies/normal=Zombie
 entity.terraria:zombies/bald=Bald Zombie
