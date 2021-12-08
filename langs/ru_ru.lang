@@ -66,6 +66,8 @@ itemGroup.terraria:banners=Banners
 itemGroup.terraria:storage=Storage
 itemGroup.terraria:pots=Pots
 itemGroup.terraria:graves=Graves
+itemGroup.terraria:treasure_bags=Treasure Bags
+itemGroup.terraria:trophies=Trophies
 
 itemGroup.terraria:crafting_stations=Crafting Stations
 itemGroup.terraria:crafting_stations.work_benches=Work Benches
@@ -800,8 +802,10 @@ item.terraria:guns/megashark.name=Мега-акула
 item.terraria:guns/candy_corn_rifle.name=Винтовка из кенди-корна
 item.terraria:candy_corn.name=Кенди-корн
 item.terraria:marshmallow_stick.name=Marshmallow on a Stick
-item.terraria:slime_crown.name=Корона слизня
 item.terraria:game_object.name=[Game Object]
+item.terraria:seeds/corrupt.name=Corrupt Seeds
+item.terraria:seeds/crimson.name=Crimson Seeds
+item.terraria:treasure_bags/eye_of_cthulhu.name=Treasure Bag
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -890,6 +894,8 @@ item.terraria:hostiles/drippler.name=Стекатель
 item.terraria:hostiles/gnome.name=Гном
 item.terraria:hostiles/hornet.name=Шершень
 item.terraria:hostiles/ghost.name=Ghost
+item.terraria:slime_crown.name=Корона слизня
+item.terraria:suspicious_looking_eye.name=Suspicious Looking Eye
 
 #################
 
@@ -1448,6 +1454,9 @@ tile.terraria:furniture/sofas/mushroom.name=Mushroom Sofa
 tile.terraria:furniture/sofas/shadewood.name=Shadewood Sofa
 tile.terraria:furniture/sofas/glass.name=Glass Sofa
 tile.terraria:furniture/sofas/skyware.name=Skyware Sofa
+tile.terraria:furniture/sofas/bamboo.name=Bamboo Sofa
+tile.terraria:trophies/king_slime.name=King Slime Trophy
+tile.terraria:trophies/eye_of_cthulhu.name=Eye of Cthulhu Trophy
 
 ##################
 
@@ -1788,6 +1797,7 @@ tooltip.terraria:food/marshmallow_stick=Roast it over a campfire!
 tooltip.terraria:furniture/sofas/chippys_couch_1=Heeellllllo Terraria enthusiasts!
 tooltip.terraria:furniture/sofas/chippys_couch_2='Great for chilling like a streamer!'
 tooltip.terraria:furniture/sofas/slime=Slofa!
+tooltip.terraria:suspicious_looking_eye=Summons the Eye of Cthulhu
 
 # Misc Tooltips
 
@@ -1893,6 +1903,9 @@ achievement.terraria:bloodbath.desc=Переживите кровавую лун
 achievement.terraria:throwing_lines.name=Метательные линии
 achievement.terraria:throwing_lines.desc=Бросьте йо-йо.
 
+achievement.terraria:kill_the_sun.name=Kill the Sun
+achievement.terraria:kill_the_sun.desc=Survive a solar eclipse, a day darker than night filled with creatures of horror.
+
 achievement.terraria:hammer_time.name=Стоп! Время молота!
 achievement.terraria:hammer_time.desc=Получи свой первый молот, создав его или найдя.
 
@@ -1919,6 +1932,12 @@ achievement.terraria:slippery_shinobi.desc=Победите короля сли�
 
 achievement.terraria:sticky_situation.name=Липкая ситуация
 achievement.terraria:sticky_situation.desc=Переживите слизневый дождь, когда студенистые организмы падают с неба толпами.
+
+achievement.terraria:like_a_boss.name=Like a Boss
+achievement.terraria:like_a_boss.desc=Obtain a boss-summoning item.
+
+achievement.terraria:eye_on_you.name=Eye on You
+achievement.terraria:eye_on_you.desc=Defeat the Eye of Cthulhu, an ocular menace who only appears at night.
 
 ########################
 
@@ -2080,6 +2099,10 @@ entity.terraria:hornets/stingy.b=Большой жалящий шершень
 entity.terraria:king_slime.name=Король слизней
 boss.terraria:king_slime.awake=Пробудился король слизней!
 boss.terraria:king_slime.defeat=Король слизней побежден!
+
+entity.terraria:eye_of_cthulhu.name=Eye of Cthulhu
+boss.terraria:eye_of_cthulhu.awake=Eye of Cthulhu has awoken!
+boss.terraria:eye_of_cthulhu.defeat=Eye of Cthulhu has been defeated!
 
 ####################
 

@@ -66,6 +66,8 @@ itemGroup.terraria:banners=Banners
 itemGroup.terraria:storage=Storage
 itemGroup.terraria:pots=Pots
 itemGroup.terraria:graves=Graves
+itemGroup.terraria:treasure_bags=Treasure Bags
+itemGroup.terraria:trophies=Trophies
 
 itemGroup.terraria:crafting_stations=Crafting Stations
 itemGroup.terraria:crafting_stations.work_benches=Work Benches
@@ -800,8 +802,10 @@ item.terraria:guns/megashark.name=Megashark
 item.terraria:guns/candy_corn_rifle.name=Candy Corn Rifle
 item.terraria:candy_corn.name=Candy Corn
 item.terraria:marshmallow_stick.name=Marshmallow on a Stick
-item.terraria:slime_crown.name=Vương Miện Slime
 item.terraria:game_object.name=[Game Object]
+item.terraria:seeds/corrupt.name=Corrupt Seeds
+item.terraria:seeds/crimson.name=Crimson Seeds
+item.terraria:treasure_bags/eye_of_cthulhu.name=Treasure Bag
 
 # Critters
 item.terraria:critters/bunny.name=Thỏ
@@ -890,6 +894,8 @@ item.terraria:hostiles/drippler.name=Drippler
 item.terraria:hostiles/gnome.name=Thần Lùn
 item.terraria:hostiles/hornet.name=Ong Bắp Cày
 item.terraria:hostiles/ghost.name=Ghost
+item.terraria:slime_crown.name=Vương Miện Slime
+item.terraria:suspicious_looking_eye.name=Suspicious Looking Eye
 
 #################
 
@@ -1448,6 +1454,9 @@ tile.terraria:furniture/sofas/mushroom.name=Mushroom Sofa
 tile.terraria:furniture/sofas/shadewood.name=Shadewood Sofa
 tile.terraria:furniture/sofas/glass.name=Glass Sofa
 tile.terraria:furniture/sofas/skyware.name=Skyware Sofa
+tile.terraria:furniture/sofas/bamboo.name=Bamboo Sofa
+tile.terraria:trophies/king_slime.name=King Slime Trophy
+tile.terraria:trophies/eye_of_cthulhu.name=Eye of Cthulhu Trophy
 
 ##################
 
@@ -1788,6 +1797,7 @@ tooltip.terraria:food/marshmallow_stick=Roast it over a campfire!
 tooltip.terraria:furniture/sofas/chippys_couch_1=Heeellllllo Terraria enthusiasts!
 tooltip.terraria:furniture/sofas/chippys_couch_2='Great for chilling like a streamer!'
 tooltip.terraria:furniture/sofas/slime=Slofa!
+tooltip.terraria:suspicious_looking_eye=Summons the Eye of Cthulhu
 
 # Misc Tooltips
 
@@ -1893,6 +1903,9 @@ achievement.terraria:bloodbath.desc=Sống sót qua đêm trăng máu, một hi�
 achievement.terraria:throwing_lines.name=Đường thẳng kéo dài
 achievement.terraria:throwing_lines.desc=Ném một cái yoyo.
 
+achievement.terraria:kill_the_sun.name=Kill the Sun
+achievement.terraria:kill_the_sun.desc=Survive a solar eclipse, a day darker than night filled with creatures of horror.
+
 achievement.terraria:hammer_time.name=Dừng đã! Đến giờ đập búa rồi!
 achievement.terraria:hammer_time.desc=Rèn ra cây búa đầu tiên.
 
@@ -1919,6 +1932,12 @@ achievement.terraria:slippery_shinobi.desc=Đánh bại Vua Slime, tên bạo ch
 
 achievement.terraria:sticky_situation.name=Tình huống khó xử
 achievement.terraria:sticky_situation.desc=Sống sót qua cơn mưa Slime, khi những những sinh vật sền sệt từ trên trời rơi xuống.
+
+achievement.terraria:like_a_boss.name=Like a Boss
+achievement.terraria:like_a_boss.desc=Obtain a boss-summoning item.
+
+achievement.terraria:eye_on_you.name=Eye on You
+achievement.terraria:eye_on_you.desc=Defeat the Eye of Cthulhu, an ocular menace who only appears at night.
 
 ########################
 
@@ -2080,6 +2099,10 @@ entity.terraria:hornets/stingy.b=Big Stingy Hornet
 entity.terraria:king_slime.name=Vua Slime
 boss.terraria:king_slime.awake=Vua Slime đã thức giấc!
 boss.terraria:king_slime.defeat=Vua Slime đã bị tiêu diệt!
+
+entity.terraria:eye_of_cthulhu.name=Eye of Cthulhu
+boss.terraria:eye_of_cthulhu.awake=Eye of Cthulhu has awoken!
+boss.terraria:eye_of_cthulhu.defeat=Eye of Cthulhu has been defeated!
 
 ####################
 
