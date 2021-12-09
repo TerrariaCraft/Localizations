@@ -1457,6 +1457,8 @@ tile.terraria:furniture/sofas/skyware.name=Skyware Sofa
 tile.terraria:furniture/sofas/bamboo.name=Bamboo Sofa
 tile.terraria:trophies/king_slime.name=King Slime Trophy
 tile.terraria:trophies/eye_of_cthulhu.name=Eye of Cthulhu Trophy
+tile.terraria:hardened_crimsand.name=Hardened Crimsand Block
+tile.terraria:hardened_ebonsand.name=Hardened Ebonsand Block
 
 ##################
 
@@ -1972,6 +1974,8 @@ hud.terraria:mana=Mana
 chat.terraria:defeatenemy=%s a vaincu %,d-th %s!
 chat.terraria:spawn_point.set=Spawn point set!
 chat.terraria:spawn_point.remove=Spawn point removed!
+chat.terraria:biomesearch.missing=IMPORTANT NOTICE! This world is missing biomes:
+chat.terraria:biomesearch.ok=This world seems to have all the crucial biomes.
 
 house.terraria:limits=House size limit exceeded: %s/%s
 house.terraria:occupied=This house is already occupied!

@@ -1457,6 +1457,8 @@ tile.terraria:furniture/sofas/skyware.name=Небесный диван
 tile.terraria:furniture/sofas/bamboo.name=Бамбуковый диван
 tile.terraria:trophies/king_slime.name=Трофей короля слизней
 tile.terraria:trophies/eye_of_cthulhu.name=Трофей глаза Ктулху
+tile.terraria:hardened_crimsand.name=Hardened Crimsand Block
+tile.terraria:hardened_ebonsand.name=Hardened Ebonsand Block
 
 ##################
 
@@ -1972,6 +1974,8 @@ hud.terraria:mana=Мана
 chat.terraria:defeatenemy=%s победил %,d-th %s!
 chat.terraria:spawn_point.set=Точка возрождения установлена!
 chat.terraria:spawn_point.remove=Точка возрождения удалена!
+chat.terraria:biomesearch.missing=IMPORTANT NOTICE! This world is missing biomes:
+chat.terraria:biomesearch.ok=This world seems to have all the crucial biomes.
 
 house.terraria:limits=Превышен предел размера дома: %s/%s
 house.terraria:occupied=Этот дом уже заселен!
