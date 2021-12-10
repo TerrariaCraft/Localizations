@@ -2416,4 +2416,50 @@ npc.terraria:dye_trader.happiness.npc.steampunker=О боже, этот %s ст�
 npc.terraria:dye_trader.happiness.npc.pirate=Я искренне ненавижу, насколько отвратительным может быть пират %s.
 npc.terraria:dye_trader.happiness.neutral=Я? Я в порядке, я в порядке.
 
+
+
+npc.terraria:dryad.name=Dryad
+npc.terraria:dryad=%s the Dryad
+npc.terraria:dryad.names=Alalia,Alura,Ariella,Caelia,Calista,Celestia,Chryseis,Elysia,Emerenta,Evvie,Faye,Felicitae,Isis,Lunette,Nata,Nissa,Rosalva,Shea,Tania,Tatiana,Xylia
+
+npc.terraria:dryad.interact.1=Be safe; Terraria Craft needs you!
+npc.terraria:dryad.interact.2=The sands of time are flowing. And well, you are not aging very gracefully.
+npc.terraria:dryad.interact.3=What's this about me having more 'bark' than bite?
+npc.terraria:dryad.interact.4=So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!
+npc.terraria:dryad.rain.1=The water from the sky is a way for nature to wash away the mud in our streams.
+npc.terraria:dryad.rain.2=When it rains, many kinds of fish acquire mystical properties.
+npc.terraria:dryad.thunderstorm.1=Our mother is angry, and wishes to burn away the filth by raining destructive power on our treetops.
+npc.terraria:dryad.thunderstorm.2=It is unwise to traverse openly beneath the flashing dangers from above.
+npc.terraria:dryad.windyday.1=The wind... it is nature's way of sweeping the dust from the land.
+npc.terraria:dryad.windyday.2=Nature's fury strips the leaves from the trees this day.
+npc.terraria:dryad.graveyard.1=I can handle the corruption, but the vile air of death in this location wilts the flower in my hair.
+npc.terraria:dryad.graveyard.2=This place... I can hear the cry of nature at those who've fallen here.
+npc.terraria:dryad.party=I thought I would throw a party to celebrate our victories in the past and those yet to come.
+npc.terraria:dryad.npc.merchant=Why does %s keep trying to sell me angel statues? Everyone knows that they don't do anything.
+npc.terraria:dryad.npc.arms_dealer=I wish %s would stop flirting with me. Doesn't he realize I'm 500 years old?
+npc.terraria:dryad.npc.truffle=I feel like %s is a bit misunderstood, he really is a fun guy.
+npc.terraria:dryad.pre_skeletron=Have you seen the old man walking around the dungeon? He doesn't look well at all...
+npc.terraria:dryad.bloodmoon.1=I sell what I want! If you don't like it, too bad.
+npc.terraria:dryad.bloodmoon.2=Dude, is it just me or is there like a million zombies out tonight?
+npc.terraria:dryad.bloodmoon.3=I don't want you to buy my stuff. I want you to want to buy my stuff, ok?
+npc.terraria:dryad.bloodmoon.4=Why do you have to be so confrontational during a time like this?
+
+
+npc.terraria:dryad.happiness.homeless=All of nature may be my home, but a house would treat me well.
+npc.terraria:dryad.happiness.home.far=A flower doesn't grow very well so far away from its roots!
+npc.terraria:dryad.happiness.sparse=Solitude is sometimes good - there's room to grow and to breathe.
+npc.terraria:dryad.happiness.npc.overcrowded.1=Is this area becoming rather dense, or is it just me? I dislike the feeling...
+npc.terraria:dryad.happiness.npc.overcrowded.2=So many others crammed into one spot? The grass is doomed, I hate it!
+npc.terraria:dryad.happiness.biome.jungle=I kissed a tree in the Jungle and I liked it.
+npc.terraria:dryad.happiness.biome.desert=I rather dislike how the Desert is so devoid of life.
+npc.terraria:dryad.happiness.evil.corruption=I am severely offended by my surroundings - the Corruption is my mortal enemy!
+npc.terraria:dryad.happiness.evil.crimson=I am severely offended by my surroundings - the Crimson is my mortal enemy!
+npc.terraria:dryad.happiness.evil.dungeon=I am severely offended by my surroundings - the Dungeon is my mortal enemy!
+npc.terraria:dryad.happiness.npc.princess=%s brings order and peace to everyone who lives in this world.
+npc.terraria:dryad.happiness.npc.witch_doctor=I like that %s resonates with every fiber of my being!
+npc.terraria:dryad.happiness.npc.truffle=I like that %s resonates with every fiber of my being!
+npc.terraria:dryad.happiness.npc.angler=I don't like that %s has no respect for other beings.
+npc.terraria:dryad.happiness.npc.golfer=I hate %s's destructive habits towards nature!
+npc.terraria:dryad.happiness.neutral=All is peaceful, don't mess it up.
+
 ##################
