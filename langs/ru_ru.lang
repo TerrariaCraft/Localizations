@@ -806,6 +806,7 @@ item.terraria:game_object.name=[Игровой объект]
 item.terraria:seeds/corrupt.name=Семена порчи
 item.terraria:seeds/crimson.name=Семена багрянца
 item.terraria:treasure_bags/eye_of_cthulhu.name=Мешок с сокровищами
+item.terraria:purification_powder.name=Purification Powder
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -1459,6 +1460,7 @@ tile.terraria:trophies/king_slime.name=Трофей короля слизней
 tile.terraria:trophies/eye_of_cthulhu.name=Трофей глаза Ктулху
 tile.terraria:hardened_crimsand.name=Hardened Crimsand Block
 tile.terraria:hardened_ebonsand.name=Hardened Ebonsand Block
+tile.terraria:planter_boxes/daybloom.name=Daybloom Planter Box
 
 ##################
 
@@ -1609,6 +1611,9 @@ tooltip.terraria:food.expert.1=Средние улучшения всех хар
 buff.terraria:exquisitely_stuffed.name=Изысканное удовольствие
 tooltip.terraria:food.2=Значительные улучшения всех характеристик
 tooltip.terraria:food.expert.2=Значительные улучшения всех характеристик и увеличенная регенерация здоровья
+
+buff.terraria:dryad_blessing.name=Dryad's Blessing
+buff.terraria:dryad_blessing.desc=The power of nature protects you
 
 #################
 
@@ -1800,6 +1805,9 @@ tooltip.terraria:furniture/sofas/chippys_couch_1=Привеееет игроки
 tooltip.terraria:furniture/sofas/chippys_couch_2='Отлично подходит чтобы расслабиться, как стример!'
 tooltip.terraria:furniture/sofas/slime=Слизневан!
 tooltip.terraria:suspicious_looking_eye=Призывает глаза Ктулху
+tooltip.terraria:vile_powder=Spreads the Corruption
+tooltip.terraria:vicious_powder=Spreads the Crimson
+tooltip.terraria:purification_powder=Cleanses the evil
 
 # Misc Tooltips
 

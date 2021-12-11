@@ -806,6 +806,7 @@ item.terraria:game_object.name=[Game Object]
 item.terraria:seeds/corrupt.name=Corrupt Seeds
 item.terraria:seeds/crimson.name=Crimson Seeds
 item.terraria:treasure_bags/eye_of_cthulhu.name=Treasure Bag
+item.terraria:purification_powder.name=Purification Powder
 
 # Critters
 item.terraria:critters/bunny.name=Hase
@@ -1459,6 +1460,7 @@ tile.terraria:trophies/king_slime.name=King Slime Trophy
 tile.terraria:trophies/eye_of_cthulhu.name=Eye of Cthulhu Trophy
 tile.terraria:hardened_crimsand.name=Hardened Crimsand Block
 tile.terraria:hardened_ebonsand.name=Hardened Ebonsand Block
+tile.terraria:planter_boxes/daybloom.name=Daybloom Planter Box
 
 ##################
 
@@ -1609,6 +1611,9 @@ tooltip.terraria:food.expert.1=Medium improvements to all stats and increased li
 buff.terraria:exquisitely_stuffed.name=Exquisitely Stuffed
 tooltip.terraria:food.2=Major improvements to all stats
 tooltip.terraria:food.expert.2=Major improvements to all stats and increased life regeneration
+
+buff.terraria:dryad_blessing.name=Dryad's Blessing
+buff.terraria:dryad_blessing.desc=The power of nature protects you
 
 #################
 
@@ -1800,6 +1805,9 @@ tooltip.terraria:furniture/sofas/chippys_couch_1=Heeellllllo Terraria enthusiast
 tooltip.terraria:furniture/sofas/chippys_couch_2='Great for chilling like a streamer!'
 tooltip.terraria:furniture/sofas/slime=Slofa!
 tooltip.terraria:suspicious_looking_eye=Summons the Eye of Cthulhu
+tooltip.terraria:vile_powder=Spreads the Corruption
+tooltip.terraria:vicious_powder=Spreads the Crimson
+tooltip.terraria:purification_powder=Cleanses the evil
 
 # Misc Tooltips
 
