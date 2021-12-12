@@ -93,6 +93,7 @@ itemGroup.terraria:building.furniture.lanterns=Lanterns
 itemGroup.terraria:building.furniture.campfires=Campfires
 itemGroup.terraria:building.furniture.hanging_pots=Hanging Pots
 itemGroup.terraria:building.furniture.sofas=Sofas
+itemGroup.terraria:building.furniture.planter_boxes=Planter Boxes
 
 itemGroup.terraria:mechanisms=Mechanisms
 itemGroup.terraria:mechanisms.activators=Activators
@@ -1461,6 +1462,13 @@ tile.terraria:trophies/eye_of_cthulhu.name=Eye of Cthulhu Trophy
 tile.terraria:hardened_crimsand.name=Hardened Crimsand Block
 tile.terraria:hardened_ebonsand.name=Hardened Ebonsand Block
 tile.terraria:planter_boxes/daybloom.name=Daybloom Planter Box
+tile.terraria:planter_boxes/blinkroot.name=Blinkroot Planter Box
+tile.terraria:planter_boxes/deathweed_corrupted.name=Deathweed Planter Box
+tile.terraria:planter_boxes/deathweed_crimson.name=Deathweed Planter Box
+tile.terraria:planter_boxes/fireblossom.name=Fireblossom Planter Box
+tile.terraria:planter_boxes/moonglow.name=Moonglow Planter Box
+tile.terraria:planter_boxes/shiverthorn.name=Shiverthorn Planter Box
+tile.terraria:planter_boxes/waterleaf.name=Waterleaf Planter Box
 
 ##################
 
@@ -2079,6 +2087,7 @@ entity.terraria:ladybug.name=Bọ Rùa
 entity.terraria:gold/ladybug.name=Bọ Rùa Vàng
 entity.terraria:gnome.name=Thần Lùn
 entity.terraria:ghost.name=Ghost
+entity.terraria:servant_of_cthulhu.name=Servant of Cthulhu
 
 entity.terraria:zombies/normal=Zombie
 entity.terraria:zombies/bald=Zombie Trọc

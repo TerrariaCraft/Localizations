@@ -93,6 +93,7 @@ itemGroup.terraria:building.furniture.lanterns=Лампы
 itemGroup.terraria:building.furniture.campfires=Костры
 itemGroup.terraria:building.furniture.hanging_pots=Подвесные горшки
 itemGroup.terraria:building.furniture.sofas=Диваны
+itemGroup.terraria:building.furniture.planter_boxes=Planter Boxes
 
 itemGroup.terraria:mechanisms=Механизмы
 itemGroup.terraria:mechanisms.activators=Активаторы
@@ -1461,6 +1462,13 @@ tile.terraria:trophies/eye_of_cthulhu.name=Трофей глаза Ктулху
 tile.terraria:hardened_crimsand.name=Hardened Crimsand Block
 tile.terraria:hardened_ebonsand.name=Hardened Ebonsand Block
 tile.terraria:planter_boxes/daybloom.name=Daybloom Planter Box
+tile.terraria:planter_boxes/blinkroot.name=Blinkroot Planter Box
+tile.terraria:planter_boxes/deathweed_corrupted.name=Deathweed Planter Box
+tile.terraria:planter_boxes/deathweed_crimson.name=Deathweed Planter Box
+tile.terraria:planter_boxes/fireblossom.name=Fireblossom Planter Box
+tile.terraria:planter_boxes/moonglow.name=Moonglow Planter Box
+tile.terraria:planter_boxes/shiverthorn.name=Shiverthorn Planter Box
+tile.terraria:planter_boxes/waterleaf.name=Waterleaf Planter Box
 
 ##################
 
@@ -2079,6 +2087,7 @@ entity.terraria:ladybug.name=Божья коровка
 entity.terraria:gold/ladybug.name=Золотая божья коровка
 entity.terraria:gnome.name=Гном
 entity.terraria:ghost.name=Призрак
+entity.terraria:servant_of_cthulhu.name=Servant of Cthulhu
 
 entity.terraria:zombies/normal=Зомби
 entity.terraria:zombies/bald=Лысый зомби
