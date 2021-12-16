@@ -1992,6 +1992,7 @@ chat.terraria:spawn_point.set=Spawn point set!
 chat.terraria:spawn_point.remove=Spawn point removed!
 chat.terraria:biomesearch.missing=IMPORTANT NOTICE! This world is missing biomes:
 chat.terraria:biomesearch.ok=This world seems to have all the crucial biomes.
+chat.terraria:eye_of_cthulhu_spawn=You feel an evil presence watching you...
 
 house.terraria:limits=House size limit exceeded: %s/%s
 house.terraria:occupied=This house is already occupied!
