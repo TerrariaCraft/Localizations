@@ -423,6 +423,8 @@ item.terraria:potions/wrath.name=Thuốc Phẫn Nộ
 item.terraria:potions/heartreach.name=Thuốc Hút Tim
 item.terraria:potions/crate.name=Thuốc Câu Thùng
 item.terraria:potions/eggnog.name=Cocktail Trứng Sữa
+item.terraria:potions/wormhole.name=Wormhole Potion
+item.terraria:potions/battle.name=Battle Potion
 
 item.terraria:potions/food/golden_delight.name=Bữa Tiệc Vàng
 item.terraria:potions/food/bunny_stew.name=Súp Thỏ
@@ -1623,6 +1625,9 @@ tooltip.terraria:food.expert.2=Tăng mạnh tất cả chỉ số nhân vật v�
 buff.terraria:dryad_blessing.name=Dryad's Blessing
 buff.terraria:dryad_blessing.desc=The power of nature protects you
 
+buff.terraria:battle.name=Battle
+buff.terraria:battle.desc=Increased enemy spawn rate
+
 #################
 
 
@@ -1816,6 +1821,7 @@ tooltip.terraria:suspicious_looking_eye=Summons the Eye of Cthulhu
 tooltip.terraria:vile_powder=Spreads the Corruption
 tooltip.terraria:vicious_powder=Spreads the Crimson
 tooltip.terraria:purification_powder=Cleanses the evil
+tooltip.terraria:potions/battle=Increases ememy spawn rate
 
 # Misc Tooltips
 

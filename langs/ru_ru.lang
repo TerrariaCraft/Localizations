@@ -423,6 +423,8 @@ item.terraria:potions/wrath.name=Зелье мести
 item.terraria:potions/heartreach.name=Зелье магнита сердец
 item.terraria:potions/crate.name=Зелье ящиков
 item.terraria:potions/eggnog.name=Гоголь-моголь
+item.terraria:potions/wormhole.name=Wormhole Potion
+item.terraria:potions/battle.name=Battle Potion
 
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
@@ -1623,6 +1625,9 @@ tooltip.terraria:food.expert.2=Значительные улучшения вс�
 buff.terraria:dryad_blessing.name=Dryad's Blessing
 buff.terraria:dryad_blessing.desc=The power of nature protects you
 
+buff.terraria:battle.name=Battle
+buff.terraria:battle.desc=Increased enemy spawn rate
+
 #################
 
 
@@ -1816,6 +1821,7 @@ tooltip.terraria:suspicious_looking_eye=Призывает глаза Ктулх
 tooltip.terraria:vile_powder=Spreads the Corruption
 tooltip.terraria:vicious_powder=Spreads the Crimson
 tooltip.terraria:purification_powder=Cleanses the evil
+tooltip.terraria:potions/battle=Increases ememy spawn rate
 
 # Misc Tooltips
 
