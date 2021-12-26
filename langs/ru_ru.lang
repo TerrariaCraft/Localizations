@@ -38,7 +38,7 @@ itemGroup.terraria:hammers=Молоты
 itemGroup.terraria:wiring=Проводка
 itemGroup.terraria:fishing_poles=Удочки
 itemGroup.terraria:magic_mirrors=Магические зеркала
-itemGroup.terraria:bugnets=Сачкис
+itemGroup.terraria:bugnets=Сачки
 itemGroup.terraria:shuriken=Сюрикены
 itemGroup.terraria:knives=Метательные ножи
 itemGroup.terraria:grenades=Гранаты
@@ -93,7 +93,7 @@ itemGroup.terraria:building.furniture.lanterns=Лампы
 itemGroup.terraria:building.furniture.campfires=Костры
 itemGroup.terraria:building.furniture.hanging_pots=Подвесные горшки
 itemGroup.terraria:building.furniture.sofas=Диваны
-itemGroup.terraria:building.furniture.planter_boxes=Planter Boxes
+itemGroup.terraria:building.furniture.planter_boxes=Кадки для растений
 
 itemGroup.terraria:mechanisms=Механизмы
 itemGroup.terraria:mechanisms.activators=Активаторы
@@ -423,8 +423,8 @@ item.terraria:potions/wrath.name=Зелье мести
 item.terraria:potions/heartreach.name=Зелье магнита сердец
 item.terraria:potions/crate.name=Зелье ящиков
 item.terraria:potions/eggnog.name=Гоголь-моголь
-item.terraria:potions/wormhole.name=Wormhole Potion
-item.terraria:potions/battle.name=Battle Potion
+item.terraria:potions/wormhole.name=Зелья червоточины
+item.terraria:potions/battle.name=Боевое зелье
 
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
@@ -809,7 +809,7 @@ item.terraria:game_object.name=[Игровой объект]
 item.terraria:seeds/corrupt.name=Семена порчи
 item.terraria:seeds/crimson.name=Семена багрянца
 item.terraria:treasure_bags/eye_of_cthulhu.name=Мешок с сокровищами
-item.terraria:purification_powder.name=Purification Powder
+item.terraria:purification_powder.name=Очищающий порошок
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -1461,16 +1461,16 @@ tile.terraria:furniture/sofas/skyware.name=Небесный диван
 tile.terraria:furniture/sofas/bamboo.name=Бамбуковый диван
 tile.terraria:trophies/king_slime.name=Трофей короля слизней
 tile.terraria:trophies/eye_of_cthulhu.name=Трофей глаза Ктулху
-tile.terraria:hardened_crimsand.name=Hardened Crimsand Block
-tile.terraria:hardened_ebonsand.name=Hardened Ebonsand Block
-tile.terraria:planter_boxes/daybloom.name=Daybloom Planter Box
-tile.terraria:planter_boxes/blinkroot.name=Blinkroot Planter Box
-tile.terraria:planter_boxes/deathweed_corrupted.name=Deathweed Planter Box
-tile.terraria:planter_boxes/deathweed_crimson.name=Deathweed Planter Box
-tile.terraria:planter_boxes/fireblossom.name=Fireblossom Planter Box
-tile.terraria:planter_boxes/moonglow.name=Moonglow Planter Box
-tile.terraria:planter_boxes/shiverthorn.name=Shiverthorn Planter Box
-tile.terraria:planter_boxes/waterleaf.name=Waterleaf Planter Box
+tile.terraria:hardened_crimsand.name=Блок затвердевшего кримтанового песка
+tile.terraria:hardened_ebonsand.name=Блок затвердевшего эбонитового песка
+tile.terraria:planter_boxes/daybloom.name=Кадка для цветка дня
+tile.terraria:planter_boxes/blinkroot.name=Кадка для светящегося корня
+tile.terraria:planter_boxes/deathweed_corrupted.name=Кадка для мёртвой травы
+tile.terraria:planter_boxes/deathweed_crimson.name=Кадка для мёртвой травы
+tile.terraria:planter_boxes/fireblossom.name=Кадка для огнецвета
+tile.terraria:planter_boxes/moonglow.name=Кадка для луноцвета
+tile.terraria:planter_boxes/shiverthorn.name=Кадка для дрожецвета
+tile.terraria:planter_boxes/waterleaf.name=Кадка для воднолиста
 
 ##################
 
@@ -1622,11 +1622,11 @@ buff.terraria:exquisitely_stuffed.name=Изысканное удовольств
 tooltip.terraria:food.2=Значительные улучшения всех характеристик
 tooltip.terraria:food.expert.2=Значительные улучшения всех характеристик и увеличенная регенерация здоровья
 
-buff.terraria:dryad_blessing.name=Dryad's Blessing
-buff.terraria:dryad_blessing.desc=The power of nature protects you
+buff.terraria:dryad_blessing.name=Благословление дриады
+buff.terraria:dryad_blessing.desc=Силы природы защищают вас
 
-buff.terraria:battle.name=Battle
-buff.terraria:battle.desc=Increased enemy spawn rate
+buff.terraria:battle.name=Бой
+buff.terraria:battle.desc=Увеличена скорость появления врагов
 
 #################
 
@@ -1818,10 +1818,10 @@ tooltip.terraria:furniture/sofas/chippys_couch_1=Привеееет игроки
 tooltip.terraria:furniture/sofas/chippys_couch_2='Отлично подходит чтобы расслабиться, как стример!'
 tooltip.terraria:furniture/sofas/slime=Слизневан!
 tooltip.terraria:suspicious_looking_eye=Призывает глаза Ктулху
-tooltip.terraria:vile_powder=Spreads the Corruption
-tooltip.terraria:vicious_powder=Spreads the Crimson
-tooltip.terraria:purification_powder=Cleanses the evil
-tooltip.terraria:potions/battle=Increases ememy spawn rate
+tooltip.terraria:vile_powder=Распространяет искажение
+tooltip.terraria:vicious_powder=Распространяет багрянец
+tooltip.terraria:purification_powder=Очищает зло
+tooltip.terraria:potions/battle=Ускоряет появление врагов
 
 # Misc Tooltips
 
@@ -1897,7 +1897,7 @@ achievement.terraria:photosynthesis.desc=Вскопайте самородок �
 achievement.terraria:get_a_life.name=Кому жизнь?
 achievement.terraria:get_a_life.desc=Съешьте фрукт жизни, который светится в толще травы в подземных джунглях.
 
-achievement.terraria:into_orbit.name=На Орбиту
+achievement.terraria:into_orbit.name=На орбиту
 achievement.terraria:into_orbit.desc=Поднимитесь на самую верхную точку мира.
 
 achievement.terraria:rock_bottom.name=Нижний предел
@@ -1996,9 +1996,9 @@ hud.terraria:mana=Мана
 chat.terraria:defeatenemy=%s победил %,d-th %s!
 chat.terraria:spawn_point.set=Точка возрождения установлена!
 chat.terraria:spawn_point.remove=Точка возрождения удалена!
-chat.terraria:biomesearch.missing=IMPORTANT NOTICE! This world is missing biomes:
-chat.terraria:biomesearch.ok=This world seems to have all the crucial biomes.
-chat.terraria:eye_of_cthulhu_spawn=You feel an evil presence watching you...
+chat.terraria:biomesearch.missing=ВАЖНОЕ ОПОВЕЩЕНИЕ! В этом мире отсутствуют биомы:
+chat.terraria:biomesearch.ok=Кажется, в этом мире есть все важные биомы.
+chat.terraria:eye_of_cthulhu_spawn=Вы чувствуете чьё-то злобное внимание...
 
 house.terraria:limits=Превышен предел размера дома: %s/%s
 house.terraria:occupied=Этот дом уже заселен!
@@ -2094,7 +2094,7 @@ entity.terraria:ladybug.name=Божья коровка
 entity.terraria:gold/ladybug.name=Золотая божья коровка
 entity.terraria:gnome.name=Гном
 entity.terraria:ghost.name=Призрак
-entity.terraria:servant_of_cthulhu.name=Servant of Cthulhu
+entity.terraria:servant_of_cthulhu.name=Прислужник Ктулху
 
 entity.terraria:zombies/normal=Зомби
 entity.terraria:zombies/bald=Лысый зомби
@@ -2156,7 +2156,7 @@ npc.terraria:guide.happiness.biome.forest=Я очень люблю бродит�
 npc.terraria:guide.happiness.biome.ocean=Мне не очень нравится океан. Там мало что можно сделать.
 npc.terraria:guide.happiness.evil.crimson=Ненавижу багрянец, ужасы здесь могут разорвать человека на части в мгновение ока.
 npc.terraria:guide.happiness.evil.corruption=Ненавижу порчу, ужасы здесь могут разорвать человека на части в мгновение ока.
-npc.terraria:guide.happiness.evil.dungeon=Ненавижу данж скелетрона, ужасы здесь могут разорвать человека на части в мгновение ока.
+npc.terraria:guide.happiness.evil.dungeon=Ненавижу темницу, ужасы здесь могут разорвать человека на части в мгновение ока.
 npc.terraria:guide.happiness.sparse=Получение этого места для себя... Я очень ценю это.
 npc.terraria:guide.happiness.npc.overcrowded.1=Я свободный дух. Мне не нравится, когда так много людей находятся рядом со мной.
 npc.terraria:guide.happiness.npc.overcrowded.2=Ненавижу переполненность. Я предпочитаю открытый мир!
@@ -2242,7 +2242,7 @@ npc.terraria:merchant.happiness.biome.forest=Мне нравятся пейза�
 npc.terraria:merchant.happiness.biome.desert=Хм, пустыня - ужасное место для бизнеса, мне это не нравится.
 npc.terraria:merchant.happiness.evil.corruption=Я не думаю, что смогу продавать товары монстрам в порче!
 npc.terraria:merchant.happiness.evil.crimson=Я не думаю, что смогу продавать товары монстрам в багрянце!
-npc.terraria:merchant.happiness.evil.dungeon=Я не думаю, что смогу продавать товары монстрам в данже скелетрона!
+npc.terraria:merchant.happiness.evil.dungeon=Я не думаю, что смогу продавать товары монстрам в темнице!
 npc.terraria:merchant.happiness.npc.golfer=%s гольфист зарабатывает кучу денег, мне нравятся глубокие карманы.
 npc.terraria:merchant.happiness.npc.nurse=%s медсестра зарабатывает кучу денег, мне нравятся глубокие карманы.
 npc.terraria:merchant.happiness.npc.tax_collector=Мне не нравится %s, сборщик налогов, он слишком бережлив и никогда не покупает свои вещи.
@@ -2295,7 +2295,7 @@ npc.terraria:demolitionist.happiness.biome.underground=Гномов естест
 npc.terraria:demolitionist.happiness.biome.ocean=Я терпеть не могу океан, мои предохранители здесь не зажигаются!
 npc.terraria:demolitionist.happiness.evil.corruption=В порче пахнет смертью и злобой, я хочу пробить дыры повсюду!
 npc.terraria:demolitionist.happiness.evil.crimson=В багрянце пахнет смертью и злобой, я хочу пробить дыры повсюду!
-npc.terraria:demolitionist.happiness.evil.dungeon=В данже скелетрона пахнет смертью и злобой, я хочу пробить дыры повсюду!
+npc.terraria:demolitionist.happiness.evil.dungeon=В темнице пахнет смертью и злобой, я хочу пробить дыры повсюду!
 npc.terraria:demolitionist.happiness.npc.tavernkeep=Мне нравится, как %s трактирщик может обращаться с контейнером в котором огненный шар!
 npc.terraria:demolitionist.happiness.npc.mechanic=%s механик - мой хороший друг, помогает заряжать порох!
 npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=Я хочу привязать %s гоблина-мастера к ракете и посмотреть, что произойдет!
@@ -2351,9 +2351,9 @@ npc.terraria:nurse.happiness.npc.overcrowded.1=Эй, мне не нравитс�
 npc.terraria:nurse.happiness.npc.overcrowded.2=Угу, ненавижу, как нездорово запихивать столько людей в одно место!
 npc.terraria:nurse.happiness.biome.hallow=Мне нравится, освещение - прекрасное место для ежедневных тренировок.
 npc.terraria:nurse.happiness.biome.snow=Фу, мне не нравится склонность снежного биома к болезням.
-npc.terraria:nurse.happiness.evil.corruption=Фу, порча очень гнилостный и грязный, меня от него тошнит!
+npc.terraria:nurse.happiness.evil.corruption=Фу, порча очень гнилостная и грязная, меня от неё тошнит!
 npc.terraria:nurse.happiness.evil.crimson=Фу, багрянец очень гнилостный и грязный, меня от него тошнит!
-npc.terraria:nurse.happiness.evil.dungeon=Фу, данж скелетрона очень гнилостный и грязный, меня от него тошнит!
+npc.terraria:nurse.happiness.evil.dungeon=Фу, темница очень гнилостная и грязная, меня от неё тошнит!
 npc.terraria:nurse.happiness.npc.arms_dealer=Что? % s торговец оружием? Я не в восторге! Я не! Заткнись!
 npc.terraria:nurse.happiness.npc.wizard=%s волшебник - умный и симпатичный болван.
 npc.terraria:nurse.happiness.npc.dryad=Я не очень-то люблю %s дриаду, она меня немного смущает.
@@ -2397,7 +2397,7 @@ npc.terraria:arms_dealer.happiness.biome.desert=Знаешь, пустыня у�
 npc.terraria:arms_dealer.happiness.biome.snow=Да, нет, мне очень неуютно из-за снега.
 npc.terraria:arms_dealer.happiness.evil.corruption=Я ненавижу порчу - охота не так увлекательна, если вы - жертва!
 npc.terraria:arms_dealer.happiness.evil.crimson=Я ненавижу багрянец - охота не так увлекательна, если вы - жертва!
-npc.terraria:arms_dealer.happiness.evil.dungeon=Я ненавижу данж скелетрона - охота не так увлекательна, если вы - жертва!
+npc.terraria:arms_dealer.happiness.evil.dungeon=Я ненавижу темницу - охота не так увлекательна, если вы - жертва!
 npc.terraria:arms_dealer.happiness.npc.nurse=Думаешь, %s медсестра когда-нибудь проверяла меня?
 npc.terraria:arms_dealer.happiness.npc.steampunker=Да, мне нравится %s стимпанкер, крутой крутая персона.
 npc.terraria:arms_dealer.happiness.npc.golfer=Мне не очень нравится, что %s игрок в гольф сидит на моем поле, понимаешь?
@@ -2432,7 +2432,7 @@ npc.terraria:dye_trader.happiness.biome.desert=Ах, пустыня действ
 npc.terraria:dye_trader.happiness.biome.forest=О нет, лес меня не вдохновляет, не нравится, не нравится.
 npc.terraria:dye_trader.happiness.evil.corruption=Гросс, порча истощает цвет моих палитр!
 npc.terraria:dye_trader.happiness.evil.crimson=Гросс, багрянец истощает цвет моих палитр!
-npc.terraria:dye_trader.happiness.evil.dungeon=Гросс, данж скелетрона истощает цвет моих палитр!
+npc.terraria:dye_trader.happiness.evil.dungeon=Гросс, темница истощает цвет моих палитр!
 npc.terraria:dye_trader.happiness.npc.princess=Цвета платья %s принцессы более глубокие и яркие, чем я когда-либо видел за всю свою жизнь!
 npc.terraria:dye_trader.happiness.npc.arms_dealer=%s, у торговца оружием хорошие глаза на живость и деловитость, мне это нравится, да?
 npc.terraria:dye_trader.happiness.npc.painter=%s у маляра хорошие глаза на живость и деловитость, мне это нравится, да?
@@ -2442,48 +2442,48 @@ npc.terraria:dye_trader.happiness.neutral=Я? Я в порядке, я в пор
 
 
 
-npc.terraria:dryad.name=Dryad
-npc.terraria:dryad=%s the Dryad
-npc.terraria:dryad.names=Alalia,Alura,Ariella,Caelia,Calista,Celestia,Chryseis,Elysia,Emerenta,Evvie,Faye,Felicitae,Isis,Lunette,Nata,Nissa,Rosalva,Shea,Tania,Tatiana,Xylia
+npc.terraria:dryad.name=Дриада
+npc.terraria:dryad=Дриада %s
+npc.terraria:dryad.names=Алалия,Алура,Ариэла,Каэлия,Калиста,Селестия,Чрисиес,Элиза,Эмерента,Иви,Фэй,Фелецитэй,Изиз,Люнета,Ната,Ниса,Росальва,Шиа,Таниа,Татьяна,Хулиа
 
-npc.terraria:dryad.interact.1=Be safe; Terraria Craft needs you!
-npc.terraria:dryad.interact.2=The sands of time are flowing. And well, you are not aging very gracefully.
-npc.terraria:dryad.interact.3=What's this about me having more 'bark' than bite?
-npc.terraria:dryad.interact.4=So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!
-npc.terraria:dryad.rain.1=The water from the sky is a way for nature to wash away the mud in our streams.
-npc.terraria:dryad.rain.2=When it rains, many kinds of fish acquire mystical properties.
-npc.terraria:dryad.thunderstorm.1=Our mother is angry, and wishes to burn away the filth by raining destructive power on our treetops.
-npc.terraria:dryad.thunderstorm.2=It is unwise to traverse openly beneath the flashing dangers from above.
-npc.terraria:dryad.windyday.1=The wind... it is nature's way of sweeping the dust from the land.
-npc.terraria:dryad.windyday.2=Nature's fury strips the leaves from the trees this day.
-npc.terraria:dryad.graveyard.1=I can handle the corruption, but the vile air of death in this location wilts the flower in my hair.
-npc.terraria:dryad.graveyard.2=This place... I can hear the cry of nature at those who've fallen here.
-npc.terraria:dryad.party=I thought I would throw a party to celebrate our victories in the past and those yet to come.
-npc.terraria:dryad.npc.merchant=Why does %s keep trying to sell me angel statues? Everyone knows that they don't do anything.
-npc.terraria:dryad.npc.arms_dealer=I wish %s would stop flirting with me. Doesn't he realize I'm 500 years old?
-npc.terraria:dryad.npc.truffle=I feel like %s is a bit misunderstood, he really is a fun guy.
-npc.terraria:dryad.pre_skeletron=Have you seen the old man walking around the dungeon? He doesn't look well at all...
-npc.terraria:dryad.bloodmoon.1=I sell what I want! If you don't like it, too bad.
-npc.terraria:dryad.bloodmoon.2=Dude, is it just me or is there like a million zombies out tonight?
-npc.terraria:dryad.bloodmoon.3=I don't want you to buy my stuff. I want you to want to buy my stuff, ok?
-npc.terraria:dryad.bloodmoon.4=Why do you have to be so confrontational during a time like this?
+npc.terraria:dryad.interact.1=Быть осторожнее; Вы нужны для Terraria Craft!
+npc.terraria:dryad.interact.2=Пески времени текут. И что ж, вы стареете не очень изящно.
+npc.terraria:dryad.interact.3=Что это за то, что у меня больше лает, чем кусается?
+npc.terraria:dryad.interact.4=Итак, два гоблина входят в бар, и один говорит другому: Хочешь получить кубок пива?!
+npc.terraria:dryad.rain.1=Вода с неба - это способ природы смыть грязь в наших ручьях.
+npc.terraria:dryad.rain.2=Во время дождя многие виды рыб приобретают мистические свойства.
+npc.terraria:dryad.thunderstorm.1=Наша мать в гневе и хочет сжечь грязь, пролив разрушительную силу на верхушки наших деревьев.
+npc.terraria:dryad.thunderstorm.2=Неразумно идти открыто под высвечивающимися сверху опасностями.
+npc.terraria:dryad.windyday.1=Ветер... это природный способ сметать пыль с земли.
+npc.terraria:dryad.windyday.2=В этот день ярость природы срывает листья с деревьев.
+npc.terraria:dryad.graveyard.1=Я могу справиться с порчей, но мерзкая атмосфера смерти в этом месте, увядает цветок в моих волосах.
+npc.terraria:dryad.graveyard.2=Это место... Я слышу крик природы у тех, кто здесь упал.
+npc.terraria:dryad.party=Я думала, что устрою вечеринку, чтобы отпраздновать наши прошлые и будущие победы.
+npc.terraria:dryad.npc.merchant=Почему %s продолжает продавать мне статуи ангелов? Все знают, что они ничего не делают.
+npc.terraria:dryad.npc.arms_dealer=Я бы хотела, чтобы %s перестал со мной флиртовать. Разве он не понимает, что мне 500 лет?
+npc.terraria:dryad.npc.truffle=Мне кажется, %s немного неправильно поняли, он действительно веселый парень.
+npc.terraria:dryad.pre_skeletron=Вы видели, как старик ходил по подземелью? Он совсем не выглядит...
+npc.terraria:dryad.bloodmoon.1=Продаю то, что хочу! Если тебе это не нравится, очень плохо.
+npc.terraria:dryad.bloodmoon.2=Чувак, это только у меня, или сегодня здесь миллион зомби?
+npc.terraria:dryad.bloodmoon.3=Я не хочу, чтобы ты покупал мои товары. Я хочу, чтобы тебе нужно было купить мои товары, хорошо?
+npc.terraria:dryad.bloodmoon.4=Почему вы должны быть такими агрессивными в такое время?
 
 
-npc.terraria:dryad.happiness.homeless=All of nature may be my home, but a house would treat me well.
-npc.terraria:dryad.happiness.home.far=A flower doesn't grow very well so far away from its roots!
-npc.terraria:dryad.happiness.sparse=Solitude is sometimes good - there's room to grow and to breathe.
-npc.terraria:dryad.happiness.npc.overcrowded.1=Is this area becoming rather dense, or is it just me? I dislike the feeling...
-npc.terraria:dryad.happiness.npc.overcrowded.2=So many others crammed into one spot? The grass is doomed, I hate it!
-npc.terraria:dryad.happiness.biome.jungle=I kissed a tree in the Jungle and I liked it.
-npc.terraria:dryad.happiness.biome.desert=I rather dislike how the Desert is so devoid of life.
-npc.terraria:dryad.happiness.evil.corruption=I am severely offended by my surroundings - the Corruption is my mortal enemy!
-npc.terraria:dryad.happiness.evil.crimson=I am severely offended by my surroundings - the Crimson is my mortal enemy!
-npc.terraria:dryad.happiness.evil.dungeon=I am severely offended by my surroundings - the Dungeon is my mortal enemy!
-npc.terraria:dryad.happiness.npc.princess=%s brings order and peace to everyone who lives in this world.
-npc.terraria:dryad.happiness.npc.witch_doctor=I like that %s resonates with every fiber of my being!
-npc.terraria:dryad.happiness.npc.truffle=I like that %s resonates with every fiber of my being!
-npc.terraria:dryad.happiness.npc.angler=I don't like that %s has no respect for other beings.
-npc.terraria:dryad.happiness.npc.golfer=I hate %s's destructive habits towards nature!
-npc.terraria:dryad.happiness.neutral=All is peaceful, don't mess it up.
+npc.terraria:dryad.happiness.homeless=Вся природа может быть моим домом, но иметь дом было бы хорошо.
+npc.terraria:dryad.happiness.home.far=Цветок не очень хорошо растет так далеко от корней!
+npc.terraria:dryad.happiness.sparse=Одиночество иногда бывает хорошо - есть где расти и дышать.
+npc.terraria:dryad.happiness.npc.overcrowded.1=Эта область становится довольно плотной или это только у меня? Мне не нравится это чувство...
+npc.terraria:dryad.happiness.npc.overcrowded.2=Так много других втиснуты в одно место? Трава обречена, я это ненавижу!
+npc.terraria:dryad.happiness.biome.jungle=Я поцеловала дерево в джунглях, и мне это понравилось.
+npc.terraria:dryad.happiness.biome.desert=Мне очень не нравится, насколько пустыня лишена жизни.
+npc.terraria:dryad.happiness.evil.corruption=Меня сильно обижает мое окружение, искажение - мой смертельный враг!
+npc.terraria:dryad.happiness.evil.crimson=Меня сильно обижает мое окружение, багрянец - мой смертельный враг!
+npc.terraria:dryad.happiness.evil.dungeon=Меня сильно обижает мое окружение, темница - мой смертельный враг!
+npc.terraria:dryad.happiness.npc.princess=%s приносит порядок и мир всем, кто живет в этом мире.
+npc.terraria:dryad.happiness.npc.witch_doctor=Мне нравится, что %s находит отклик каждой фиброй моего существа!
+npc.terraria:dryad.happiness.npc.truffle=Мне нравится, что %s находит отклик каждой фиброй моего существа!
+npc.terraria:dryad.happiness.npc.angler=Мне не нравится, что %s не уважает других существ.
+npc.terraria:dryad.happiness.npc.golfer=Ненавижу деструктивное отношение %s к природе!
+npc.terraria:dryad.happiness.neutral=Все спокойно, не лажайте.
 
 ##################
