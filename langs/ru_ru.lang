@@ -1,5 +1,5 @@
 
-agreement.terraria:text=Привет, %PLAYER%! Перед тем как мы преступим к игре, пожалуйста убедитесь, что вы согласны со следующим:\n\n1) Вы загрузили мод с %SRC%!\nЕсли нет, перезагрузите мод оттуда что бы не было риска получить вредоносное ПО.\n\n2) Вы не используете пиратский Minecraft!\nМы настоятельно рекомендуем вам купить учетную запись Minecraft, чтобы играть с модом.\n\n3) Это фанатский проект, не связанный с Re-Logic.
+agreement.terraria:text=Привет, %PLAYER%! Перед тем как мы приступим к игре, пожалуйста убедитесь, что вы согласны со следующим:\n\n1) Вы загрузили мод с %SRC%!\nЕсли нет, перезагрузите мод оттуда что бы не было риска получить вредоносное ПО.\n\n2) Вы не используете пиратский Minecraft!\nМы настоятельно рекомендуем вам купить учетную запись Minecraft, чтобы играть с модом.\n\n3) Это фанатский проект, не связанный с Re-Logic.
 agreement.terraria:accept=Я принимаю
 
 itemGroup.terraria:items=Terraria Craft: Предметы
@@ -161,7 +161,7 @@ worldsize.terraria:tiny=Крохотный
 worldsize.terraria:small=Маленький
 worldsize.terraria:medium=Средний
 worldsize.terraria:large=Большой
-worldsize.terraria:humongous=Громадный
+worldsize.terraria:humongous=Огромный
 
 jei.terraria.supercrafting=Рецепты террарии
 jei.terraria.block_around=<B>
@@ -482,7 +482,7 @@ item.terraria:materials/wire.name=Провод
 item.terraria:materials/blinkroot.name=Cветящийся корень
 item.terraria:materials/waterleaf.name=Воднолист
 item.terraria:materials/moonglow.name=Луноцвет
-item.terraria:materials/deathweed.name=Смерть-трава
+item.terraria:materials/deathweed.name=Мёртвая трава
 item.terraria:materials/fireblossom.name=Огнецвет
 item.terraria:materials/shiverthorn.name=Ледошип
 item.terraria:materials/gel.name=Гель
