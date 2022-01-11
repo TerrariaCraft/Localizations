@@ -1999,6 +1999,8 @@ chat.terraria:spawn_point.remove=Điểm hồi sinh đã bị xoá!
 chat.terraria:biomesearch.missing=IMPORTANT NOTICE! This world is missing biomes:
 chat.terraria:biomesearch.ok=This world seems to have all the crucial biomes.
 chat.terraria:eye_of_cthulhu_spawn=You feel an evil presence watching you...
+chat.terraria:npc.slain=%s was slain...
+chat.terraria:npc.move_in=%s has arrived!
 
 house.terraria:limits=Vượt quá kích thước nhà tối đa: %s/%s
 house.terraria:occupied=Nhà này đã có người ở!

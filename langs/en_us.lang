@@ -1854,7 +1854,7 @@ itweaks.terraria:lower_render_distance.name=Lower Render Distance
 itweaks.terraria:lower_render_distance.desc=Reduces render distance to fix laggy entities,<LN>blocks and general server performance.
 
 itweaks.terraria:reduce_cube_gen_amount.name=Reduce Cube Generation
-itweaks.terraria:reduce_cube_gen_amount.desc=Reduces amount of cubes that can be generated per tick.<LN>Imroves server performance when actively generating new cubes.
+itweaks.terraria:reduce_cube_gen_amount.desc=Reduces amount of cubes that can be generated per tick.<LN>Improves server performance when actively generating new cubes.
 
 ####################
 
@@ -1999,6 +1999,8 @@ chat.terraria:spawn_point.remove=Spawn point removed!
 chat.terraria:biomesearch.missing=IMPORTANT NOTICE! This world is missing biomes:
 chat.terraria:biomesearch.ok=This world seems to have all the crucial biomes.
 chat.terraria:eye_of_cthulhu_spawn=You feel an evil presence watching you...
+chat.terraria:npc.slain=%s was slain...
+chat.terraria:npc.move_in=%s has arrived!
 
 house.terraria:limits=House size limit exceeded: %s/%s
 house.terraria:occupied=This house is already occupied!

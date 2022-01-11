@@ -1999,6 +1999,8 @@ chat.terraria:spawn_point.remove=Точка возрождения удален�
 chat.terraria:biomesearch.missing=ВАЖНОЕ ОПОВЕЩЕНИЕ! В этом мире отсутствуют биомы:
 chat.terraria:biomesearch.ok=Кажется, в этом мире есть все важные биомы.
 chat.terraria:eye_of_cthulhu_spawn=Вы чувствуете чьё-то злобное внимание...
+chat.terraria:npc.slain=%s was slain...
+chat.terraria:npc.move_in=%s has arrived!
 
 house.terraria:limits=Превышен предел размера дома: %s/%s
 house.terraria:occupied=Этот дом уже заселен!
