@@ -1472,6 +1472,10 @@ tile.terraria:planter_boxes/moonglow.name=Кадка для луноцвета
 tile.terraria:planter_boxes/shiverthorn.name=Кадка для дрожецвета
 tile.terraria:planter_boxes/waterleaf.name=Кадка для воднолиста
 tile.terraria:pots/corruption.name=Corruption Pot
+tile.terraria:furniture/sofas/lunar/nebula.name=Nebula Sofa
+tile.terraria:furniture/sofas/lunar/solar.name=Solar Sofa
+tile.terraria:furniture/sofas/lunar/stardust.name=Stardust Sofa
+tile.terraria:furniture/sofas/lunar/vortex.name=Vortex Sofa
 
 ##################
 
