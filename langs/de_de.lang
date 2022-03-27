@@ -1512,130 +1512,130 @@ death.attack.terraria:thorn_bushes=%s was prickled to death.
 
 ######BUFFS######
 
-buff.terraria:potion_sickness.name=Potion Sickness
-buff.terraria:potion_sickness.desc=Can't use any healing items
+buff.terraria:potion_sickness.name=Trankkrankheit
+buff.terraria:potion_sickness.desc=Du kannst keine Heiltränke benutzen
 
-buff.terraria:spelunker.name=Spelunker
-buff.terraria:spelunker.desc=Shows the location of treasure and ore
+buff.terraria:spelunker.name=Höhlenforscher
+buff.terraria:spelunker.desc=Zeigt dir die Standorte von Schätzen und Erze
 
 buff.terraria:regeneration.name=Regeneration
-buff.terraria:regeneration.desc=Regenerates health
+buff.terraria:regeneration.desc=Regeneriert Leben
 
-buff.terraria:mining.name=Mining
-buff.terraria:mining.desc=Mining speed increased by %,d%%
+buff.terraria:mining.name=Bergbau
+buff.terraria:mining.desc=Abbaugeschwindigkeit um %,d%% erhöht
 
-buff.terraria:ammo_reservation.name=Ammo Reservation
-buff.terraria:ammo_reservation.desc=Grants 20%% chance to retain ammo
+buff.terraria:ammo_reservation.name=Munitionsreservierung
+buff.terraria:ammo_reservation.desc=Gibt dir eine Chance von 20% keine Munition zu verbrauchen
 
-buff.terraria:baby_slime.name=Baby Slime
-buff.terraria:baby_slime.desc=The baby slime will fight for you
+buff.terraria:baby_slime.name=Baby-Schleim
+buff.terraria:baby_slime.desc=Du hast einen Baby-Schleim der für dich kämpft
 
-buff.terraria:burning.name=Burning
-buff.terraria:burning.desc=Losing life and slowed movement
+buff.terraria:burning.name=Verbrennung
+buff.terraria:burning.desc=Lebensverlust und verlangsamte Gehgeschwindigkeit
 
-buff.terraria:on_fire.name=On Fire!
-buff.terraria:on_fire.desc=Slowly losing life
+buff.terraria:on_fire.name=In Brand!
+buff.terraria:on_fire.desc=Langsamer verlust von Leben
 
-buff.terraria:poisoned.name=Poisoned
-buff.terraria:poisoned.desc=Slowly losing life
+buff.terraria:poisoned.name=Vergiftet
+buff.terraria:poisoned.desc=Langsamer verlust von Leben
 
-buff.terraria:happy.name=Happy!
+buff.terraria:happy.name=Glücklich!
 
-buff.terraria:hellfire.name=Hellfire
+buff.terraria:hellfire.name=Höllenfeuer
 
-buff.terraria:swiftness.name=Swiftness
+buff.terraria:swiftness.name=Schnelligkeit
 
-buff.terraria:ironskin.name=Ironskin
+buff.terraria:ironskin.name=Eisenhaut
 
-buff.terraria:shine.name=Shine
-buff.terraria:shine.desc=Emitting light
+buff.terraria:shine.name=Leuchten
+buff.terraria:shine.desc=Du leuchtest
 
-buff.terraria:creative.name=Creative
-buff.terraria:creative.desc=Unlimited resources and immediate block destruction
+buff.terraria:creative.name=Kreativ
+buff.terraria:creative.desc=Unendlich Ressourcen und direkte Block-Zerstörung!
 
-buff.terraria:star_in_a_bottle.name=Star in a Bottle
-buff.terraria:star_in_a_bottle.desc=Increased mana regeneration
+buff.terraria:star_in_a_bottle.name=Stern in der Flasche
+buff.terraria:star_in_a_bottle.desc=Erhöhte Mana Regeneration
 
-buff.terraria:heart_lamp.name=Heart Lamp
-buff.terraria:heart_lamp.desc=Life regen is increased
+buff.terraria:heart_lamp.name=Herz-Lampe
+buff.terraria:heart_lamp.desc=Lebensregeneration ist erhöht
 
-buff.terraria:cozy_fire.name=Cozy Fire
-buff.terraria:cozy_fire.desc=Life regen is slightly increased
+buff.terraria:cozy_fire.name=gemütliches Feuer
+buff.terraria:cozy_fire.desc=Lebensregeneration ist leicht erhöht
 
-buff.terraria:magic_power.name=Magic Power
-buff.terraria:magic_power.desc=20%% increased magic damage
+buff.terraria:magic_power.name=Magische Kraft
+buff.terraria:magic_power.desc=20%% erhöhter Magie Schaden
 
-buff.terraria:cursed_inferno.name=Cursed Inferno
-buff.terraria:cursed_inferno.desc=Losing life
+buff.terraria:cursed_inferno.name=Verfluchtes Inferno
+buff.terraria:cursed_inferno.desc=Am Leben verlieren
 
-buff.terraria:builder.name=Builder
-buff.terraria:builder.desc=Increased placement speed and range
+buff.terraria:builder.name=Bauarbeiter
+buff.terraria:builder.desc=Erhöhtes Platzier-Tempo und Reichweite
 
-buff.terraria:water_walking.name=Water Walking
-buff.terraria:water_walking.desc=Sneak to enter water
+buff.terraria:water_walking.name=Wasserläufer
+buff.terraria:water_walking.desc=Ducke dich um ins Wasser zu kommen
 
-buff.terraria:clairvoyance.name=Clairvoyance
-buff.terraria:clairvoyance.desc=Magic powers are increased
+buff.terraria:clairvoyance.name=Hellsehen
+buff.terraria:clairvoyance.desc=erhöhte Magische Kraft
 
-buff.terraria:darkness.name=Darkness
-buff.terraria:darkness.desc=Decreased light vision
+buff.terraria:darkness.name=Dunkelheit
+buff.terraria:darkness.desc=Verringerte Licht-Reichweite
 
 buff.terraria:gravitation.name=Gravitation
-buff.terraria:gravitation.desc=Press %s to reverse gravity
+buff.terraria:gravitation.desc=Drücke %s um die Gravitation umzudrehen
 
 buff.terraria:banner.name=Banner
-buff.terraria:banner.desc=Increased damage and defense from the following:
+buff.terraria:banner.desc=Erhöhte Verteidigung und erhöhter Schaden von:
 
-buff.terraria:chilled.name=Chilled
-buff.terraria:chilled.desc=Your movement speed has been reduced
+buff.terraria:chilled.name=gekühlt
+buff.terraria:chilled.desc=Deine Bewegungsgeschwindigkeit ist verringert
 
-buff.terraria:frozen.name=Frozen
-buff.terraria:frozen.desc=You can't move!
+buff.terraria:frozen.name=Eingefroren
+buff.terraria:frozen.desc=Du kannst dich nicht bewegen!
 
-buff.terraria:frostburn.name=Frostburn
-buff.terraria:frostburn.desc=It's either really hot or really cold. Either way it REALLY hurts
+buff.terraria:frostburn.name=Gefrierbrand
+buff.terraria:frostburn.desc=Es ist entweder sehr heiß oder sehr kalt. Egal was es tut HÖLLISCH weh!
 
-buff.terraria:luck.name=Luck
-buff.terraria:luck.desc=You are feeling pretty lucky
+buff.terraria:luck.name=Glück
+buff.terraria:luck.desc=Du fühlst dich ziemlich glücklich!
 
-buff.terraria:gills.name=Gills
-buff.terraria:gills.desc=Breathe underwater
+buff.terraria:gills.name=Kiemen
+buff.terraria:gills.desc=Atme Unterwasser
 
-buff.terraria:honey.name=Honey
-buff.terraria:honey.desc=Life regeneration is increased
+buff.terraria:honey.name=Honig
+buff.terraria:honey.desc=Lebensregeneration ist erhöht
 
-buff.terraria:fishing.name=Fishing
-buff.terraria:fishing.desc=Increased fishing power
+buff.terraria:fishing.name=Fischer
+buff.terraria:fishing.desc=Erhöhte Angelkraft
 
-buff.terraria:endurance.name=Endurance
-buff.terraria:endurance.desc=10%% reduced damage
+buff.terraria:endurance.name=Ausdauer
+buff.terraria:endurance.desc=10%% verringerter Schaden
 
-buff.terraria:wrath.name=Wrath
-buff.terraria:wrath.desc=10%% increased damage
+buff.terraria:wrath.name=Zorn
+buff.terraria:wrath.desc=10%% erhöhter Schaden
 
-buff.terraria:heartreach.name=Heartreach
-buff.terraria:heartreach.desc=Increased heart pickup range
+buff.terraria:heartreach.name=Herzschmerz
+buff.terraria:heartreach.desc=Erhöhte Reichweite um Herzen vom Boden aufzuheben
 
-buff.terraria:crate.name=Crate
-buff.terraria:crate.desc=Greater chance of fishing up a crate
+buff.terraria:crate.name=Kistenangler
+buff.terraria:crate.desc=Höhere Chance eine Kiste zu Angeln
 
-buff.terraria:well_fed.name=Well Fed
-tooltip.terraria:food.0=Minor improvements to all stats
-tooltip.terraria:food.expert.0=Minor improvements to all stats and increased life regeneration
+buff.terraria:well_fed.name=Gut gesättigt
+tooltip.terraria:food.0=Geringe Steigerung aller Eigenschaften
+tooltip.terraria:food.expert.0=Geringe Steigerung aller Eigenschaften und erhöhte Lebensregeneration
 
-buff.terraria:plenty_satisfied.name=Plenty Satisfied
-tooltip.terraria:food.1=Medium improvements to all stats
-tooltip.terraria:food.expert.1=Medium improvements to all stats and increased life regeneration
+buff.terraria:plenty_satisfied.name=Sehr gut gesättigt
+tooltip.terraria:food.1=Leichte Steigerung aller Eigenschaften
+tooltip.terraria:food.expert.1=Leichte Steigerung aller Eigenschaften und erhöhte Lebensregeneration
 
-buff.terraria:exquisitely_stuffed.name=Exquisitely Stuffed
-tooltip.terraria:food.2=Major improvements to all stats
-tooltip.terraria:food.expert.2=Major improvements to all stats and increased life regeneration
+buff.terraria:exquisitely_stuffed.name=Extrem gesättigt
+tooltip.terraria:food.2=Hohe Steigerung aller Eigenschaften
+tooltip.terraria:food.expert.2=Hohe Steigerung aller Eigenschaften und erhöhte Lebensregeneration
 
-buff.terraria:dryad_blessing.name=Dryad's Blessing
-buff.terraria:dryad_blessing.desc=The power of nature protects you
+buff.terraria:dryad_blessing.name=Segen der Dryade
+buff.terraria:dryad_blessing.desc=Die Kraft der Natur schützt dich!
 
-buff.terraria:battle.name=Battle
-buff.terraria:battle.desc=Increased enemy spawn rate
+buff.terraria:battle.name=Kampf
+buff.terraria:battle.desc=Erhöhte Spawn-Rate von Gegnern
 
 #################
 
