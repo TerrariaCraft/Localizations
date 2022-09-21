@@ -178,9 +178,9 @@ jei.terraria.table_chair_around=Mesa y silla
 mccue.trigger.terraria:crafting.name=Fabricación
 mccue.trigger.terraria:crafting.if=objeto fabricado
 
-######OBJETOS######
+######ITEMS######
 
-# Herramientas y armas
+# Tools and weapons
 item.terraria:pickaxes/copper.name=Pico de cobre
 item.terraria:pickaxes/lead.name=Pico de plomo
 item.terraria:pickaxes/tin.name=Pico de estaño
@@ -323,7 +323,7 @@ item.terraria:bows/tendon.name=Arco de tendón
 item.terraria:living_leaf_wand.name=Varita de hoja
 item.terraria:living_wood_wand.name=Varita de madera viviente
 
-# Accesorios
+# Artifacts
 item.terraria:artifacts/band_regen.name=Banda de regeneración
 item.terraria:artifacts/band_starpower.name=Banda de polvo de estrellas
 item.terraria:artifacts/band_mana_regen.name=Banda de regeneración de maná
@@ -394,7 +394,7 @@ item.terraria:artifacts/tackle_box.name=Caja de aparejos
 item.terraria:artifacts/high_test_fishing_line.name=Sedal de gran prueba
 item.terraria:artifacts/angler_tackle_bag.name=Bolsa de aparejos del Pescador
 
-# Pociones y comida
+# Potions & Food
 item.terraria:potions/lesser_healing.name=Poción curativa menor
 item.terraria:potions/lesser_mana.name=Poción menor de maná
 item.terraria:potions/spelunker.name=Poción de espeleólogo
@@ -479,7 +479,7 @@ item.terraria:potions/food/gingerbread_cookie.name=Galleta de jengibre
 item.terraria:potions/food/marshmallow.name=Nube dulce
 item.terraria:potions/food/cooked_marshmallow.name=Nube dulce bien hecha
 
-# Materiales
+# Materials
 item.terraria:materials/fallen_star.name=Estrella fugaz
 item.terraria:materials/lens.name=Lentes
 item.terraria:materials/black_lens.name=Lentes negras
@@ -591,7 +591,7 @@ item.terraria:materials/baits/jellyfish_green.name=Medusa verde
 item.terraria:materials/baits/jellyfish_pink.name=Medusa rosa
 item.terraria:materials/coal.name=Carbón
 
-#Armaduras
+# Armor
 item.terraria:armor/wooden/helm.name=Casco de madera
 item.terraria:armor/wooden/body.name=Coraza de madera
 item.terraria:armor/wooden/legs.name=Grebas de madera
@@ -698,7 +698,7 @@ item.terraria:armor/angler/helm.name=Sombrero de Pescador
 item.terraria:armor/angler/body.name=Chaleco de Pescador
 item.terraria:armor/angler/legs.name=Pantalones de Pescador
 
-#Misceláneo
+# Misc
 item.terraria:whoopie_cushion.name=Cojín flatulento
 item.terraria:copper_coin.name=Moneda de cobre
 item.terraria:silver_coin.name=Moneda de plata
@@ -816,7 +816,7 @@ item.terraria:seeds/crimson.name=Semillas carmesí
 item.terraria:treasure_bags/eye_of_cthulhu.name=Bolsa del tesoro
 item.terraria:purification_powder.name=Polvo de purificación
 
-#Criaturas
+# Critters
 item.terraria:critters/bunny.name=Conejo
 item.terraria:critters/bunny_explosive.name=Conejo explosivo
 item.terraria:critters/golden/bunny.name=Conejo dorado
@@ -883,7 +883,7 @@ item.terraria:critters/golden/frog.name=Rana dorada
 item.terraria:critters/ladybug.name=Mariquita
 item.terraria:critters/golden/ladybug.name=Mariquita dorada
 
-#Enemigos
+# Hostiles
 item.terraria:hostiles/slimes/green.name=Slime verde
 item.terraria:hostiles/slimes/blue.name=Slime azul
 item.terraria:hostiles/slimes/purple.name=Slime morado
@@ -908,7 +908,7 @@ item.terraria:suspicious_looking_eye.name=Ojo de aspecto sospechoso
 
 #################
 
-######ARMADURAS EXTRAS######
+######ARMOR BONUSES######
 
 setbonus.terraria:defense=%,d defensa
 setbonus.terraria:mining=Aumenta en un 30%% la velocidad de excavación
@@ -921,7 +921,7 @@ setbonus.terraria:no_consume_thrown=Probabilidad del %,d%% de no gastar munició
 
 #########################
 
-######BLOQUES######
+######BLOCKS######
 
 tile.terraria:redstone_tranciever.name=Transceptor de redstone
 
@@ -1487,7 +1487,7 @@ tile.terraria:ambient/coral.name=Coral
 
 
 
-######TECLADO######
+######KEYBOARD######
 
 key.category.terraria=Terraria Craft
 key.terraria.toggle_gravity=Cambiar gravedad
@@ -1512,7 +1512,7 @@ death.attack.terraria:thorn_bushes=%s fue espinado hasta la muerte.
 
 
 
-######EFECTOS######
+######BUFFS######
 
 buff.terraria:potion_sickness.name=Enfermedad de poción
 buff.terraria:potion_sickness.desc=Impide seguir consumiendo objetos curativos
@@ -1833,6 +1833,8 @@ tooltip.terraria:vile_powder=Siembra Corrupción
 tooltip.terraria:vicious_powder=Siembra Carmesí
 tooltip.terraria:purification_powder=Limpia el mal
 tooltip.terraria:potions/battle=Aumenta la velocidad de regeneración del enemigo
+tooltip.terraria:living_leaf_wand=Places leaves
+tooltip.terraria:living_wood_wand=Places living wood
 
 # Misc Tooltips
 
