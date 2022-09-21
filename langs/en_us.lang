@@ -320,6 +320,8 @@ item.terraria:bows/pearlwood.name=Pearlwood Bow
 item.terraria:bows/platinum.name=Platinum Bow
 item.terraria:bows/demon.name=Demon Bow
 item.terraria:bows/tendon.name=Tendon Bow
+item.terraria:living_leaf_wand.name=Leaf Wand
+item.terraria:living_wood_wand.name=Living Wood Wand
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Band of Regeneration

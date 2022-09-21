@@ -320,6 +320,8 @@ item.terraria:bows/pearlwood.name=Лук из жемчужной древеси�
 item.terraria:bows/platinum.name=Платиновый лук
 item.terraria:bows/demon.name=Демонитовый лук
 item.terraria:bows/tendon.name=Кримтановый лук
+item.terraria:living_leaf_wand.name=Leaf Wand
+item.terraria:living_wood_wand.name=Living Wood Wand
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
