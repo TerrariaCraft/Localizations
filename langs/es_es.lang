@@ -1833,6 +1833,8 @@ tooltip.terraria:vile_powder=Siembra Corrupci\u00f3n
 tooltip.terraria:vicious_powder=Siembra Carmes\u00ed
 tooltip.terraria:purification_powder=Limpia el mal
 tooltip.terraria:potions/battle=Aumenta la velocidad de regeneraci\u00f3n del enemigo
+tooltip.terraria:living_leaf_wand=Places leaves
+tooltip.terraria:living_wood_wand=Places living wood
 
 # Misc Tooltips
 

@@ -1833,6 +1833,8 @@ tooltip.terraria:vile_powder=Распространяет искажение
 tooltip.terraria:vicious_powder=Распространяет багрянец
 tooltip.terraria:purification_powder=Очищает зло
 tooltip.terraria:potions/battle=Ускоряет появление врагов
+tooltip.terraria:living_leaf_wand=Places leaves
+tooltip.terraria:living_wood_wand=Places living wood
 
 # Misc Tooltips
 

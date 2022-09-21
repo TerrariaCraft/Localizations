@@ -1833,6 +1833,8 @@ tooltip.terraria:vile_powder=Spreads the Corruption
 tooltip.terraria:vicious_powder=Spreads the Crimson
 tooltip.terraria:purification_powder=Cleanses the evil
 tooltip.terraria:potions/battle=Increases ememy spawn rate
+tooltip.terraria:living_leaf_wand=Places leaves
+tooltip.terraria:living_wood_wand=Places living wood
 
 # Misc Tooltips
 
