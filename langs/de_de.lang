@@ -85,6 +85,7 @@ itemGroup.terraria:building.furniture=Möbel
 itemGroup.terraria:building.furniture.ropes=Seile
 itemGroup.terraria:building.furniture.bowls=Schüsseln
 itemGroup.terraria:building.furniture.statues=Statuen
+itemGroup.terraria:building.furniture.platforms=Platforms
 itemGroup.terraria:building.furniture.doors=Türen
 itemGroup.terraria:building.furniture.tables=Tische
 itemGroup.terraria:building.furniture.chairs=Stühle
@@ -1482,6 +1483,7 @@ tile.terraria:furniture/sofas/lunar/solar.name=Solar Sofa
 tile.terraria:furniture/sofas/lunar/stardust.name=Stardust Sofa
 tile.terraria:furniture/sofas/lunar/vortex.name=Vortex Sofa
 tile.terraria:ambient/coral.name=Coral
+tile.terraria:furniture/platforms/forest.name=Wood Platform
 
 ##################
 
