@@ -1483,7 +1483,10 @@ tile.terraria:furniture/sofas/lunar/solar.name=Solar Sofa
 tile.terraria:furniture/sofas/lunar/stardust.name=Stardust Sofa
 tile.terraria:furniture/sofas/lunar/vortex.name=Vortex Sofa
 tile.terraria:ambient/coral.name=Coral
+tile.terraria:furniture/platforms/corrupted.name=Ebonwood Platform
 tile.terraria:furniture/platforms/forest.name=Wood Platform
+tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
+tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 
 ##################
 
@@ -1491,12 +1494,13 @@ tile.terraria:furniture/platforms/forest.name=Wood Platform
 
 ######KEYBOARD######
 
-key.category.terraria=Terraria Craft
+key.category.terraria=TerrariaCraft
 key.terraria.toggle_gravity=Toggle Gravity
 key.hotbar.0=Hotbar Slot 10
-key.terraria.healing=Activate healing potion
-key.terraria.mana=Activate mana potion
-key.terraria.buffs=Activate all buff potions
+key.terraria.healing=Activate Healing Potion
+key.terraria.mana=Activate Mana Potion
+key.terraria.buffs=Activate All Buff Potions
+key.terraria.pass_platforms=Fall Through Platform
 
 ####################
 

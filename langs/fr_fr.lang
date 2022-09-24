@@ -1483,7 +1483,10 @@ tile.terraria:furniture/sofas/lunar/solar.name=Solar Sofa
 tile.terraria:furniture/sofas/lunar/stardust.name=Stardust Sofa
 tile.terraria:furniture/sofas/lunar/vortex.name=Vortex Sofa
 tile.terraria:ambient/coral.name=Coral
+tile.terraria:furniture/platforms/corrupted.name=Ebonwood Platform
 tile.terraria:furniture/platforms/forest.name=Wood Platform
+tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
+tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 
 ##################
 
@@ -1497,6 +1500,7 @@ key.hotbar.0=Barre d’inventaire emplacement 10
 key.terraria.healing=Activer la potion de soin
 key.terraria.mana=Activer la potion de mana
 key.terraria.buffs=Activer tous les effets de potion
+key.terraria.pass_platforms=Fall Through Platform
 
 ####################
 

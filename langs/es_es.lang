@@ -1483,7 +1483,10 @@ tile.terraria:furniture/sofas/lunar/solar.name=Sofá solar
 tile.terraria:furniture/sofas/lunar/stardust.name=Sofá de polvo estelar
 tile.terraria:furniture/sofas/lunar/vortex.name=Sofá del vórtice
 tile.terraria:ambient/coral.name=Coral
+tile.terraria:furniture/platforms/corrupted.name=Ebonwood Platform
 tile.terraria:furniture/platforms/forest.name=Wood Platform
+tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
+tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 
 ##################
 
@@ -1497,6 +1500,7 @@ key.hotbar.0=Barra rápida 10
 key.terraria.healing=Activar poción curativa
 key.terraria.mana=Activar poción de maná
 key.terraria.buffs=Activar todas las pociones de efectos positivos
+key.terraria.pass_platforms=Fall Through Platform
 
 ####################
 

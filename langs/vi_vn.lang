@@ -1483,7 +1483,10 @@ tile.terraria:furniture/sofas/lunar/solar.name=Sôpha Thái Dương
 tile.terraria:furniture/sofas/lunar/stardust.name=Sôpha Sao Băng
 tile.terraria:furniture/sofas/lunar/vortex.name=Sôpha Thiên Hà
 tile.terraria:ambient/coral.name=San Hô
+tile.terraria:furniture/platforms/corrupted.name=Ebonwood Platform
 tile.terraria:furniture/platforms/forest.name=Wood Platform
+tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
+tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 
 ##################
 
@@ -1497,6 +1500,7 @@ key.hotbar.0=Vật phẩm trong ô 10
 key.terraria.healing=Sử Dụng Thuốc Hồi Máu
 key.terraria.mana=Sử Dụng Thuốc Hồi Mana
 key.terraria.buffs=Sử Dụng Thuốc Tăng Sức Mạnh
+key.terraria.pass_platforms=Fall Through Platform
 
 ####################
 

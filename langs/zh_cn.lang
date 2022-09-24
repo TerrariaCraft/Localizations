@@ -1483,7 +1483,10 @@ tile.terraria:furniture/sofas/lunar/solar.name=Solar Sofa
 tile.terraria:furniture/sofas/lunar/stardust.name=Stardust Sofa
 tile.terraria:furniture/sofas/lunar/vortex.name=Vortex Sofa
 tile.terraria:ambient/coral.name=Coral
+tile.terraria:furniture/platforms/corrupted.name=Ebonwood Platform
 tile.terraria:furniture/platforms/forest.name=Wood Platform
+tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
+tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 
 ##################
 
@@ -1497,6 +1500,7 @@ key.hotbar.0=快捷栏10
 key.terraria.healing=使用治疗药水
 key.terraria.mana=使用魔力药水
 key.terraria.buffs=使用所有增益药水
+key.terraria.pass_platforms=Fall Through Platform
 
 ####################
 
