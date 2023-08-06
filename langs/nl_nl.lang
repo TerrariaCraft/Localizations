@@ -69,7 +69,7 @@ itemGroup.terraria:graves=Graven
 itemGroup.terraria:treasure_bags=Schatten zakjes
 itemGroup.terraria:trophies=Trofees
 
-itemGroup.terraria:crafting_stations=Ambacht Stations # Not so sure about this one
+itemGroup.terraria:crafting_stations=Ambacht Stations
 itemGroup.terraria:crafting_stations.work_benches=Werkbanken
 itemGroup.terraria:crafting_stations.bottles=Flessen
 itemGroup.terraria:crafting_stations.furnaces=Fornuizen
@@ -107,9 +107,9 @@ itemGroup.terraria:bunnies=Konijntjes
 itemGroup.terraria:squirrels=Eekhoorns
 itemGroup.terraria:butterflies=Vlinders
 itemGroup.terraria:dragonflies=Libellen
-itemGroup.terraria:bosses=Bazen # Is this correct?
+itemGroup.terraria:bosses=Bazen
 
-itemGroup.terraria:armor/mining=Mijnbouw Armor # Not so sure about "Uitrusting", I'll keep "Armor"
+itemGroup.terraria:armor/mining=Mijnbouw Armor
 itemGroup.terraria:armor/wooden=Hout Armor
 itemGroup.terraria:armor/jungle_wood=Rijk Mahonie Armor
 itemGroup.terraria:armor/boreal_wood=Boreaal Hout Armor
@@ -164,7 +164,7 @@ worldsize.terraria:medium=Medium
 worldsize.terraria:large=Groot
 worldsize.terraria:humongous=Gigantisch
 
-jei.terraria.supercrafting=Terraria Bouwen # There is no good word for crafting, this should probably be changed
+jei.terraria.supercrafting=Terraria Bouwen
 jei.terraria.block_around=<B>
 jei.terraria.alchemical_station_around=Alchemie Station
 jei.terraria.furnace_around=<T>
@@ -176,7 +176,7 @@ jei.terraria.anvil.any=Alle Aambeelden
 jei.terraria.anvil.mythrilororichalcum=Mythril/Orichalcum Aambeeld
 jei.terraria.table_chair_around=Tafel en Stoel
 
-mccue.trigger.terraria:crafting.name=Bouwen # Again, not sure
+mccue.trigger.terraria:crafting.name=Bouwen
 mccue.trigger.terraria:crafting.if=item gemaakt
 
 ######ITEMS######
@@ -1487,6 +1487,8 @@ tile.terraria:furniture/platforms/corrupted.name=Ebonwood Platform
 tile.terraria:furniture/platforms/forest.name=Wood Platform
 tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
 tile.terraria:furniture/platforms/shade.name=Shadewood Platform
+tile.terraria:furniture/platforms/livingwood.name=Livingwood Platform
+tile.terraria:trophies/queen_bee.name=Queen Bee Trophy
 
 ##################
 

@@ -1487,6 +1487,8 @@ tile.terraria:furniture/platforms/corrupted.name=Ebonwood Platform
 tile.terraria:furniture/platforms/forest.name=Wood Platform
 tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
 tile.terraria:furniture/platforms/shade.name=Shadewood Platform
+tile.terraria:furniture/platforms/livingwood.name=Livingwood Platform
+tile.terraria:trophies/queen_bee.name=Queen Bee Trophy
 
 ##################
 
