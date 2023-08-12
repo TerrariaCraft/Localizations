@@ -816,6 +816,7 @@ item.terraria:seeds/corrupt.name=Семена порчи
 item.terraria:seeds/crimson.name=Семена багрянца
 item.terraria:treasure_bags/eye_of_cthulhu.name=Мешок с сокровищами
 item.terraria:purification_powder.name=Очищающий порошок
+item.terraria:treasure_bags/queen_bee.name=Treasure Bag
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -906,6 +907,7 @@ item.terraria:hostiles/hornet.name=Шершень
 item.terraria:hostiles/ghost.name=Призрак
 item.terraria:slime_crown.name=Корона слизня
 item.terraria:suspicious_looking_eye.name=Подозрительно выглядящий глаз
+item.terraria:abeemination.name=Abeemination
 
 #################
 
@@ -1488,6 +1490,7 @@ tile.terraria:furniture/platforms/forest.name=Wood Platform
 tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
 tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 tile.terraria:furniture/platforms/livingwood.name=Livingwood Platform
+tile.terraria:larva.name=Larva
 tile.terraria:trophies/queen_bee.name=Queen Bee Trophy
 
 ##################
@@ -1843,6 +1846,7 @@ tooltip.terraria:purification_powder=Очищает зло
 tooltip.terraria:potions/battle=Ускоряет появление врагов
 tooltip.terraria:living_leaf_wand=Places leaves
 tooltip.terraria:living_wood_wand=Places living wood
+tooltip.terraria:abeemination=Summons the Queen Bee
 
 # Misc Tooltips
 
@@ -1983,6 +1987,9 @@ achievement.terraria:like_a_boss.desc=Получите предмет для в�
 
 achievement.terraria:eye_on_you.name=Глаз смотрит на тебя
 achievement.terraria:eye_on_you.desc=Победите глаз Ктулху, глазастую угрозу, которая появляется только ночью.
+
+achievement.terraria:sting_operation.name=Sting Operation
+achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of the jungle hives.
 
 ########################
 
@@ -2155,6 +2162,10 @@ boss.terraria:king_slime.defeat=Король слизней побеждён!
 entity.terraria:eye_of_cthulhu.name=Глаз Ктулху
 boss.terraria:eye_of_cthulhu.awake=Пробудился глаз Ктулху!
 boss.terraria:eye_of_cthulhu.defeat=Глаз Ктулху побеждён!
+
+entity.terraria:queen_bee.name=Queen Bee
+boss.terraria:queen_bee.awake=Queen Bee has awoken!
+boss.terraria:queen_bee.defeat=Queen Bee has been defeated!
 
 ####################
 

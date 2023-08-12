@@ -816,6 +816,7 @@ item.terraria:seeds/corrupt.name=Semillas corrompidas
 item.terraria:seeds/crimson.name=Semillas carmesí
 item.terraria:treasure_bags/eye_of_cthulhu.name=Bolsa del tesoro
 item.terraria:purification_powder.name=Polvo de purificación
+item.terraria:treasure_bags/queen_bee.name=Treasure Bag
 
 # Critters
 item.terraria:critters/bunny.name=Conejo
@@ -906,6 +907,7 @@ item.terraria:hostiles/hornet.name=Avispón
 item.terraria:hostiles/ghost.name=Fantasma
 item.terraria:slime_crown.name=Corona de slime
 item.terraria:suspicious_looking_eye.name=Ojo de aspecto sospechoso
+item.terraria:abeemination.name=Abeemination
 
 #################
 
@@ -1488,6 +1490,7 @@ tile.terraria:furniture/platforms/forest.name=Wood Platform
 tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
 tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 tile.terraria:furniture/platforms/livingwood.name=Livingwood Platform
+tile.terraria:larva.name=Larva
 tile.terraria:trophies/queen_bee.name=Queen Bee Trophy
 
 ##################
@@ -1843,6 +1846,7 @@ tooltip.terraria:purification_powder=Limpia el mal
 tooltip.terraria:potions/battle=Aumenta la velocidad de regeneración del enemigo
 tooltip.terraria:living_leaf_wand=Places leaves
 tooltip.terraria:living_wood_wand=Places living wood
+tooltip.terraria:abeemination=Summons the Queen Bee
 
 # Misc Tooltips
 
@@ -1983,6 +1987,9 @@ achievement.terraria:like_a_boss.desc=Consigue un objeto invocajefes.
 
 achievement.terraria:eye_on_you.name=No te quito ojo
 achievement.terraria:eye_on_you.desc=Derrota al Ojo de Cthulhu, una amenaza ocular que solo aparece por la noche.
+
+achievement.terraria:sting_operation.name=Sting Operation
+achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of the jungle hives.
 
 ########################
 
@@ -2155,6 +2162,10 @@ boss.terraria:king_slime.defeat=¡Rey slime ha sido derrotado!
 entity.terraria:eye_of_cthulhu.name=Ojo de Cthulhu
 boss.terraria:eye_of_cthulhu.awake=¡Ojo de Cthulhu ha despertado!
 boss.terraria:eye_of_cthulhu.defeat=¡Ojo de Cthulhu ha sido derrotado!
+
+entity.terraria:queen_bee.name=Queen Bee
+boss.terraria:queen_bee.awake=Queen Bee has awoken!
+boss.terraria:queen_bee.defeat=Queen Bee has been defeated!
 
 ####################
 
