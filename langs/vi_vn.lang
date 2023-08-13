@@ -2131,6 +2131,8 @@ entity.terraria:gold/ladybug.name=Bọ Rùa Vàng
 entity.terraria:gnome.name=Thần Lùn
 entity.terraria:ghost.name=Ghost
 entity.terraria:servant_of_cthulhu.name=Servant of Cthulhu
+entity.terraria:bee.name=Bee
+entity.terraria:bee_smol.name=Bee
 
 entity.terraria:zombies/normal=Zombie
 entity.terraria:zombies/bald=Zombie Trọc

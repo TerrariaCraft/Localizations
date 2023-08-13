@@ -2131,6 +2131,8 @@ entity.terraria:gold/ladybug.name=Золотая божья коровка
 entity.terraria:gnome.name=Гном
 entity.terraria:ghost.name=Призрак
 entity.terraria:servant_of_cthulhu.name=Прислужник Ктулху
+entity.terraria:bee.name=Bee
+entity.terraria:bee_smol.name=Bee
 
 entity.terraria:zombies/normal=Зомби
 entity.terraria:zombies/bald=Лысый зомби

@@ -2131,6 +2131,8 @@ entity.terraria:gold/ladybug.name=Mariquita dorada
 entity.terraria:gnome.name=Gnomo
 entity.terraria:ghost.name=Fantasma
 entity.terraria:servant_of_cthulhu.name=Siervo de Cthulhu
+entity.terraria:bee.name=Bee
+entity.terraria:bee_smol.name=Bee
 
 entity.terraria:zombies/normal=Zombi
 entity.terraria:zombies/bald=Zombi
