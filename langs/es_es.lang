@@ -2044,11 +2044,14 @@ house.terraria:chairs=¡No hay sillas en la casa!
 house.terraria:ok=Esta vivienda no es válida.
 
 gui.terraria:buy=Comprar por
+gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Sanar por
 
 fluid.terraria:water=Agua
 fluid.terraria:lava=Lava
 fluid.terraria:honey=Miel
+
+item_flags.terraria.ecto_mist=Ecto Mist
 
 ################
 

@@ -2044,11 +2044,14 @@ house.terraria:chairs=В доме нету стула!
 house.terraria:ok=Этот дом подходит.
 
 gui.terraria:buy=Купить за
+gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Вылечится за
 
 fluid.terraria:water=Вода
 fluid.terraria:lava=Лава
 fluid.terraria:honey=Мёд
+
+item_flags.terraria.ecto_mist=Ecto Mist
 
 ################
 

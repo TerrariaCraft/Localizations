@@ -2044,11 +2044,14 @@ house.terraria:chairs=Nhà không có ghế!
 house.terraria:ok=Nhà phù hợp để ở.
 
 gui.terraria:buy=Mua với giá
+gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Chữa trị với giá
 
 fluid.terraria:water=Nước
 fluid.terraria:lava=Dung Nham
 fluid.terraria:honey=Mật Ong
+
+item_flags.terraria.ecto_mist=Ecto Mist
 
 ################
 

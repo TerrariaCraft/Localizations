@@ -2044,11 +2044,14 @@ house.terraria:chairs=No chairs found in house!
 house.terraria:ok=This is suitable home.
 
 gui.terraria:buy=Buy for
+gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Heal for
 
 fluid.terraria:water=Water
 fluid.terraria:lava=Lava
 fluid.terraria:honey=Honey
+
+item_flags.terraria.ecto_mist=Ecto Mist
 
 ################
 
