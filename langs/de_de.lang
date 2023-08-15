@@ -1493,6 +1493,8 @@ tile.terraria:furniture/platforms/livingwood.name=Livingwood Platform
 tile.terraria:larva.name=Larva
 tile.terraria:trophies/queen_bee.name=Queen Bee Trophy
 tile.terraria:hive_block.name=Hive
+tile.terraria:traps/boulder.name=Boulder
+tile.terraria:statues/boulder.name=Boulder Statue
 
 ##################
 
