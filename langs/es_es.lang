@@ -817,6 +817,7 @@ item.terraria:seeds/crimson.name=Semillas carmesí
 item.terraria:treasure_bags/eye_of_cthulhu.name=Bolsa del tesoro
 item.terraria:purification_powder.name=Polvo de purificación
 item.terraria:treasure_bags/queen_bee.name=Treasure Bag
+item.terraria:money_trough.name=Money Trough
 
 # Critters
 item.terraria:critters/bunny.name=Conejo
@@ -1490,11 +1491,12 @@ tile.terraria:furniture/platforms/forest.name=Wood Platform
 tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
 tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 tile.terraria:furniture/platforms/livingwood.name=Livingwood Platform
-tile.terraria:larva.name=Larva
+tile.terraria:boss_tiles/larva.name=Larva
 tile.terraria:trophies/queen_bee.name=Queen Bee Trophy
 tile.terraria:hive_block.name=Hive
 tile.terraria:traps/boulder.name=Boulder
 tile.terraria:statues/boulder.name=Boulder Statue
+tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
 
 ##################
 
@@ -1850,6 +1852,7 @@ tooltip.terraria:potions/battle=Aumenta la velocidad de regeneración del enemig
 tooltip.terraria:living_leaf_wand=Places leaves
 tooltip.terraria:living_wood_wand=Places living wood
 tooltip.terraria:abeemination=Summons the Queen Bee
+tooltip.terraria:money_trough=Summons a flying piggy bank to store your items.
 
 # Misc Tooltips
 
@@ -1997,6 +2000,9 @@ achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of
 achievement.terraria:wheres_my_honey.name=Where's My Honey?
 achievement.terraria:wheres_my_honey.desc=Discover a large bee's hive deep in the jungle.
 
+achievement.terraria:smashing_poppet.name=Smashing, Poppet!
+achievement.terraria:smashing_poppet.desc=Using explosives or your trusty hammer, smash a Shadow Orb or Crimson Heart in the evil parts of your world.
+
 ########################
 
 
@@ -2033,6 +2039,9 @@ chat.terraria:spawn_point.remove=¡Punto de resurreción eliminado!
 chat.terraria:eye_of_cthulhu_spawn=Crees que una presencia maligna te está observando...
 chat.terraria:npc.slain=%s ha sido asesinado...
 chat.terraria:npc.move_in=%s ha llegado.
+
+chat.terraria:boss_tiles/shadow_orb.1=A horrible chill goes down your spine...
+chat.terraria:boss_tiles/shadow_orb.2=Screams echo around you...
 
 house.terraria:limits=Límite de tamaño de la casa superado: %s/%s
 house.terraria:occupied=Esta vivienda ya está ocupada.
@@ -2136,6 +2145,7 @@ entity.terraria:ghost.name=Fantasma
 entity.terraria:servant_of_cthulhu.name=Siervo de Cthulhu
 entity.terraria:bee.name=Bee
 entity.terraria:bee_smol.name=Bee
+entity.terraria:money_trough.name=Money Trough
 
 entity.terraria:zombies/normal=Zombi
 entity.terraria:zombies/bald=Zombi

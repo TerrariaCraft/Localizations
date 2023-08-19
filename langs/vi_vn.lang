@@ -817,6 +817,7 @@ item.terraria:seeds/crimson.name=Hạt Giống Đỏ Thẫm
 item.terraria:treasure_bags/eye_of_cthulhu.name=Túi Kho Báu Mắt Cthulhu
 item.terraria:purification_powder.name=Bụi Thanh Tẩy
 item.terraria:treasure_bags/queen_bee.name=Treasure Bag
+item.terraria:money_trough.name=Money Trough
 
 # Critters
 item.terraria:critters/bunny.name=Thỏ
@@ -1490,11 +1491,12 @@ tile.terraria:furniture/platforms/forest.name=Wood Platform
 tile.terraria:furniture/platforms/rich_mahogany.name=Rich Mahogany Platform
 tile.terraria:furniture/platforms/shade.name=Shadewood Platform
 tile.terraria:furniture/platforms/livingwood.name=Livingwood Platform
-tile.terraria:larva.name=Larva
+tile.terraria:boss_tiles/larva.name=Larva
 tile.terraria:trophies/queen_bee.name=Queen Bee Trophy
 tile.terraria:hive_block.name=Hive
 tile.terraria:traps/boulder.name=Boulder
 tile.terraria:statues/boulder.name=Boulder Statue
+tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
 
 ##################
 
@@ -1850,6 +1852,7 @@ tooltip.terraria:potions/battle=Tăng tốc độ sản sinh quái
 tooltip.terraria:living_leaf_wand=Places leaves
 tooltip.terraria:living_wood_wand=Places living wood
 tooltip.terraria:abeemination=Summons the Queen Bee
+tooltip.terraria:money_trough=Summons a flying piggy bank to store your items.
 
 # Misc Tooltips
 
@@ -1997,6 +2000,9 @@ achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of
 achievement.terraria:wheres_my_honey.name=Where's My Honey?
 achievement.terraria:wheres_my_honey.desc=Discover a large bee's hive deep in the jungle.
 
+achievement.terraria:smashing_poppet.name=Smashing, Poppet!
+achievement.terraria:smashing_poppet.desc=Using explosives or your trusty hammer, smash a Shadow Orb or Crimson Heart in the evil parts of your world.
+
 ########################
 
 
@@ -2033,6 +2039,9 @@ chat.terraria:spawn_point.remove=Điểm hồi sinh đã bị xoá!
 chat.terraria:eye_of_cthulhu_spawn=You feel an evil presence watching you...
 chat.terraria:npc.slain=%s was slain...
 chat.terraria:npc.move_in=%s has arrived!
+
+chat.terraria:boss_tiles/shadow_orb.1=A horrible chill goes down your spine...
+chat.terraria:boss_tiles/shadow_orb.2=Screams echo around you...
 
 house.terraria:limits=Vượt quá kích thước nhà tối đa: %s/%s
 house.terraria:occupied=Nhà này đã có người ở!
@@ -2136,6 +2145,7 @@ entity.terraria:ghost.name=Ghost
 entity.terraria:servant_of_cthulhu.name=Servant of Cthulhu
 entity.terraria:bee.name=Bee
 entity.terraria:bee_smol.name=Bee
+entity.terraria:money_trough.name=Money Trough
 
 entity.terraria:zombies/normal=Zombie
 entity.terraria:zombies/bald=Zombie Trọc
