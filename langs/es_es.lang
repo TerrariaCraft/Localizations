@@ -909,6 +909,7 @@ item.terraria:hostiles/ghost.name=Fantasma
 item.terraria:slime_crown.name=Corona de slime
 item.terraria:suspicious_looking_eye.name=Ojo de aspecto sospechoso
 item.terraria:abeemination.name=Abeemination
+item.terraria:hostiles/blood_zombie.name=Blood Zombie
 
 #################
 
@@ -1497,6 +1498,7 @@ tile.terraria:hive_block.name=Hive
 tile.terraria:traps/boulder.name=Boulder
 tile.terraria:statues/boulder.name=Boulder Statue
 tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
+tile.terraria:furniture/sofas/dynasty.name=Dynasty Sofa
 
 ##################
 
@@ -2146,6 +2148,7 @@ entity.terraria:servant_of_cthulhu.name=Siervo de Cthulhu
 entity.terraria:bee.name=Bee
 entity.terraria:bee_smol.name=Bee
 entity.terraria:money_trough.name=Money Trough
+entity.terraria:blood_zombie.name=Blood Zombie
 
 entity.terraria:zombies/normal=Zombi
 entity.terraria:zombies/bald=Zombi
