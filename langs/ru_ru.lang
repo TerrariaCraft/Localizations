@@ -323,6 +323,7 @@ item.terraria:bows/demon.name=Демонитовый лук
 item.terraria:bows/tendon.name=Кримтановый лук
 item.terraria:living_leaf_wand.name=Leaf Wand
 item.terraria:living_wood_wand.name=Living Wood Wand
+item.terraria:spears/rotted_fork.name=The Rotted Fork
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
@@ -1499,6 +1500,8 @@ tile.terraria:traps/boulder.name=Boulder
 tile.terraria:statues/boulder.name=Boulder Statue
 tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
 tile.terraria:furniture/sofas/dynasty.name=Dynasty Sofa
+tile.terraria:boss_tiles/crimson_heart.name=Crimson Heart (block)
+
 
 ##################
 
@@ -1855,6 +1858,8 @@ tooltip.terraria:living_leaf_wand=Places leaves
 tooltip.terraria:living_wood_wand=Places living wood
 tooltip.terraria:abeemination=Summons the Queen Bee
 tooltip.terraria:money_trough=Summons a flying piggy bank to store your items.
+tooltip.terraria:swords/grass=Has a chance to poison enemies.
+tooltip.terraria:swords/fiery=It's made out of fire!
 
 # Misc Tooltips
 
@@ -1872,7 +1877,6 @@ damage.terraria:melee=%,d ед. ближнего урона
 damage.terraria:ranged=%,d ед. дальнего урона
 damage.terraria:magic=%,d ед. магического урона
 damage.terraria:summon=%,d ед. призываемого урона
-damage.terraria:throwing=%,d ед. метательного урона
 
 itweaks.enabled=Этот твик включен
 itweaks.disabled=Этот твик отключен
