@@ -1501,6 +1501,7 @@ tile.terraria:statues/boulder.name=Boulder Statue
 tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
 tile.terraria:furniture/sofas/dynasty.name=Dynasty Sofa
 tile.terraria:boss_tiles/crimson_heart.name=Crimson Heart (block)
+tile.terraria:traps/bee_hive.name=Bee Hive
 
 
 ##################
