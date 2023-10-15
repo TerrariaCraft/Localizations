@@ -1879,6 +1879,9 @@ damage.terraria:ranged=%,d dégât à distance
 damage.terraria:magic=%,d dégât magique
 damage.terraria:summon=%,d dégât d’invocation
 
+text.terraria:block_tags=Block Tags:
+text.terraria:item_tags=Item Tags:
+
 itweaks.enabled=This tweak is enabled
 itweaks.disabled=This tweak is disabled
 
@@ -2548,5 +2551,43 @@ npc.terraria:dryad.happiness.npc.truffle=I like that %s resonates with every fib
 npc.terraria:dryad.happiness.npc.angler=I don't like that %s has no respect for other beings.
 npc.terraria:dryad.happiness.npc.golfer=I hate %s's destructive habits towards nature!
 npc.terraria:dryad.happiness.neutral=All is peaceful, don't mess it up.
+
+
+
+npc.terraria:witch_doctor.name=Witch Doctor
+npc.terraria:witch_doctor=%s the Witch Doctor
+npc.terraria:witch_doctor.names=Abibe,Gboto,Jamundi,Kogi-ghi,Konah,Opuni,Tairona,U'wa,Xirigua,Zop'a
+
+npc.terraria:witch_doctor.interact.1=Which doctor am I? The Witch Doctor am I.
+npc.terraria:witch_doctor.interact.2=Choose wisely, %s, my commodities are volatile and my dark arts, mysterious.
+npc.terraria:witch_doctor.interact.3=The heart of magic is nature. The nature of hearts is magic.
+npc.terraria:witch_doctor.interact.4=I sense a kindred spirit in the Etherian Dark Mages. A pity they are our enemies, I would have liked to learn from them.
+npc.terraria:witch_doctor.npc.nurse=%s may help heal your body, but I can make you embody healing.
+npc.terraria:witch_doctor.npc.dryad=%s is a kindred spirit of nature, my soul is at peace in their presence.
+npc.terraria:witch_doctor.party=I wanted to see how your kind celebrate, I am not disappointed.
+npc.terraria:witch_doctor.windyday.1=Keep your talismans close... if you wind some, you lose some.
+npc.terraria:witch_doctor.windyday.2=The wind blows with the leaves, the leaves blow with the wind.
+npc.terraria:witch_doctor.thunderstorm.1=Lightning casts powerful shadows, shadows cast powerful lightning.
+npc.terraria:witch_doctor.thunderstorm.2=The spirits sound loudly this day, in blinding majesty.
+npc.terraria:witch_doctor.graveyard.1=You may remove the reaper from the cemetery, but you may not remove the cemetery from the reaper...
+npc.terraria:witch_doctor.graveyard.2=Rise, zombie! Zombie, arise!
+
+
+npc.terraria:witch_doctor.happiness.homeless=A hut would suffice. Not all of my surroundings embrace tranquility.
+npc.terraria:witch_doctor.happiness.home.far=I have strayed far from my calm place.
+npc.terraria:witch_doctor.happiness.sparse=Strong energy flows through unimpeded by neighboring presence, very pleasant.
+npc.terraria:witch_doctor.happiness.npc.overcrowded.1=The close presence of others disrupts my juju and comfort.
+npc.terraria:witch_doctor.happiness.npc.overcrowded.2=Too many of your kind are gathering too near, growing much malice in my soul.
+npc.terraria:witch_doctor.happiness.biome.jungle=I cannot fathom existing elsewhere, the Jungle is the center of my voodoo spirits.
+npc.terraria:witch_doctor.happiness.biome.hallow=The magicks of the Hallow are of oppression, not true purity, my heart and soul are enraged.
+npc.terraria:witch_doctor.happiness.evil.corruption=I sense a grim evil pervading the land and all living things in the Corruption.
+npc.terraria:witch_doctor.happiness.evil.crimson=I sense a grim evil pervading the land and all living things in the Crimson.
+npc.terraria:witch_doctor.happiness.evil.dungeon=I sense a grim evil pervading the land and all living things in the Dungeon.
+npc.terraria:witch_doctor.happiness.npc.princess=Kind to my people, %s the Princess is. Much appreciated.
+npc.terraria:witch_doctor.happiness.npc.dryad=%s the Dryad is a kindred spirit of nature, my soul is at peace in their presence.
+npc.terraria:witch_doctor.happiness.npc.guide=%s the Guide is a kindred spirit of nature, my soul is at peace in their presence.
+npc.terraria:witch_doctor.happiness.npc.nurse=I dislike the practices of %s the Nurse. True healing cannot come from metal and glass.
+npc.terraria:witch_doctor.happiness.npc.truffle=Fury fills my being as abominations sprout from tainted earth - I speak of %s the Truffle.
+npc.terraria:witch_doctor.happiness.neutral=I embody contentedness.
 
 ##################
