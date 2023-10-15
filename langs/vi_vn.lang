@@ -64,7 +64,6 @@ itemGroup.terraria:torches=Đuốc
 itemGroup.terraria:crates=Hòm
 itemGroup.terraria:banners=Biểu Ngữ
 itemGroup.terraria:storage=Rương
-itemGroup.terraria:pots=Bình
 itemGroup.terraria:graves=Mộ
 itemGroup.terraria:treasure_bags=Túi Kho Báu
 itemGroup.terraria:trophies=Chiến Lợi Phẩm
@@ -96,12 +95,15 @@ itemGroup.terraria:building.furniture.hanging_pots=Bình Treo
 itemGroup.terraria:building.furniture.sofas=Sôpha
 itemGroup.terraria:building.furniture.planter_boxes=Chậu Cây
 
+itemGroup.terraria:background_objects=Background Objects
+itemGroup.terraria:background_objects.pots=Pots
+itemGroup.terraria:background_objects.thorny_bushes=Thorny Bushes
+
 itemGroup.terraria:mechanisms=Cơ Chế
 itemGroup.terraria:mechanisms.activators=Thiết Bị Kích Hoạt
 itemGroup.terraria:mechanisms.activators.pressure_plates=Đĩa Cảm Biến Áp Lực
 itemGroup.terraria:mechanisms.traps=Bẫy
 
-itemGroup.terraria:thorny_bushes=Bụi Gia
 itemGroup.terraria:seeds=Hạt Giống
 itemGroup.terraria:bunnies=Thỏ
 itemGroup.terraria:squirrels=Sóc
@@ -1502,6 +1504,10 @@ tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
 tile.terraria:furniture/sofas/dynasty.name=Dynasty Sofa
 tile.terraria:boss_tiles/crimson_heart.name=Crimson Heart (block)
 tile.terraria:traps/bee_hive.name=Bee Hive
+tile.terraria:pots/crimson.name=Crimson Pot
+tile.terraria:ambient/copper_coin_stash.name=Small Copper Coin Stash
+tile.terraria:ambient/silver_coin_stash.name=Small Silver Coin Stash
+tile.terraria:ambient/gold_coin_stash.name=Small Gold Coin Stash
 
 
 ##################

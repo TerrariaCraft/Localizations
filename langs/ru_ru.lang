@@ -64,7 +64,6 @@ itemGroup.terraria:torches=Факела
 itemGroup.terraria:crates=Ящики
 itemGroup.terraria:banners=Знамёна
 itemGroup.terraria:storage=Хранилища
-itemGroup.terraria:pots=Горшки
 itemGroup.terraria:graves=Надгробья
 itemGroup.terraria:treasure_bags=Мешки с сокровищами
 itemGroup.terraria:trophies=Трофеи
@@ -96,12 +95,15 @@ itemGroup.terraria:building.furniture.hanging_pots=Подвесные горшк
 itemGroup.terraria:building.furniture.sofas=Диваны
 itemGroup.terraria:building.furniture.planter_boxes=Кадки для растений
 
+itemGroup.terraria:background_objects=Background Objects
+itemGroup.terraria:background_objects.pots=Pots
+itemGroup.terraria:background_objects.thorny_bushes=Thorny Bushes
+
 itemGroup.terraria:mechanisms=Механизмы
 itemGroup.terraria:mechanisms.activators=Активаторы
 itemGroup.terraria:mechanisms.activators.pressure_plates=Нажимные плиты
 itemGroup.terraria:mechanisms.traps=Ловушки
 
-itemGroup.terraria:thorny_bushes=Колючки
 itemGroup.terraria:seeds=Семена
 itemGroup.terraria:bunnies=Кролики
 itemGroup.terraria:squirrels=Белки
@@ -1502,6 +1504,10 @@ tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
 tile.terraria:furniture/sofas/dynasty.name=Dynasty Sofa
 tile.terraria:boss_tiles/crimson_heart.name=Crimson Heart (block)
 tile.terraria:traps/bee_hive.name=Bee Hive
+tile.terraria:pots/crimson.name=Crimson Pot
+tile.terraria:ambient/copper_coin_stash.name=Small Copper Coin Stash
+tile.terraria:ambient/silver_coin_stash.name=Small Silver Coin Stash
+tile.terraria:ambient/gold_coin_stash.name=Small Gold Coin Stash
 
 
 ##################

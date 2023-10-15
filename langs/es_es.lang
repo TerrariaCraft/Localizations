@@ -64,7 +64,6 @@ itemGroup.terraria:torches=Antorchas
 itemGroup.terraria:crates=Cajas
 itemGroup.terraria:banners=Estandartes
 itemGroup.terraria:storage=Almacenamientos
-itemGroup.terraria:pots=Macetas
 itemGroup.terraria:graves=Tumbas
 itemGroup.terraria:treasure_bags=Bolsas del tesoro
 itemGroup.terraria:trophies=Trofeos
@@ -96,12 +95,15 @@ itemGroup.terraria:building.furniture.hanging_pots=Macetas colgantes
 itemGroup.terraria:building.furniture.sofas=Sofás
 itemGroup.terraria:building.furniture.planter_boxes=Maceteros
 
+itemGroup.terraria:background_objects=Background Objects
+itemGroup.terraria:background_objects.pots=Pots
+itemGroup.terraria:background_objects.thorny_bushes=Thorny Bushes
+
 itemGroup.terraria:mechanisms=Mecanismos
 itemGroup.terraria:mechanisms.activators=Activadores
 itemGroup.terraria:mechanisms.activators.pressure_plates=Placas de presión
 itemGroup.terraria:mechanisms.traps=Trampas
 
-itemGroup.terraria:thorny_bushes=Arbustos espinosos
 itemGroup.terraria:seeds=Semillas
 itemGroup.terraria:bunnies=Conejitos
 itemGroup.terraria:squirrels=Ardillas
@@ -1502,6 +1504,10 @@ tile.terraria:boss_tiles/shadow_orb.name=Shadow Orb (block)
 tile.terraria:furniture/sofas/dynasty.name=Dynasty Sofa
 tile.terraria:boss_tiles/crimson_heart.name=Crimson Heart (block)
 tile.terraria:traps/bee_hive.name=Bee Hive
+tile.terraria:pots/crimson.name=Crimson Pot
+tile.terraria:ambient/copper_coin_stash.name=Small Copper Coin Stash
+tile.terraria:ambient/silver_coin_stash.name=Small Silver Coin Stash
+tile.terraria:ambient/gold_coin_stash.name=Small Gold Coin Stash
 
 
 ##################
