@@ -94,6 +94,7 @@ itemGroup.terraria:building.furniture.campfires=Kampvuren
 itemGroup.terraria:building.furniture.hanging_pots=Hangende Potten
 itemGroup.terraria:building.furniture.sofas=Sofas
 itemGroup.terraria:building.furniture.planter_boxes=Plantenbakken
+itemGroup.terraria:building.furniture.fountains=Fountains
 
 itemGroup.terraria:background_objects=Background Objects
 itemGroup.terraria:background_objects.pots=Pots
@@ -888,6 +889,7 @@ item.terraria:critters/frog.name=Frog
 item.terraria:critters/golden/frog.name=Gold Frog
 item.terraria:critters/ladybug.name=Ladybug
 item.terraria:critters/golden/ladybug.name=Gold Ladybug
+item.terraria:critters/faeling.name=Faeling
 
 # Hostiles
 item.terraria:hostiles/slimes/green.name=Green Slime
@@ -1508,6 +1510,16 @@ tile.terraria:pots/crimson.name=Crimson Pot
 tile.terraria:ambient/copper_coin_stash.name=Small Copper Coin Stash
 tile.terraria:ambient/silver_coin_stash.name=Small Silver Coin Stash
 tile.terraria:ambient/gold_coin_stash.name=Small Gold Coin Stash
+tile.terraria:furniture/fountains/pure_water.name=Pure Water Fountain
+tile.terraria:furniture/fountains/desert_water.name=Desert Water Fountain
+tile.terraria:furniture/fountains/jungle_water.name=Jungle Water Fountain
+tile.terraria:furniture/fountains/icy_water.name=Icy Water Fountain
+tile.terraria:furniture/fountains/corrupt_water.name=Corrupt Water Fountain
+tile.terraria:furniture/fountains/crimson_water.name=Crimson Water Fountain
+tile.terraria:furniture/fountains/hallowed_water.name=Hallowed Water Fountain
+tile.terraria:furniture/fountains/blood_water.name=Blood Water Fountain
+tile.terraria:furniture/fountains/cavern_water.name=Cavern Water Fountain
+tile.terraria:furniture/fountains/oasis_water.name=Oasis Water Fountain
 
 
 ##################
@@ -2163,6 +2175,7 @@ entity.terraria:bee.name=Bee
 entity.terraria:bee_smol.name=Bee
 entity.terraria:money_trough.name=Money Trough
 entity.terraria:blood_zombie.name=Blood Zombie
+entity.terraria:creatures/faeling.name=Faeling
 
 entity.terraria:zombies/normal=Zombie
 entity.terraria:zombies/bald=Bald Zombie
