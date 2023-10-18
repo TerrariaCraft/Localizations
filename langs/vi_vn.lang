@@ -2086,6 +2086,7 @@ house.terraria:chairs=Nhà không có ghế!
 house.terraria:ok=Nhà phù hợp để ở.
 
 gui.terraria:buy=Mua với giá
+gui.terraria:sell=Sell price:
 gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Chữa trị với giá
 

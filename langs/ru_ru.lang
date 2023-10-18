@@ -2086,6 +2086,7 @@ house.terraria:chairs=В доме нету стула!
 house.terraria:ok=Этот дом подходит.
 
 gui.terraria:buy=Купить за
+gui.terraria:sell=Sell price:
 gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Вылечится за
 

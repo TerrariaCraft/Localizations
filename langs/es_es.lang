@@ -2086,6 +2086,7 @@ house.terraria:chairs=¡No hay sillas en la casa!
 house.terraria:ok=Esta vivienda no es válida.
 
 gui.terraria:buy=Comprar por
+gui.terraria:sell=Sell price:
 gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Sanar por
 

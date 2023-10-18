@@ -2086,6 +2086,7 @@ house.terraria:chairs=No chairs found in house!
 house.terraria:ok=This is suitable home.
 
 gui.terraria:buy=Buy for
+gui.terraria:sell=Sell price:
 gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Heal for
 
