@@ -1899,6 +1899,9 @@ damage.terraria:summon=%,d ед. призываемого урона
 
 text.terraria:block_tags=Block Tags:
 text.terraria:item_tags=Item Tags:
+text.terraria:entity_tags=Entity Tags:
+text.terraria:sound_tags=Sound Tags:
+text.terraria:buff_tags=Buff Tags:
 
 itweaks.enabled=Этот твик включен
 itweaks.disabled=Этот твик отключен
