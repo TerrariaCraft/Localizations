@@ -1897,6 +1897,8 @@ damage.terraria:ranged=%,d ед. дальнего урона
 damage.terraria:magic=%,d ед. магического урона
 damage.terraria:summon=%,d ед. призываемого урона
 
+text.terraria:targeted_block=Targeted Block:
+text.terraria:targeted_entity=Targeted Entity:
 text.terraria:block_tags=Block Tags:
 text.terraria:item_tags=Item Tags:
 text.terraria:entity_tags=Entity Tags:
