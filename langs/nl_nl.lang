@@ -1520,6 +1520,7 @@ tile.terraria:furniture/fountains/hallowed_water.name=Hallowed Water Fountain
 tile.terraria:furniture/fountains/blood_water.name=Blood Water Fountain
 tile.terraria:furniture/fountains/cavern_water.name=Cavern Water Fountain
 tile.terraria:furniture/fountains/oasis_water.name=Oasis Water Fountain
+tile.terraria:cauldron.name=Cauldron
 
 
 ##################
