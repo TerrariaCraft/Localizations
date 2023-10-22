@@ -327,6 +327,7 @@ item.terraria:bows/tendon.name=Tendon Bow
 item.terraria:living_leaf_wand.name=Leaf Wand
 item.terraria:living_wood_wand.name=Living Wood Wand
 item.terraria:spears/rotted_fork.name=The Rotted Fork
+item.terraria:yoyos/hive_five.name=Hive-Five
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=再生手环
@@ -814,7 +815,7 @@ item.terraria:bomb_sticky.name=粘性炸弹
 item.terraria:dynamite_bouncy.name=弹力雷管
 item.terraria:dynamite_sticky.name=粘性雷管
 item.terraria:herb_bag.name=草药袋
-item.terraria:dev_rainbow_sword.name=彩虹剑
+item.terraria:swords/dev_rainbow.name=Rainbow Sword
 item.terraria:bloody_tear.name=血泪
 item.terraria:solar_tablet.name=日耀碑牌
 item.terraria:holy_hand_grenade.name=神圣手榴弹
@@ -855,6 +856,10 @@ item.terraria:treasure_bags/eye_of_cthulhu.name=Treasure Bag
 item.terraria:purification_powder.name=Purification Powder
 item.terraria:treasure_bags/queen_bee.name=Treasure Bag
 item.terraria:money_trough.name=Money Trough
+item.terraria:empty_bucket.name=Empty Bucket
+item.terraria:lava_bucket.name=Lava Bucket
+item.terraria:water_bucket.name=Water Bucket
+item.terraria:honey_bucket.name=Honey Bucket
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
