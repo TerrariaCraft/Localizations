@@ -155,6 +155,9 @@ soundCategory.terraria.ambience=Ambiente terrariano
 deathScreen.title.terraria=Te han matado...
 
 options.terraria:gore=Efectos de sangre y gore
+gui.terraria:building_chunks_started=Building Chunks...
+gui.terraria:building_chunks=Building Chunks... (%s/%s)
+gui.terraria:building_chunks_done=Building Chunks Complete.
 gui.terraria:changecurse=Cambiar la infección del mundo
 gui.terraria:world_size=Tamaño del mundo: %s
 gui.terraria:changeexpert=Modo difícil: %s
@@ -2156,6 +2159,9 @@ house.terraria:lights=¡No hay fuentes de luz en la casa!
 house.terraria:doors=¡No hay puertas en la casa!
 house.terraria:chairs=¡No hay sillas en la casa!
 house.terraria:ok=Esta vivienda no es válida.
+house.terraria:npc_home_pos=%s's home is at %s.
+house.terraria:npc_not_found=%s not found in world.
+house.terraria:npc_has_no_home=%s does not have a house.
 
 gui.terraria:buy=Comprar por
 gui.terraria:sell=Sell price:
@@ -2320,6 +2326,7 @@ npc.terraria:ui.close=Cerrar
 npc.terraria:ui.advice=Ayuda
 npc.terraria:ui.heal=Sanar
 
+## GUIDE ##
 npc.terraria:guide.name=Guía
 npc.terraria:guide=%s el Guía
 npc.terraria:guide.names=Andrew,Asher,Bradley,Brandon,Brett,Brian,Cody,Cole,Colin,Connor,Daniel,Dylan,Garrett,Harley,Jack,Jacob,Jake,Jeff,Jeffrey,Joe,Kevin,Kyle,Levi,Logan,Luke,Marty,Maxwell,Ryan,Scott,Seth,Steve,Tanner,Trent,Wyatt,Zach
@@ -2327,6 +2334,25 @@ npc.terraria:guide.names=Andrew,Asher,Bradley,Brandon,Brett,Brian,Cody,Cole,Coli
 npc.terraria:guide.interact.1=Saludos, %s. ¿Te puedo ayudar en algo?
 npc.terraria:guide.interact.2=Estoy aquí para aconsejarte sobre tus próximos pasos.  Te aconsejo que hables conmigo cuando estés atascado.
 npc.terraria:guide.interact.3=Dicen que hay una persona que te dirá cómo sobrevivir en esta tierra... Oh, espera. ¡Si soy yo!
+npc.terraria:guide.night=You should stay indoors at night. It is very dangerous to be wandering around in the dark.
+npc.terraria:guide.rain.1=Be advised that certain creatures only come out during rain.
+npc.terraria:guide.rain.2=Don't be alarmed, it is just water. I hear certain species of fish can fly when it rains!
+npc.terraria:guide.windyday.1=Don't get blown away by the strong gusts going on, and be wary of monsters which take advantage of them!
+npc.terraria:guide.windyday.2=It's windy out there! Now is the best time to fly a kite.
+npc.terraria:guide.thunderstorm.1=It's dangerous to be out in a thunderstorm. Take cover, kid.
+npc.terraria:guide.thunderstorm.2=Lightning is no joke, very powerful fiends come out in this weather.
+npc.terraria:guide.bloodmoon.1=Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.
+npc.terraria:guide.bloodmoon.2=If you were to look up, you'd see that the moon is red right now.
+npc.terraria:guide.bloodmoon.3=You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.
+npc.terraria:guide.party=Never been to a party before? You might want to check around with the others. People sometimes bring out special party favors.
+npc.terraria:guide.lanternnight.1=What a beautiful night! With your recent victory, the world seems more at peace, and these lanterns are in celebration of that.
+npc.terraria:guide.lanternnight.2=Do you see the lanterns? Now that you've saved our world, there are regular celebrations of your victory. Always such a beautiful sight!
+npc.terraria:guide.solareclipse=Huh?! Where is the sun? Why is it so dark? It must be a Solar Eclipse!
+npc.terraria:guide.slimerain=If you defeat enough of these slimes, you might invoke the wrath of their king. Be careful!
+npc.terraria:guide.npc.tavernkeep=Normally I'd try to teach you all about the Old One's Army, but you should probably ask %s about that.
+npc.terraria:guide.boss.wallofflesh=I wonder why my predecessor spontaneously burst into flames. Hopefully it doesn't happen to me...
+npc.terraria:guide.npc.taxcollector=I thought you said you purified %s? He's just as greedy as ever!
+
 
 npc.terraria:guide.happiness.homeless=Estoy acostumbrado a no tener hogar, pero no me importaría tener uno.
 npc.terraria:guide.happiness.home.far=Me parece que estoy lejos de casa.
@@ -2389,7 +2415,7 @@ guide.tip.42=Se dice que hay colmenas gigantes enterradas bajo la jungla. No me 
 guide.tip.43=¡Es la hora de mejorar esa vieja fragua! Busca un forja infernal en el inframundo, es el único modo de crear lingotes de piedra infernal.
 
 
-
+## MERCHANT ##
 npc.terraria:merchant.name=Mercader
 npc.terraria:merchant=%s el Mercader
 npc.terraria:merchant.names=Alfred,Barney,Calvin,Edmund,Edwin,Eugene,Finn,Frank,Frederick,Gilbert,Gus,Harold,Howard,Humphrey,Isaac,Joseph,Kristian,Louis,Milton,Mortimer,Ralph,Seymour,Walter,Wilbur
@@ -2428,7 +2454,7 @@ npc.terraria:merchant.happiness.npc.angler=Odio la personalidad de %s el Pescado
 npc.terraria:merchant.happiness.neutral=¡Me siento afortunado! ¿Quieres comprar algo?
 
 
-
+## DEMOLITIONIST ##
 npc.terraria:demolitionist.name=Demoledor
 npc.terraria:demolitionist=%s el Demoledor
 npc.terraria:demolitionist.names=Bazdin,Beldin,Boften,Darur,Dias,Dolbere,Dolgen,Dolgrim,Duerthen,Durim,Fikod,Garval,Gimli,Gimut,Jarut,Morthal,Norkas,Norsun,Oten,Ovbere,Tordak,Urist
@@ -2481,7 +2507,7 @@ npc.terraria:demolitionist.happiness.npc.arms_dealer=¡Me gustaría atar a %s el
 npc.terraria:demolitionist.happiness.neutral=¡Vaya, hoy no tengo ganas de hacer explotar nada!
 
 
-
+## NURSE ##
 npc.terraria:nurse.name=Enfermera
 npc.terraria:nurse=%s la Enfermera
 npc.terraria:nurse.names=Abigail,Allison,Amy,Caitlin,Carly,Claire,Emily,Emma,Hannah,Heather,Helen,Holly,Jenna,Kaitlin,Kaitlyn,Katelyn,Katherine,Kathryn,Katie,Kayla,Lisa,Lorraine,Madeline,Molly
@@ -2540,7 +2566,7 @@ npc.terraria:nurse.happiness.npc.zoologist=Uf, odio relacionarme con %s la Zoól
 npc.terraria:nurse.happiness.neutral=Mis constantes vitales son normales, si es lo que estás preguntando.
 
 
-
+## ARMS DEALER ##
 npc.terraria:arms_dealer.name=Traficante de armas
 npc.terraria:arms_dealer=%s el Traficante de armas
 npc.terraria:arms_dealer.names=Andre,Brimst,Bronson,Dante,Darius,Darnell,Darryl,DeAndre,Demetrius,DeShawn,Dominique,Jalen,Jamal,Malik,Marquis,Maurice,Reginald,Terrance,Terrell,Tony,Trevon,Tyrone,Willie,Xavier
@@ -2558,6 +2584,7 @@ npc.terraria:arms_dealer.graveyard.1=Odio estos sitios. ¡No se puede matar lo q
 npc.terraria:arms_dealer.graveyard.2=Si ves alguna actividad sospechosa en la niebla, yo no tengo nada que ver.
 npc.terraria:arms_dealer.bloodmoon.1=Me encantan estas noches.  ¡Siempre encuentras algo que matar!
 npc.terraria:arms_dealer.bloodmoon.2=Oye, hace una noche magnífica para no hablar con nadie, ¿no crees, %s?
+npc.terraria:arms_dealer.party=Parties are great for getting people to come out of their shell, just like with bullets.
 npc.terraria:arms_dealer.npc.nurse.1=¡Date prisa! Tengo una cita con %s dentro de una hora.
 npc.terraria:arms_dealer.npc.nurse.2=Quiero lo que vende %s. ¿Qué quieres decir? Ella no vende nada.
 npc.terraria:arms_dealer.npc.dryad=%s es una monada.  Es una lástima que sea tan mojigata.
@@ -2583,7 +2610,7 @@ npc.terraria:arms_dealer.happiness.npc.demolitionist=Realmente me ENCANTARÍA us
 npc.terraria:arms_dealer.happiness.neutral=¡Estoy bien, colega!
 
 
-
+## DYE TRADER ##
 npc.terraria:dye_trader.name=Comerciante de tintes
 npc.terraria:dye_trader=%s el Comerciante de tintes
 npc.terraria:dye_trader.names=Abdosir,Ahinadab,Ahirom,Akbar,Batnoam,Bodashtart,Danel,Hannibal,Hanno,Hiram,Kanmi,Philosir,Sikarbaal,Tabnit,Yehomilk,Yutpan
@@ -2619,7 +2646,7 @@ npc.terraria:dye_trader.happiness.npc.pirate=Odio profundamente lo desagradable 
 npc.terraria:dye_trader.happiness.neutral=¿Yo? Estoy bien, estoy bien.
 
 
-
+## DRYAD ##
 npc.terraria:dryad.name=Dríada
 npc.terraria:dryad=%s la Dríada
 npc.terraria:dryad.names=Alalia,Alura,Ariella,Caelia,Calista,Celestia,Chryseis,Elysia,Emerenta,Evvie,Faye,Felicitae,Isis,Lunette,Nata,Nissa,Rosalva,Shea,Tania,Tatiana,Xylia
@@ -2665,7 +2692,7 @@ npc.terraria:dryad.happiness.npc.golfer=¡Odio los hábitos destructivos de %s c
 npc.terraria:dryad.happiness.neutral=Todo está en calma, no lo estropees.
 
 
-
+## WITCH DOCTOR ##
 npc.terraria:witch_doctor.name=Witch Doctor
 npc.terraria:witch_doctor=%s the Witch Doctor
 npc.terraria:witch_doctor.names=Abibe,Gboto,Jamundi,Kogi-ghi,Konah,Opuni,Tairona,U'wa,Xirigua,Zop'a

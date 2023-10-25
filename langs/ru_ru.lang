@@ -155,6 +155,9 @@ soundCategory.terraria.ambience=Окружение Terraria
 deathScreen.title.terraria=Вы были убиты...
 
 options.terraria:gore=Кровавые эффекты
+gui.terraria:building_chunks_started=Building Chunks...
+gui.terraria:building_chunks=Building Chunks... (%s/%s)
+gui.terraria:building_chunks_done=Building Chunks Complete.
 gui.terraria:changecurse=Изменить тип проклятия
 gui.terraria:world_size=Размер мира: %s
 gui.terraria:changeexpert=Эксперт: %s
@@ -2156,6 +2159,9 @@ house.terraria:lights=В доме нету освещения!
 house.terraria:doors=В доме нету двери!
 house.terraria:chairs=В доме нету стула!
 house.terraria:ok=Этот дом подходит.
+house.terraria:npc_home_pos=%s's home is at %s.
+house.terraria:npc_not_found=%s not found in world.
+house.terraria:npc_has_no_home=%s does not have a house.
 
 gui.terraria:buy=Купить за
 gui.terraria:sell=Sell price:
@@ -2320,6 +2326,7 @@ npc.terraria:ui.close=Закрыть
 npc.terraria:ui.advice=Помощь
 npc.terraria:ui.heal=Лечение
 
+## GUIDE ##
 npc.terraria:guide.name=Гид
 npc.terraria:guide=Гид %s
 npc.terraria:guide.names=Эндрю,Ашер,Брэдли,Брэндон,Брэтт,Бриан,Коди,Коул,Колин,Коннор,Даниэль,Дилан,Гаррет,Харли,Джэк,Джэкоб,Джэйк,Джефф,Джеффери,Джо,Кевин,Кайл,Леви,Логан,Люк,Марти,Максвел,Раян,Скот,Сеч,Стив,Таннер,Трент,Виат,Зач
@@ -2327,6 +2334,25 @@ npc.terraria:guide.names=Эндрю,Ашер,Брэдли,Брэндон,Брэ�
 npc.terraria:guide.interact.1=Приветствую, %s. Я могу чем-то вам помочь?
 npc.terraria:guide.interact.2=Я здесь, чтобы дать вам совет, что делать дальше. Рекомендуется поговорить со мной каждый раз, когда вы застрянете.
 npc.terraria:guide.interact.3=Говорят, есть человек, который расскажет, как выжить на этой земле... погоди. Это я.
+npc.terraria:guide.night=You should stay indoors at night. It is very dangerous to be wandering around in the dark.
+npc.terraria:guide.rain.1=Be advised that certain creatures only come out during rain.
+npc.terraria:guide.rain.2=Don't be alarmed, it is just water. I hear certain species of fish can fly when it rains!
+npc.terraria:guide.windyday.1=Don't get blown away by the strong gusts going on, and be wary of monsters which take advantage of them!
+npc.terraria:guide.windyday.2=It's windy out there! Now is the best time to fly a kite.
+npc.terraria:guide.thunderstorm.1=It's dangerous to be out in a thunderstorm. Take cover, kid.
+npc.terraria:guide.thunderstorm.2=Lightning is no joke, very powerful fiends come out in this weather.
+npc.terraria:guide.bloodmoon.1=Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.
+npc.terraria:guide.bloodmoon.2=If you were to look up, you'd see that the moon is red right now.
+npc.terraria:guide.bloodmoon.3=You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.
+npc.terraria:guide.party=Never been to a party before? You might want to check around with the others. People sometimes bring out special party favors.
+npc.terraria:guide.lanternnight.1=What a beautiful night! With your recent victory, the world seems more at peace, and these lanterns are in celebration of that.
+npc.terraria:guide.lanternnight.2=Do you see the lanterns? Now that you've saved our world, there are regular celebrations of your victory. Always such a beautiful sight!
+npc.terraria:guide.solareclipse=Huh?! Where is the sun? Why is it so dark? It must be a Solar Eclipse!
+npc.terraria:guide.slimerain=If you defeat enough of these slimes, you might invoke the wrath of their king. Be careful!
+npc.terraria:guide.npc.tavernkeep=Normally I'd try to teach you all about the Old One's Army, but you should probably ask %s about that.
+npc.terraria:guide.boss.wallofflesh=I wonder why my predecessor spontaneously burst into flames. Hopefully it doesn't happen to me...
+npc.terraria:guide.npc.taxcollector=I thought you said you purified %s? He's just as greedy as ever!
+
 
 npc.terraria:guide.happiness.homeless=Я привык, что у меня нет дома, но я бы не возражал если бы он был.
 npc.terraria:guide.happiness.home.far=Кажется, я далеко от дома.
@@ -2389,7 +2415,7 @@ guide.tip.42=Некоторые говорят, что в джунглях по�
 guide.tip.43=Пришло время обновить эту старую печь! Ищите адскую кузню в Подземном мире, это единственный способ создать слитки Адского Камня.
 
 
-
+## MERCHANT ##
 npc.terraria:merchant.name=Торговец
 npc.terraria:merchant=Торговец %s
 npc.terraria:merchant.names=Альфред,Барни,Кэлвин,Эдмунд,Эдвин,Юджин,Финн,Фрэнк,Фридрик,Гилберт,Гус,Герольд,Говард,Хамфри,Исаак,Джозеф,Кристиан,Луиз,Милтон,Мортимер,Ральф,Сэймур,Волтер,Вилбур
@@ -2428,7 +2454,7 @@ npc.terraria:merchant.happiness.npc.angler=Я ненавижу ужасную л
 npc.terraria:merchant.happiness.neutral=Я чувствую себя успешным! Хотите что-нибудь купить?
 
 
-
+## DEMOLITIONIST ##
 npc.terraria:demolitionist.name=Подрывник
 npc.terraria:demolitionist=Подрывник %s
 npc.terraria:demolitionist.names=Баздин,Белдин,Бофтен,Дарур,Диас,Долбер,Долген,Долгрим,Дуертен,Дурим,Фикод,Гарвал,Гимли,Гимут,Джарут,Мортал,Норкас,Норсун,Отэн,Овбер,Тордак,Урист
@@ -2481,7 +2507,7 @@ npc.terraria:demolitionist.happiness.npc.arms_dealer=Я хочу привяза�
 npc.terraria:demolitionist.happiness.neutral=Что ж, мне сегодня не хочется взорваться!
 
 
-
+## NURSE ##
 npc.terraria:nurse.name=Медсестра
 npc.terraria:nurse=Медсестра %s
 npc.terraria:nurse.names=Эбигейл,Элисэн,Эми,Кэтлин,Карли,Клэр,Эмили,Эмма,Ханнах,Хэзер,Хелен,Холли,Дженна,Кэтлин,Кэтлин,Кэтилин,Кэшерин,Кэшрин,Кэти,Кайла,Лиза,Лорайн,Маделин,Молли
@@ -2540,7 +2566,7 @@ npc.terraria:nurse.happiness.npc.zoologist=Ненавижу лечить %s зо
 npc.terraria:nurse.happiness.neutral=Мои жизненно важные показатели в норме, если вы об этом спрашиваете.
 
 
-
+## ARMS DEALER ##
 npc.terraria:arms_dealer.name=Оружейник
 npc.terraria:arms_dealer=Оружейник %s
 npc.terraria:arms_dealer.names=Андрэ,Бримист,Бронсон,Дантэ,Дариус,Дарнес,Дэррил,ДэАндрэ,Деметриус,ДеШавн,Доминик,Джален,Джамал,Малик,Марикуис,Маурис,Региналд,Терранс,Тэрэлл,Тони,Трэвон,Тирон,Вайл,Иксавиер
@@ -2558,6 +2584,7 @@ npc.terraria:arms_dealer.graveyard.1=Ненавижу такие места. Я 
 npc.terraria:arms_dealer.graveyard.2=Если вы видите какую-то подозрительную активность в этом тумане, я не участвовал.
 npc.terraria:arms_dealer.bloodmoon.1=Я люблю ночи, как сегодня. Не бывает недостатка в вещах для убийства!
 npc.terraria:arms_dealer.bloodmoon.2=Чувак, это хорошая ночь, чтобы ни с кем не разговаривать, тебе не кажется, %s?
+npc.terraria:arms_dealer.party=Parties are great for getting people to come out of their shell, just like with bullets.
 npc.terraria:arms_dealer.npc.nurse.1=Сделай это быстро! У меня свидание с %s через час.
 npc.terraria:arms_dealer.npc.nurse.2=Я хочу то, что продает %s. Что значит, она ничего не продает?
 npc.terraria:arms_dealer.npc.dryad=%s смотритель. Жаль, что она такая ханжа.
@@ -2583,7 +2610,7 @@ npc.terraria:arms_dealer.happiness.npc.demolitionist=Я ДЕЙСТВИТЕЛЬН
 npc.terraria:arms_dealer.happiness.neutral=Я в порядке, дружище!
 
 
-
+## DYE TRADER ##
 npc.terraria:dye_trader.name=Продавец красителей
 npc.terraria:dye_trader=Продавец красителей %s
 npc.terraria:dye_trader.names=Абдосир,Ахинадаб,Ахиром,Акбар,Батноам,Бодаштарт,Данел,Ганибалл,Ганно,Гирам,Канми,Филосир,Сикарбаал,Табнит,Йехомилк,Ютпан
@@ -2619,7 +2646,7 @@ npc.terraria:dye_trader.happiness.npc.pirate=Я искренне ненавиж�
 npc.terraria:dye_trader.happiness.neutral=Я? Я в порядке, я в порядке.
 
 
-
+## DRYAD ##
 npc.terraria:dryad.name=Дриада
 npc.terraria:dryad=Дриада %s
 npc.terraria:dryad.names=Алалия,Алура,Ариэла,Каэлия,Калиста,Селестия,Чрисиес,Элиза,Эмерента,Иви,Фэй,Фелецитэй,Изиз,Люнета,Ната,Ниса,Росальва,Шиа,Таниа,Татьяна,Хулиа
@@ -2665,7 +2692,7 @@ npc.terraria:dryad.happiness.npc.golfer=Ненавижу разрушитель�
 npc.terraria:dryad.happiness.neutral=Все спокойно, не лажайте.
 
 
-
+## WITCH DOCTOR ##
 npc.terraria:witch_doctor.name=Witch Doctor
 npc.terraria:witch_doctor=%s the Witch Doctor
 npc.terraria:witch_doctor.names=Abibe,Gboto,Jamundi,Kogi-ghi,Konah,Opuni,Tairona,U'wa,Xirigua,Zop'a

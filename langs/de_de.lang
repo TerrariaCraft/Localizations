@@ -155,6 +155,9 @@ soundCategory.terraria.ambience=Terraria Ambiente
 deathScreen.title.terraria=Du wurdest erschlagen
 
 options.terraria:gore=Blut Effekte
+gui.terraria:building_chunks_started=Building Chunks...
+gui.terraria:building_chunks=Building Chunks... (%s/%s)
+gui.terraria:building_chunks_done=Building Chunks Complete.
 gui.terraria:changecurse=Ändere Weltenfluch
 gui.terraria:world_size=Welt Größe: %s
 gui.terraria:changeexpert=Expert Modus: %s
@@ -2156,6 +2159,9 @@ house.terraria:lights=No light sources found in house!
 house.terraria:doors=No doors found in house!
 house.terraria:chairs=No chairs found in house!
 house.terraria:ok=This is suitable home.
+house.terraria:npc_home_pos=%s's home is at %s.
+house.terraria:npc_not_found=%s not found in world.
+house.terraria:npc_has_no_home=%s does not have a house.
 
 gui.terraria:buy=Buy for
 gui.terraria:sell=Sell price:
@@ -2320,6 +2326,7 @@ npc.terraria:ui.close=Close
 npc.terraria:ui.advice=Help
 npc.terraria:ui.heal=Heal
 
+## GUIDE ##
 npc.terraria:guide.name=Guide
 npc.terraria:guide=%s the Guide
 npc.terraria:guide.names=Andrew,Asher,Bradley,Brandon,Brett,Brian,Cody,Cole,Colin,Connor,Daniel,Dylan,Garrett,Harley,Jack,Jacob,Jake,Jeff,Jeffrey,Joe,Kevin,Kyle,Levi,Logan,Luke,Marty,Maxwell,Ryan,Scott,Seth,Steve,Tanner,Trent,Wyatt,Zach
@@ -2327,6 +2334,25 @@ npc.terraria:guide.names=Andrew,Asher,Bradley,Brandon,Brett,Brian,Cody,Cole,Coli
 npc.terraria:guide.interact.1=Greetings, %s. Is there something I can help you with?
 npc.terraria:guide.interact.2=I am here to give you advice on what to do next. It is recommended that you talk with me anytime you get stuck.
 npc.terraria:guide.interact.3=They say there is a person who will tell you how to survive in this land... oh wait. That's me.
+npc.terraria:guide.night=You should stay indoors at night. It is very dangerous to be wandering around in the dark.
+npc.terraria:guide.rain.1=Be advised that certain creatures only come out during rain.
+npc.terraria:guide.rain.2=Don't be alarmed, it is just water. I hear certain species of fish can fly when it rains!
+npc.terraria:guide.windyday.1=Don't get blown away by the strong gusts going on, and be wary of monsters which take advantage of them!
+npc.terraria:guide.windyday.2=It's windy out there! Now is the best time to fly a kite.
+npc.terraria:guide.thunderstorm.1=It's dangerous to be out in a thunderstorm. Take cover, kid.
+npc.terraria:guide.thunderstorm.2=Lightning is no joke, very powerful fiends come out in this weather.
+npc.terraria:guide.bloodmoon.1=Hey, buddy, do you know where any deathweed is? Oh, no reason; just wondering, is all.
+npc.terraria:guide.bloodmoon.2=If you were to look up, you'd see that the moon is red right now.
+npc.terraria:guide.bloodmoon.3=You can tell a Blood Moon is out when the sky turns red. There is something about it that causes monsters to swarm.
+npc.terraria:guide.party=Never been to a party before? You might want to check around with the others. People sometimes bring out special party favors.
+npc.terraria:guide.lanternnight.1=What a beautiful night! With your recent victory, the world seems more at peace, and these lanterns are in celebration of that.
+npc.terraria:guide.lanternnight.2=Do you see the lanterns? Now that you've saved our world, there are regular celebrations of your victory. Always such a beautiful sight!
+npc.terraria:guide.solareclipse=Huh?! Where is the sun? Why is it so dark? It must be a Solar Eclipse!
+npc.terraria:guide.slimerain=If you defeat enough of these slimes, you might invoke the wrath of their king. Be careful!
+npc.terraria:guide.npc.tavernkeep=Normally I'd try to teach you all about the Old One's Army, but you should probably ask %s about that.
+npc.terraria:guide.boss.wallofflesh=I wonder why my predecessor spontaneously burst into flames. Hopefully it doesn't happen to me...
+npc.terraria:guide.npc.taxcollector=I thought you said you purified %s? He's just as greedy as ever!
+
 
 npc.terraria:guide.happiness.homeless=I'm quite used to not having a home, but I wouldn't mind one.
 npc.terraria:guide.happiness.home.far=I'm far from my home, it seems.
@@ -2389,7 +2415,7 @@ guide.tip.42=Some say there are giant bee hives buried underground in the jungle
 guide.tip.43=It's time to upgrade that old Furnace! Look for a Hellforge in the Underworld, it's the only way to craft Hellstone bars.
 
 
-
+## MERCHANT ##
 npc.terraria:merchant.name=Merchant
 npc.terraria:merchant=%s the Merchant
 npc.terraria:merchant.names=Alfred,Barney,Calvin,Edmund,Edwin,Eugene,Finn,Frank,Frederick,Gilbert,Gus,Harold,Howard,Humphrey,Isaac,Joseph,Kristian,Louis,Milton,Mortimer,Ralph,Seymour,Walter,Wilbur
@@ -2428,7 +2454,7 @@ npc.terraria:merchant.happiness.npc.angler=I hate %s the Angler's terrible perso
 npc.terraria:merchant.happiness.neutral=I'm feeling successful! Want to buy something?
 
 
-
+## DEMOLITIONIST ##
 npc.terraria:demolitionist.name=Demolitionist
 npc.terraria:demolitionist=%s the Demolitionist
 npc.terraria:demolitionist.names=Bazdin,Beldin,Boften,Darur,Dias,Dolbere,Dolgen,Dolgrim,Duerthen,Durim,Fikod,Garval,Gimli,Gimut,Jarut,Morthal,Norkas,Norsun,Oten,Ovbere,Tordak,Urist
@@ -2481,7 +2507,7 @@ npc.terraria:demolitionist.happiness.npc.arms_dealer=I wanna strap %s the Arms D
 npc.terraria:demolitionist.happiness.neutral=Well, I don't feel like exploding today!
 
 
-
+## NURSE ##
 npc.terraria:nurse.name=Nurse
 npc.terraria:nurse=%s the Nurse
 npc.terraria:nurse.names=Abigail,Allison,Amy,Caitlin,Carly,Claire,Emily,Emma,Hannah,Heather,Helen,Holly,Jenna,Kaitlin,Kaitlyn,Katelyn,Katherine,Kathryn,Katie,Kayla,Lisa,Lorraine,Madeline,Molly
@@ -2540,7 +2566,7 @@ npc.terraria:nurse.happiness.npc.zoologist=I hate treating %s the Zoologist, so 
 npc.terraria:nurse.happiness.neutral=My vital signs are normal, if that's what you're asking.
 
 
-
+## ARMS DEALER ##
 npc.terraria:arms_dealer.name=Arms Dealer
 npc.terraria:arms_dealer=%s the Arms Dealer
 npc.terraria:arms_dealer.names=Andre,Brimst,Bronson,Dante,Darius,Darnell,Darryl,DeAndre,Demetrius,DeShawn,Dominique,Jalen,Jamal,Malik,Marquis,Maurice,Reginald,Terrance,Terrell,Tony,Trevon,Tyrone,Willie,Xavier
@@ -2558,6 +2584,7 @@ npc.terraria:arms_dealer.graveyard.1=I hate places like this. I can't kill what'
 npc.terraria:arms_dealer.graveyard.2=If you see any suspicious activity out in that fog, I wasn't involved.
 npc.terraria:arms_dealer.bloodmoon.1=I love nights like tonight. There is never a shortage of things to kill!
 npc.terraria:arms_dealer.bloodmoon.2=Man, it's a good night not to talk to anybody, don't you think, %s?
+npc.terraria:arms_dealer.party=Parties are great for getting people to come out of their shell, just like with bullets.
 npc.terraria:arms_dealer.npc.nurse.1=Make it quick! I've got a date with %s in an hour.
 npc.terraria:arms_dealer.npc.nurse.2=I want what %s is sellin'. What do you mean, she doesn't sell anything?
 npc.terraria:arms_dealer.npc.dryad=%s is a looker. Too bad she's such a prude.
@@ -2583,7 +2610,7 @@ npc.terraria:arms_dealer.happiness.npc.demolitionist=I'd REALLY like to use %s t
 npc.terraria:arms_dealer.happiness.neutral=I'm good, buddy!
 
 
-
+## DYE TRADER ##
 npc.terraria:dye_trader.name=Dye Trader
 npc.terraria:dye_trader=%s the Dye Trader
 npc.terraria:dye_trader.names=Abdosir,Ahinadab,Ahirom,Akbar,Batnoam,Bodashtart,Danel,Hannibal,Hanno,Hiram,Kanmi,Philosir,Sikarbaal,Tabnit,Yehomilk,Yutpan
@@ -2619,7 +2646,7 @@ npc.terraria:dye_trader.happiness.npc.pirate=I truly, truly hate how unsavory %s
 npc.terraria:dye_trader.happiness.neutral=Me? I’m fine, I’m fine.
 
 
-
+## DRYAD ##
 npc.terraria:dryad.name=Dryad
 npc.terraria:dryad=%s the Dryad
 npc.terraria:dryad.names=Alalia,Alura,Ariella,Caelia,Calista,Celestia,Chryseis,Elysia,Emerenta,Evvie,Faye,Felicitae,Isis,Lunette,Nata,Nissa,Rosalva,Shea,Tania,Tatiana,Xylia
@@ -2665,7 +2692,7 @@ npc.terraria:dryad.happiness.npc.golfer=I hate %s's destructive habits towards n
 npc.terraria:dryad.happiness.neutral=All is peaceful, don't mess it up.
 
 
-
+## WITCH DOCTOR ##
 npc.terraria:witch_doctor.name=Witch Doctor
 npc.terraria:witch_doctor=%s the Witch Doctor
 npc.terraria:witch_doctor.names=Abibe,Gboto,Jamundi,Kogi-ghi,Konah,Opuni,Tairona,U'wa,Xirigua,Zop'a
