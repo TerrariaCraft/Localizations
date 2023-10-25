@@ -67,6 +67,12 @@ itemGroup.terraria:storage=Хранилища
 itemGroup.terraria:graves=Надгробья
 itemGroup.terraria:treasure_bags=Мешки с сокровищами
 itemGroup.terraria:trophies=Трофеи
+itemGroup.terraria:buckets=Buckets
+itemGroup.terraria:pets=Pets
+itemGroup.terraria:glowing_pets=Light Pets
+itemGroup.terraria:carts=Minecarts
+itemGroup.terraria:mounts=Mounts
+itemGroup.terraria:hooks=Hooks
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -864,6 +870,10 @@ item.terraria:lava_bucket.name=Lava Bucket
 item.terraria:water_bucket.name=Water Bucket
 item.terraria:honey_bucket.name=Honey Bucket
 
+# Pets
+item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
+item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
+
 # Critters
 item.terraria:critters/bunny.name=Кролик
 item.terraria:critters/bunny_explosive.name=Взрывной кролик
@@ -932,6 +942,11 @@ item.terraria:critters/ladybug.name=Божья коровка
 item.terraria:critters/golden/ladybug.name=Золотая божья коровка
 item.terraria:critters/faeling.name=Faeling
 
+# Hostiles (Boss Spawning)
+item.terraria:slime_crown.name=Корона слизня
+item.terraria:suspicious_looking_eye.name=Подозрительно выглядящий глаз
+item.terraria:abeemination.name=Abeemination
+
 # Hostiles
 item.terraria:hostiles/slimes/green.name=Зеленый слизень
 item.terraria:hostiles/slimes/blue.name=Синий слизень
@@ -952,9 +967,6 @@ item.terraria:hostiles/drippler.name=Стекатель
 item.terraria:hostiles/gnome.name=Гном
 item.terraria:hostiles/hornet.name=Шершень
 item.terraria:hostiles/ghost.name=Призрак
-item.terraria:slime_crown.name=Корона слизня
-item.terraria:suspicious_looking_eye.name=Подозрительно выглядящий глаз
-item.terraria:abeemination.name=Abeemination
 item.terraria:hostiles/blood_zombie.name=Blood Zombie
 
 #################
@@ -2150,6 +2162,9 @@ chat.terraria:npc.move_in=%s has arrived!
 
 chat.terraria:boss_tiles/shadow_orb.1=A horrible chill goes down your spine...
 chat.terraria:boss_tiles/shadow_orb.2=Screams echo around you...
+
+chat.terraria:boss_tiles/crimson_heart.1=A horrible chill goes down your spine...
+chat.terraria:boss_tiles/crimson_heart.2=Screams echo around you...
 
 house.terraria:limits=Превышен предел размера дома: %s/%s
 house.terraria:occupied=Этот дом уже заселен!

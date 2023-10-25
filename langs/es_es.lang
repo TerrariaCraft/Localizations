@@ -67,6 +67,12 @@ itemGroup.terraria:storage=Almacenamientos
 itemGroup.terraria:graves=Tumbas
 itemGroup.terraria:treasure_bags=Bolsas del tesoro
 itemGroup.terraria:trophies=Trofeos
+itemGroup.terraria:buckets=Buckets
+itemGroup.terraria:pets=Pets
+itemGroup.terraria:glowing_pets=Light Pets
+itemGroup.terraria:carts=Minecarts
+itemGroup.terraria:mounts=Mounts
+itemGroup.terraria:hooks=Hooks
 
 itemGroup.terraria:crafting_stations=Estaciones de creación
 itemGroup.terraria:crafting_stations.work_benches=Bancos de trabajo
@@ -864,6 +870,10 @@ item.terraria:lava_bucket.name=Lava Bucket
 item.terraria:water_bucket.name=Water Bucket
 item.terraria:honey_bucket.name=Honey Bucket
 
+# Pets
+item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
+item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
+
 # Critters
 item.terraria:critters/bunny.name=Conejo
 item.terraria:critters/bunny_explosive.name=Conejo explosivo
@@ -932,6 +942,11 @@ item.terraria:critters/ladybug.name=Mariquita
 item.terraria:critters/golden/ladybug.name=Mariquita dorada
 item.terraria:critters/faeling.name=Faeling
 
+# Hostiles (Boss Spawning)
+item.terraria:slime_crown.name=Corona de slime
+item.terraria:suspicious_looking_eye.name=Ojo de aspecto sospechoso
+item.terraria:abeemination.name=Abeemination
+
 # Hostiles
 item.terraria:hostiles/slimes/green.name=Slime verde
 item.terraria:hostiles/slimes/blue.name=Slime azul
@@ -952,9 +967,6 @@ item.terraria:hostiles/drippler.name=Goteador
 item.terraria:hostiles/gnome.name=Gnomo
 item.terraria:hostiles/hornet.name=Avispón
 item.terraria:hostiles/ghost.name=Fantasma
-item.terraria:slime_crown.name=Corona de slime
-item.terraria:suspicious_looking_eye.name=Ojo de aspecto sospechoso
-item.terraria:abeemination.name=Abeemination
 item.terraria:hostiles/blood_zombie.name=Blood Zombie
 
 #################
@@ -2150,6 +2162,9 @@ chat.terraria:npc.move_in=%s ha llegado.
 
 chat.terraria:boss_tiles/shadow_orb.1=A horrible chill goes down your spine...
 chat.terraria:boss_tiles/shadow_orb.2=Screams echo around you...
+
+chat.terraria:boss_tiles/crimson_heart.1=A horrible chill goes down your spine...
+chat.terraria:boss_tiles/crimson_heart.2=Screams echo around you...
 
 house.terraria:limits=Límite de tamaño de la casa superado: %s/%s
 house.terraria:occupied=Esta vivienda ya está ocupada.
