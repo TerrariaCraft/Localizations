@@ -2270,6 +2270,11 @@ house.terraria:ok=Этот дом подходит.
 house.terraria:npc_home_pos=Дом %s находится в %s.
 house.terraria:npc_not_found=%s не найден в мире.
 house.terraria:npc_has_no_home=%s не имеет дома.
+house.terraria:npc_already_here=%s already lives here.
+house.terraria:npc_kicked=%s was kicked from house %s.
+house.terraria:npc_moved=%s was moved into house %s.
+house.terraria:show_location=Show location
+house.terraria:move_here=Move Here
 
 gui.terraria:buy=Купить за
 gui.terraria:sell=Продать за

@@ -2270,6 +2270,11 @@ house.terraria:ok=Nhà phù hợp để ở.
 house.terraria:npc_home_pos=%s's home is at %s.
 house.terraria:npc_not_found=%s not found in world.
 house.terraria:npc_has_no_home=%s does not have a house.
+house.terraria:npc_already_here=%s already lives here.
+house.terraria:npc_kicked=%s was kicked from house %s.
+house.terraria:npc_moved=%s was moved into house %s.
+house.terraria:show_location=Show location
+house.terraria:move_here=Move Here
 
 gui.terraria:buy=Mua với giá
 gui.terraria:sell=Sell price:
