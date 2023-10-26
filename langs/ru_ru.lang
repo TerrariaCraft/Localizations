@@ -1828,6 +1828,7 @@ tooltip.terraria:uses_mana=Использует %s ед. маны
 tooltip.terraria:restores_life=Восстанавливает %s ед. здоровья
 tooltip.terraria:restores_mana=Восстанавливает %s ед. маны
 tooltip.terraria:potion_duration=Длительность: %s мин.
+tooltip.terraria:potion_duration_s=Duration: %s sec
 tooltip.terraria:regen_speed_increase=Ускоряет регенерацию здоровья
 tooltip.terraria:increased_movement_speed=%,d%%-ное увеличение скорости передвижения
 tooltip.terraria:placeable.key=Можно установить пока нажата клавиша %s

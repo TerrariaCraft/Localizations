@@ -1828,6 +1828,7 @@ tooltip.terraria:uses_mana=Sử dụng %s mana
 tooltip.terraria:restores_life=Hồi %s máu
 tooltip.terraria:restores_mana=Hồi %s mana
 tooltip.terraria:potion_duration=Thời gian hiệu lực: %s phút
+tooltip.terraria:potion_duration_s=Duration: %s sec
 tooltip.terraria:regen_speed_increase=Tăng tốc độ hồi máu
 tooltip.terraria:increased_movement_speed=Tăng %,d%% tốc chạy
 tooltip.terraria:placeable.key=Có thể đặt khi giữ phím %s

@@ -1828,6 +1828,7 @@ tooltip.terraria:uses_mana=使用%s魔力
 tooltip.terraria:restores_life=恢复%s生命
 tooltip.terraria:restores_mana=恢复%s魔力
 tooltip.terraria:potion_duration=%s分钟持续时间
+tooltip.terraria:potion_duration_s=Duration: %s sec
 tooltip.terraria:regen_speed_increase=提供生命再生
 tooltip.terraria:increased_movement_speed=移动速度提高%,d%%
 tooltip.terraria:placeable.key=长按%s键时可放置
