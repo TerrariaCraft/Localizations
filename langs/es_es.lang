@@ -2275,6 +2275,7 @@ house.terraria:npc_kicked=%s was kicked from house %s.
 house.terraria:npc_moved=%s was moved into house %s.
 house.terraria:show_location=Show location
 house.terraria:move_here=Move Here
+house.terraria:query=Query house
 
 gui.terraria:buy=Comprar por
 gui.terraria:sell=Sell price:
