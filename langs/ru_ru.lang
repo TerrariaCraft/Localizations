@@ -221,6 +221,7 @@ jei.terraria.anvil_around=<T>
 jei.terraria.anvil.any=Любая наковальня
 jei.terraria.anvil.mythrilororichalcum=Мифриловая/Орихалковая наковальня
 jei.terraria.table_chair_around=Стол и стул
+jei.terraria.shimmer=Shimmer
 
 mccue.trigger.terraria:crafting.name=Создание
 mccue.trigger.terraria:crafting.if=предмет создан
@@ -442,6 +443,20 @@ item.terraria:artifacts/angler_earring.name=Серьга рыбака
 item.terraria:artifacts/tackle_box.name=Коробочка с рыбацкими снастями
 item.terraria:artifacts/high_test_fishing_line.name=Прочная леска
 item.terraria:artifacts/angler_tackle_bag.name=Сумка рыбака
+item.terraria:artifacts/armor_polish.name=Armor Polish
+item.terraria:artifacts/vitamins.name=Vitamins
+item.terraria:artifacts/armor_bracing.name=Armor Bracing
+item.terraria:artifacts/adhesive_bandage.name=Adhesive Bandage
+item.terraria:artifacts/medicated_bandage.name=Medicated Bandage
+item.terraria:artifacts/trifold_map.name=Trifold Map
+item.terraria:artifacts/fast_clock.name=Fast Clock
+item.terraria:artifacts/the_plan.name=The Plan
+item.terraria:artifacts/nazar.name=Nazar
+item.terraria:artifacts/megaphone.name=Megaphone
+item.terraria:artifacts/countercurse_mantra.name=Countercurse Mantra
+item.terraria:artifacts/ankh_charm.name=Ankh Charm
+item.terraria:artifacts/pocket_mirror.name=Pocket Mirror
+item.terraria:artifacts/reflective_shades.name=Reflective Shades
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -818,6 +833,7 @@ item.terraria:dyes/purple.name=Фиолетовая краска
 item.terraria:dyes/violet.name=Пурпурная краска
 item.terraria:dyes/pink.name=Розовая краска
 item.terraria:dyes/rainbow.name=Радужная краска
+item.terraria:dyes/silver.name=Silver Dye
 item.terraria:seeds/jungle.name=Семена джунглей
 item.terraria:world_info_editor.name=Редактор информации о мире
 item.terraria:wire_cutter.name=Кусачки
@@ -903,6 +919,7 @@ item.terraria:empty_bucket.name=Ведро
 item.terraria:lava_bucket.name=Ведро с лавой
 item.terraria:water_bucket.name=Ведро с водой
 item.terraria:honey_bucket.name=Ведро с медом
+item.terraria:demon_heart.name=Demon Heart
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
@@ -1767,6 +1784,33 @@ buff.terraria:dryad_blessing.desc=Силы природы защищают ва�
 buff.terraria:battle.name=Бой
 buff.terraria:battle.desc=Увеличена скорость появления врагов
 
+buff.terraria:venom.name=Acid Venom
+buff.terraria:venom.desc=Losing life
+
+buff.terraria:broken_armor.name=Broken Armor
+buff.terraria:broken_armor.desc=Defense is cut in half
+
+buff.terraria:weak.name=Weak
+buff.terraria:weak.desc=Physical abilities are decreased
+
+buff.terraria:bleeding.name=Bleeding
+buff.terraria:bleeding.desc=Cannot regenerate life
+
+buff.terraria:confused.name=Confused
+buff.terraria:confused.desc=Movement is reversed
+
+buff.terraria:slow.name=Slow
+buff.terraria:slow.desc=Movement speed is reduced
+
+buff.terraria:silenced.name=Silenced
+buff.terraria:silenced.desc=Cannot use items that require mana
+
+buff.terraria:cursed.name=Cursed
+buff.terraria:cursed.desc=Cannot use any items
+
+buff.terraria:stoned.name=Stoned
+buff.terraria:stoned.desc=You are completely petrified!
+
 #################
 
 
@@ -1848,6 +1892,20 @@ tooltip.terraria:artifacts/philosopher_stone=Уменьшает время во�
 tooltip.terraria:artifacts/angler_earring=Увеличивает мастерство рыбалки
 tooltip.terraria:artifacts/tackle_box=Уменьшает вероятность использования наживки
 tooltip.terraria:artifacts/high_test_fishing_line=Леска никогда не порвётся
+tooltip.terraria:artifacts/armor_polish=Immunity to Broken Armor
+tooltip.terraria:artifacts/vitamins=Immunity to Weakness
+tooltip.terraria:artifacts/armor_bracing=Immunity to Weakness and Broken Armor
+tooltip.terraria:artifacts/adhesive_bandage=Immunity to Bleeding
+tooltip.terraria:artifacts/medicated_bandage=Immunity to Poison and Bleeding
+tooltip.terraria:artifacts/trifold_map=Immunity to Confusion
+tooltip.terraria:artifacts/fast_clock=Immunity to Slow
+tooltip.terraria:artifacts/the_plan=Immunity to Slow and Confusion
+tooltip.terraria:artifacts/nazar=Immunity to Curse
+tooltip.terraria:artifacts/megaphone=Immunity to Silence
+tooltip.terraria:artifacts/countercurse_mantra=Immunity to Silence and Curse
+tooltip.terraria:artifacts/ankh_charm=Grants immunity to most debuffs
+tooltip.terraria:artifacts/pocket_mirror=Immunity to petrification
+tooltip.terraria:artifacts/reflective_shades=Immunity to Darkness and Petrification
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -1998,6 +2056,7 @@ tooltip.terraria:food/grape_juice='Сладкий. Жидкий. Фиолето�
 tooltip.terraria:food/monster_lasagna='На вкус как мясо с лапшой и волосами'
 tooltip.terraria:food/roasted_duck='Всё лучше, чем курица со стены'
 tooltip.terraria:food/pumpkin_pie='Съешь все за один присест!'
+tooltip.terraria:demon_heart=Permanently increases the number of accessory slots
 
 # Misc Tooltips
 
