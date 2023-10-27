@@ -2733,12 +2733,14 @@ npc.terraria:dye_trader.names=Abdosir,Ahinadab,Ahirom,Akbar,Batnoam,Bodashtart,D
 npc.terraria:dye_trader.interact.1=I bring you the richest colors in exchange for your riches!
 npc.terraria:dye_trader.interact.2=My dear, what you're wearing is much too drab. You absolutely must take a lesson in dyeing your tired attire!
 npc.terraria:dye_trader.interact.3=The only kind of wood I would bother dyeing is RICH Mahogany. Dyeing any other wood is such a waste.
+npc.terraria:dye_trader.npc.pirate=You must do something about %s. Everytime he comes over here, it takes me a week to get the smell off!
+npc.terraria:dye_trader.party=I truly love parties, so many beautiful colors and happy people.
+npc.terraria:dye_trader.windyday.1=Give me a moment, my dear. I must secure my palette from the gusty gales!
+npc.terraria:dye_trader.windyday.2=Marvelous! The wind brings me petals of all colors!
 npc.terraria:dye_trader.rain.1=No, no, these robes cannot get wet! They will lose their vibrant color!
 npc.terraria:dye_trader.rain.2=Too much water dilutes my selection! This rain better pass, soon!
 npc.terraria:dye_trader.thunderstorm.1=Please, do tell when the wrath of nature has ended out there!
 npc.terraria:dye_trader.thunderstorm.2=Egads! I loathe these bothersome storms!
-npc.terraria:dye_trader.windyday.1=Give me a moment, my dear. I must secure my palette from the gusty gales!
-npc.terraria:dye_trader.windyday.2=Marvelous! The wind brings me petals of all colors!
 npc.terraria:dye_trader.graveyard.1=My, my... this is no good. The putrid surroundings are dulling my dye petals.
 npc.terraria:dye_trader.graveyard.2=You think this a place worthy of my presence? So drab, so dull, these people are literally below me.
 

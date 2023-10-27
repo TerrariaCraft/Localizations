@@ -2733,12 +2733,14 @@ npc.terraria:dye_trader.names=Abdosir,Ahinadab,Ahirom,Akbar,Batnoam,Bodashtart,D
 npc.terraria:dye_trader.interact.1=¡A cambio de tus riquezas, te traeré los colores más ricos!
 npc.terraria:dye_trader.interact.2=Querida, lo que llevas puesto es demasiado monótono. ¡Necesitas clases para aprender a teñir adecuadamente tu ropa!
 npc.terraria:dye_trader.interact.3=El único tipo de madera que me molestaría en teñir es la caoba rica. Es un desperdicio teñir cualquier otro tipo de madera.
+npc.terraria:dye_trader.npc.pirate=You must do something about %s. Everytime he comes over here, it takes me a week to get the smell off!
+npc.terraria:dye_trader.party=I truly love parties, so many beautiful colors and happy people.
+npc.terraria:dye_trader.windyday.1=Dame un momento, cielo. ¡Debo preparar mi paleta para las ráfagas del vendaval!
+npc.terraria:dye_trader.windyday.2=¡Maravilloso! ¡El viento me trae pétalos de todos los colores!
 npc.terraria:dye_trader.rain.1=¡No, no, estos vestidos no se pueden mojar! ¡Perderán su color brillante!
 npc.terraria:dye_trader.rain.2=¡Mi selección se diluye con demasiada agua! ¡Espero que esta lluvia se pase pronto!
 npc.terraria:dye_trader.thunderstorm.1=¡Por favor, avísame cuando se haya pasado la ira de la naturaleza ahí fuera!
 npc.terraria:dye_trader.thunderstorm.2=¡Rayos! ¡Cómo odio estas tormentas tan molestas!
-npc.terraria:dye_trader.windyday.1=Dame un momento, cielo. ¡Debo preparar mi paleta para las ráfagas del vendaval!
-npc.terraria:dye_trader.windyday.2=¡Maravilloso! ¡El viento me trae pétalos de todos los colores!
 npc.terraria:dye_trader.graveyard.1=Vaya, vaya... Esto no es bueno. Este pútrido entorno está apagando mis pétalos de tinte.
 npc.terraria:dye_trader.graveyard.2=¿Te crees que este sitio es digno de mi presencia? Tan anodino, tan tedioso... Esta gente está literalmente, por debajo de mí.
 
