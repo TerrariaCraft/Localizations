@@ -457,6 +457,7 @@ item.terraria:artifacts/countercurse_mantra.name=Countercurse Mantra
 item.terraria:artifacts/ankh_charm.name=Ankh Charm
 item.terraria:artifacts/pocket_mirror.name=Pocket Mirror
 item.terraria:artifacts/reflective_shades.name=Reflective Shades
+item.terraria:artifacts/wings/fledgling.name=Fledgling Wings
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Faible potion de soin
