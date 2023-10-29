@@ -1812,6 +1812,9 @@ buff.terraria:cursed.desc=Cannot use any items
 buff.terraria:stoned.name=Stoned
 buff.terraria:stoned.desc=You are completely petrified!
 
+buff.terraria:shadow_orb.name=Shadow Orb
+buff.terraria:shadow_orb.desc=A magical orb that provides light
+
 #################
 
 
@@ -2334,6 +2337,7 @@ entity.terraria:space_gun_laser.name=Laser
 entity.terraria:spark.name=Spark
 entity.terraria:starfury_star.name=Starfury Star
 entity.terraria:yoyo.name=Yoyo
+entity.terraria:shadow_orb.name=Shadow Orb
 
 entity.terraria:hostile/green_slime.name=Green Slime
 entity.terraria:hostile/blue_slime.name=Blue Slime
