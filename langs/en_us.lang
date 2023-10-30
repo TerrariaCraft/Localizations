@@ -2264,6 +2264,12 @@ chat.terraria:boss_tiles/shadow_orb.2=Screams echo around you...
 chat.terraria:boss_tiles/crimson_heart.1=A horrible chill goes down your spine...
 chat.terraria:boss_tiles/crimson_heart.2=Screams echo around you...
 
+debug.terraria:copy_player_pos.help=F3 + C = Copy player position to clipboard
+debug.terraria:copy_player_pos=Player position copied to clipboard
+
+debug.terraria:copy_block_state.help=F3 + I = Copy block state to clipboard
+debug.terraria:copy_block_state=Block state copied to clipboard
+
 house.terraria:limits=House size limit exceeded: %s/%s
 house.terraria:occupied=This house is already occupied!
 house.terraria:small=House is too small!
@@ -2317,6 +2323,7 @@ tbiome.terraria:granite_cave=Granite Cave
 tbiome.terraria:marble_cave=Marbles Cave
 tbiome.terraria:living_tree=Livingwood Tree
 tbiome.terraria:beehive=Bee Hive
+tbiome.terraria:frozen_ocean=Frozen Ocean
 
 ##################
 
