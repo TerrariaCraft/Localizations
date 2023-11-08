@@ -1626,6 +1626,7 @@ tile.terraria:furniture/fountains/blood_water.name=Фонтан кровавой
 tile.terraria:furniture/fountains/cavern_water.name=Фонтан пещерной воды
 tile.terraria:furniture/fountains/oasis_water.name=Фонтан оазисной воды
 tile.terraria:cauldron.name=Котел
+tile.terraria:pots/pyramid.name=Pyramid Pot
 
 
 ##################
@@ -2062,6 +2063,7 @@ tooltip.terraria:food/monster_lasagna='На вкус как мясо с лапш
 tooltip.terraria:food/roasted_duck='Всё лучше, чем курица со стены'
 tooltip.terraria:food/pumpkin_pie='Съешь все за один присест!'
 tooltip.terraria:demon_heart=Permanently increases the number of accessory slots
+tooltip.terraria:mana_crystal=Permanently increases maximum mana by 20
 
 # Misc Tooltips
 
