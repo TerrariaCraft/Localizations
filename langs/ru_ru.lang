@@ -2079,6 +2079,7 @@ tooltip.terraria:food/roasted_duck='Всё лучше, чем курица со 
 tooltip.terraria:food/pumpkin_pie='Съешь все за один присест!'
 tooltip.terraria:demon_heart=Permanently increases the number of accessory slots
 tooltip.terraria:mana_crystal=Permanently increases maximum mana by 20
+tooltip.terraria:candles/water=Holding this may attract unwanted attention
 
 # Misc Tooltips
 
