@@ -96,6 +96,7 @@ itemGroup.terraria:building.furniture.tables=Столы
 itemGroup.terraria:building.furniture.chairs=Стулья
 itemGroup.terraria:building.furniture.bookcases=Книжные шкафы
 itemGroup.terraria:building.furniture.lanterns=Лампы
+itemGroup.terraria:building.furniture.candles=Candles
 itemGroup.terraria:building.furniture.campfires=Костры
 itemGroup.terraria:building.furniture.hanging_pots=Подвесные горшки
 itemGroup.terraria:building.furniture.sofas=Диваны
@@ -458,6 +459,7 @@ item.terraria:artifacts/ankh_charm.name=Ankh Charm
 item.terraria:artifacts/pocket_mirror.name=Pocket Mirror
 item.terraria:artifacts/reflective_shades.name=Reflective Shades
 item.terraria:artifacts/wings/fledgling.name=Fledgling Wings
+item.terraria:artifacts/panic_necklace.name=Panic Necklace
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -1627,6 +1629,12 @@ tile.terraria:furniture/fountains/cavern_water.name=Фонтан пещерно�
 tile.terraria:furniture/fountains/oasis_water.name=Фонтан оазисной воды
 tile.terraria:cauldron.name=Котел
 tile.terraria:pots/pyramid.name=Pyramid Pot
+tile.terraria:statues/blood_zombie.name=Blood Zombie Statue
+tile.terraria:repaired_life_crystal.name=Repaired Life Crystal
+tile.terraria:repaired_mana_crystal.name=Repaired Mana Crystal
+tile.terraria:candles/gold.name=Candle
+tile.terraria:candles/platinum.name=Platinum Candle
+tile.terraria:candles/water.name=Water Candle
 
 
 ##################
@@ -1816,6 +1824,12 @@ buff.terraria:stoned.desc=You are completely petrified!
 buff.terraria:shadow_orb.name=Shadow Orb
 buff.terraria:shadow_orb.desc=A magical orb that provides light
 
+buff.terraria:panic.name=Panic
+buff.terraria:panic.desc=Movement speed is increased
+
+buff.terraria:water_candle.name=Water Candle
+buff.terraria:water_candle.desc=Increased monster spawn rate
+
 #################
 
 
@@ -1912,6 +1926,7 @@ tooltip.terraria:artifacts/countercurse_mantra=Immunity to Silence and Curse
 tooltip.terraria:artifacts/ankh_charm=Grants immunity to most debuffs
 tooltip.terraria:artifacts/pocket_mirror=Immunity to petrification
 tooltip.terraria:artifacts/reflective_shades=Immunity to Darkness and Petrification
+tooltip.terraria:artifacts/panic_necklace=Increases movement speed after taking damage
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
