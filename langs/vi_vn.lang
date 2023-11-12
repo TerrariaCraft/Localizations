@@ -2287,7 +2287,7 @@ debug.terraria:copy_player_pos=Player position copied to clipboard
 
 debug.terraria:copy_block_state.help=F3 + I = Copy block state to clipboard
 debug.terraria:copy_block_state=Block state copied to clipboard
-debug.terraria:copy_block_state.err=§cYou mush be looking at a block to copy it.
+debug.terraria:copy_block_state.err2=§cYou must be looking at a block to copy it.
 
 house.terraria:limits=Vượt quá kích thước nhà tối đa: %s/%s
 house.terraria:occupied=Nhà này đã có người ở!
