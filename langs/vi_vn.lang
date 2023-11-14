@@ -2267,6 +2267,8 @@ event.terraria:slime_rain.end=Slime đã dừng rơi.
 
 feature.terraria:from_author=From Mod Author
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
+command.terraria:wormhole.usage=/wormhole <player>
+command.terraria:wormhole.missing_potion=You need %s to use this command.
 hud.terraria:life=Máu: %s
 hud.terraria:mana=Mana
 chat.terraria:defeatenemy=%s đã tiêu diệt %,d-th %s!

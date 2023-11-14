@@ -2267,6 +2267,8 @@ event.terraria:slime_rain.end=Slime has stopped falling from the sky.
 
 feature.terraria:from_author=制作于模组作者
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
+command.terraria:wormhole.usage=/wormhole <player>
+command.terraria:wormhole.missing_potion=You need %s to use this command.
 hud.terraria:life=生命: %s
 hud.terraria:mana=魔力
 chat.terraria:defeatenemy=%s 击败了 %,d-th %s!
