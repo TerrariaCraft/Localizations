@@ -460,6 +460,12 @@ item.terraria:artifacts/pocket_mirror.name=Pocket Mirror
 item.terraria:artifacts/reflective_shades.name=Reflective Shades
 item.terraria:artifacts/wings/fledgling.name=Fledgling Wings
 item.terraria:artifacts/panic_necklace.name=Panic Necklace
+item.terraria:artifacts/magic_cuffs.name=Magic Cuffs
+item.terraria:artifacts/celestial_magnet.name=Celestial Magnet
+item.terraria:artifacts/celestial_cuffs.name=Celestial Cuffs
+item.terraria:artifacts/ancient_chisel.name=Ancient Chisel
+item.terraria:artifacts/cross_necklace.name=Cross Necklace
+item.terraria:artifacts/charm_of_myths.name=Charm of Myths
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -578,6 +584,7 @@ item.terraria:potions/food/grape_juice.name=Виноградный сок
 item.terraria:potions/food/monster_lasagna.name=Монстро-лазанья
 item.terraria:potions/food/pumpkin_pie.name=Тыквенный пирог
 item.terraria:potions/food/roasted_duck.name=Жареная утка
+item.terraria:potions/restoration.name=Restoration Potion
 
 # Materials
 item.terraria:materials/fallen_star.name=Упавшая звезда
@@ -1927,6 +1934,11 @@ tooltip.terraria:artifacts/ankh_charm=Grants immunity to most debuffs
 tooltip.terraria:artifacts/pocket_mirror=Immunity to petrification
 tooltip.terraria:artifacts/reflective_shades=Immunity to Darkness and Petrification
 tooltip.terraria:artifacts/panic_necklace=Increases movement speed after taking damage
+tooltip.terraria:artifacts/magic_cuffs=Restores mana when damaged
+tooltip.terraria:artifacts/celestial_magnet=Increases pickup range for mana stars
+tooltip.terraria:artifacts/ancient_chisel=Ancient problems require ancient solutions
+tooltip.terraria:artifacts/cross_necklace=Increases length of invincibility after taking damage
+tooltip.terraria:artifacts/charm_of_myths=Provides life regeneration and reduces the cooldown of healing potions by 25%%
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -2080,6 +2092,7 @@ tooltip.terraria:food/pumpkin_pie='Съешь все за один присес�
 tooltip.terraria:demon_heart=Permanently increases the number of accessory slots
 tooltip.terraria:mana_crystal=Permanently increases maximum mana by 20
 tooltip.terraria:candles/water=Holding this may attract unwanted attention
+tooltip.terraria:potions/restoration=Reduced potion cooldown
 
 # Misc Tooltips
 
