@@ -2364,6 +2364,31 @@ tbiome.terraria:frozen_ocean=Frozen Ocean
 
 
 
+######PREFIXES######
+
+prefix.terraria:artifact/hard=Hard
+prefix.terraria:artifact/guarding=Guarding
+prefix.terraria:artifact/armored=Armored
+prefix.terraria:artifact/warding=Warding
+
+prefix.terraria:artifact/brisk=Brisk
+prefix.terraria:artifact/fleeting=Fleeting
+prefix.terraria:artifact/hasty=Hasty
+prefix.terraria:artifact/quick=Quick
+
+prefix.terraria:artifact/arcane=Arcane
+
+attribute.terraria:artifact/defense=Defense
+attribute.terraria:artifact/crit_chance=Critical strike chance
+attribute.terraria:artifact/damage=Damage
+attribute.terraria:artifact/movement_speed=Movement speed
+attribute.terraria:artifact/melee_speed=Melee speed
+attribute.terraria:artifact/mana=Mana
+
+####################
+
+
+
 ######ENTITIES######
 
 entity.terraria:boulder.name=Boulder
