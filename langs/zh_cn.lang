@@ -2385,12 +2385,90 @@ prefix.terraria:artifact/intrepid=Intrepid
 prefix.terraria:artifact/violent=Violent
 prefix.terraria:artifact/arcane=Arcane
 
+# Universal
+prefix.terraria:weapon/keen=Keen
+prefix.terraria:weapon/superior=Superior
+prefix.terraria:weapon/forceful=Forceful
+prefix.terraria:weapon/broken=Broken
+prefix.terraria:weapon/damaged=Damaged
+prefix.terraria:weapon/shoddy=Shoddy
+prefix.terraria:weapon/hurtful=Hurtful
+prefix.terraria:weapon/strong=Strong
+prefix.terraria:weapon/unpleasant=Unpleasant
+prefix.terraria:weapon/weak=Weak
+prefix.terraria:weapon/ruthless=Ruthless
+prefix.terraria:weapon/godly=Godly
+prefix.terraria:weapon/demonic=Demonic
+prefix.terraria:weapon/zealous=Zealous
+# Common
+prefix.terraria:weapon/quick=Quick
+prefix.terraria:weapon/deadly=Deadly
+prefix.terraria:weapon/agile=Agile
+prefix.terraria:weapon/nimble=Nimble
+prefix.terraria:weapon/murderous=Murderous
+prefix.terraria:weapon/slow=Slow
+prefix.terraria:weapon/sluggish=Sluggish
+prefix.terraria:weapon/lazy=Lazy
+prefix.terraria:weapon/annoying=Annoying
+prefix.terraria:weapon/nasty=Nasty
+# Melee
+prefix.terraria:weapon/large=Large
+prefix.terraria:weapon/massive=Massive
+prefix.terraria:weapon/dangerous=Dangerous
+prefix.terraria:weapon/savage=Savage
+prefix.terraria:weapon/sharp=Sharp
+prefix.terraria:weapon/pointy=Pointy
+prefix.terraria:weapon/tiny=Tiny
+prefix.terraria:weapon/terrible=Terrible
+prefix.terraria:weapon/small=Small
+prefix.terraria:weapon/dull=Dull
+prefix.terraria:weapon/unhappy=Unhappy
+prefix.terraria:weapon/bulky=Bulky
+prefix.terraria:weapon/shameful=Shameful
+prefix.terraria:weapon/heavy=Heavy
+prefix.terraria:weapon/light=Light
+prefix.terraria:weapon/legendary=Legendary
+# Ranged
+prefix.terraria:weapon/sighted=Sighted
+prefix.terraria:weapon/rapid=Rapid
+prefix.terraria:weapon/hasty=Hasty
+prefix.terraria:weapon/intimidating=Intimidating
+prefix.terraria:weapon/deadly_ranged=Deadly
+prefix.terraria:weapon/staunch=Staunch
+prefix.terraria:weapon/awful=Awful
+prefix.terraria:weapon/lethargic=Lethargic
+prefix.terraria:weapon/awkward=Awkward
+prefix.terraria:weapon/powerful=Powerful
+prefix.terraria:weapon/frenzying=Frenzying
+prefix.terraria:weapon/unreal=Unreal
+# Magic and summoning
+prefix.terraria:weapon/mystic=Mystic
+prefix.terraria:weapon/adept=Adept
+prefix.terraria:weapon/masterful=Masterful
+prefix.terraria:weapon/inept=Inept
+prefix.terraria:weapon/ignorant=Ignorant
+prefix.terraria:weapon/deranged=Deranged
+prefix.terraria:weapon/intense=Intense
+prefix.terraria:weapon/taboo=Taboo
+prefix.terraria:weapon/celestial=Celestial
+prefix.terraria:weapon/furious=Furious
+prefix.terraria:weapon/manic=Manic
+prefix.terraria:weapon/mythical=Mythical
+
 attribute.terraria:artifact/defense=Defense
 attribute.terraria:artifact/crit_chance=Critical strike chance
 attribute.terraria:artifact/damage=Damage
 attribute.terraria:artifact/movement_speed=Movement speed
 attribute.terraria:artifact/melee_speed=Melee speed
 attribute.terraria:artifact/mana=Mana
+
+attribute.terraria:weapon/damage=Damage
+attribute.terraria:weapon/speed=Speed
+attribute.terraria:weapon/crit_chance=Critical strike chance
+attribute.terraria:weapon/mana_cost=Mana cost
+attribute.terraria:weapon/size=Size
+attribute.terraria:weapon/velocity=Velocity
+attribute.terraria:weapon/knockback=Knockback
 
 ####################
 
