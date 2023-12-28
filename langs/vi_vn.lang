@@ -2370,12 +2370,20 @@ prefix.terraria:artifact/hard=Hard
 prefix.terraria:artifact/guarding=Guarding
 prefix.terraria:artifact/armored=Armored
 prefix.terraria:artifact/warding=Warding
-
+prefix.terraria:artifact/precise=Precise
+prefix.terraria:artifact/lucky=Lucky
+prefix.terraria:artifact/jagged=Jagged
+prefix.terraria:artifact/spiked=Spiked
+prefix.terraria:artifact/angry=Angry
+prefix.terraria:artifact/menacing=Menacing
 prefix.terraria:artifact/brisk=Brisk
 prefix.terraria:artifact/fleeting=Fleeting
 prefix.terraria:artifact/hasty=Hasty
 prefix.terraria:artifact/quick=Quick
-
+prefix.terraria:artifact/wild=Wild
+prefix.terraria:artifact/rash=Rash
+prefix.terraria:artifact/interpid=Interpid
+prefix.terraria:artifact/violent=Violent
 prefix.terraria:artifact/arcane=Arcane
 
 attribute.terraria:artifact/defense=Defense
