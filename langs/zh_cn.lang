@@ -1885,7 +1885,6 @@ tooltip.terraria:debug_item=调试物品
 tooltip.terraria:gravity_control=[WIP] 可控制重力
 tooltip.terraria:bait_power=Bait Power: %,d%%
 tooltip.terraria:fishing_power=Fishing Power: %,d%%
-tooltip.terraria:vanity_artifact=Can be worn in vanity slots
 tooltip.terraria:angler_armor=Increases fishing power
 tooltip.terraria:faved=Marked as favorite
 

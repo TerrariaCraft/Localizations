@@ -1885,7 +1885,6 @@ tooltip.terraria:debug_item=Предмет отладки
 tooltip.terraria:gravity_control=[WIP] Позволяет управлять гравитацией
 tooltip.terraria:bait_power=Сила наживки: %,d%%
 tooltip.terraria:fishing_power=Мастерство рыбалки: %,d%%
-tooltip.terraria:vanity_artifact=Можно носить в слотах для украшений
 tooltip.terraria:angler_armor=Увеличивает мастерство рыбалки
 tooltip.terraria:faved=Помечено как избранное
 

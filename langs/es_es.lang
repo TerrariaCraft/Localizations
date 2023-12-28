@@ -1885,7 +1885,6 @@ tooltip.terraria:debug_item=Objeto de depuración
 tooltip.terraria:gravity_control=[WIP] Permite controlar la gravedad
 tooltip.terraria:bait_power=Potencia de cebo: %,d%%
 tooltip.terraria:fishing_power=Poder de pesca: %,d%%
-tooltip.terraria:vanity_artifact=Se puede equipar en ranuras decorativas
 tooltip.terraria:angler_armor=Aumenta la capacidad de pesca
 tooltip.terraria:faved=Marcado como favorito
 

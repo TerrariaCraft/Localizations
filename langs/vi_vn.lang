@@ -1885,7 +1885,6 @@ tooltip.terraria:debug_item=Vật phẩm debug
 tooltip.terraria:gravity_control=[WIP] Cho phép thao túng trọng lực
 tooltip.terraria:bait_power=Khả năng mồi cá: %,d%%
 tooltip.terraria:fishing_power=Khả năng câu cá: %,d%%
-tooltip.terraria:vanity_artifact=Có thể mặc trong slot trang trí
 tooltip.terraria:angler_armor=Tăng khả năng câu cá
 tooltip.terraria:faved=Đặt làm đồ yêu thích.
 
