@@ -1845,6 +1845,7 @@ buff.terraria:water_candle.desc=Increased monster spawn rate
 
 # General Tooltips
 
+tooltip.terraria:crafting=Crafting
 tooltip.terraria:material=Material
 tooltip.terraria:ammo=Munición
 tooltip.terraria:mana=Maná
