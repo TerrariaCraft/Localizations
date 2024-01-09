@@ -1831,6 +1831,9 @@ buff.terraria:stoned.desc=You are completely petrified!
 buff.terraria:shadow_orb.name=Shadow Orb
 buff.terraria:shadow_orb.desc=A magical orb that provides light
 
+buff.terraria:crimson_heart.name=Crimson Heart
+buff.terraria:crimson_heart.desc=A magical heart that provides light
+
 buff.terraria:panic.name=Panic
 buff.terraria:panic.desc=Movement speed is increased
 
@@ -2576,6 +2579,9 @@ entity.terraria:hornets/spikey.b=Большой шипастый шершень
 entity.terraria:hornets/stingy=Жалящий шершень
 entity.terraria:hornets/stingy.s=Маленький жалящий шершень
 entity.terraria:hornets/stingy.b=Большой жалящий шершень
+
+entity.terraria:pets/glowing/shadow_orb.name=Shadow Orb
+entity.terraria:pets/glowing/crimson_heart.name=Crimson Heart
 
 entity.terraria:hostile/bosses/king_slime.name=Король слизней
 boss.terraria:hostile/bosses/king_slime.awake=Король слизней пробудился!
