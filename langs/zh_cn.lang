@@ -2097,6 +2097,9 @@ tooltip.terraria:mana_crystal=Permanently increases maximum mana by 20
 tooltip.terraria:candles/water=Holding this may attract unwanted attention
 tooltip.terraria:potions/restoration=Reduced potion cooldown
 
+tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
+tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
+
 # Misc Tooltips
 
 speed.terraria:insanely_fast=超快速度
