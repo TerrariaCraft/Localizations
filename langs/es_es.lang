@@ -2166,6 +2166,16 @@ speed.terraria:extremely_slow=Exageradamente lento
 speed.terraria:snail=Velocidad de tortuga
 speed.terraria:mysterious=Velocidad misteriosa
 
+knockback.terraria:none=No knockback
+knockback.terraria:extremely_weak=Extremely weak knockback
+knockback.terraria:very_weak=Very weak knockback
+knockback.terraria:weak=Weak knockback
+knockback.terraria:average=Average knockback
+knockback.terraria:strong=Strong knockback
+knockback.terraria:very_strong=Very strong knockback
+knockback.terraria:extremely_strong=Extremely strong knockback
+knockback.terraria:insane=Insane knockback
+
 damage.terraria:melee=%,d daño en el cuerpo a cuerpo
 damage.terraria:ranged=%,d daño a distancia
 damage.terraria:magic=%,d daño por magia

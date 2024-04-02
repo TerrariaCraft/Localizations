@@ -2166,6 +2166,16 @@ speed.terraria:extremely_slow=Extremely Slow Speed
 speed.terraria:snail=Snail Speed
 speed.terraria:mysterious=Mysterious Speed
 
+knockback.terraria:none=No knockback
+knockback.terraria:extremely_weak=Extremely weak knockback
+knockback.terraria:very_weak=Very weak knockback
+knockback.terraria:weak=Weak knockback
+knockback.terraria:average=Average knockback
+knockback.terraria:strong=Strong knockback
+knockback.terraria:very_strong=Very strong knockback
+knockback.terraria:extremely_strong=Extremely strong knockback
+knockback.terraria:insane=Insane knockback
+
 damage.terraria:melee=%,d melee damage
 damage.terraria:ranged=%,d ranged damage
 damage.terraria:magic=%,d magic damage

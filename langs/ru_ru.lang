@@ -2166,6 +2166,16 @@ speed.terraria:extremely_slow=Крайне низкая скорость
 speed.terraria:snail=Невероятно низкая скорость
 speed.terraria:mysterious=Таинственная скорость
 
+knockback.terraria:none=No knockback
+knockback.terraria:extremely_weak=Extremely weak knockback
+knockback.terraria:very_weak=Very weak knockback
+knockback.terraria:weak=Weak knockback
+knockback.terraria:average=Average knockback
+knockback.terraria:strong=Strong knockback
+knockback.terraria:very_strong=Very strong knockback
+knockback.terraria:extremely_strong=Extremely strong knockback
+knockback.terraria:insane=Insane knockback
+
 damage.terraria:melee=%,d ед. ближнего урона
 damage.terraria:ranged=%,d ед. дальнего урона
 damage.terraria:magic=%,d ед. магического урона

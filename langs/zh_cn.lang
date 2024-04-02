@@ -2166,6 +2166,16 @@ speed.terraria:extremely_slow=极慢速度
 speed.terraria:snail=蜗牛速度
 speed.terraria:mysterious=神秘速度
 
+knockback.terraria:none=No knockback
+knockback.terraria:extremely_weak=Extremely weak knockback
+knockback.terraria:very_weak=Very weak knockback
+knockback.terraria:weak=Weak knockback
+knockback.terraria:average=Average knockback
+knockback.terraria:strong=Strong knockback
+knockback.terraria:very_strong=Very strong knockback
+knockback.terraria:extremely_strong=Extremely strong knockback
+knockback.terraria:insane=Insane knockback
+
 damage.terraria:melee=%,d 近战伤害
 damage.terraria:ranged=%,d 远程伤害
 damage.terraria:magic=%,d 魔法伤害

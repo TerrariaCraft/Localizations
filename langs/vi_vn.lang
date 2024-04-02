@@ -2166,6 +2166,16 @@ speed.terraria:extremely_slow=Cực kì chậm
 speed.terraria:snail=Chậm như sên
 speed.terraria:mysterious=Tốc độ bí ẩn
 
+knockback.terraria:none=No knockback
+knockback.terraria:extremely_weak=Extremely weak knockback
+knockback.terraria:very_weak=Very weak knockback
+knockback.terraria:weak=Weak knockback
+knockback.terraria:average=Average knockback
+knockback.terraria:strong=Strong knockback
+knockback.terraria:very_strong=Very strong knockback
+knockback.terraria:extremely_strong=Extremely strong knockback
+knockback.terraria:insane=Insane knockback
+
 damage.terraria:melee=%,d sát thương cận chiến
 damage.terraria:ranged=%,d sát thương xạ chiến
 damage.terraria:magic=%,d sát thương phép
