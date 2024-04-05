@@ -381,10 +381,18 @@ item.terraria:weapons/guns/candy_corn_rifle.name=Candy Corn Rifle
 item.terraria:weapons/guns/space_gun.name=Space Gun
 item.terraria:weapons/guns/dev_jar_glock.name=Jar's Glock
 item.terraria:weapons/guns/quad_barrel_shotgun.name=Quad-Barrel Shotgun
+item.terraria:weapons/guns/flare_gun.name=Flare Gun
 
 item.terraria:weapons/magic/flower_of_fire.name=Flower of Fire
 item.terraria:weapons/magic/wand_of_sparking.name=Wand of Sparking
 item.terraria:weapons/magic/wand_of_frosting.name=Wand of Frosting
+item.terraria:weapons/magic/gem_staves/amethyst.name=Amethyst Staff
+item.terraria:weapons/magic/gem_staves/topaz.name=Topaz Staff
+item.terraria:weapons/magic/gem_staves/sapphire.name=Sapphire Staff
+item.terraria:weapons/magic/gem_staves/emerald.name=Emerald Staff
+item.terraria:weapons/magic/gem_staves/amber.name=Amber Staff
+item.terraria:weapons/magic/gem_staves/ruby.name=Ruby Staff
+item.terraria:weapons/magic/gem_staves/diamond.name=Diamond Staff
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=再生手环
@@ -936,14 +944,8 @@ item.terraria:lava_bucket.name=Lava Bucket
 item.terraria:water_bucket.name=Water Bucket
 item.terraria:honey_bucket.name=Honey Bucket
 item.terraria:demon_heart.name=Demon Heart
-
-item.terraria:weapons/magic/gem_staves/amethyst.name=Amethyst Staff
-item.terraria:weapons/magic/gem_staves/topaz.name=Topaz Staff
-item.terraria:weapons/magic/gem_staves/sapphire.name=Sapphire Staff
-item.terraria:weapons/magic/gem_staves/emerald.name=Emerald Staff
-item.terraria:weapons/magic/gem_staves/amber.name=Amber Staff
-item.terraria:weapons/magic/gem_staves/ruby.name=Ruby Staff
-item.terraria:weapons/magic/gem_staves/diamond.name=Diamond Staff
+item.terraria:flare.name=Flare
+item.terraria:flare_blue.name=Blue Flare
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
