@@ -946,6 +946,9 @@ item.terraria:honey_bucket.name=Ведро с медом
 item.terraria:demon_heart.name=Demon Heart
 item.terraria:flare.name=Flare
 item.terraria:flare_blue.name=Blue Flare
+item.terraria:flare_cursed.name=Cursed Flare
+item.terraria:flare_rainbow.name=Rainbow Flare
+item.terraria:flare_shimmer.name=Shimmer Flare
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
