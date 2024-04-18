@@ -48,6 +48,7 @@ itemGroup.terraria:guns=Pistolas
 itemGroup.terraria:gem_staves=Gem Staves
 itemGroup.terraria:arrows=Flechas
 itemGroup.terraria:bullets=Balas
+itemGroup.terraria:flares=Flares
 itemGroup.terraria:swords=Espadas
 itemGroup.terraria:shortswords=Espadas cortas
 itemGroup.terraria:yoyos=Yoyós
@@ -383,6 +384,8 @@ item.terraria:weapons/guns/dev_jar_glock.name=Jar's Glock
 item.terraria:weapons/guns/quad_barrel_shotgun.name=Quad-Barrel Shotgun
 item.terraria:weapons/guns/flare_gun.name=Flare Gun
 
+item.terraria:weapons/blowpipe.name=Blowpipe
+
 item.terraria:weapons/magic/flower_of_fire.name=Flower of Fire
 item.terraria:weapons/magic/wand_of_sparking.name=Wand of Sparking
 item.terraria:weapons/magic/wand_of_frosting.name=Wand of Frosting
@@ -487,6 +490,10 @@ item.terraria:artifacts/celestial_cuffs.name=Celestial Cuffs
 item.terraria:artifacts/ancient_chisel.name=Ancient Chisel
 item.terraria:artifacts/cross_necklace.name=Cross Necklace
 item.terraria:artifacts/charm_of_myths.name=Charm of Myths
+item.terraria:artifacts/discount_card.name=Discount Card
+item.terraria:artifacts/gold_ring.name=Gold Ring
+item.terraria:artifacts/coin_ring.name=Coin Ring
+item.terraria:artifacts/greedy_ring.name=Greedy Ring
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Poción curativa menor
@@ -606,6 +613,7 @@ item.terraria:potions/food/monster_lasagna.name=Monster Lasagna
 item.terraria:potions/food/pumpkin_pie.name=Pumpkin Pie
 item.terraria:potions/food/roasted_duck.name=Roasted Duck
 item.terraria:potions/restoration.name=Restoration Potion
+item.terraria:potions/sake.name=Sake
 
 # Materials
 item.terraria:materials/fallen_star.name=Estrella fugaz
@@ -950,6 +958,8 @@ item.terraria:flare_blue.name=Blue Flare
 item.terraria:flare_cursed.name=Cursed Flare
 item.terraria:flare_rainbow.name=Rainbow Flare
 item.terraria:flare_shimmer.name=Shimmer Flare
+item.terraria:seed.name=Seed
+item.terraria:vital_crystal.name=Vital Crystal
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
@@ -1063,6 +1073,8 @@ setbonus.terraria:meteor=La pistola espacial no cuesta maná
 setbonus.terraria:crimson=Mejora mucho la regeneración de vida
 setbonus.terraria:extra_melee_damage=%,d%% de daño extra en el cuerpo a cuerpo
 setbonus.terraria:knockback_immunity=Grants immunity to knockback
+setbonus.terraria:i.frozen_or_chilled=Cannot be frozen or chilled
+setbonus.terraria:decreased_enemy_rate=Decreased enemy spawn rate
 
 #########################
 
@@ -1665,6 +1677,9 @@ tile.terraria:repaired_mana_crystal.name=Repaired Mana Crystal
 tile.terraria:candles/gold.name=Candle
 tile.terraria:candles/platinum.name=Platinum Candle
 tile.terraria:candles/water.name=Water Candle
+tile.terraria:candles/cactus.name=Cactus Candle
+tile.terraria:torches/mushroom.name=Mushroom Torch
+tile.terraria:torches/aether.name=Aether Torch
 
 
 ##################
@@ -1895,6 +1910,9 @@ buff.terraria:panic.desc=Movement speed is increased
 buff.terraria:water_candle.name=Water Candle
 buff.terraria:water_candle.desc=Increased monster spawn rate
 
+buff.terraria:tipsy.name=Tipsy
+buff.terraria:tipsy.desc=Increased melee abilities, lowered defense
+
 #################
 
 
@@ -1997,6 +2015,10 @@ tooltip.terraria:artifacts/celestial_magnet=Increases pickup range for mana star
 tooltip.terraria:artifacts/ancient_chisel=Ancient problems require ancient solutions
 tooltip.terraria:artifacts/cross_necklace=Increases length of invincibility after taking damage
 tooltip.terraria:artifacts/charm_of_myths=Provides life regeneration and reduces the cooldown of healing potions by 25%%
+tooltip.terraria:artifacts/discount_card=Shops prices lowered by 20%%
+tooltip.terraria:artifacts/greedy_ring=Increases coin pickup range and shops prices lowered by 20%%</br>Hitting enemies will sometimes drop extra coins
+tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
+tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
 
 tooltip.terraria:shine_potion=Emite un aura de luz
 tooltip.terraria:whoopie_cushion=Una molestia para los demás
@@ -2147,6 +2169,10 @@ tooltip.terraria:potions/restoration=Reduced potion cooldown
 tooltip.terraria:extractinator=Placing silt/slush/fossil piles into the extractinator turns them into something more useful
 tooltip.terraria:furnace=Used for smelting ore
 tooltip.terraria:adamantite_forge=Used to smelt adamantite and titanium ore
+tooltip.terraria:seed=For use with Blowpipe
+tooltip.terraria:vital_crystal=Permanently boosts life regeneration
+tooltip.terraria:potions/sake/1=Minor improvements to melee stats & lowered defense
+tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate master.'
 
 tooltip.terraria:weapons/guns/shotgun=Fires a spread of bullets
 tooltip.terraria:weapons/guns/sandgun=This is a good idea!
@@ -2159,6 +2185,7 @@ tooltip.terraria:weapons/guns/musket='I have to be ready, said the minuteman'
 tooltip.terraria:weapons/guns/vortex_beater='The catastrophic mixture of pew pew and boom boom.'
 tooltip.terraria:weapons/guns/candy_corn_rifle=33%% chance to save ammo
 tooltip.terraria:weapons/guns/quad_barrel_shotgun='When 2 or 3 just doesn't cut it'
+tooltip.terraria:weapons/blowpipe=Allows the collection of seeds for ammo
 
 tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
 tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
