@@ -967,17 +967,10 @@ item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
 
 # Critters
 item.terraria:critters/bunny.name=Hase
-item.terraria:critters/bunny_explosive.name=Explosiver Hase
 item.terraria:critters/golden/bunny.name=Goldener Hase
-item.terraria:critters/firefly.name=Feuerfliege
 item.terraria:critters/lavafly.name=Lavafliege
 item.terraria:critters/worm.name=Wurm
 item.terraria:critters/golden/worm.name=Goldener Wurm
-item.terraria:critters/enchanted_nightcrawler.name=Verzauberter Nachtkrabbler
-item.terraria:critters/buggy.name=Käfer
-item.terraria:critters/grubby.name=Grubby
-item.terraria:critters/maggot.name=Made
-item.terraria:critters/sluggy.name=Schnecke
 item.terraria:critters/grasshopper.name=Grashüpfer
 item.terraria:critters/golden/grasshopper.name=Goldener Grashüpfer
 item.terraria:critters/golden/butterfly.name=Goldener Schmetterling
@@ -997,10 +990,8 @@ item.terraria:critters/bunnies/emerald.name=Smaragt Hase
 item.terraria:critters/bunnies/ruby.name=Rubin Hase
 item.terraria:critters/bunnies/diamond.name=Diamand Hase
 item.terraria:critters/bunnies/amber.name=Bernstein Hase
-item.terraria:critters/penguin.name=Pinguin
 item.terraria:critters/mouse.name=Maus
 item.terraria:critters/golden/mouse.name=Goldene Maus
-item.terraria:critters/rat.name=Ratte
 item.terraria:critters/squirrel.name=Eichhörnchen
 item.terraria:critters/golden/squirrel.name=Goldenes Eichhörnchen
 item.terraria:critters/squirrels/red.name=Rotes Eichhörnchen
@@ -1024,42 +1015,17 @@ item.terraria:critters/dragonflies/green.name=Grüne Libelle
 item.terraria:critters/dragonflies/orange.name=Orange Libelle
 item.terraria:critters/dragonflies/red.name=Tote Libelle
 item.terraria:critters/dragonflies/yellow.name=Gelbe Libelle
-item.terraria:critters/owl.name=Eule
 item.terraria:critters/turtles/normal.name=Schildkröte
 item.terraria:critters/turtles/jungle.name=Jungel Schildkröte
 item.terraria:critters/frog.name=Frosch
 item.terraria:critters/golden/frog.name=Goldener Frosch
 item.terraria:critters/ladybug.name=Marienkäfer
 item.terraria:critters/golden/ladybug.name=Goldener Marienkäfer
-item.terraria:critters/faeling.name=Faeling
 
 # Hostiles (Boss Spawning)
 item.terraria:slime_crown.name=Schleimkrone
 item.terraria:suspicious_looking_eye.name=Verdächtig ausschauendes Auge
 item.terraria:abeemination.name=Abeemination
-
-# Hostiles
-item.terraria:hostiles/slimes/green.name=Grüner Schleim
-item.terraria:hostiles/slimes/blue.name=Blauer Schleim
-item.terraria:hostiles/slimes/purple.name=Lila Schleim
-item.terraria:hostiles/slimes/pinky.name=Pinky Schleim
-item.terraria:hostiles/slimes/red.name=Roter Schleim
-item.terraria:hostiles/slimes/yellow.name=Gelber Schleim
-item.terraria:hostiles/slimes/black.name=Schwarzer Schleim
-item.terraria:hostiles/slimes/ice.name=Eis Schleim
-item.terraria:hostiles/slimes/ice_spiked.name=Stacheliger Eisschleim
-item.terraria:hostiles/slimes/jungle.name=Jungel Schleim
-item.terraria:hostiles/slimes/jungle_spiked.name=Stacheliger Jungelschleim
-item.terraria:hostiles/slimes/spiked.name=Spiked Slime
-item.terraria:hostiles/zombie.name=Zombie
-item.terraria:hostiles/demon_eye.name=Demonenauge
-item.terraria:hostiles/crimera.name=Crimera
-item.terraria:hostiles/eater_of_souls.name=Seelenfresser
-item.terraria:hostiles/drippler.name=Drippler
-item.terraria:hostiles/gnome.name=Gnom
-item.terraria:hostiles/hornet.name=Hornisse
-item.terraria:hostiles/ghost.name=Geist
-item.terraria:hostiles/blood_zombie.name=Blood Zombie
 
 #################
 
@@ -2657,6 +2623,7 @@ entity.terraria:money_trough.name=Money Trough
 entity.terraria:hostile/blood_zombie.name=Blood Zombie
 entity.terraria:creatures/faeling.name=Faeling
 entity.terraria:hostile/spiked_slime.name=Spiked Slime
+entity.terraria:hostile/meteor_head.name=Meteor Head
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombie

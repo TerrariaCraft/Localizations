@@ -967,17 +967,10 @@ item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
 
 # Critters
 item.terraria:critters/bunny.name=Thỏ
-item.terraria:critters/bunny_explosive.name=Thỏ Bom
 item.terraria:critters/golden/bunny.name=Thỏ Vàng
-item.terraria:critters/firefly.name=Đom Đóm
 item.terraria:critters/lavafly.name=Đom Đóm Lửa
 item.terraria:critters/worm.name=Giun Đất
 item.terraria:critters/golden/worm.name=Giun Vàng
-item.terraria:critters/enchanted_nightcrawler.name=Giun Phát Sáng
-item.terraria:critters/buggy.name=Bọ
-item.terraria:critters/grubby.name=Sâu
-item.terraria:critters/maggot.name=Dòi
-item.terraria:critters/sluggy.name=Sên
 item.terraria:critters/grasshopper.name=Châu Chấu
 item.terraria:critters/golden/grasshopper.name=Châu Chấu Vàng
 item.terraria:critters/golden/butterfly.name=Bướm Vàng
@@ -997,10 +990,8 @@ item.terraria:critters/bunnies/emerald.name=Thỏ Lục Bảo
 item.terraria:critters/bunnies/ruby.name=Thỏ Hồng Ngọc
 item.terraria:critters/bunnies/diamond.name=Thỏ Kim Cương
 item.terraria:critters/bunnies/amber.name=Thỏ Hổ Phách
-item.terraria:critters/penguin.name=Chim Cánh Cụt
 item.terraria:critters/mouse.name=Chuột
 item.terraria:critters/golden/mouse.name=Chuột Vàng
-item.terraria:critters/rat.name=Chuột Cống
 item.terraria:critters/squirrel.name=Sóc
 item.terraria:critters/golden/squirrel.name=Sóc Vàng
 item.terraria:critters/squirrels/red.name=Sóc Đỏ
@@ -1024,42 +1015,17 @@ item.terraria:critters/dragonflies/green.name=Chuồn Chuồn Lục
 item.terraria:critters/dragonflies/orange.name=Chuồn Chuồn Cam
 item.terraria:critters/dragonflies/red.name=Chuồn Chuồn Đỏ
 item.terraria:critters/dragonflies/yellow.name=Chuồn Chuồn Vàng
-item.terraria:critters/owl.name=Cú
 item.terraria:critters/turtles/normal.name=Rùa
 item.terraria:critters/turtles/jungle.name=Rùa Nhiệt Đới
 item.terraria:critters/frog.name=Ếch
 item.terraria:critters/golden/frog.name=Ếch Vàng
 item.terraria:critters/ladybug.name=Bọ Rùa
 item.terraria:critters/golden/ladybug.name=Bọ Rùa Vàng
-item.terraria:critters/faeling.name=Faeling
 
 # Hostiles (Boss Spawning)
 item.terraria:slime_crown.name=Vương Miện Slime
 item.terraria:suspicious_looking_eye.name=Con Mắt Đáng Nghi
 item.terraria:abeemination.name=Abeemination
-
-# Hostiles
-item.terraria:hostiles/slimes/green.name=Slime Xanh Lục
-item.terraria:hostiles/slimes/blue.name=Slime Xanh Lam
-item.terraria:hostiles/slimes/purple.name=Slime Tím
-item.terraria:hostiles/slimes/pinky.name=Slime Hồng
-item.terraria:hostiles/slimes/red.name=Slime Đỏ
-item.terraria:hostiles/slimes/yellow.name=Slime Vàng
-item.terraria:hostiles/slimes/black.name=Slime Đen
-item.terraria:hostiles/slimes/ice.name=Slime Tuyết
-item.terraria:hostiles/slimes/ice_spiked.name=Slime Gai Tuyết
-item.terraria:hostiles/slimes/jungle.name=Slime Rừng
-item.terraria:hostiles/slimes/jungle_spiked.name=Slime Gai Rừng
-item.terraria:hostiles/slimes/spiked.name=Spiked Slime
-item.terraria:hostiles/zombie.name=Zombie
-item.terraria:hostiles/demon_eye.name=Mắt Quỷ
-item.terraria:hostiles/crimera.name=Crimera
-item.terraria:hostiles/eater_of_souls.name=Kẻ Ăn Linh Hồn
-item.terraria:hostiles/drippler.name=Drippler
-item.terraria:hostiles/gnome.name=Thần Lùn
-item.terraria:hostiles/hornet.name=Ong Bắp Cày
-item.terraria:hostiles/ghost.name=Ma
-item.terraria:hostiles/blood_zombie.name=Blood Zombie
 
 #################
 
@@ -2657,6 +2623,7 @@ entity.terraria:money_trough.name=Money Trough
 entity.terraria:hostile/blood_zombie.name=Blood Zombie
 entity.terraria:creatures/faeling.name=Faeling
 entity.terraria:hostile/spiked_slime.name=Spiked Slime
+entity.terraria:hostile/meteor_head.name=Meteor Head
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombie

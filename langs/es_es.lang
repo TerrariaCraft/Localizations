@@ -967,17 +967,10 @@ item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
 
 # Critters
 item.terraria:critters/bunny.name=Conejo
-item.terraria:critters/bunny_explosive.name=Conejo explosivo
 item.terraria:critters/golden/bunny.name=Conejo dorado
-item.terraria:critters/firefly.name=Luciérnaga
 item.terraria:critters/lavafly.name=Luciérnaga de lava
 item.terraria:critters/worm.name=Gusano
 item.terraria:critters/golden/worm.name=Gusano dorado
-item.terraria:critters/enchanted_nightcrawler.name=Rondador encantado
-item.terraria:critters/buggy.name=Bichito
-item.terraria:critters/grubby.name=Mugriento
-item.terraria:critters/maggot.name=Larva de gusano
-item.terraria:critters/sluggy.name=Baboso
 item.terraria:critters/grasshopper.name=Saltamontes
 item.terraria:critters/golden/grasshopper.name=Saltamontes dorado
 item.terraria:critters/golden/butterfly.name=Mariposa dorada
@@ -997,10 +990,8 @@ item.terraria:critters/bunnies/emerald.name=Conejo de esmeralda
 item.terraria:critters/bunnies/ruby.name=Conejo rubí
 item.terraria:critters/bunnies/diamond.name=Conejo de diamante
 item.terraria:critters/bunnies/amber.name=Conejo ámbar
-item.terraria:critters/penguin.name=Pingüino
 item.terraria:critters/mouse.name=Ratón
 item.terraria:critters/golden/mouse.name=Ratón dorado
-item.terraria:critters/rat.name=Rata
 item.terraria:critters/squirrel.name=Ardilla
 item.terraria:critters/golden/squirrel.name=Ardilla dorada
 item.terraria:critters/squirrels/red.name=Ardilla roja
@@ -1024,42 +1015,17 @@ item.terraria:critters/dragonflies/green.name=Libélula verde
 item.terraria:critters/dragonflies/orange.name=Libélula naranja
 item.terraria:critters/dragonflies/red.name=Libélula roja
 item.terraria:critters/dragonflies/yellow.name=Libélula amarilla
-item.terraria:critters/owl.name=Búho
 item.terraria:critters/turtles/normal.name=Tortuga
 item.terraria:critters/turtles/jungle.name=Tortuga de la jungla
 item.terraria:critters/frog.name=Rana
 item.terraria:critters/golden/frog.name=Rana dorada
 item.terraria:critters/ladybug.name=Mariquita
 item.terraria:critters/golden/ladybug.name=Mariquita dorada
-item.terraria:critters/faeling.name=Faeling
 
 # Hostiles (Boss Spawning)
 item.terraria:slime_crown.name=Corona de slime
 item.terraria:suspicious_looking_eye.name=Ojo de aspecto sospechoso
 item.terraria:abeemination.name=Abeemination
-
-# Hostiles
-item.terraria:hostiles/slimes/green.name=Slime verde
-item.terraria:hostiles/slimes/blue.name=Slime azul
-item.terraria:hostiles/slimes/purple.name=Slime morado
-item.terraria:hostiles/slimes/pinky.name=Slime rosa
-item.terraria:hostiles/slimes/red.name=Slime rojo
-item.terraria:hostiles/slimes/yellow.name=Slime amarillo
-item.terraria:hostiles/slimes/black.name=Slime negro
-item.terraria:hostiles/slimes/ice.name=Slime de hielo
-item.terraria:hostiles/slimes/ice_spiked.name=Slime de hielo puntiagudo
-item.terraria:hostiles/slimes/jungle.name=Slime selvático
-item.terraria:hostiles/slimes/jungle_spiked.name=Slime selvático puntiagudo
-item.terraria:hostiles/slimes/spiked.name=Spiked Slime
-item.terraria:hostiles/zombie.name=Zombi
-item.terraria:hostiles/demon_eye.name=Ojo demoníaco
-item.terraria:hostiles/crimera.name=Carmebicho
-item.terraria:hostiles/eater_of_souls.name=Devoraalmas
-item.terraria:hostiles/drippler.name=Goteador
-item.terraria:hostiles/gnome.name=Gnomo
-item.terraria:hostiles/hornet.name=Avispón
-item.terraria:hostiles/ghost.name=Fantasma
-item.terraria:hostiles/blood_zombie.name=Blood Zombie
 
 #################
 
@@ -2657,6 +2623,7 @@ entity.terraria:money_trough.name=Money Trough
 entity.terraria:hostile/blood_zombie.name=Blood Zombie
 entity.terraria:creatures/faeling.name=Faeling
 entity.terraria:hostile/spiked_slime.name=Spiked Slime
+entity.terraria:hostile/meteor_head.name=Meteor Head
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombi

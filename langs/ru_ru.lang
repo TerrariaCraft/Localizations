@@ -967,17 +967,10 @@ item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
-item.terraria:critters/bunny_explosive.name=Взрывной кролик
 item.terraria:critters/golden/bunny.name=Золотой кролик
-item.terraria:critters/firefly.name=Светлячок
 item.terraria:critters/lavafly.name=Лавовый светлячок
 item.terraria:critters/worm.name=Червячок
 item.terraria:critters/golden/worm.name=Золотой червячок
-item.terraria:critters/enchanted_nightcrawler.name=Зачарованый червячок
-item.terraria:critters/buggy.name=Жучок
-item.terraria:critters/grubby.name=Личинка
-item.terraria:critters/maggot.name=Личинка
-item.terraria:critters/sluggy.name=Слизняк
 item.terraria:critters/grasshopper.name=Кузнечик
 item.terraria:critters/golden/grasshopper.name=Золотой кузнечик
 item.terraria:critters/golden/butterfly.name=Золотая бабочка
@@ -997,10 +990,8 @@ item.terraria:critters/bunnies/emerald.name=Изумрудный кролик
 item.terraria:critters/bunnies/ruby.name=Рубиновый кролик
 item.terraria:critters/bunnies/diamond.name=Алмазный кролик
 item.terraria:critters/bunnies/amber.name=Янтарный кролик
-item.terraria:critters/penguin.name=Пингвин
 item.terraria:critters/mouse.name=Мышь
 item.terraria:critters/golden/mouse.name=Золотая мышь
-item.terraria:critters/rat.name=Крыса
 item.terraria:critters/squirrel.name=Белка
 item.terraria:critters/golden/squirrel.name=Золотая белка
 item.terraria:critters/squirrels/red.name=Красная белка
@@ -1024,42 +1015,17 @@ item.terraria:critters/dragonflies/green.name=Зеленая стрекоза
 item.terraria:critters/dragonflies/orange.name=Оранжевая стрекоза
 item.terraria:critters/dragonflies/red.name=Красная стрекоза
 item.terraria:critters/dragonflies/yellow.name=Желтая стрекоза
-item.terraria:critters/owl.name=Сова
 item.terraria:critters/turtles/normal.name=Черепаха
 item.terraria:critters/turtles/jungle.name=Черепаха джунглей
 item.terraria:critters/frog.name=Лягушка
 item.terraria:critters/golden/frog.name=Золотая лягушка
 item.terraria:critters/ladybug.name=Божья коровка
 item.terraria:critters/golden/ladybug.name=Золотая божья коровка
-item.terraria:critters/faeling.name=Феечка
 
 # Hostiles (Boss Spawning)
 item.terraria:slime_crown.name=Корона слизня
 item.terraria:suspicious_looking_eye.name=Подозрительно выглядящий глаз
 item.terraria:abeemination.name=Пчелиная масса
-
-# Hostiles
-item.terraria:hostiles/slimes/green.name=Зеленый слизень
-item.terraria:hostiles/slimes/blue.name=Синий слизень
-item.terraria:hostiles/slimes/purple.name=Фиолетовый слизень
-item.terraria:hostiles/slimes/pinky.name=Пинки
-item.terraria:hostiles/slimes/red.name=Красный слизень
-item.terraria:hostiles/slimes/yellow.name=Желтый слизень
-item.terraria:hostiles/slimes/black.name=Черный слизень
-item.terraria:hostiles/slimes/ice.name=Ледяной слизень
-item.terraria:hostiles/slimes/ice_spiked.name=Шипастый ледяной слизень
-item.terraria:hostiles/slimes/jungle.name=Слизень джунглей
-item.terraria:hostiles/slimes/jungle_spiked.name=Шипастый слизень джунглей
-item.terraria:hostiles/slimes/spiked.name=Spiked Slime
-item.terraria:hostiles/zombie.name=Зомби
-item.terraria:hostiles/demon_eye.name=Демонический глаз
-item.terraria:hostiles/crimera.name=Кримера
-item.terraria:hostiles/eater_of_souls.name=Пожиратель душ
-item.terraria:hostiles/drippler.name=Стекатель
-item.terraria:hostiles/gnome.name=Гном
-item.terraria:hostiles/hornet.name=Шершень
-item.terraria:hostiles/ghost.name=Призрак
-item.terraria:hostiles/blood_zombie.name=Кровавый зомби
 
 #################
 
@@ -2657,6 +2623,7 @@ entity.terraria:money_trough.name=Денежное корыто
 entity.terraria:hostile/blood_zombie.name=Кровавый зомби
 entity.terraria:creatures/faeling.name=Феечка
 entity.terraria:hostile/spiked_slime.name=Spiked Slime
+entity.terraria:hostile/meteor_head.name=Meteor Head
 
 entity.terraria:hostile/zombie.name=Зомби
 entity.terraria:zombies/normal=Зомби
