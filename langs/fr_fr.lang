@@ -2,15 +2,15 @@
 agreement.terraria:text=Bonjour, %PLAYER%! Avant de commencer à jouer, assurez-vous de vérifier ces conditions :\n\n1) Vous avez téléchargé le mod depuis %SRC%!\nSi non, retéléchargez-le depuis cet endroit pour ne pas risquer de télécharger un virus.\n\n2) Vous n'utilisez pas de Minecraft cracké!\nNous vous recommendons vivement d'acheter un véritable compte Minecraft.\n\n3) Ce projet est un fan-made, et n'est en aucun cas affilié à Re-Logic.
 agreement.terraria:accept=J'accepte
 
-itemGroup.terraria:items=Terraria Craft: Objets
-itemGroup.terraria:tools=Terraria Craft: Outils
-itemGroup.terraria:weapons=Terraria Craft: Armes
-itemGroup.terraria:accessories=Terraria Craft: Accessoires
-itemGroup.terraria:blocks=Terraria Craft: Blocs
-itemGroup.terraria:armor=Terraria Craft: Armure
-itemGroup.terraria:potions=Terraria Craft: Potions
-itemGroup.terraria:critters=Terraria Craft: Animaux
-itemGroup.terraria:hostiles=Terraria Craft: Monstres
+itemGroup.terraria:items=TerrariaCraft: Objets
+itemGroup.terraria:tools=TerrariaCraft: Outils
+itemGroup.terraria:weapons=TerrariaCraft: Armes
+itemGroup.terraria:accessories=TerrariaCraft: Accessoires
+itemGroup.terraria:blocks=TerrariaCraft: Blocs
+itemGroup.terraria:armor=TerrariaCraft: Armure
+itemGroup.terraria:potions=TerrariaCraft: Potions
+itemGroup.terraria:critters=TerrariaCraft: Animaux
+itemGroup.terraria:hostiles=TerrariaCraft: Monstres
 
 itemTab.terraria:items=Objets
 itemTab.terraria:tools=Outils
@@ -3012,7 +3012,7 @@ npc.terraria:dryad.name=Dryad
 npc.terraria:dryad=%s the Dryad
 npc.terraria:dryad.names=Alalia,Alura,Ariella,Caelia,Calista,Celestia,Chryseis,Elysia,Emerenta,Evvie,Faye,Felicitae,Isis,Lunette,Nata,Nissa,Rosalva,Shea,Tania,Tatiana,Xylia
 
-npc.terraria:dryad.interact.1=Be safe; Terraria Craft needs you!
+npc.terraria:dryad.interact.1=Be safe; TerrariaCraft needs you!
 npc.terraria:dryad.interact.2=The sands of time are flowing. And well, you are not aging very gracefully.
 npc.terraria:dryad.interact.3=What's this about me having more 'bark' than bite?
 npc.terraria:dryad.interact.4=So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!

@@ -2,15 +2,15 @@
 agreement.terraria:text=¡Hola, %PLAYER%! Antes de continuar con el juego, por favor, asegúrese de que está de acuerdo con lo siguiente:\n\n1) ¡Has descargado el mod desde %SRC%!\nSi no es así, vuelve a descargar el mod desde allí para asegurarte de que no tiene ningún malware adjunto.\n\n2) ¡No estás usando Minecraft pirata!\nRecomendamos encarecidamente que compres una cuenta original de Minecraft para jugar al mod.\n\n3) Este es un proyecto hecho por fans y no está afiliado a Re-Logic.
 agreement.terraria:accept=Acepto
 
-itemGroup.terraria:items=Terraria Craft: Objetos
-itemGroup.terraria:tools=Terraria Craft: Herramientas
-itemGroup.terraria:weapons=Terraria Craft: Armas
-itemGroup.terraria:accessories=Terraria Craft: Accesorios
-itemGroup.terraria:blocks=Terraria Craft: Bloques
-itemGroup.terraria:armor=Terraria Craft: Armaduras
-itemGroup.terraria:potions=Terraria Craft: Pociones
-itemGroup.terraria:critters=Terraria Craft: Criaturas
-itemGroup.terraria:hostiles=Terraria Craft: Enemigos
+itemGroup.terraria:items=TerrariaCraft: Objetos
+itemGroup.terraria:tools=TerrariaCraft: Herramientas
+itemGroup.terraria:weapons=TerrariaCraft: Armas
+itemGroup.terraria:accessories=TerrariaCraft: Accesorios
+itemGroup.terraria:blocks=TerrariaCraft: Bloques
+itemGroup.terraria:armor=TerrariaCraft: Armaduras
+itemGroup.terraria:potions=TerrariaCraft: Pociones
+itemGroup.terraria:critters=TerrariaCraft: Criaturas
+itemGroup.terraria:hostiles=TerrariaCraft: Enemigos
 
 itemTab.terraria:items=Objetos
 itemTab.terraria:tools=Herramientas
@@ -1657,7 +1657,7 @@ tile.terraria:torches/aether.name=Aether Torch
 
 ######KEYBOARD######
 
-key.category.terraria=Terraria Craft
+key.category.terraria=TerrariaCraft
 key.terraria.toggle_gravity=Cambiar gravedad
 key.hotbar.0=Barra rápida 10
 key.terraria.healing=Activar poción curativa
@@ -3012,7 +3012,7 @@ npc.terraria:dryad.name=Dríada
 npc.terraria:dryad=%s la Dríada
 npc.terraria:dryad.names=Alalia,Alura,Ariella,Caelia,Calista,Celestia,Chryseis,Elysia,Emerenta,Evvie,Faye,Felicitae,Isis,Lunette,Nata,Nissa,Rosalva,Shea,Tania,Tatiana,Xylia
 
-npc.terraria:dryad.interact.1=Cuídate. ¡Terraria Craft te necesita!
+npc.terraria:dryad.interact.1=Cuídate. ¡TerrariaCraft te necesita!
 npc.terraria:dryad.interact.2=Fluyen las arenas del tiempo. Y la verdad, no estás envejeciendo con mucha elegancia.
 npc.terraria:dryad.interact.3=¿Qué es eso de que ladro mucho y muerdo poco?
 npc.terraria:dryad.interact.4=Dos trasgos entran en un bar y uno le dice al otro: \"¿Quieres un trasgo de cerveza?\".

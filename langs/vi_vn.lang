@@ -2,15 +2,15 @@
 agreement.terraria:text=Xin chào, %PLAYER%! Trước khi vào game, hãy đảm bảo rằng bạn đồng ý với các điều khoản sau:\n\n1) Bạn đã tải mod từ %SRC%!\nNếu không phải, làm ơn tải lại mod từ nguồn ấy để đảm bảo bạn không nhiễm phải virus hay mã độc.\n\n2) Bạn không sử dụng minecraft phiên bản lậu!\nChúng tôi khuyến khích bạn mua tài khoản minecràt để chơi mod này.\n\n3) Đây là một dự án của fan và không liên quan tới Re-Logic.
 agreement.terraria:accept=Tôi đồng ý!
 
-itemGroup.terraria:items=Terraria Craft: Vật Phẩm
-itemGroup.terraria:tools=Terraria Craft: Dụng Cụ
-itemGroup.terraria:weapons=Terraria Craft: Vũ Khí
-itemGroup.terraria:accessories=Terraria Craft: Trang Bị
-itemGroup.terraria:blocks=Terraria Craft: Khối
-itemGroup.terraria:armor=Terraria Craft: Giáp
-itemGroup.terraria:potions=Terraria Craft: Thuốc
-itemGroup.terraria:critters=Terraria Craft: Động Vật
-itemGroup.terraria:hostiles=Terraria Craft: Quái Vật
+itemGroup.terraria:items=TerrariaCraft: Vật Phẩm
+itemGroup.terraria:tools=TerrariaCraft: Dụng Cụ
+itemGroup.terraria:weapons=TerrariaCraft: Vũ Khí
+itemGroup.terraria:accessories=TerrariaCraft: Trang Bị
+itemGroup.terraria:blocks=TerrariaCraft: Khối
+itemGroup.terraria:armor=TerrariaCraft: Giáp
+itemGroup.terraria:potions=TerrariaCraft: Thuốc
+itemGroup.terraria:critters=TerrariaCraft: Động Vật
+itemGroup.terraria:hostiles=TerrariaCraft: Quái Vật
 
 itemTab.terraria:items=Vật Phẩm
 itemTab.terraria:tools=Công Cụ
@@ -1657,7 +1657,7 @@ tile.terraria:torches/aether.name=Aether Torch
 
 ######KEYBOARD######
 
-key.category.terraria=Terraria Craft
+key.category.terraria=TerrariaCraft
 key.terraria.toggle_gravity=Đảo Nghịch Trọng Lực
 key.hotbar.0=Vật phẩm trong ô 10
 key.terraria.healing=Sử Dụng Thuốc Hồi Máu
@@ -3012,7 +3012,7 @@ npc.terraria:dryad.name=Dryad
 npc.terraria:dryad=%s the Dryad
 npc.terraria:dryad.names=Alalia,Alura,Ariella,Caelia,Calista,Celestia,Chryseis,Elysia,Emerenta,Evvie,Faye,Felicitae,Isis,Lunette,Nata,Nissa,Rosalva,Shea,Tania,Tatiana,Xylia
 
-npc.terraria:dryad.interact.1=Be safe; Terraria Craft needs you!
+npc.terraria:dryad.interact.1=Be safe; TerrariaCraft needs you!
 npc.terraria:dryad.interact.2=The sands of time are flowing. And well, you are not aging very gracefully.
 npc.terraria:dryad.interact.3=What's this about me having more 'bark' than bite?
 npc.terraria:dryad.interact.4=So two goblins walk into a bar, and one says to the other, 'Want to get a Goblet of beer?!

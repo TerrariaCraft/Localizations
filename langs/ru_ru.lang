@@ -2,15 +2,15 @@
 agreement.terraria:text=Привет, %PLAYER%! Перед тем как мы приступим к игре, пожалуйста убедитесь, что вы согласны со следующим:\n\n1) Вы загрузили мод с %SRC%!\nЕсли нет, перезагрузите мод оттуда что бы не было риска получить вредоносное ПО.\n\n2) Вы не используете пиратский Minecraft!\nМы настоятельно рекомендуем вам купить учетную запись Minecraft, чтобы играть с модом.\n\n3) Это фанатский проект, не связанный с Re-Logic.
 agreement.terraria:accept=Я принимаю
 
-itemGroup.terraria:items=Terraria Craft: Предметы
-itemGroup.terraria:tools=Terraria Craft: Инструменты
-itemGroup.terraria:weapons=Terraria Craft: Оружие
-itemGroup.terraria:accessories=Terraria Craft: Аксессуары
-itemGroup.terraria:blocks=Terraria Craft: Блоки
-itemGroup.terraria:armor=Terraria Craft: Броня
-itemGroup.terraria:potions=Terraria Craft: Зелья
-itemGroup.terraria:critters=Terraria Craft: Существа
-itemGroup.terraria:hostiles=Terraria Craft: Враги
+itemGroup.terraria:items=TerrariaCraft: Предметы
+itemGroup.terraria:tools=TerrariaCraft: Инструменты
+itemGroup.terraria:weapons=TerrariaCraft: Оружие
+itemGroup.terraria:accessories=TerrariaCraft: Аксессуары
+itemGroup.terraria:blocks=TerrariaCraft: Блоки
+itemGroup.terraria:armor=TerrariaCraft: Броня
+itemGroup.terraria:potions=TerrariaCraft: Зелья
+itemGroup.terraria:critters=TerrariaCraft: Существа
+itemGroup.terraria:hostiles=TerrariaCraft: Враги
 
 itemTab.terraria:items=Предметы
 itemTab.terraria:tools=Инструменты
@@ -1657,7 +1657,7 @@ tile.terraria:torches/aether.name=Aether Torch
 
 ######KEYBOARD######
 
-key.category.terraria=Terraria Craft
+key.category.terraria=TerrariaCraft
 key.terraria.toggle_gravity=Переключить гравитацию
 key.hotbar.0=Слот 10
 key.terraria.healing=Активировать зелье здоровья
@@ -3012,7 +3012,7 @@ npc.terraria:dryad.name=Дриада
 npc.terraria:dryad=Дриада %s
 npc.terraria:dryad.names=Алалия,Алура,Ариэла,Каэлия,Калиста,Селестия,Чрисиес,Элиза,Эмерента,Иви,Фэй,Фелецитэй,Изиз,Люнета,Ната,Ниса,Росальва,Шиа,Таниа,Татьяна,Хулиа
 
-npc.terraria:dryad.interact.1=Будь осторожнее; Вы нужны для Terraria Craft!
+npc.terraria:dryad.interact.1=Будь осторожнее; Вы нужны для TerrariaCraft!
 npc.terraria:dryad.interact.2=Пески времени утекают в вечность. Однако, тебе очень ловко удается не стареть.
 npc.terraria:dryad.interact.3=Что там насчёт того, что я больше "лаю", чем кусаюсь?
 npc.terraria:dryad.interact.4=Два гоблина заходят в бар, один другому говорит: 'Ну что, врежем по пивку?!'»
