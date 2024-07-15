@@ -48,6 +48,7 @@ itemGroup.terraria:guns=Armas de Fogo
 itemGroup.terraria:gem_staves=Cajados de Gemas
 itemGroup.terraria:arrows=Flechas
 itemGroup.terraria:bullets=Balas
+itemGroup.terraria:flares=Flares
 itemGroup.terraria:swords=Espadas
 itemGroup.terraria:shortswords=Espadas Curtas
 itemGroup.terraria:yoyos=Yôyôs
@@ -383,6 +384,8 @@ item.terraria:weapons/guns/dev_jar_glock.name=Jar's Glock
 item.terraria:weapons/guns/quad_barrel_shotgun.name=Quad-Barrel Shotgun
 item.terraria:weapons/guns/flare_gun.name=Flare Gun
 
+item.terraria:weapons/blowpipe.name=Blowpipe
+
 item.terraria:weapons/magic/flower_of_fire.name=Flower of Fire
 item.terraria:weapons/magic/wand_of_sparking.name=Wand of Sparking
 item.terraria:weapons/magic/wand_of_frosting.name=Wand of Frosting
@@ -487,6 +490,11 @@ item.terraria:artifacts/celestial_cuffs.name=Celestial Cuffs
 item.terraria:artifacts/ancient_chisel.name=Ancient Chisel
 item.terraria:artifacts/cross_necklace.name=Cross Necklace
 item.terraria:artifacts/charm_of_myths.name=Charm of Myths
+item.terraria:artifacts/discount_card.name=Discount Card
+item.terraria:artifacts/gold_ring.name=Gold Ring
+item.terraria:artifacts/coin_ring.name=Coin Ring
+item.terraria:artifacts/greedy_ring.name=Greedy Ring
+item.terraria:artifacts/flying_carpet.name=Flying Carpet
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Lesser Healing Potion
@@ -606,6 +614,8 @@ item.terraria:potions/food/monster_lasagna.name=Monster Lasagna
 item.terraria:potions/food/pumpkin_pie.name=Pumpkin Pie
 item.terraria:potions/food/roasted_duck.name=Roasted Duck
 item.terraria:potions/restoration.name=Restoration Potion
+item.terraria:potions/sake.name=Sake
+item.terraria:potions/ale.name=Ale
 
 # Materials
 item.terraria:materials/fallen_star.name=Fallen Star
@@ -950,6 +960,9 @@ item.terraria:flare_blue.name=Blue Flare
 item.terraria:flare_cursed.name=Cursed Flare
 item.terraria:flare_rainbow.name=Rainbow Flare
 item.terraria:flare_shimmer.name=Shimmer Flare
+item.terraria:seed.name=Seed
+item.terraria:vital_crystal.name=Vital Crystal
+item.terraria:materials/defender_medal.name=Defender Medal
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
@@ -957,17 +970,10 @@ item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
 
 # Critters
 item.terraria:critters/bunny.name=Bunny
-item.terraria:critters/bunny_explosive.name=Explosive Bunny
 item.terraria:critters/golden/bunny.name=Gold Bunny
-item.terraria:critters/firefly.name=Firefly
 item.terraria:critters/lavafly.name=Lavafly
 item.terraria:critters/worm.name=Worm
 item.terraria:critters/golden/worm.name=Gold Worm
-item.terraria:critters/enchanted_nightcrawler.name=Enchanted Nightcrawler
-item.terraria:critters/buggy.name=Buggy
-item.terraria:critters/grubby.name=Grubby
-item.terraria:critters/maggot.name=Maggot
-item.terraria:critters/sluggy.name=Sluggy
 item.terraria:critters/grasshopper.name=Grasshopper
 item.terraria:critters/golden/grasshopper.name=Gold Grasshopper
 item.terraria:critters/golden/butterfly.name=Gold Butterfly
@@ -987,10 +993,8 @@ item.terraria:critters/bunnies/emerald.name=Emerald Bunny
 item.terraria:critters/bunnies/ruby.name=Ruby Bunny
 item.terraria:critters/bunnies/diamond.name=Diamond Bunny
 item.terraria:critters/bunnies/amber.name=Amber Bunny
-item.terraria:critters/penguin.name=Penguin
 item.terraria:critters/mouse.name=Mouse
 item.terraria:critters/golden/mouse.name=Gold Mouse
-item.terraria:critters/rat.name=Rat
 item.terraria:critters/squirrel.name=Squirrel
 item.terraria:critters/golden/squirrel.name=Gold Squirrel
 item.terraria:critters/squirrels/red.name=Red Squirrel
@@ -1014,42 +1018,17 @@ item.terraria:critters/dragonflies/green.name=Green Dragonfly
 item.terraria:critters/dragonflies/orange.name=Orange Dragonfly
 item.terraria:critters/dragonflies/red.name=Red Dragonfly
 item.terraria:critters/dragonflies/yellow.name=Yellow Dragonfly
-item.terraria:critters/owl.name=Owl
 item.terraria:critters/turtles/normal.name=Turtle
 item.terraria:critters/turtles/jungle.name=Jungle Turtle
 item.terraria:critters/frog.name=Frog
 item.terraria:critters/golden/frog.name=Gold Frog
 item.terraria:critters/ladybug.name=Ladybug
 item.terraria:critters/golden/ladybug.name=Gold Ladybug
-item.terraria:critters/faeling.name=Faeling
 
 # Hostiles (Boss Spawning)
 item.terraria:slime_crown.name=Slime Crown
 item.terraria:suspicious_looking_eye.name=Suspicious Looking Eye
 item.terraria:abeemination.name=Abeemination
-
-# Hostiles
-item.terraria:hostiles/slimes/green.name=Green Slime
-item.terraria:hostiles/slimes/blue.name=Blue Slime
-item.terraria:hostiles/slimes/purple.name=Purple Slime
-item.terraria:hostiles/slimes/pinky.name=Pinky Slime
-item.terraria:hostiles/slimes/red.name=Red Slime
-item.terraria:hostiles/slimes/yellow.name=Yellow Slime
-item.terraria:hostiles/slimes/black.name=Black Slime
-item.terraria:hostiles/slimes/ice.name=Ice Slime
-item.terraria:hostiles/slimes/ice_spiked.name=Spiky Ice Slime
-item.terraria:hostiles/slimes/jungle.name=Jungle Slime
-item.terraria:hostiles/slimes/jungle_spiked.name=Spiky Jungle Slime
-item.terraria:hostiles/slimes/spiked.name=Spiked Slime
-item.terraria:hostiles/zombie.name=Zombie
-item.terraria:hostiles/demon_eye.name=Demon Eye
-item.terraria:hostiles/crimera.name=Crimera
-item.terraria:hostiles/eater_of_souls.name=Eater of Souls
-item.terraria:hostiles/drippler.name=Drippler
-item.terraria:hostiles/gnome.name=Gnome
-item.terraria:hostiles/hornet.name=Hornet
-item.terraria:hostiles/ghost.name=Ghost
-item.terraria:hostiles/blood_zombie.name=Blood Zombie
 
 #################
 
@@ -1063,6 +1042,8 @@ setbonus.terraria:meteor=Space Gun costs 0 mana
 setbonus.terraria:crimson=Greatly increased life regen
 setbonus.terraria:extra_melee_damage=%,d%% extra melee damage
 setbonus.terraria:knockback_immunity=Grants immunity to knockback
+setbonus.terraria:i.frozen_or_chilled=Cannot be frozen or chilled
+setbonus.terraria:decreased_enemy_rate=Decreased enemy spawn rate
 
 #########################
 
@@ -1665,6 +1646,9 @@ tile.terraria:repaired_mana_crystal.name=Repaired Mana Crystal
 tile.terraria:candles/gold.name=Candle
 tile.terraria:candles/platinum.name=Platinum Candle
 tile.terraria:candles/water.name=Water Candle
+tile.terraria:candles/cactus.name=Cactus Candle
+tile.terraria:torches/mushroom.name=Mushroom Torch
+tile.terraria:torches/aether.name=Aether Torch
 
 
 ##################
@@ -1895,6 +1879,9 @@ buff.terraria:panic.desc=Movement speed is increased
 buff.terraria:water_candle.name=Water Candle
 buff.terraria:water_candle.desc=Increased monster spawn rate
 
+buff.terraria:tipsy.name=Tipsy
+buff.terraria:tipsy.desc=Increased melee abilities, lowered defense
+
 #################
 
 
@@ -1997,6 +1984,11 @@ tooltip.terraria:artifacts/celestial_magnet=Increases pickup range for mana star
 tooltip.terraria:artifacts/ancient_chisel=Ancient problems require ancient solutions
 tooltip.terraria:artifacts/cross_necklace=Increases length of invincibility after taking damage
 tooltip.terraria:artifacts/charm_of_myths=Provides life regeneration and reduces the cooldown of healing potions by 25%%
+tooltip.terraria:artifacts/discount_card=Shops prices lowered by 20%%
+tooltip.terraria:artifacts/greedy_ring=Increases coin pickup range and shops prices lowered by 20%%</br>Hitting enemies will sometimes drop extra coins
+tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
+tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
+tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
 
 tooltip.terraria:shine_potion=Emits an aura of light
 tooltip.terraria:whoopie_cushion=May annoy others
@@ -2147,6 +2139,12 @@ tooltip.terraria:potions/restoration=Reduced potion cooldown
 tooltip.terraria:extractinator=Placing silt/slush/fossil piles into the extractinator turns them into something more useful
 tooltip.terraria:furnace=Used for smelting ore
 tooltip.terraria:adamantite_forge=Used to smelt adamantite and titanium ore
+tooltip.terraria:seed=For use with Blowpipe
+tooltip.terraria:vital_crystal=Permanently boosts life regeneration
+tooltip.terraria:potions/sake/1=Minor improvements to melee stats & lowered defense
+tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate master.'
+tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernkeep
+tooltip.terraria:potions/ale='Down the hatch!'
 
 tooltip.terraria:weapons/guns/shotgun=Fires a spread of bullets
 tooltip.terraria:weapons/guns/sandgun=This is a good idea!
@@ -2159,6 +2157,7 @@ tooltip.terraria:weapons/guns/musket='I have to be ready, said the minuteman'
 tooltip.terraria:weapons/guns/vortex_beater='The catastrophic mixture of pew pew and boom boom.'
 tooltip.terraria:weapons/guns/candy_corn_rifle=33%% chance to save ammo
 tooltip.terraria:weapons/guns/quad_barrel_shotgun='When 2 or 3 just doesn't cut it'
+tooltip.terraria:weapons/blowpipe=Allows the collection of seeds for ammo
 
 tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
 tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
@@ -2630,6 +2629,7 @@ entity.terraria:money_trough.name=Money Trough
 entity.terraria:hostile/blood_zombie.name=Blood Zombie
 entity.terraria:creatures/faeling.name=Faeling
 entity.terraria:hostile/spiked_slime.name=Spiked Slime
+entity.terraria:hostile/meteor_head.name=Meteor Head
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombie
