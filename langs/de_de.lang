@@ -494,6 +494,7 @@ item.terraria:artifacts/discount_card.name=Discount Card
 item.terraria:artifacts/gold_ring.name=Gold Ring
 item.terraria:artifacts/coin_ring.name=Coin Ring
 item.terraria:artifacts/greedy_ring.name=Greedy Ring
+item.terraria:artifacts/flying_carpet.name=Flying Carpet
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Kleiner Heiltrank
@@ -614,6 +615,7 @@ item.terraria:potions/food/pumpkin_pie.name=Pumpkin Pie
 item.terraria:potions/food/roasted_duck.name=Roasted Duck
 item.terraria:potions/restoration.name=Restoration Potion
 item.terraria:potions/sake.name=Sake
+item.terraria:potions/ale.name=Ale
 
 # Materials
 item.terraria:materials/fallen_star.name=Sternschnuppe
@@ -960,6 +962,7 @@ item.terraria:flare_rainbow.name=Rainbow Flare
 item.terraria:flare_shimmer.name=Shimmer Flare
 item.terraria:seed.name=Seed
 item.terraria:vital_crystal.name=Vital Crystal
+item.terraria:materials/defender_medal.name=Defender Medal
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
@@ -1985,6 +1988,7 @@ tooltip.terraria:artifacts/discount_card=Shops prices lowered by 20%%
 tooltip.terraria:artifacts/greedy_ring=Increases coin pickup range and shops prices lowered by 20%%</br>Hitting enemies will sometimes drop extra coins
 tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
 tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
+tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
 
 tooltip.terraria:shine_potion=Emits an aura of light
 tooltip.terraria:whoopie_cushion=May annoy others
@@ -2139,6 +2143,8 @@ tooltip.terraria:seed=For use with Blowpipe
 tooltip.terraria:vital_crystal=Permanently boosts life regeneration
 tooltip.terraria:potions/sake/1=Minor improvements to melee stats & lowered defense
 tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate master.'
+tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernkeep
+tooltip.terraria:potions/ale='Down the hatch!'
 
 tooltip.terraria:weapons/guns/shotgun=Fires a spread of bullets
 tooltip.terraria:weapons/guns/sandgun=This is a good idea!
