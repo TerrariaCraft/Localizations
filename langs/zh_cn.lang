@@ -342,6 +342,7 @@ item.terraria:bows/tendon.name=Tendon Bow
 item.terraria:living_leaf_wand.name=Leaf Wand
 item.terraria:living_wood_wand.name=Living Wood Wand
 item.terraria:spears/rotted_fork.name=The Rotted Fork
+item.terraria:sickle.name=Sickle
 
 item.terraria:weapons/yoyos/wooden.name=Wooden Yoyo
 item.terraria:weapons/yoyos/rally.name=Rally
@@ -495,6 +496,7 @@ item.terraria:artifacts/gold_ring.name=Gold Ring
 item.terraria:artifacts/coin_ring.name=Coin Ring
 item.terraria:artifacts/greedy_ring.name=Greedy Ring
 item.terraria:artifacts/flying_carpet.name=Flying Carpet
+item.terraria:artifacts/worm_scarf.name=Worm Scarf
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=弱效治疗药水
@@ -963,6 +965,7 @@ item.terraria:flare_shimmer.name=Shimmer Flare
 item.terraria:seed.name=Seed
 item.terraria:vital_crystal.name=Vital Crystal
 item.terraria:materials/defender_medal.name=Defender Medal
+item.terraria:treasure_bags/eater_of_worlds.name=Treasure Bag
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
@@ -1029,6 +1032,7 @@ item.terraria:critters/golden/ladybug.name=Gold Ladybug
 item.terraria:slime_crown.name=Slime Crown
 item.terraria:suspicious_looking_eye.name=Suspicious Looking Eye
 item.terraria:abeemination.name=Abeemination
+item.terraria:worm_food.name=Worm Food
 
 #################
 
@@ -1649,7 +1653,7 @@ tile.terraria:candles/water.name=Water Candle
 tile.terraria:candles/cactus.name=Cactus Candle
 tile.terraria:torches/mushroom.name=Mushroom Torch
 tile.terraria:torches/aether.name=Aether Torch
-
+tile.terraria:trophies/eater_of_worlds.name=Eater of Worlds Trophy
 
 ##################
 
@@ -1989,6 +1993,7 @@ tooltip.terraria:artifacts/greedy_ring=Increases coin pickup range and shops pri
 tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
 tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
 tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
+tooltip.terraria:artifacts/worm_scarf=Reduces damage taken by 17%%
 
 tooltip.terraria:shine_potion=散发一圈亮光
 tooltip.terraria:whoopie_cushion='可能会惹恼别人'
@@ -2158,6 +2163,8 @@ tooltip.terraria:weapons/guns/vortex_beater='The catastrophic mixture of pew pew
 tooltip.terraria:weapons/guns/candy_corn_rifle=33%% chance to save ammo
 tooltip.terraria:weapons/guns/quad_barrel_shotgun='When 2 or 3 just doesn't cut it'
 tooltip.terraria:weapons/blowpipe=Allows the collection of seeds for ammo
+tooltip.terraria:sickle=Allows the collection of hay from grass
+tooltip.terraria:worm_food=Summons the Eater of Worlds
 
 tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
 tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
@@ -2210,6 +2217,9 @@ itweaks.terraria:forge_sel_res_load.desc=Lets forge reload languages quicker on 
 
 itweaks.terraria:lower_render_distance.name=Lower Render Distance
 itweaks.terraria:lower_render_distance.desc=Reduces render distance to fix laggy entities,<LN>blocks and general server performance.
+
+itweaks.terraria:lower_spawn_loaded_chunks.name=Lower Spawn-Load Distance
+itweaks.terraria:lower_spawn_loaded_chunks.desc=Reduces the amount of chunks loaded around spawn point.<LN>Slightly reduces memory freezes and improves performance.
 
 itweaks.terraria:reduce_cube_gen_amount.name=Reduce Cube Generation
 itweaks.terraria:reduce_cube_gen_amount.desc=Reduces amount of cubes that can be generated per tick.<LN>Imroves server performance when actively generating new cubes.
@@ -2355,6 +2365,18 @@ event.terraria:rain.end=The rain is over.
 event.terraria:slime_rain=Slime Rain
 event.terraria:slime_rain.start=Slime is falling from the sky!
 event.terraria:slime_rain.end=Slime has stopped falling from the sky.
+
+event.terraria:lantern_night=Lantern Night
+event.terraria:lantern_night.start=Everyone is celebrating your victory.
+event.terraria:lantern_night.end=Lantern Night is over.
+
+event.terraria:frost_moon=Frost Moon
+event.terraria:frost_moon.start=The Frost Moon is rising...
+event.terraria:frost_moon.end=The Frost Moon is descending...
+
+event.terraria:pumpkin_moon=Pumpkin Moon
+event.terraria:pumpkin_moon.start=The Pumpkin Moon is rising...
+event.terraria:pumpkin_moon.end=The Pumpkin Moon is descending...
 
 feature.terraria:from_author=制作于模组作者
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <include air true|false> <name>
@@ -2630,6 +2652,7 @@ entity.terraria:hostile/blood_zombie.name=Blood Zombie
 entity.terraria:creatures/faeling.name=Faeling
 entity.terraria:hostile/spiked_slime.name=Spiked Slime
 entity.terraria:hostile/meteor_head.name=Meteor Head
+entity.terraria:hostile/umbrella_slime.name=Umbrella Slime
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombie
@@ -2674,6 +2697,11 @@ boss.terraria:hostile/bosses/eye_of_cthulhu.defeat=Eye of Cthulhu has been defea
 entity.terraria:hostile/bosses/queen_bee.name=Queen Bee
 boss.terraria:hostile/bosses/queen_bee.awake=Queen Bee has awoken!
 boss.terraria:hostile/bosses/queen_bee.defeat=Queen Bee has been defeated!
+
+entity.terraria:hostile/bosses/eater_of_worlds/container.name=Eater of Worlds
+entity.terraria:hostile/bosses/eater_of_worlds/part.name=Eater of Worlds
+boss.terraria:hostile/bosses/eater_of_worlds/container.awake=Eater of Worlds has awoken!
+boss.terraria:hostile/bosses/eater_of_worlds/container.defeat=Eater of Worlds has been defeated!
 
 ####################
 
