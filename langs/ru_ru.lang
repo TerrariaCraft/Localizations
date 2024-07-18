@@ -463,7 +463,6 @@ item.terraria:artifacts/obsidian_skull_rose.name=Обсидиановый чер
 item.terraria:artifacts/flurry_boots.name=Шквальные ботинки
 item.terraria:artifacts/lucky_coin.name=Счастливая монетка
 item.terraria:artifacts/jellyfish_necklace.name=Ожерелье медузы
-item.terraria:artifacts/expert/royal_gel.name=Королевский гель
 item.terraria:artifacts/philosopher_stone.name=Философский камень
 item.terraria:artifacts/angler_earring.name=Серьга рыбака
 item.terraria:artifacts/tackle_box.name=Коробочка с рыбацкими снастями
@@ -497,6 +496,9 @@ item.terraria:artifacts/coin_ring.name=Coin Ring
 item.terraria:artifacts/greedy_ring.name=Greedy Ring
 item.terraria:artifacts/flying_carpet.name=Flying Carpet
 item.terraria:artifacts/worm_scarf.name=Worm Scarf
+
+item.terraria:artifacts/expert/royal_gel.name=Королевский гель
+item.terraria:artifacts/expert/brain_of_confusion.name=Brain of Confusion
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -966,6 +968,7 @@ item.terraria:seed.name=Seed
 item.terraria:vital_crystal.name=Vital Crystal
 item.terraria:materials/defender_medal.name=Defender Medal
 item.terraria:treasure_bags/eater_of_worlds.name=Treasure Bag
+item.terraria:treasure_bags/brain_of_cthulhu.name=Treasure Bag
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
@@ -1033,6 +1036,7 @@ item.terraria:slime_crown.name=Корона слизня
 item.terraria:suspicious_looking_eye.name=Подозрительно выглядящий глаз
 item.terraria:abeemination.name=Пчелиная масса
 item.terraria:worm_food.name=Worm Food
+item.terraria:bloody_spine.name=Bloody Spine
 
 #################
 
@@ -1654,6 +1658,7 @@ tile.terraria:candles/cactus.name=Cactus Candle
 tile.terraria:torches/mushroom.name=Mushroom Torch
 tile.terraria:torches/aether.name=Aether Torch
 tile.terraria:trophies/eater_of_worlds.name=Eater of Worlds Trophy
+tile.terraria:trophies/brain_of_cthulhu.name=Brain of Cthulhu Trophy
 
 ##################
 
@@ -1886,6 +1891,9 @@ buff.terraria:water_candle.desc=Increased monster spawn rate
 buff.terraria:tipsy.name=Tipsy
 buff.terraria:tipsy.desc=Increased melee abilities, lowered defense
 
+buff.terraria:cerebral_mindtrick.name=Cerebral Mindtrick
+buff.terraria:cerebral_mindtrick.desc=Increased critical chance
+
 #################
 
 
@@ -1963,7 +1971,6 @@ tooltip.terraria:artifacts/flower_boots=Цветы растут на траве,
 tooltip.terraria:artifacts/magma_stone=Атаки ближнего боя поджигают противников
 tooltip.terraria:artifacts/lucky_coin=При ударе по врагам иногда выпадают дополнительные монеты
 tooltip.terraria:artifacts/jellyfish_necklace=Издает очень слабое свечение, которое усиливается под водой
-tooltip.terraria:artifacts/expert/royal_gel=Слизняки становятся дружественными
 tooltip.terraria:artifacts/philosopher_stone=Уменьшает время восстановления лечебных зелий на 25%%
 tooltip.terraria:artifacts/angler_earring=Увеличивает мастерство рыбалки
 tooltip.terraria:artifacts/tackle_box=Уменьшает вероятность использования наживки
@@ -1994,6 +2001,9 @@ tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
 tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
 tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
 tooltip.terraria:artifacts/worm_scarf=Reduces damage taken by 17%%
+
+tooltip.terraria:artifacts/expert/royal_gel=Слизняки становятся дружественными
+tooltip.terraria:artifacts/expert/brain_of_confusion=Has a chance to create illusions and dodge an attack</br>Temporarily increase critical chance after dodge</br>May confuse nearby enemies after being struck
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -2165,6 +2175,7 @@ tooltip.terraria:weapons/guns/quad_barrel_shotgun='When 2 or 3 just doesn't cut 
 tooltip.terraria:weapons/blowpipe=Allows the collection of seeds for ammo
 tooltip.terraria:sickle=Allows the collection of hay from grass
 tooltip.terraria:worm_food=Summons the Eater of Worlds
+tooltip.terraria:bloody_spine=Summons the Brain of Cthulhu
 
 tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
 tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
@@ -2339,6 +2350,15 @@ achievement.terraria:wheres_my_honey.desc=Найдите большой пчел
 
 achievement.terraria:smashing_poppet.name=Отлично, марионетка!
 achievement.terraria:smashing_poppet.desc=Используя взрывчатку или старый добрый молот, разбейте теневую сферу или багряное сердце в злой части вашего мира.
+
+achievement.terraria:i_am_loot.name=I Am Loot!
+achievement.terraria:i_am_loot.desc=Discover a golden chest underground and take a peek at its contents.
+
+achievement.terraria:worm_fodder.name=Worm Fodder
+achievement.terraria:worm_fodder.desc=Defeat the Eater of Worlds, a massive worm who dwells in the corruption.
+
+achievement.terraria:mastermind.name=Mastermind
+achievement.terraria:mastermind.desc=Defeat the Brain of Cthulhu, an enormous demon brain which haunts the creeping crimson.
 
 ########################
 
@@ -2594,6 +2614,7 @@ entity.terraria:spark.name=Искра
 entity.terraria:starfury_star.name=Звезда звездной ярости
 entity.terraria:yoyo.name=Йо-йо
 entity.terraria:shadow_orb.name=Shadow Orb
+entity.terraria:vile_spit_eow.name=Vile Spit
 
 entity.terraria:hostile/green_slime.name=Зеленый слизень
 entity.terraria:hostile/blue_slime.name=Синий слизень
@@ -2653,6 +2674,8 @@ entity.terraria:creatures/faeling.name=Феечка
 entity.terraria:hostile/spiked_slime.name=Spiked Slime
 entity.terraria:hostile/meteor_head.name=Meteor Head
 entity.terraria:hostile/umbrella_slime.name=Umbrella Slime
+entity.terraria:hostile/creeper_minion.name=Creeper
+entity.terraria:hostile/flying_fish.name=Flying Fish
 
 entity.terraria:hostile/zombie.name=Зомби
 entity.terraria:zombies/normal=Зомби
@@ -2702,6 +2725,10 @@ entity.terraria:hostile/bosses/eater_of_worlds/container.name=Eater of Worlds
 entity.terraria:hostile/bosses/eater_of_worlds/part.name=Eater of Worlds
 boss.terraria:hostile/bosses/eater_of_worlds/container.awake=Eater of Worlds has awoken!
 boss.terraria:hostile/bosses/eater_of_worlds/container.defeat=Eater of Worlds has been defeated!
+
+entity.terraria:hostile/bosses/brain_of_cthulhu.name=Brain of Cthulhu
+boss.terraria:hostile/bosses/brain_of_cthulhu.awake=Brain of Cthulhu has awoken!
+boss.terraria:hostile/bosses/brain_of_cthulhu.defeat=Brain of Cthulhu has been defeated!
 
 ####################
 
