@@ -164,6 +164,11 @@ soundCategory.terraria.ambience=Ambiente Terrariano
 deathScreen.title.terraria=Você foi Morto...
 
 options.terraria:gore=Efeitos de Sangue
+options.terraria:gore.desc=Should TerrariaCraft spawn gore particles upon killing entities?
+
+options.terraria:boss_outlines=Boss Outlines
+options.terraria:boss_outlines.desc=Should bosses have a glow-like outline?
+
 gui.terraria:building_chunks_started=Construindo Blocos...
 gui.terraria:building_chunks=Construindo Blocos... (%s/%s)
 gui.terraria:building_chunks_done=Construção de Blocos Completa.
