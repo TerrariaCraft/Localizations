@@ -1663,6 +1663,7 @@ tile.terraria:torches/mushroom.name=Mushroom Torch
 tile.terraria:torches/aether.name=Aether Torch
 tile.terraria:trophies/eater_of_worlds.name=Eater of Worlds Trophy
 tile.terraria:trophies/brain_of_cthulhu.name=Brain of Cthulhu Trophy
+tile.terraria:pin_wheel.name=Pin Wheel
 
 ##################
 
