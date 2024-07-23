@@ -158,6 +158,7 @@ itemGroup.terraria:squirrels=Ardillas
 itemGroup.terraria:butterflies=Mariposas
 itemGroup.terraria:dragonflies=Libélulas
 itemGroup.terraria:bosses=Jefes
+itemGroup.terraria:invasions=Invasions
 
 itemGroup.terraria:armor/mining=Armadura de minero
 itemGroup.terraria:armor/wooden=Armadura de madera
@@ -774,6 +775,7 @@ item.terraria:materials/baits/jellyfish_blue.name=Medusa azul
 item.terraria:materials/baits/jellyfish_green.name=Medusa verde
 item.terraria:materials/baits/jellyfish_pink.name=Medusa rosa
 item.terraria:materials/coal.name=Carbón
+item.terraria:materials/tattered_cloth.name=Tattered Cloth
 
 # Armor
 item.terraria:armor/wooden/helm.name=Casco de madera
@@ -1079,6 +1081,9 @@ item.terraria:suspicious_looking_eye.name=Ojo de aspecto sospechoso
 item.terraria:abeemination.name=Abeemination
 item.terraria:worm_food.name=Worm Food
 item.terraria:bloody_spine.name=Bloody Spine
+
+# Hostiles (Invasions)
+item.terraria:goblin_battle_standard.name=Goblin Battle Standard
 
 #################
 
@@ -2219,6 +2224,7 @@ tooltip.terraria:weapons/blowpipe=Allows the collection of seeds for ammo
 tooltip.terraria:sickle=Allows the collection of hay from grass
 tooltip.terraria:worm_food=Summons the Eater of Worlds
 tooltip.terraria:bloody_spine=Summons the Brain of Cthulhu
+tooltip.terraria:goblin_battle_standard=Summons a Goblin Army
 
 tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
 tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
@@ -2719,6 +2725,7 @@ entity.terraria:hostile/meteor_head.name=Meteor Head
 entity.terraria:hostile/umbrella_slime.name=Umbrella Slime
 entity.terraria:hostile/creeper_minion.name=Creeper
 entity.terraria:hostile/flying_fish.name=Flying Fish
+entity.terraria:hostile/invasions/goblin_army/peon.name=Goblin Peon
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombi
@@ -2772,6 +2779,21 @@ boss.terraria:hostile/bosses/eater_of_worlds/container.defeat=Eater of Worlds ha
 entity.terraria:hostile/bosses/brain_of_cthulhu.name=Brain of Cthulhu
 boss.terraria:hostile/bosses/brain_of_cthulhu.awake=Brain of Cthulhu has awoken!
 boss.terraria:hostile/bosses/brain_of_cthulhu.defeat=Brain of Cthulhu has been defeated!
+
+####################
+
+#### INVASIONS #####
+
+invasion.terraria:cleared=Cleared %d%%
+invasion.terraria:east=east
+invasion.terraria:west=west
+invasion.terraria:south=south
+invasion.terraria:north=north
+
+invasion.terraria:goblin_army.name=Goblin Army
+invasion.terraria:goblin_army.enqueue=A goblin army is approaching from the %s!
+invasion.terraria:goblin_army.arrive=A goblin army has arrived!
+invasion.terraria:goblin_army.depart=A goblin army has been defeated!
 
 ####################
 
