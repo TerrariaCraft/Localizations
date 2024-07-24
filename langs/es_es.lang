@@ -538,8 +538,9 @@ item.terraria:artifacts/gold_ring.name=Gold Ring
 item.terraria:artifacts/coin_ring.name=Coin Ring
 item.terraria:artifacts/greedy_ring.name=Greedy Ring
 item.terraria:artifacts/flying_carpet.name=Flying Carpet
-item.terraria:artifacts/worm_scarf.name=Worm Scarf
+item.terraria:artifacts/toolbelt.name=Toolbelt
 
+item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
 item.terraria:artifacts/expert/royal_gel.name=Gel real
 item.terraria:artifacts/expert/brain_of_confusion.name=Brain of Confusion
 
@@ -2049,8 +2050,9 @@ tooltip.terraria:artifacts/greedy_ring=Increases coin pickup range and shops pri
 tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
 tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
 tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
-tooltip.terraria:artifacts/worm_scarf=Reduces damage taken by 17%%
+tooltip.terraria:artifacts/toolbelt=Increases block placement range by 1
 
+tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Los slimes serán amistosos
 tooltip.terraria:artifacts/expert/brain_of_confusion=Has a chance to create illusions and dodge an attack</br>Temporarily increase critical chance after dodge</br>May confuse nearby enemies after being struck
 
@@ -2409,6 +2411,36 @@ achievement.terraria:worm_fodder.desc=Defeat the Eater of Worlds, a massive worm
 achievement.terraria:mastermind.name=Mastermind
 achievement.terraria:mastermind.desc=Defeat the Brain of Cthulhu, an enormous demon brain which haunts the creeping crimson.
 
+achievement.terraria:goblin_punter.name=Goblin Punter
+achievement.terraria:goblin_punter.desc=Triumph over a goblin invasion, a ragtag regiment of crude, barbaric, pointy-eared warriors and their shadowflame sorcerers.
+
+achievement.terraria:gelatin_world_tour.name=Gelatin World Tour
+achievement.terraria:gelatin_world_tour.desc=Defeat every type of slime there is!
+
+achievement.terraria:fashion_statement.name=Fashion Statement
+achievement.terraria:fashion_statement.desc=Equip armor or vanity clothing in all three social slots.
+
+achievement.terraria:bulldozer.name=Bulldozer
+achievement.terraria:bulldozer.desc=Destroy a total of 10,000 tiles.
+
+achievement.terraria:the_frequent_flyer.name=The Frequent Flyer
+achievement.terraria:the_frequent_flyer.desc=Spend over 1 gold being treated by the nurse.
+
+achievement.terraria:completely_awesome.name=Completely Awesome
+achievement.terraria:completely_awesome.desc=Obtain a minishark.
+
+achievement.terraria:hot_reels.name=Hot Reels!
+achievement.terraria:hot_reels.desc=Drop a lure in a pool of lava for a pre-fried haul!
+
+achievement.terraria:feast_of_midas.name=Feast of Midas
+achievement.terraria:feast_of_midas.desc=Obtain Golden Delight, the highest quality meal made from the highest quality... ingredients.
+
+achievement.terraria:unusual_survival_strategies.name=Unusual Survival Strategies
+achievement.terraria:unusual_survival_strategies.desc=Delay death from drowning by drinking water. It doesn't make much sense, but you did what you had to do.
+
+achievement.terraria:ankhumulation_complete.name=Ankhumulation Complete
+achievement.terraria:ankhumulation_complete.desc=Obtain the Ankh Shield, the finest protection from unpleasant maladies and ailments.
+
 ########################
 
 
@@ -2663,8 +2695,12 @@ entity.terraria:spark.name=Spark
 entity.terraria:starfury_star.name=Starfury Star
 entity.terraria:yoyo.name=Yoyo
 entity.terraria:shadow_orb.name=Shadow Orb
-entity.terraria:vile_spit_eow.name=Vile Spit
 
+# Projectiles
+entity.terraria:vile_spit_eow.name=Vile Spit
+entity.terraria:chaos_ball.name=Chaos Ball
+
+# Living
 entity.terraria:hostile/green_slime.name=Green Slime
 entity.terraria:hostile/blue_slime.name=Blue Slime
 entity.terraria:baby_slime.name=Slime bebé
@@ -2726,6 +2762,10 @@ entity.terraria:hostile/umbrella_slime.name=Umbrella Slime
 entity.terraria:hostile/creeper_minion.name=Creeper
 entity.terraria:hostile/flying_fish.name=Flying Fish
 entity.terraria:hostile/invasions/goblin_army/peon.name=Goblin Peon
+entity.terraria:hostile/invasions/goblin_army/sorcerer.name=Goblin Sorcerer
+entity.terraria:bound_goblin.name=Bound Goblin
+entity.terraria:hostile/baby_slime.name=Baby Slime
+entity.terraria:hostile/mother_slime.name=Mother Slime
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombi
@@ -2983,6 +3023,7 @@ npc.terraria:demolitionist.happiness.npc.tavernkeep=¡Me fascina lo bien que sab
 npc.terraria:demolitionist.happiness.npc.mechanic=%s es un buen amigo, ¡me ayuda a cargar la pólvora!
 npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=¡Me gustaría atar a %s el Duende chapucero a un cohete y ver qué pasa!
 npc.terraria:demolitionist.happiness.npc.arms_dealer=¡Me gustaría atar a %s el Traficante de armas a un cohete y ver qué pasa!
+npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=¡Me gustaría atar a %s el Duende chapucero a un cohete y ver qué pasa!
 npc.terraria:demolitionist.happiness.neutral=¡Vaya, hoy no tengo ganas de hacer explotar nada!
 
 
@@ -3209,6 +3250,59 @@ npc.terraria:witch_doctor.happiness.npc.guide=%s the Guide is a kindred spirit o
 npc.terraria:witch_doctor.happiness.npc.nurse=I dislike the practices of %s the Nurse. True healing cannot come from metal and glass.
 npc.terraria:witch_doctor.happiness.npc.truffle=Fury fills my being as abominations sprout from tainted earth - I speak of %s the Truffle.
 npc.terraria:witch_doctor.happiness.neutral=I embody contentedness.
+
+
+## GOBLIN TINKERER ##
+npc.terraria:goblin_tinkerer.name=Goblin Tinkerer
+npc.terraria:goblin_tinkerer=%s the Goblin Tinkerer
+npc.terraria:goblin_tinkerer.names=Arback,Dalek,Darz,Durnok,Fahd,Fjell,Gnudar,Grodax,Knogs,Knub,Mobart,Mrunok,Negurk,Nort,Nuxatk,Ragz,Sarx,Smador,Stazen,Stezom,Tgerd,Tkanus,Trogem,Xanos,Xon
+
+npc.terraria:goblin_tinkerer.rescue=Thank you for freeing me, human. I was tied up and left here by the other goblins. You could say that we didn't get along very well.
+npc.terraria:goblin_tinkerer.homeless.1=I can't believe they tied me up and left me here just for pointing out that they weren't going east!
+npc.terraria:goblin_tinkerer.homeless.2=Now that I'm an outcast, can I throw away the spiked balls? My pockets hurt.
+npc.terraria:goblin_tinkerer.homeless.3=Looking for a gadgets expert? I'm your goblin!
+npc.terraria:goblin_tinkerer.homeless.4=Thanks for your help. Now, I have to finish pacing around aimlessly here. I'm sure we'll meet again.
+npc.terraria:goblin_tinkerer.homeless.5=I thought you'd be taller.
+npc.terraria:goblin_tinkerer.interact.1=Goblins are surprisingly easy to anger. In fact, they could start a war over cloth!
+npc.terraria:goblin_tinkerer.interact.2=To be honest, most goblins aren't exactly rocket scientists. Well, some are.
+npc.terraria:goblin_tinkerer.interact.3=Do you know why we all carry around these spiked balls? Because I don't.
+npc.terraria:goblin_tinkerer.interact.4=I just finished my newest creation! This version doesn't explode violently if you breathe on it too hard.
+npc.terraria:goblin_tinkerer.interact.5=Goblin thieves aren't very good at their job. They can't even steal from an unlocked chest!
+npc.terraria:goblin_tinkerer.night.1=Hey, does your hat need a motor? I think I have a motor that would fit exactly in that hat.
+npc.terraria:goblin_tinkerer.night.2=Yo, I heard you like rockets and running boots, so I put some rockets in your running boots.
+npc.terraria:goblin_tinkerer.night.3=Silence is golden. Duct tape is silver.
+npc.terraria:goblin_tinkerer.night.4=YES, gold is stronger than iron. What are they teaching these humans nowadays?
+npc.terraria:goblin_tinkerer.night.5=You know, that mining helmet-flipper combination was a much better idea on paper.
+npc.terraria:goblin_tinkerer.rain.1=All this rainfall makes it hard to see. I should tinker my goggles with a pair of windshield wipers.
+npc.terraria:goblin_tinkerer.rain.2=Humans are a lot taller than goblins. When it floods, we are always in big trouble!
+npc.terraria:goblin_tinkerer.thunderstorm.1=I'm working on an invention that will harness the energy being released around us!
+npc.terraria:goblin_tinkerer.thunderstorm.2=Most goblins hate thunderstorms. Probably because they carry so many spiky balls.
+npc.terraria:goblin_tinkerer.windyday.1=This weather is the reason why I wear goggles! I can't have dirt and sand blowing in my eyes.
+npc.terraria:goblin_tinkerer.windyday.2=Now would be a great time to tinker a pinwheel accessory!
+npc.terraria:goblin_tinkerer.graveyard.1=I'm working on a Photon Sack. It's an invention to trap all the ghasts lurking around outside!
+npc.terraria:goblin_tinkerer.graveyard.2=The constant moaning and ear-piercing screeching noises are distracting me from my work!
+npc.terraria:goblin_tinkerer.party=Goblin parties are a lot like humans. They both have games like "Pin the Blame on the Human" er... I don't play that game at my parties.
+npc.terraria:goblin_tinkerer.npc.mechanic=Hey...what's %s up to? Have you...have you talked to her, by chance?
+npc.terraria:goblin_tinkerer.npc.stylist=I tried to visit %s one time. She just looked at me and said 'nope.'
+npc.terraria:goblin_tinkerer.extra.ooa=You know, these Etherian Goblins are nothing like my people. Really rowdy bunch. Not that my people are much better...
+
+
+npc.terraria:goblin_tinkerer.happiness.homeless=Goblins don't normally need nice homes, but I'm not like most goblins.
+npc.terraria:goblin_tinkerer.happiness.home.far=I want to work on my new invention, but my house is way over there!
+npc.terraria:goblin_tinkerer.happiness.sparse=Perfect, the lack of annoying neighbors adequately meet my needs.
+npc.terraria:goblin_tinkerer.happiness.npc.overcrowded.1=There appears to be an unlikeable amount of humans gathering around me, hm?
+npc.terraria:goblin_tinkerer.happiness.npc.overcrowded.2=This crowding triggers bad memories of goblin war camps, I really hate it.
+npc.terraria:goblin_tinkerer.happiness.biome.caverns=Ahh, the Underground is a nice, quiet place to construct more gadgets. Major like-age!
+npc.terraria:goblin_tinkerer.happiness.biome.jungle=I don't like the Jungle, it is filled with loud, annoying pests that get in the way of my work!
+npc.terraria:goblin_tinkerer.happiness.evil.corruption=I hate the Corruption, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!
+npc.terraria:goblin_tinkerer.happiness.evil.crimson=I hate the Crimson, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!
+npc.terraria:goblin_tinkerer.happiness.evil.dungeon=I hate the Dungeon, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!
+npc.terraria:goblin_tinkerer.happiness.npc.mechanic=%s  makes my cardiac core function improperly, it appears I love how that feels!
+npc.terraria:goblin_tinkerer.happiness.npc.dye_trader=%s understands how fun it is to mix things together, I can respect that!
+npc.terraria:goblin_tinkerer.happiness.npc.clothier=I detect eerie vibes from %s, as if they contain dark secrets. I don't like the feeling.
+npc.terraria:goblin_tinkerer.happiness.npc.stylist=I really hate how %s humiliated me, all because male goblins cannot grow real hair!
+npc.terraria:goblin_tinkerer.happiness.npc.princess=%s likes my inventions, and says all friendly goblins are welcome!
+npc.terraria:goblin_tinkerer.happiness.neutral=Feelings are currently nominal.
 
 ##################
 
