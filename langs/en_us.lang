@@ -539,6 +539,11 @@ item.terraria:artifacts/coin_ring.name=Coin Ring
 item.terraria:artifacts/greedy_ring.name=Greedy Ring
 item.terraria:artifacts/flying_carpet.name=Flying Carpet
 item.terraria:artifacts/toolbelt.name=Toolbelt
+item.terraria:artifacts/compass.name=Compass
+item.terraria:artifacts/gold_watch.name=Gold Watch
+item.terraria:artifacts/platinum_watch.name=Platinum Watch
+item.terraria:artifacts/depth_meter.name=Depth Meter
+item.terraria:artifacts/gps.name=GPS
 
 item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
 item.terraria:artifacts/expert/royal_gel.name=Royal Gel
@@ -2051,6 +2056,11 @@ tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
 tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
 tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
 tooltip.terraria:artifacts/toolbelt=Increases block placement range by 1
+tooltip.terraria:artifacts/compass=Displays horizontal position
+tooltip.terraria:artifacts/gold_watch=Tells the time
+tooltip.terraria:artifacts/platinum_watch=Tells the time
+tooltip.terraria:artifacts/depth_meter=Displays depth
+tooltip.terraria:artifacts/gps=Shows position</br>Tells the time
 
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Slimes become friendly
@@ -2232,6 +2242,20 @@ tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
 tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
 
 # Misc Tooltips
+moon_phase.0=Full Moon
+moon_phase.1=Waning Gibbous
+moon_phase.2=Last Quarter
+moon_phase.3=Waning Crescent
+moon_phase.4=New Moon
+moon_phase.5=Waxing Crescent
+moon_phase.6=First Quarter
+moon_phase.7=Waxing Gibbous
+
+layer.space=Space
+layer.surface=Surface
+layer.underground=Underground
+layer.caverns=Caverns
+layer.underworld=Underworld
 
 speed.terraria:insanely_fast=Insanely Fast Speed
 speed.terraria:very_fast=Very Fast Speed
