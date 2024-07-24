@@ -2441,6 +2441,12 @@ achievement.terraria:unusual_survival_strategies.desc=Delay death from drowning 
 achievement.terraria:ankhumulation_complete.name=Ankhumulation Complete
 achievement.terraria:ankhumulation_complete.desc=Obtain the Ankh Shield, the finest protection from unpleasant maladies and ailments.
 
+achievement.terraria:funkytown.name=Funkytown
+achievement.terraria:funkytown.desc=Build or encounter a glowing mushroom field above the surface.
+
+achievement.terraria:its_getting_hot_in_here.name=It's Getting Hot in Here
+achievement.terraria:its_getting_hot_in_here.desc=Spelunk deep enough to reach the molten underworld.
+
 ########################
 
 
