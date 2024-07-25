@@ -159,6 +159,8 @@ itemGroup.terraria:butterflies=Schmetterlinge
 itemGroup.terraria:dragonflies=Glühwürmchen
 itemGroup.terraria:bosses=Bosse
 itemGroup.terraria:invasions=Invasions
+itemGroup.terraria:slimes=Slimes
+itemGroup.terraria:bats=Bats
 
 itemGroup.terraria:armor/mining=Minenarbeiterrüstung
 itemGroup.terraria:armor/wooden=Holzrüstung
@@ -1949,6 +1951,9 @@ buff.terraria:tipsy.desc=Increased melee abilities, lowered defense
 buff.terraria:cerebral_mindtrick.name=Cerebral Mindtrick
 buff.terraria:cerebral_mindtrick.desc=Increased critical chance
 
+buff.terraria:feral_bite.name=Feral Bite
+buff.terraria:feral_bite.desc=Increased damage, Decreased life regen, Causes status effects
+
 #################
 
 
@@ -2519,8 +2524,10 @@ command.terraria:wormhole.missing_potion=You need %s to use this command.
 command.terraria:npc_unlock.ok=NPC %s was unlocked.
 command.terraria:npc_unlock.unlocked=NPC %s was already unlocked.
 command.terraria:npc_summon.ok=NPC %s was summoned.
+
 hud.terraria:life=Life: %s
 hud.terraria:mana=Mana
+
 chat.terraria:defeatenemy=%s has defeated %,d-th %s!
 chat.terraria:spawn_point.set=Spawn point set!
 chat.terraria:spawn_point.remove=Spawn point removed!
@@ -2560,10 +2567,19 @@ house.terraria:show_location=Show location
 house.terraria:move_here=Move Here
 house.terraria:query=Query house
 
+gui.terraria:tinkerer.reforge=Place an item here to reforge
+gui.terraria:guide.crafting.empty=Place a material here
+gui.terraria:guide.crafting.uses=Showing recipes that use %s
+gui.terraria:guide.crafting.required=Required objects: %s
 gui.terraria:buy=Buy for
 gui.terraria:sell=Sell price:
 gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Heal for
+gui.terraria:coins.cost=Cost:
+gui.terraria:coins.copper_coin=copper
+gui.terraria:coins.silver_coin=silver
+gui.terraria:coins.gold_coin=gold
+gui.terraria:coins.platinum_coin=platinum
 
 fluid.terraria:water=Water
 fluid.terraria:lava=Lava
@@ -2802,6 +2818,11 @@ entity.terraria:hostile/invasions/goblin_army/warrior.name=Goblin Warrior
 entity.terraria:bound_goblin.name=Bound Goblin
 entity.terraria:hostile/baby_slime.name=Baby Slime
 entity.terraria:hostile/mother_slime.name=Mother Slime
+entity.terraria:hostile/cave_bat.name=Cave Bat
+entity.terraria:hostile/jungle_bat.name=Jungle Bat
+entity.terraria:hostile/hellbat.name=Hellbat
+entity.terraria:hostile/ice_bat.name=Ice Bat
+entity.terraria:hostile/spore_bat.name=Spore Bat
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombie
@@ -2880,6 +2901,8 @@ npc.terraria:ui.happiness=Happiness
 npc.terraria:ui.close=Close
 npc.terraria:ui.advice=Help
 npc.terraria:ui.heal=Heal
+npc.terraria:ui.crafting=Crafting
+npc.terraria:ui.reforge=Reforge
 
 ## GUIDE ##
 npc.terraria:guide.name=Guide
