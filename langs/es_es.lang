@@ -2760,6 +2760,7 @@ entity.terraria:shadow_orb.name=Shadow Orb
 # Projectiles
 entity.terraria:vile_spit_eow.name=Vile Spit
 entity.terraria:chaos_ball.name=Chaos Ball
+entity.terraria:burning_sphere.name=Burning Sphere
 
 # Living
 entity.terraria:hostile/green_slime.name=Green Slime
@@ -2835,6 +2836,12 @@ entity.terraria:hostile/jungle_bat.name=Jungle Bat
 entity.terraria:hostile/hellbat.name=Hellbat
 entity.terraria:hostile/ice_bat.name=Ice Bat
 entity.terraria:hostile/spore_bat.name=Spore Bat
+entity.terraria:hostile/fire_imp.name=Fire Imp
+
+entity.terraria:hostile/giant_worm.name=Giant Worm
+entity.terraria:hostile/giant_worm/head.name=Giant Worm Head
+entity.terraria:hostile/giant_worm/body.name=Giant Worm Body
+entity.terraria:hostile/giant_worm/tail.name=Giant Worm Tail
 
 entity.terraria:hostile/zombie.name=Zombie
 entity.terraria:zombies/normal=Zombi
