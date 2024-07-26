@@ -546,6 +546,12 @@ item.terraria:artifacts/gold_watch.name=Gold Watch
 item.terraria:artifacts/platinum_watch.name=Platinum Watch
 item.terraria:artifacts/depth_meter.name=Depth Meter
 item.terraria:artifacts/gps.name=GPS
+item.terraria:artifacts/rocket_boots.name=Rocket Boots
+item.terraria:artifacts/spectre_boots.name=Spectre Boots
+item.terraria:artifacts/lightning_boots.name=Lightning Boots
+item.terraria:artifacts/frostspark_boots.name=Frostspark Boots
+item.terraria:artifacts/lava_waders.name=Lava Waders
+item.terraria:artifacts/terraspark_boots.name=Terraspark Boots
 
 item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
 item.terraria:artifacts/expert/royal_gel.name=Королевский гель
@@ -2066,6 +2072,12 @@ tooltip.terraria:artifacts/gold_watch=Tells the time
 tooltip.terraria:artifacts/platinum_watch=Tells the time
 tooltip.terraria:artifacts/depth_meter=Displays depth
 tooltip.terraria:artifacts/gps=Shows position</br>Tells the time
+tooltip.terraria:artifacts/rocket_boots=Allows flight
+tooltip.terraria:artifacts/spectre_boots=Allows flight</br>The wearer can run super fast
+tooltip.terraria:artifacts/lightning_boots=Allows flight, super fast running</br>8%% increased movement speed
+tooltip.terraria:artifacts/frostspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed
+tooltip.terraria:artifacts/lava_waders=Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
+tooltip.terraria:artifacts/terraspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed</br>Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
 
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Слизняки становятся дружественными
