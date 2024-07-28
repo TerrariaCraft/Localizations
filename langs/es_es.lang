@@ -552,6 +552,7 @@ item.terraria:artifacts/lightning_boots.name=Lightning Boots
 item.terraria:artifacts/frostspark_boots.name=Frostspark Boots
 item.terraria:artifacts/lava_waders.name=Lava Waders
 item.terraria:artifacts/terraspark_boots.name=Terraspark Boots
+item.terraria:artifacts/dunerider_boots.name=Dunerider Boots
 
 item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
 item.terraria:artifacts/expert/royal_gel.name=Gel real
@@ -2078,6 +2079,7 @@ tooltip.terraria:artifacts/lightning_boots=Allows flight, super fast running</br
 tooltip.terraria:artifacts/frostspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed
 tooltip.terraria:artifacts/lava_waders=Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
 tooltip.terraria:artifacts/terraspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed</br>Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
+tooltip.terraria:artifacts/dunerider_boots=The wearer can run super fast, and even faster on sand</br>'Walk without rhythm and you won't attract the worm'
 
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Los slimes serán amistosos
