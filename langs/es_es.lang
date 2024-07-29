@@ -1723,6 +1723,7 @@ tile.terraria:trophies/eater_of_worlds.name=Eater of Worlds Trophy
 tile.terraria:trophies/brain_of_cthulhu.name=Brain of Cthulhu Trophy
 tile.terraria:pin_wheel.name=Pin Wheel
 tile.terraria:furniture/candelabras/candelabra.name=Candelabra
+tile.terraria:hay.name=Hay
 
 ##################
 
@@ -2830,6 +2831,7 @@ entity.terraria:hostile/invasions/goblin_army/sorcerer.name=Goblin Sorcerer
 entity.terraria:hostile/invasions/goblin_army/thief.name=Goblin Thief
 entity.terraria:hostile/invasions/goblin_army/archer.name=Goblin Archer
 entity.terraria:hostile/invasions/goblin_army/warrior.name=Goblin Warrior
+entity.terraria:hostile/goblin_scout.name=Goblin Scout
 entity.terraria:bound_goblin.name=Bound Goblin
 entity.terraria:hostile/baby_slime.name=Baby Slime
 entity.terraria:hostile/mother_slime.name=Mother Slime
