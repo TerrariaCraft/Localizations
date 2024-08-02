@@ -75,6 +75,7 @@ itemGroup.terraria:glowing_pets=Light Pets
 itemGroup.terraria:carts=Minecarts
 itemGroup.terraria:mounts=Mounts
 itemGroup.terraria:hooks=Hooks
+itemGroup.terraria:boomerangs=Boomerangs
 
 itemGroup.terraria:crafting_stations=Stations de craft
 itemGroup.terraria:crafting_stations.work_benches=Etablis
@@ -412,6 +413,15 @@ item.terraria:weapons/yoyos/kraken.name=Kraken
 item.terraria:weapons/yoyos/eye_cthulhu.name=The Eye of Cthulhu
 item.terraria:weapons/yoyos/terrarian.name=Terrarian
 item.terraria:weapons/yoyos/hive_five.name=Hive-Five
+
+item.terraria:weapons/boomerangs/wooden.name=Wooden Boomerang
+item.terraria:weapons/boomerangs/ice.name=Ice Boomerang
+item.terraria:weapons/boomerangs/enchanted.name=Enchanted Boomerang
+item.terraria:weapons/boomerangs/flamarang.name=Flamarang
+item.terraria:weapons/boomerangs/shroomerang.name=Shroomerang
+item.terraria:weapons/boomerangs/trimarang.name=Trimarang
+item.terraria:weapons/boomerangs/thorn_chakram.name=Thorn Chakram
+item.terraria:weapons/boomerangs/fruitcake_chakram.name=Fruitcake Chakram
 
 item.terraria:weapons/guns/boomstick.name=Boomstick
 item.terraria:weapons/guns/musket.name=Musket
@@ -2259,6 +2269,8 @@ tooltip.terraria:weapons/guns/vortex_beater='The catastrophic mixture of pew pew
 tooltip.terraria:weapons/guns/candy_corn_rifle=33%% chance to save ammo
 tooltip.terraria:weapons/guns/quad_barrel_shotgun='When 2 or 3 just doesn't cut it'
 tooltip.terraria:weapons/blowpipe=Allows the collection of seeds for ammo
+tooltip.terraria:weapons/boomerangs/trimarang='Three Boomerangs are better than one'
+
 tooltip.terraria:sickle=Allows the collection of hay from grass
 tooltip.terraria:worm_food=Summons the Eater of Worlds
 tooltip.terraria:bloody_spine=Summons the Brain of Cthulhu
