@@ -792,6 +792,7 @@ item.terraria:materials/baits/jellyfish_green.name=Green Jellyfish
 item.terraria:materials/baits/jellyfish_pink.name=Pink Jellyfish
 item.terraria:materials/coal.name=Coal
 item.terraria:materials/tattered_cloth.name=Tattered Cloth
+item.terraria:materials/hook.name=Hook
 
 # Armor
 item.terraria:armor/wooden/helm.name=Wood Helmet
@@ -1029,6 +1030,10 @@ item.terraria:vital_crystal.name=Vital Crystal
 item.terraria:materials/defender_medal.name=Defender Medal
 item.terraria:treasure_bags/eater_of_worlds.name=Treasure Bag
 item.terraria:treasure_bags/brain_of_cthulhu.name=Treasure Bag
+
+# Grappling Hooks
+item.terraria:hooks/grappling.name=Grappling Hook
+item.terraria:hooks/slime.name=Slime Hook
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
