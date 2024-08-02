@@ -2859,6 +2859,8 @@ entity.terraria:hostile/hellbat.name=Hellbat
 entity.terraria:hostile/ice_bat.name=Ice Bat
 entity.terraria:hostile/spore_bat.name=Spore Bat
 entity.terraria:hostile/fire_imp.name=Fire Imp
+entity.terraria:hostile/snatcher.name=Snatcher
+entity.terraria:hostile/man_eater.name=Man Eater
 
 entity.terraria:hostile/giant_worm.name=Giant Worm
 entity.terraria:hostile/giant_worm/head.name=Giant Worm Head
