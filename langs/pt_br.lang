@@ -254,6 +254,9 @@ gui.terraria:new_world/mcgm/creative=Recursos ilimitados, vôo livre e destrua b
 gui.terraria:new_world/cheats/disabled=Você não pode usar nenhum comando que altere a jogabilidade.
 gui.terraria:new_world/cheats/enabled=Você tem total acesso aos comandos que alteram a jogabilidade.
 
+container.terraria:coins=Coins
+container.terraria:ammo=Ammo
+
 worldsize.terraria:tiny=Minúsculo
 worldsize.terraria:small=Pequeno
 worldsize.terraria:medium=Médio
@@ -1044,6 +1047,9 @@ item.terraria:treasure_bags/brain_of_cthulhu.name=Treasure Bag
 # Grappling Hooks
 item.terraria:hooks/grappling.name=Grappling Hook
 item.terraria:hooks/slime.name=Slime Hook
+item.terraria:hooks/squirrel.name=Squirrel Hook
+item.terraria:hooks/amethyst.name=Amethyst Hook
+item.terraria:hooks/topaz.name=Topaz Hook
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
