@@ -1756,9 +1756,9 @@ tile.terraria:hay.name=Hay
 key.category.terraria=TerrariaCraft
 key.terraria.toggle_gravity=Toggle Gravity
 key.hotbar.0=Hotbar Slot 10
-key.terraria.healing=Activate healing potion
-key.terraria.mana=Activate mana potion
-key.terraria.buffs=Activate all buff potions
+key.terraria2.healing=Quick Heal
+key.terraria2.mana=Quick Mana
+key.terraria2.buffs=Quick Buff
 key.terraria.pass_platforms=Fall Through Platform
 key.terraria.grapple=Grapple
 
