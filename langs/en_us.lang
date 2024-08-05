@@ -1053,6 +1053,11 @@ item.terraria:hooks/slime.name=Slime Hook
 item.terraria:hooks/squirrel.name=Squirrel Hook
 item.terraria:hooks/amethyst.name=Amethyst Hook
 item.terraria:hooks/topaz.name=Topaz Hook
+item.terraria:hooks/sapphire.name=Sapphire Hook
+item.terraria:hooks/emerald.name=Emerald Hook
+item.terraria:hooks/ruby.name=Ruby Hook
+item.terraria:hooks/amber.name=Amber Hook
+item.terraria:hooks/diamond.name=Diamond Hook
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
