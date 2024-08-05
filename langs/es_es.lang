@@ -2901,6 +2901,7 @@ entity.terraria:skeletons/misassembled.b=Big Misassembled Skeleton
 entity.terraria:skeletons/pantless=Pantless Skeleton
 entity.terraria:skeletons/pantless.s=Small Pantless Skeleton
 entity.terraria:skeletons/pantless.b=Big Pantless Skeleton
+entity.terraria:skeletons/spore=Spore Skeleton
 
 entity.terraria:hornets/hornet=Aguijón
 entity.terraria:hornets/hornet.s=Aguijón
