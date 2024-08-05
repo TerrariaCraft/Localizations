@@ -814,7 +814,6 @@ item.terraria:armor/wooden/legs.name=木护胫
 item.terraria:armor/jungle_wood/helm.name=红木头盔
 item.terraria:armor/jungle_wood/body.name=红木胸甲
 item.terraria:armor/jungle_wood/legs.name=红木护胫
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
 item.terraria:armor/dev/jar/helm.name=Jar's Jar
 item.terraria:armor/dev/jar/body.name=Jar's Cosmic Suit
 item.terraria:armor/dev/jar/legs.name=Jar's Cosmic Leggings
@@ -899,8 +898,6 @@ item.terraria:armor/pink_snow/body.name=粉雪原外衣
 item.terraria:armor/pink_snow/legs.name=粉雪原裤装
 item.terraria:armor/dev/degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev/degeh03/legs.name=Degeh's Pants
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
 item.terraria:armor/cactus/helm.name=Cactus Helmet
 item.terraria:armor/cactus/body.name=Cactus Breastplate
 item.terraria:armor/cactus/legs.name=Cactus Leggings
@@ -913,6 +910,12 @@ item.terraria:armor/crimson/legs.name=Crimson Greaves
 item.terraria:armor/angler/helm.name=Angler Hat
 item.terraria:armor/angler/body.name=Angler Vest
 item.terraria:armor/angler/legs.name=Angler Pants
+
+# Vanity Armor
+item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
+item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
+item.terraria:armor/vanity/skull/helm.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=整蛊坐垫

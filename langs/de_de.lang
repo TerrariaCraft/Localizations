@@ -814,7 +814,6 @@ item.terraria:armor/wooden/legs.name=Holzschuhe
 item.terraria:armor/jungle_wood/helm.name=Reiches Mahagoni Helm
 item.terraria:armor/jungle_wood/body.name=Reiches Mahagoni Brustplatte
 item.terraria:armor/jungle_wood/legs.name=Reiches Mahagoni Schuhe
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
 item.terraria:armor/dev/jar/helm.name=Jar's Jar
 item.terraria:armor/dev/jar/body.name=Jar's Cosmic Suit
 item.terraria:armor/dev/jar/legs.name=Jar's Cosmic Leggings
@@ -899,8 +898,6 @@ item.terraria:armor/pink_snow/body.name=Pinker Schneemantel
 item.terraria:armor/pink_snow/legs.name=Pinke Schneehose
 item.terraria:armor/dev/degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev/degeh03/legs.name=Degeh's Pants
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
 item.terraria:armor/cactus/helm.name=Kaktushelm
 item.terraria:armor/cactus/body.name=Kaktusbrustplatte
 item.terraria:armor/cactus/legs.name=Kaktushose
@@ -913,6 +910,12 @@ item.terraria:armor/crimson/legs.name=Purpurne Beinschienen
 item.terraria:armor/angler/helm.name=Anglerhut
 item.terraria:armor/angler/body.name=Anglerweste
 item.terraria:armor/angler/legs.name=Anglerhose
+
+# Vanity Armor
+item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
+item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
+item.terraria:armor/vanity/skull/helm.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Furzkissen

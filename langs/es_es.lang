@@ -814,7 +814,6 @@ item.terraria:armor/wooden/legs.name=Grebas de madera
 item.terraria:armor/jungle_wood/helm.name=Casco de madera de caoba rica
 item.terraria:armor/jungle_wood/body.name=Coraza de madera de caoba rica
 item.terraria:armor/jungle_wood/legs.name=Grebas de madera de caoba ricas
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
 item.terraria:armor/dev/jar/helm.name=Jar's Jar
 item.terraria:armor/dev/jar/body.name=Jar's Cosmic Suit
 item.terraria:armor/dev/jar/legs.name=Jar's Cosmic Leggings
@@ -899,8 +898,6 @@ item.terraria:armor/pink_snow/body.name=Abrigo para la nieve rosa
 item.terraria:armor/pink_snow/legs.name=Pantalones para la nieve rosa
 item.terraria:armor/dev/degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev/degeh03/legs.name=Degeh's Pants
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
 item.terraria:armor/cactus/helm.name=Casco de cactus
 item.terraria:armor/cactus/body.name=Coraza de cactus
 item.terraria:armor/cactus/legs.name=Perneras de cactus
@@ -913,6 +910,12 @@ item.terraria:armor/crimson/legs.name=Grebas carmesí
 item.terraria:armor/angler/helm.name=Sombrero de Pescador
 item.terraria:armor/angler/body.name=Chaleco de Pescador
 item.terraria:armor/angler/legs.name=Pantalones de Pescador
+
+# Vanity Armor
+item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
+item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
+item.terraria:armor/vanity/skull/helm.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Cojín flatulento

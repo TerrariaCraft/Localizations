@@ -814,7 +814,6 @@ item.terraria:armor/wooden/legs.name=Деревянные ботинки
 item.terraria:armor/jungle_wood/helm.name=Шлем из красной древесины
 item.terraria:armor/jungle_wood/body.name=Нагрудник из красной древесины
 item.terraria:armor/jungle_wood/legs.name=Ботинки из красной древесины
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
 item.terraria:armor/dev/jar/helm.name=Jar's Jar
 item.terraria:armor/dev/jar/body.name=Jar's Cosmic Suit
 item.terraria:armor/dev/jar/legs.name=Jar's Cosmic Leggings
@@ -899,8 +898,6 @@ item.terraria:armor/pink_snow/body.name=Розовая меховая парка
 item.terraria:armor/pink_snow/legs.name=Розовая меховая торбаса
 item.terraria:armor/dev/degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev/degeh03/legs.name=Degeh's Pants
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
 item.terraria:armor/cactus/helm.name=Кактусовый шлем
 item.terraria:armor/cactus/body.name=Кактусовый нагрудник
 item.terraria:armor/cactus/legs.name=Кактусовые ботинки
@@ -913,6 +910,12 @@ item.terraria:armor/crimson/legs.name=Багряные ботинки
 item.terraria:armor/angler/helm.name=Шляпа рыбака
 item.terraria:armor/angler/body.name=Куртка рыбака
 item.terraria:armor/angler/legs.name=Брюки рыбака
+
+# Vanity Armor
+item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
+item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
+item.terraria:armor/vanity/skull/helm.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Подушка-пердушка

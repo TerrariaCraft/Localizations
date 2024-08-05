@@ -814,7 +814,6 @@ item.terraria:armor/wooden/legs.name=Quần Gỗ
 item.terraria:armor/jungle_wood/helm.name=Mũ Đào Hoa Tâm
 item.terraria:armor/jungle_wood/body.name=Giáp Đào Hoa Tâm
 item.terraria:armor/jungle_wood/legs.name=Quần Đào Hoa Tâm
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
 item.terraria:armor/dev/jar/helm.name=Jar's Jar
 item.terraria:armor/dev/jar/body.name=Jar's Cosmic Suit
 item.terraria:armor/dev/jar/legs.name=Jar's Cosmic Leggings
@@ -899,8 +898,6 @@ item.terraria:armor/pink_snow/body.name=Áo Tuyết Hồng
 item.terraria:armor/pink_snow/legs.name=Quần Tuyết Hồng
 item.terraria:armor/dev/degeh03/body.name=Degeh's Jacket
 item.terraria:armor/dev/degeh03/legs.name=Degeh's Pants
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
 item.terraria:armor/cactus/helm.name=Mũ Xương Rồng
 item.terraria:armor/cactus/body.name=Giáp Xương Rồng
 item.terraria:armor/cactus/legs.name=Quần Xương Rồng
@@ -913,6 +910,12 @@ item.terraria:armor/crimson/legs.name=Quần Crimson
 item.terraria:armor/angler/helm.name=Mũ Ngư Dân
 item.terraria:armor/angler/body.name=Áo Ngư Dân
 item.terraria:armor/angler/legs.name=Quần Ngư Dân
+
+# Vanity Armor
+item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
+item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
+item.terraria:armor/vanity/skull/helm.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Bao Đánh Rắm
