@@ -1756,9 +1756,9 @@ tile.terraria:hay.name=Hay
 key.category.terraria=TerrariaCraft
 key.terraria.toggle_gravity=Переключить гравитацию
 key.hotbar.0=Слот 10
-key.terraria2.healing=Quick Heal
-key.terraria2.mana=Quick Mana
-key.terraria2.buffs=Quick Buff
+key.terraria.healing=Quick Heal
+key.terraria.mana=Quick Mana
+key.terraria.buffs=Quick Buff
 key.terraria.pass_platforms=Спуститься сквозь платформу
 key.terraria.grapple=Grapple
 

@@ -1756,9 +1756,9 @@ tile.terraria:hay.name=Hay
 key.category.terraria=泰拉瑞亚世界
 key.terraria.toggle_gravity=控制重力
 key.hotbar.0=快捷栏10
-key.terraria2.healing=Quick Heal
-key.terraria2.mana=Quick Mana
-key.terraria2.buffs=Quick Buff
+key.terraria.healing=Quick Heal
+key.terraria.mana=Quick Mana
+key.terraria.buffs=Quick Buff
 key.terraria.pass_platforms=Fall Through Platform
 key.terraria.grapple=Grapple
 
