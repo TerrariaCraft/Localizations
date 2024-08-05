@@ -2868,6 +2868,7 @@ entity.terraria:hostile/spore_bat.name=Spore Bat
 entity.terraria:hostile/fire_imp.name=Fire Imp
 entity.terraria:hostile/snatcher.name=Snatcher
 entity.terraria:hostile/man_eater.name=Man Eater
+entity.terraria:hostile/undead_miner.name=Undead Miner
 
 entity.terraria:hostile/giant_worm.name=Giant Worm
 entity.terraria:hostile/giant_worm/head.name=Giant Worm Head
@@ -2883,6 +2884,20 @@ entity.terraria:zombies/swamp=Болотный зомби
 entity.terraria:zombies/twiggy=Зомби-росток
 entity.terraria:zombies/female=Зомби-девушка
 entity.terraria:zombies/torch=Зомби с факелом
+
+entity.terraria:hostile/skeleton.name=Skeleton
+entity.terraria:skeletons/skeleton=Skeleton
+entity.terraria:skeletons/skeleton.s=Small Skeleton
+entity.terraria:skeletons/skeleton.b=Big Skeleton
+entity.terraria:skeletons/headache=Headache Skeleton
+entity.terraria:skeletons/headache.s=Small Headache Skeleton
+entity.terraria:skeletons/headache.b=Big Headache Skeleton
+entity.terraria:skeletons/misassembled=Misassembled Skeleton
+entity.terraria:skeletons/misassembled.s=Small Misassembled Skeleton
+entity.terraria:skeletons/misassembled.b=Big Misassembled Skeleton
+entity.terraria:skeletons/pantless=Pantless Skeleton
+entity.terraria:skeletons/pantless.s=Small Pantless Skeleton
+entity.terraria:skeletons/pantless.b=Big Pantless Skeleton
 
 entity.terraria:hornets/hornet=Шершень
 entity.terraria:hornets/hornet.s=Маленький шершень
