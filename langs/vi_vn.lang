@@ -1058,6 +1058,9 @@ item.terraria:hooks/emerald.name=Emerald Hook
 item.terraria:hooks/ruby.name=Ruby Hook
 item.terraria:hooks/amber.name=Amber Hook
 item.terraria:hooks/diamond.name=Diamond Hook
+item.terraria:hooks/ivy.name=Ivy Whip
+item.terraria:hooks/bat.name=Bat Hook
+item.terraria:hooks/candy_cane.name=Candy Cane Hook
 
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
