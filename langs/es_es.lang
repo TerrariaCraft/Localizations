@@ -198,6 +198,7 @@ itemGroup.terraria:armor/dev/degeh03=Degeh's Outfit
 itemGroup.terraria:armor/dev/jar=Jar's Outfit
 itemGroup.terraria:armor/dev/ganza=Ganza's Outfit
 itemGroup.terraria:armor/dev/ashryman=Ashryman's Outfit
+itemGroup.terraria:armor/wizard=Wizard Armor
 
 generator.Terraria=Mundo de Terraria
 gui.achievements=Logros
@@ -910,6 +911,9 @@ item.terraria:armor/crimson/legs.name=Grebas carmesí
 item.terraria:armor/angler/helm.name=Sombrero de Pescador
 item.terraria:armor/angler/body.name=Chaleco de Pescador
 item.terraria:armor/angler/legs.name=Pantalones de Pescador
+
+# Unit Armor
+item.terraria:armor/wizard/hat.name=Wizard Hat
 
 # Vanity Armor
 item.terraria:armor/vanity/sunglasses.name=Sunglasses
@@ -2275,6 +2279,7 @@ tooltip.terraria:potions/sake/1=Minor improvements to melee stats & lowered defe
 tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate master.'
 tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernkeep
 tooltip.terraria:potions/ale='Down the hatch!'
+tooltip.terraria:armor/wizard/hat=5%% increased magic damage
 
 tooltip.terraria:weapons/guns/shotgun=Fires a spread of bullets
 tooltip.terraria:weapons/guns/sandgun=This is a good idea!
