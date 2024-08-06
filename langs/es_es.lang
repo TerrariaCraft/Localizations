@@ -1050,12 +1050,12 @@ item.terraria:materials/defender_medal.name=Defender Medal
 item.terraria:treasure_bags/eater_of_worlds.name=Treasure Bag
 item.terraria:treasure_bags/brain_of_cthulhu.name=Treasure Bag
 
+item.terraria:encumbering_stone.name=Encumbering Stone
+item.terraria:uncumbering_stone.name=Uncumbering Stone
 item.terraria:guide_to_plant_critter_companionship.name=Guía de criaturillas acompañantes
 item.terraria:guide_to_plant_critter_companionship_inactive.name=Guide To Critter Companionship (Inactive)
-
 item.terraria:guide_to_environmental_preservation.name=Guide to Environmental Preservation
 item.terraria:guide_to_environmental_preservation_inactive.name=Guide to Environmental Preservation (Inactive)
-
 item.terraria:guide_to_peaceful_coexistence.name=Guide to Peaceful Coexistence
 item.terraria:guide_to_peaceful_coexistence_inactive.name=Guide to Peaceful Coexistence (Inactive)
 
@@ -2288,6 +2288,8 @@ tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernke
 tooltip.terraria:potions/ale='Down the hatch!'
 tooltip.terraria:armor/wizard/hat=5%% increased magic damage
 
+tooltip.terraria:encumbering_stone=Prevents item pickups while locked</br>Right click to unlock</br>'You are over-encumbered'
+tooltip.terraria:uncumbering_stone=Prevents item pickups while locked</br>Right click to lock</br>'You are over-encumbered'
 tooltip.terraria:guide_to_plant_critter_companionship=Evita que hagas daño a las criaturas mientras está en el inventario
 tooltip.terraria:guide_to_plant_critter_companionship_inactive=Prevents you from hurting critters while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
 tooltip.terraria:guide_to_environmental_preservation=Prevents you from accidentally destroying the environment while in the inventory</br>Right click to deactivate effects
