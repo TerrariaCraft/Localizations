@@ -838,7 +838,7 @@ item.terraria:armor/tin/legs.name=Grebas de estaño
 item.terraria:armor/iron/helm.name=Casco de hierro
 item.terraria:armor/iron/body.name=Cota de malla de hierro
 item.terraria:armor/iron/legs.name=Grebas de hierro
-item.terraria:armor/iron_ancient/helm.name=Ancient Iron Helmet
+item.terraria:armor/iron_ancient_helmet.name=Ancient Iron Helmet
 item.terraria:armor/ancient_shadow/helm.name=Casco de las sombras antiguo
 item.terraria:armor/ancient_shadow/body.name=Cota de escamas de las sombras antiguas
 item.terraria:armor/ancient_shadow/legs.name=Grebas de las sombras antiguas
@@ -851,7 +851,7 @@ item.terraria:armor/silver/legs.name=Grebas de plata
 item.terraria:armor/gold/helm.name=Casco de oro
 item.terraria:armor/gold/body.name=Cota de malla de oro
 item.terraria:armor/gold/legs.name=Grebas de oro
-item.terraria:armor/gold_ancient/helm.name=Ancient Gold Helmet
+item.terraria:armor/gold_ancient_helmet.name=Ancient Gold Helmet
 item.terraria:armor/platinum/helm.name=Casco de platino
 item.terraria:armor/platinum/body.name=Cota de malla de platino
 item.terraria:armor/platinum/legs.name=Grebas de platino
@@ -912,10 +912,10 @@ item.terraria:armor/angler/body.name=Chaleco de Pescador
 item.terraria:armor/angler/legs.name=Pantalones de Pescador
 
 # Vanity Armor
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
-item.terraria:armor/vanity/skull/helm.name=Skull
+item.terraria:armor/vanity/sunglasses.name=Sunglasses
+item.terraria:armor/vanity/gold_crown.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
+item.terraria:armor/vanity/skull.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Cojín flatulento
@@ -2200,7 +2200,7 @@ tooltip.terraria:potions/endurance=Reduce un 10%% el daño sufrido
 tooltip.terraria:potions/wrath=Aumenta un 10%% el daño
 tooltip.terraria:potions/heartreach=Aumenta el rango de recogida de corazones
 tooltip.terraria:potions/crate=Aumenta la probabilidad de conseguir una caja
-tooltip.terraria:armor/vanity/sunglasses/helm=Makes you look cool!
+tooltip.terraria:armor/vanity/sunglasses=Makes you look cool!
 item.terraria:armor/dev_zeith.desc=¡Oh no, un furro!
 item.terraria:armor/ancient_cobalt/helm.tooltip=Aumenta el maná máximo en 40</br>Aumenta un 6%% la probabilidad de impacto mágico crítico
 item.terraria:armor/ancient_cobalt/body.tooltip=Aumenta el maná máximo en 20</br>Aumenta un 6%% la probabilidad de impacto mágico crítico

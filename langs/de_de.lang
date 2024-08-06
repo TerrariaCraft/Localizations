@@ -838,7 +838,7 @@ item.terraria:armor/tin/legs.name=Zinn schuhe
 item.terraria:armor/iron/helm.name=Eisenhelm
 item.terraria:armor/iron/body.name=Eisenbrustplatte
 item.terraria:armor/iron/legs.name=Eisenschuhe
-item.terraria:armor/iron_ancient/helm.name=Ancient Iron Helmet
+item.terraria:armor/iron_ancient_helmet.name=Ancient Iron Helmet
 item.terraria:armor/ancient_shadow/helm.name=Antiker Schattenhelm
 item.terraria:armor/ancient_shadow/body.name=Antike Schattenbrustplatte
 item.terraria:armor/ancient_shadow/legs.name=Antike Schattenschuhe
@@ -851,7 +851,7 @@ item.terraria:armor/silver/legs.name=Silberschuhe
 item.terraria:armor/gold/helm.name=Goldhelm
 item.terraria:armor/gold/body.name=Goldbrustplatte
 item.terraria:armor/gold/legs.name=Goldschuhe
-item.terraria:armor/gold_ancient/helm.name=Ancient Gold Helmet
+item.terraria:armor/gold_ancient_helmet.name=Ancient Gold Helmet
 item.terraria:armor/platinum/helm.name=Platinhelm
 item.terraria:armor/platinum/body.name=Platinbrustpanzer
 item.terraria:armor/platinum/legs.name=Platinschuhe
@@ -912,10 +912,10 @@ item.terraria:armor/angler/body.name=Anglerweste
 item.terraria:armor/angler/legs.name=Anglerhose
 
 # Vanity Armor
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
-item.terraria:armor/vanity/skull/helm.name=Skull
+item.terraria:armor/vanity/sunglasses.name=Sunglasses
+item.terraria:armor/vanity/gold_crown.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
+item.terraria:armor/vanity/skull.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Furzkissen
@@ -2200,7 +2200,7 @@ tooltip.terraria:potions/endurance=Reduces damage taken by 10%%
 tooltip.terraria:potions/wrath=Increases damage by 10%%
 tooltip.terraria:potions/heartreach=Increases pickup range for life hearts
 tooltip.terraria:potions/crate=Increases chance to get a crate
-tooltip.terraria:armor/vanity/sunglasses/helm=Makes you look cool!
+tooltip.terraria:armor/vanity/sunglasses=Makes you look cool!
 item.terraria:armor/dev_zeith.desc=Oh no, a furry!
 item.terraria:armor/ancient_cobalt/helm.tooltip=Increases maximum mana by 40</br>6%% increased magic critical strike chance
 item.terraria:armor/ancient_cobalt/body.tooltip=Increases maximum mana by 20</br>6%% increased magic critical strike chance

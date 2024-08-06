@@ -838,7 +838,7 @@ item.terraria:armor/tin/legs.name=Grèves en étain
 item.terraria:armor/iron/helm.name=Casque en fer
 item.terraria:armor/iron/body.name=Cotte de mailles en fer
 item.terraria:armor/iron/legs.name=Grèves en fer
-item.terraria:armor/iron_ancient/helm.name=Ancient Iron Helmet
+item.terraria:armor/iron_ancient_helmet.name=Ancient Iron Helmet
 item.terraria:armor/ancient_shadow/helm.name=Ancien casque de l'ombre
 item.terraria:armor/ancient_shadow/body.name=Ancienne cotte de mailles de l'ombre
 item.terraria:armor/ancient_shadow/legs.name=Anciennes grèves de l'ombre
@@ -851,7 +851,7 @@ item.terraria:armor/silver/legs.name=Grèves en argent
 item.terraria:armor/gold/helm.name=Casque en or
 item.terraria:armor/gold/body.name=Cotte de mailles en or
 item.terraria:armor/gold/legs.name=Grèves en or
-item.terraria:armor/gold_ancient/helm.name=Ancient Gold Helmet
+item.terraria:armor/gold_ancient_helmet.name=Ancient Gold Helmet
 item.terraria:armor/platinum/helm.name=Casque en platine
 item.terraria:armor/platinum/body.name=Cotte de mailles en platine
 item.terraria:armor/platinum/legs.name=Grèves en platine
@@ -912,10 +912,10 @@ item.terraria:armor/angler/body.name=Angler Vest
 item.terraria:armor/angler/legs.name=Angler Pants
 
 # Vanity Armor
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
-item.terraria:armor/vanity/skull/helm.name=Skull
+item.terraria:armor/vanity/sunglasses.name=Sunglasses
+item.terraria:armor/vanity/gold_crown.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
+item.terraria:armor/vanity/skull.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Coussin Péteur
@@ -2200,7 +2200,7 @@ tooltip.terraria:potions/endurance=Reduces damage taken by 10%%
 tooltip.terraria:potions/wrath=Increases damage by 10%%
 tooltip.terraria:potions/heartreach=Increases pickup range for life hearts
 tooltip.terraria:potions/crate=Increases chance to get a crate
-tooltip.terraria:armor/vanity/sunglasses/helm=Makes you look cool!
+tooltip.terraria:armor/vanity/sunglasses=Makes you look cool!
 item.terraria:armor/dev_zeith.desc=Oh non, une fourrure !
 item.terraria:armor/ancient_cobalt/helm.tooltip=Augmente le mana maximum de 40</br>6%% d'augmentation des chances d'un coup critique magique
 item.terraria:armor/ancient_cobalt/body.tooltip=Augmente le mana maximum de 20</br>6%% d'augmentation des chances d'un coup critique magique

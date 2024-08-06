@@ -838,7 +838,7 @@ item.terraria:armor/tin/legs.name=Quần Thiếc
 item.terraria:armor/iron/helm.name=Mũ Sắt
 item.terraria:armor/iron/body.name=Giáp Sắt
 item.terraria:armor/iron/legs.name=Quần Sắt
-item.terraria:armor/iron_ancient/helm.name=Ancient Iron Helmet
+item.terraria:armor/iron_ancient_helmet.name=Ancient Iron Helmet
 item.terraria:armor/ancient_shadow/helm.name=Mũ Bóng Đêm Cổ Đại
 item.terraria:armor/ancient_shadow/body.name=Giáp Bóng Đêm Cổ Đại
 item.terraria:armor/ancient_shadow/legs.name=Quần Bóng Đêm Cổ Đại
@@ -851,7 +851,7 @@ item.terraria:armor/silver/legs.name=Quần Bạc
 item.terraria:armor/gold/helm.name=Mũ Vàng
 item.terraria:armor/gold/body.name=Giáp Vàng
 item.terraria:armor/gold/legs.name=Quần Vàng
-item.terraria:armor/gold_ancient/helm.name=Ancient Gold Helmet
+item.terraria:armor/gold_ancient_helmet.name=Ancient Gold Helmet
 item.terraria:armor/platinum/helm.name=Mũ Bạch Kim
 item.terraria:armor/platinum/body.name=Giáp Bạch Kim
 item.terraria:armor/platinum/legs.name=Quần Bạch Kim
@@ -912,10 +912,10 @@ item.terraria:armor/angler/body.name=Áo Ngư Dân
 item.terraria:armor/angler/legs.name=Quần Ngư Dân
 
 # Vanity Armor
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
-item.terraria:armor/vanity/skull/helm.name=Skull
+item.terraria:armor/vanity/sunglasses.name=Sunglasses
+item.terraria:armor/vanity/gold_crown.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
+item.terraria:armor/vanity/skull.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Bao Đánh Rắm
@@ -2200,7 +2200,7 @@ tooltip.terraria:potions/endurance=Giảm sát thương nhận vào đi 10%%
 tooltip.terraria:potions/wrath=Tăng sát thương lên 10%%
 tooltip.terraria:potions/heartreach=Tăng tầm nhặt trái tim
 tooltip.terraria:potions/crate=Tăng tỉ lệ câu được hòm
-tooltip.terraria:armor/vanity/sunglasses/helm=Makes you look cool!
+tooltip.terraria:armor/vanity/sunglasses=Makes you look cool!
 item.terraria:armor/dev_zeith.desc=Ôi không, furry!
 item.terraria:armor/ancient_cobalt/helm.tooltip=Tăng Trữ Lượng Mana lên 40</br>6%% increased magic critical strike chance
 item.terraria:armor/ancient_cobalt/body.tooltip=Tăng Trữ Lượng Mana lên 20</br>6%% increased magic critical strike chance

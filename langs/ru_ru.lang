@@ -838,7 +838,7 @@ item.terraria:armor/tin/legs.name=Оловянные ботинки
 item.terraria:armor/iron/helm.name=Железный шлем
 item.terraria:armor/iron/body.name=Железная кольчуга
 item.terraria:armor/iron/legs.name=Железные сапоги
-item.terraria:armor/iron_ancient/helm.name=Ancient Iron Helmet
+item.terraria:armor/iron_ancient_helmet.name=Ancient Iron Helmet
 item.terraria:armor/ancient_shadow/helm.name=Древний теневой шлем
 item.terraria:armor/ancient_shadow/body.name=Древний теневой нагрудник
 item.terraria:armor/ancient_shadow/legs.name=Древние теневые ботинки
@@ -851,7 +851,7 @@ item.terraria:armor/silver/legs.name=Сереребряные сапоги
 item.terraria:armor/gold/helm.name=Золотой шлем
 item.terraria:armor/gold/body.name=Золотая кольчуга
 item.terraria:armor/gold/legs.name=Золотые сапоги
-item.terraria:armor/gold_ancient/helm.name=Ancient Gold Helmet
+item.terraria:armor/gold_ancient_helmet.name=Ancient Gold Helmet
 item.terraria:armor/platinum/helm.name=Платиновый шлем
 item.terraria:armor/platinum/body.name=Платиновый нагрудник
 item.terraria:armor/platinum/legs.name=Платиновый ботинки
@@ -912,10 +912,10 @@ item.terraria:armor/angler/body.name=Куртка рыбака
 item.terraria:armor/angler/legs.name=Брюки рыбака
 
 # Vanity Armor
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
-item.terraria:armor/vanity/skull/helm.name=Skull
+item.terraria:armor/vanity/sunglasses.name=Sunglasses
+item.terraria:armor/vanity/gold_crown.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
+item.terraria:armor/vanity/skull.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=Подушка-пердушка
@@ -2200,7 +2200,7 @@ tooltip.terraria:potions/endurance=Уменьшает урон по вам на 
 tooltip.terraria:potions/wrath=Увеличивает урон на 10%%
 tooltip.terraria:potions/heartreach=Увеличивает дальность сбора сердец
 tooltip.terraria:potions/crate=Увеличивает шанс выловить ящик
-tooltip.terraria:armor/vanity/sunglasses/helm=Makes you look cool!
+tooltip.terraria:armor/vanity/sunglasses=Makes you look cool!
 item.terraria:armor/dev_zeith.desc=О нет, фурри!
 item.terraria:armor/ancient_cobalt/helm.tooltip=Увеличевает максимум маны на 40</br>Увеличает шанс критического урона на 6%%
 item.terraria:armor/ancient_cobalt/body.tooltip=Увеличевает максимум маны на 20</br>Увеличает шанс критического урона на 6%%

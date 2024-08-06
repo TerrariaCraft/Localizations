@@ -838,7 +838,7 @@ item.terraria:armor/tin/legs.name=锡护胫
 item.terraria:armor/iron/helm.name=铁头盔
 item.terraria:armor/iron/body.name=铁链甲
 item.terraria:armor/iron/legs.name=铁护胫
-item.terraria:armor/iron_ancient/helm.name=Ancient Iron Helmet
+item.terraria:armor/iron_ancient_helmet.name=Ancient Iron Helmet
 item.terraria:armor/ancient_shadow/helm.name=远古暗影头盔
 item.terraria:armor/ancient_shadow/body.name=远古暗影鳞甲
 item.terraria:armor/ancient_shadow/legs.name=远古暗影护胫
@@ -851,7 +851,7 @@ item.terraria:armor/silver/legs.name=银护胫
 item.terraria:armor/gold/helm.name=金头盔
 item.terraria:armor/gold/body.name=金链甲
 item.terraria:armor/gold/legs.name=金护胫
-item.terraria:armor/gold_ancient/helm.name=Ancient Gold Helmet
+item.terraria:armor/gold_ancient_helmet.name=Ancient Gold Helmet
 item.terraria:armor/platinum/helm.name=铂金头盔
 item.terraria:armor/platinum/body.name=铂金链甲
 item.terraria:armor/platinum/legs.name=铂金护胫
@@ -912,10 +912,10 @@ item.terraria:armor/angler/body.name=Angler Vest
 item.terraria:armor/angler/legs.name=Angler Pants
 
 # Vanity Armor
-item.terraria:armor/vanity/sunglasses/helm.name=Sunglasses
-item.terraria:armor/vanity/gold_crown/helm.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown/helm.name=Platinum Crown
-item.terraria:armor/vanity/skull/helm.name=Skull
+item.terraria:armor/vanity/sunglasses.name=Sunglasses
+item.terraria:armor/vanity/gold_crown.name=Gold Crown
+item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
+item.terraria:armor/vanity/skull.name=Skull
 
 # Misc
 item.terraria:whoopie_cushion.name=整蛊坐垫
@@ -2200,7 +2200,7 @@ tooltip.terraria:potions/endurance=Reduces damage taken by 10%%
 tooltip.terraria:potions/wrath=Increases damage by 10%%
 tooltip.terraria:potions/heartreach=Increases pickup range for life hearts
 tooltip.terraria:potions/crate=Increases chance to get a crate
-tooltip.terraria:armor/vanity/sunglasses/helm=Makes you look cool!
+tooltip.terraria:armor/vanity/sunglasses=Makes you look cool!
 item.terraria:armor/dev_zeith.desc=噢不, 毛茸茸!
 item.terraria:armor/ancient_cobalt/helm.tooltip=最大魔力值增加40</br>魔法暴击率增加6%%
 item.terraria:armor/ancient_cobalt/body.tooltip=最大魔力值增加20</br>魔法暴击率增加6%%
