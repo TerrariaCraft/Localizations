@@ -1013,7 +1013,6 @@ item.terraria:bug_net.name=Bug Net
 item.terraria:lavaproof_bug_net.name=Lavaproof Bug Net
 item.terraria:golden_bug_net.name=Golden Bug Net
 item.terraria:oyster.name=Oyster
-item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
 item.terraria:frostburn_arrow.name=Frostburn Arrow
 item.terraria:flower_seeds/blue.name=Blue Flower Seeds
 item.terraria:flower_seeds/magenta.name=Magenta Flower Seeds
@@ -1050,6 +1049,15 @@ item.terraria:vital_crystal.name=Vital Crystal
 item.terraria:materials/defender_medal.name=Defender Medal
 item.terraria:treasure_bags/eater_of_worlds.name=Treasure Bag
 item.terraria:treasure_bags/brain_of_cthulhu.name=Treasure Bag
+
+item.terraria:guide_to_plant_critter_companionship.name=Guide To Critter Companionship
+item.terraria:guide_to_plant_critter_companionship_inactive.name=Guide To Critter Companionship (Inactive)
+
+item.terraria:guide_to_environmental_preservation.name=Guide to Environmental Preservation
+item.terraria:guide_to_environmental_preservation_inactive.name=Guide to Environmental Preservation (Inactive)
+
+item.terraria:guide_to_peaceful_coexistence.name=Guide to Peaceful Coexistence
+item.terraria:guide_to_peaceful_coexistence_inactive.name=Guide to Peaceful Coexistence (Inactive)
 
 # Grappling Hooks
 item.terraria:hooks/grappling.name=Grappling Hook
@@ -2167,7 +2175,6 @@ tooltip.terraria:materials/vial_of_venom=Extremely toxic
 tooltip.terraria:bomb=A small explosion that will destroy some blocks
 tooltip.terraria:dynamite=A large explosion that will destroy most tiles
 tooltip.terraria:golden_key=Opens one Gold or Dungeon Chest
-tooltip.terraria:guide_to_plant_critter_companionship=Prevents you from hurting critters while in the inventory
 tooltip.terraria:rope_item=Can be climbed on
 tooltip.terraria:materials/rotten_chunk=Looks tasty!
 tooltip.terraria:materials/ichor=The blood of gods
@@ -2280,6 +2287,13 @@ tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate m
 tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernkeep
 tooltip.terraria:potions/ale='Down the hatch!'
 tooltip.terraria:armor/wizard/hat=5%% increased magic damage
+
+tooltip.terraria:guide_to_plant_critter_companionship=Prevents you from hurting critters while in the inventory
+tooltip.terraria:guide_to_plant_critter_companionship_inactive=Prevents you from hurting critters while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
+tooltip.terraria:guide_to_environmental_preservation=Prevents you from accidentally destroying the environment while in the inventory</br>Right click to deactivate effects
+tooltip.terraria:guide_to_environmental_preservation_inactive=Prevents you from accidentally destroying the environment while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
+tooltip.terraria:guide_to_peaceful_coexistence=Prevents you from hurting critters while in the inventory</br>Prevents you from accidentally destroying the environment while in the inventory</br>Right click to deactivate effects
+tooltip.terraria:guide_to_peaceful_coexistence_inactive=Prevents you from hurting critters while in the inventory</br>Prevents you from accidentally destroying the environment while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
 
 tooltip.terraria:weapons/guns/shotgun=Fires a spread of bullets
 tooltip.terraria:weapons/guns/sandgun=This is a good idea!
