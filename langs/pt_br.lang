@@ -76,6 +76,7 @@ itemGroup.terraria:carts=Carrinhos de Minas
 itemGroup.terraria:mounts=Montarias
 itemGroup.terraria:hooks=Ganchos
 itemGroup.terraria:boomerangs=Boomerangs
+itemGroup.terraria:expert_accessories=Expert Mode
 
 itemGroup.terraria:crafting_stations=Estações de Fabricação
 itemGroup.terraria:crafting_stations.work_benches=Mesas de Trabalho

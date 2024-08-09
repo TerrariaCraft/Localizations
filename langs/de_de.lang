@@ -76,6 +76,7 @@ itemGroup.terraria:carts=Minecarts
 itemGroup.terraria:mounts=Mounts
 itemGroup.terraria:hooks=Hooks
 itemGroup.terraria:boomerangs=Boomerangs
+itemGroup.terraria:expert_accessories=Expert Mode
 
 itemGroup.terraria:crafting_stations=Bastelstationen
 itemGroup.terraria:crafting_stations.work_benches=Werkbank
