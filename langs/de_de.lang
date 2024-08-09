@@ -2019,6 +2019,7 @@ buff.terraria:feral_bite.desc=Increased damage, Decreased life regen, Causes sta
 
 # General Tooltips
 
+tooltip.terraria:expert=Expert
 tooltip.terraria:crafting=Crafting
 tooltip.terraria:material=Material
 tooltip.terraria:ammo=Ammo
