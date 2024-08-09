@@ -807,6 +807,7 @@ item.terraria:materials/baits/jellyfish_pink.name=Розовая медуза
 item.terraria:materials/coal.name=Уголь
 item.terraria:materials/tattered_cloth.name=Tattered Cloth
 item.terraria:materials/hook.name=Hook
+item.terraria:materials/giant_harpy_feather.name=Giant Harpy Feather
 
 # Armor
 item.terraria:armor/wooden/helm.name=Деревянный шлем
@@ -2902,6 +2903,7 @@ entity.terraria:hostile/fire_imp.name=Fire Imp
 entity.terraria:hostile/snatcher.name=Snatcher
 entity.terraria:hostile/man_eater.name=Man Eater
 entity.terraria:hostile/undead_miner.name=Undead Miner
+entity.terraria:hostile/harpy.name=Harpy
 
 entity.terraria:hostile/giant_worm.name=Giant Worm
 entity.terraria:hostile/giant_worm/head.name=Giant Worm Head
