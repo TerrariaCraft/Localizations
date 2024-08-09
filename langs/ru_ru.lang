@@ -569,6 +569,7 @@ item.terraria:artifacts/lava_waders.name=Lava Waders
 item.terraria:artifacts/terraspark_boots.name=Terraspark Boots
 item.terraria:artifacts/dunerider_boots.name=Dunerider Boots
 
+item.terraria:artifacts/expert/shield_of_cthulhu.name=Shield of Cthulhu
 item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
 item.terraria:artifacts/expert/royal_gel.name=Королевский гель
 item.terraria:artifacts/expert/brain_of_confusion.name=Brain of Confusion
@@ -2130,6 +2131,7 @@ tooltip.terraria:artifacts/lava_waders=Provides the ability to walk on water, ho
 tooltip.terraria:artifacts/terraspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed</br>Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
 tooltip.terraria:artifacts/dunerider_boots=The wearer can run super fast, and even faster on sand</br>'Walk without rhythm and you won't attract the worm'
 
+tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Слизняки становятся дружественными
 tooltip.terraria:artifacts/expert/brain_of_confusion=Has a chance to create illusions and dodge an attack</br>Temporarily increase critical chance after dodge</br>May confuse nearby enemies after being struck
