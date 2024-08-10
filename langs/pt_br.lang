@@ -569,11 +569,15 @@ item.terraria:artifacts/frostspark_boots.name=Frostspark Boots
 item.terraria:artifacts/lava_waders.name=Lava Waders
 item.terraria:artifacts/terraspark_boots.name=Terraspark Boots
 item.terraria:artifacts/dunerider_boots.name=Dunerider Boots
+item.terraria:artifacts/honey_comb.name=Honey Comb
+item.terraria:artifacts/stinger_necklace.name=Stinger Necklace
+item.terraria:artifacts/sweetheart_necklace.name=Sweetheart Necklace
 
 item.terraria:artifacts/expert/shield_of_cthulhu.name=Shield of Cthulhu
 item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
 item.terraria:artifacts/expert/royal_gel.name=Royal Gel
 item.terraria:artifacts/expert/brain_of_confusion.name=Brain of Confusion
+item.terraria:artifacts/expert/hive_pack.name=Hive Pack
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Lesser Healing Potion
@@ -810,6 +814,7 @@ item.terraria:materials/coal.name=Coal
 item.terraria:materials/tattered_cloth.name=Tattered Cloth
 item.terraria:materials/hook.name=Hook
 item.terraria:materials/giant_harpy_feather.name=Giant Harpy Feather
+item.terraria:materials/defender_medal.name=Defender Medal
 
 # Armor
 item.terraria:armor/wooden/helm.name=Wood Helmet
@@ -1049,7 +1054,7 @@ item.terraria:flare_rainbow.name=Rainbow Flare
 item.terraria:flare_shimmer.name=Shimmer Flare
 item.terraria:seed.name=Seed
 item.terraria:vital_crystal.name=Vital Crystal
-item.terraria:materials/defender_medal.name=Defender Medal
+item.terraria:beenade.name=Beenade
 item.terraria:treasure_bags/eater_of_worlds.name=Treasure Bag
 item.terraria:treasure_bags/brain_of_cthulhu.name=Treasure Bag
 
@@ -2132,11 +2137,15 @@ tooltip.terraria:artifacts/frostspark_boots=Allows flight, super fast running, a
 tooltip.terraria:artifacts/lava_waders=Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
 tooltip.terraria:artifacts/terraspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed</br>Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
 tooltip.terraria:artifacts/dunerider_boots=The wearer can run super fast, and even faster on sand</br>'Walk without rhythm and you won't attract the worm'
+tooltip.terraria:artifacts/honey_comb=Releases bees and douses the user in honey when damaged
+tooltip.terraria:artifacts/stinger_necklace=Increases armor penetration by 5</br>Releases bees and douses the user in honey when damaged
+tooltip.terraria:artifacts/sweetheart_necklace=Releases bees, douses the user in honey and increases movement speed when damaged
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Slimes become friendly
 tooltip.terraria:artifacts/expert/brain_of_confusion=Has a chance to create illusions and dodge an attack</br>Temporarily increase critical chance after dodge</br>May confuse nearby enemies after being struck
+tooltip.terraria:artifacts/expert/hive_pack=Increases the strength of friendly bees
 
 tooltip.terraria:shine_potion=Emits an aura of light
 tooltip.terraria:whoopie_cushion=May annoy others
@@ -2293,6 +2302,7 @@ tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate m
 tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernkeep
 tooltip.terraria:potions/ale='Down the hatch!'
 tooltip.terraria:armor/wizard/hat=5%% increased magic damage
+tooltip.terraria:beenade=Explodes into a swarm of bees
 
 tooltip.terraria:encumbering_stone=Prevents item pickups while locked</br>Right click to unlock</br>'You are over-encumbered'
 tooltip.terraria:uncumbering_stone=Prevents item pickups while locked</br>Right click to lock</br>'You are over-encumbered'
