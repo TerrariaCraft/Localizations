@@ -2017,6 +2017,9 @@ buff.terraria:cerebral_mindtrick.desc=Increased critical chance
 buff.terraria:feral_bite.name=Feral Bite
 buff.terraria:feral_bite.desc=Increased damage, Decreased life regen, Causes status effects
 
+buff.terraria:midas.name=Midas
+buff.terraria:midas.desc=Drop more money on death
+
 #################
 
 
