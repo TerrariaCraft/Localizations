@@ -2627,6 +2627,15 @@ chat.terraria:npc.slain=%s убит...
 chat.terraria:npc.move_in=%s появился!
 chat.terraria:meteorite_landed=§h45C87C;A meteorite has landed!
 
+chat.terraria:pvp.enabled=%s has enabled PvP!
+chat.terraria:pvp.disabled=%s has disabled PvP!
+chat.terraria:pvp.team.leave=%s is no longer on a party.
+chat.terraria:pvp.team.red=%s has joined the red party.
+chat.terraria:pvp.team.green=%s has joined the green party.
+chat.terraria:pvp.team.blue=%s has joined the blue party.
+chat.terraria:pvp.team.yellow=%s has joined the yellow party.
+chat.terraria:pvp.team.pink=%s has joined the pink party.
+
 chat.terraria:boss_tiles/shadow_orb.1=Леденящий ужас спускается по твоему позвоночнику...
 chat.terraria:boss_tiles/shadow_orb.2=Вокруг тебя разносится эхо криков...
 
