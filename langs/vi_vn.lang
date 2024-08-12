@@ -2620,6 +2620,8 @@ hud.terraria:life=Máu: %s
 hud.terraria:mana=Mana
 
 chat.terraria:defeatenemy=%s đã tiêu diệt %,d-th %s!
+chat.terraria:achievement=Achievement complete! %s
+chat.terraria:achievement_other=%s has completed achievement! %s
 chat.terraria:spawn_point.set=Điểm hồi sinh đã được đặt!
 chat.terraria:spawn_point.remove=Điểm hồi sinh đã bị xoá!
 chat.terraria:eye_of_cthulhu_spawn=You feel an evil presence watching you...

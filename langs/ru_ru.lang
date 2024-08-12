@@ -2620,6 +2620,8 @@ hud.terraria:life=Жизнь: %s
 hud.terraria:mana=Мана
 
 chat.terraria:defeatenemy=%s победил %,d-th %s!
+chat.terraria:achievement=Achievement complete! %s
+chat.terraria:achievement_other=%s has completed achievement! %s
 chat.terraria:spawn_point.set=Точка возрождения установлена!
 chat.terraria:spawn_point.remove=Точка возрождения удалена!
 chat.terraria:eye_of_cthulhu_spawn=Вы чувствуете чьё-то злобное внимание...

@@ -2620,6 +2620,8 @@ hud.terraria:life=Vida: %s
 hud.terraria:mana=Maná
 
 chat.terraria:defeatenemy=¡%s ha derrotado al %,dº %s!
+chat.terraria:achievement=Achievement complete! %s
+chat.terraria:achievement_other=%s has completed achievement! %s
 chat.terraria:spawn_point.set=¡Punto de resurreción establecido!
 chat.terraria:spawn_point.remove=¡Punto de resurreción eliminado!
 chat.terraria:eye_of_cthulhu_spawn=Crees que una presencia maligna te está observando...
