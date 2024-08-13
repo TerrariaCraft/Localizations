@@ -1738,6 +1738,7 @@ tile.terraria:furniture/platforms/wood.name=Wood Platform
 tile.terraria:furniture/platforms/rich_mahogany.name=Платформа из красного дерева
 tile.terraria:furniture/platforms/shadewood.name=Shadewood Platform
 tile.terraria:furniture/platforms/living_wood.name=Livingwood Platform
+tile.terraria:furniture/platforms/obsidian.name=Obsidian Platform
 tile.terraria:boss_tiles/larva.name=Личинка
 tile.terraria:trophies/queen_bee.name=Трофей королевы пчел
 tile.terraria:hive_block.name=Блок улья
