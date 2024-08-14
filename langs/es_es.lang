@@ -973,7 +973,6 @@ item.terraria:wrench_red.name=Llave inglesa roja
 item.terraria:wrench_green.name=Llave inglesa verde
 item.terraria:wrench_blue.name=Llave inglesa azul
 item.terraria:wrench_yellow.name=Llave inglesa amarilla
-item.terraria:wrench_purple.name=Llave inglesa morada
 item.terraria:vicious_powder.name=Polvo feroz
 item.terraria:vile_powder.name=Polvo vil
 item.terraria:game_obj/alchemy_platform.name=Botella
@@ -1777,8 +1776,11 @@ tile.terraria:trophies/eater_of_worlds.name=Eater of Worlds Trophy
 tile.terraria:trophies/brain_of_cthulhu.name=Brain of Cthulhu Trophy
 tile.terraria:pin_wheel.name=Pin Wheel
 tile.terraria:furniture/candelabras/candelabra.name=Candelabra
+tile.terraria:furniture/candelabras/platinum.name=Platinum Candelabra
 tile.terraria:hay.name=Hay
 tile.terraria:statues/bat.name=Bat Statue
+
+tile.terraria:furniture/fences/wood.name=Wooden Fence
 
 ##################
 
@@ -2020,6 +2022,9 @@ buff.terraria:feral_bite.desc=Increased damage, Decreased life regen, Causes sta
 
 buff.terraria:midas.name=Midas
 buff.terraria:midas.desc=Drop more money on death
+
+buff.terraria:mana_sickness.name=Mana Sickness
+buff.terraria:mana_sickness.desc=Magic damage reduced by %d%%
 
 #################
 
@@ -2833,8 +2838,8 @@ attribute.terraria:weapon/knockback=Knockback
 
 ######ENTITIES######
 
+# Misc
 entity.terraria:boulder.name=Boulder
-entity.terraria:chair.name=Chair
 entity.terraria:enchanted_sword.name=Enchanted Sword
 entity.terraria:falling_star.name=Falling Star
 entity.terraria:fire_flower_charge.name=Fire Flower Charge
@@ -2842,11 +2847,15 @@ entity.terraria:fishing_bobber.name=Fishing Bobber
 entity.terraria:general_ammo.name=Projectile
 entity.terraria:large_item.name=ItemStack
 entity.terraria:poisoned_dart.name=Dart
-entity.terraria:space_gun_laser.name=Laser
-entity.terraria:spark.name=Spark
 entity.terraria:starfury_star.name=Starfury Star
-entity.terraria:yoyo.name=Yoyo
 entity.terraria:shadow_orb.name=Shadow Orb
+entity.terraria:chair.name=Chair
+entity.terraria:yoyo.name=Yoyo
+entity.terraria:bed.name=Bed
+entity.terraria:boomerang.name=Boomerang
+entity.terraria:harpy_feather.name=Harpy Feather
+entity.terraria:hook.name=Hook
+entity.terraria:hook_carrier.name=Hook Carrier
 
 # Projectiles
 entity.terraria:vile_spit_eow.name=Vile Spit
@@ -2933,6 +2942,7 @@ entity.terraria:hostile/snatcher.name=Snatcher
 entity.terraria:hostile/man_eater.name=Man Eater
 entity.terraria:hostile/undead_miner.name=Undead Miner
 entity.terraria:hostile/harpy.name=Harpy
+entity.terraria:hostile/face_monster.name=Face Monster
 
 entity.terraria:hostile/giant_worm.name=Giant Worm
 entity.terraria:hostile/giant_worm/head.name=Giant Worm Head
