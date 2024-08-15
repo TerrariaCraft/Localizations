@@ -200,6 +200,7 @@ itemGroup.terraria:armor/dev/jar=Jar's Outfit
 itemGroup.terraria:armor/dev/ganza=Ganza's Outfit
 itemGroup.terraria:armor/dev/ashryman=Ashryman's Outfit
 itemGroup.terraria:armor/wizard=Wizard Armor
+itemGroup.terraria:armor/fossil=Fossil armor
 
 generator.Terraria=Мир "Террария"
 gui.achievements=Достижения
@@ -919,6 +920,9 @@ item.terraria:armor/crimson/legs.name=Багряные ботинки
 item.terraria:armor/angler/helm.name=Шляпа рыбака
 item.terraria:armor/angler/body.name=Куртка рыбака
 item.terraria:armor/angler/legs.name=Брюки рыбака
+item.terraria:armor/fossil/helm.name=Fossil Helmet
+item.terraria:armor/fossil/body.name=Fossil Plate
+item.terraria:armor/fossil/legs.name=Fossil Greaves
 
 # Unit Armor
 item.terraria:armor/wizard/hat.name=Wizard Hat
@@ -1166,6 +1170,7 @@ setbonus.terraria:extra_melee_damage=Увеличение урона на %,d%%
 setbonus.terraria:knockback_immunity=Grants immunity to knockback
 setbonus.terraria:i.frozen_or_chilled=Cannot be frozen or chilled
 setbonus.terraria:decreased_enemy_rate=Decreased enemy spawn rate
+setbonus.terraria:save_ammo=%,d%% chance to save ammo
 
 #########################
 
@@ -2093,12 +2098,6 @@ tooltip.terraria:restores_mana=Восстанавливает %s ед. маны
 tooltip.terraria:potion_duration=Длительность: %s мин.
 tooltip.terraria:potion_duration_s=Duration: %s sec
 tooltip.terraria:regen_speed_increase=Ускоряет регенерацию здоровья
-tooltip.terraria:increased_movement_speed=%,d%%-ное увеличение скорости передвижения
-tooltip.terraria:increased_critical_chance=%,d%% increased critical strike chance
-tooltip.terraria:increased_melee_critical_chance=%,d%% increased melee critical strike chance
-tooltip.terraria:increased_damage=%,d%% increased damage
-tooltip.terraria:increased_melee_damage=%,d%% increased melee damage
-tooltip.terraria:increased_melee_speed=%,d%% increased melee speed
 tooltip.terraria:placeable.key=Можно установить пока нажата клавиша %s
 tooltip.terraria:placeable=Можно поставить
 tooltip.terraria:remove_buff=Снять эффект
@@ -2129,6 +2128,20 @@ tooltip.terraria:bait_power=Сила наживки: %,d%%
 tooltip.terraria:fishing_power=Мастерство рыбалки: %,d%%
 tooltip.terraria:angler_armor=Увеличивает мастерство рыбалки
 tooltip.terraria:faved=Помечено как избранное
+
+tooltip.terraria:increased_movement_speed=%,d%%-ное увеличение скорости передвижения
+tooltip.terraria:increased_minion=Increases your max number of minions by %,d
+
+tooltip.terraria:increased_critical_chance=%,d%% increased critical strike chance
+tooltip.terraria:increased_melee_critical_chance=%,d%% increased melee critical strike chance
+tooltip.terraria:increased_ranged_critical_chance=%,d%% increased ranged critical strike chance
+
+tooltip.terraria:increased_damage=%,d%% increased damage
+tooltip.terraria:increased_melee_damage=%,d%% increased melee damage
+tooltip.terraria:increased_ranged_damage=%,d%% increased ranged damage
+tooltip.terraria:increased_summon_damage=Increases summon damage by %,d%%
+
+tooltip.terraria:increased_melee_speed=%,d%% increased melee speed
 
 # Item Tooltips
 
@@ -2999,6 +3012,11 @@ entity.terraria:hostile/giant_worm.name=Giant Worm
 entity.terraria:hostile/giant_worm/head.name=Giant Worm Head
 entity.terraria:hostile/giant_worm/body.name=Giant Worm Body
 entity.terraria:hostile/giant_worm/tail.name=Giant Worm Tail
+
+entity.terraria:hostile/devourer.name=Devourer
+entity.terraria:hostile/devourer/head.name=Devourer Head
+entity.terraria:hostile/devourer/body.name=Devourer Body
+entity.terraria:hostile/devourer/tail.name=Devourer Tail
 
 entity.terraria:hostile/zombie.name=Зомби
 entity.terraria:zombies/normal=Зомби
