@@ -77,6 +77,7 @@ itemGroup.terraria:mounts=Mounts
 itemGroup.terraria:hooks=Hooks
 itemGroup.terraria:boomerangs=Boomerangs
 itemGroup.terraria:expert_accessories=Expert Mode
+itemGroup.terraria:fences=Fences
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
