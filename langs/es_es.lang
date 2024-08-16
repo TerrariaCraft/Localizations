@@ -1268,6 +1268,7 @@ tile.terraria:furniture/doors/rich_mahogany.name=Puerta de madera de caoba rica
 # Dressers #
 
 # Lamps #
+tile.terraria:furniture/lamps/boreal.name=Boreal Wood Lamp
 
 # Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Farolillo
