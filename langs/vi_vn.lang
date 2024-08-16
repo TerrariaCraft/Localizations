@@ -1204,6 +1204,7 @@ tile.terraria:furniture/bookcases/rich_mahogany.name=Tủ Sách Đào Hoa Tâm
 # Candelabras #
 tile.terraria:furniture/candelabras/candelabra.name=Candelabra
 tile.terraria:furniture/candelabras/platinum.name=Platinum Candelabra
+tile.terraria:furniture/candelabras/boreal.name=Boreal Wood Candelabra
 
 # Candles #
 tile.terraria:furniture/candles/gold.name=Candle
