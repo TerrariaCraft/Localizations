@@ -145,6 +145,7 @@ itemGroup.terraria:building.furniture.blue_dungeon=Blue Dungeon Furniture
 itemGroup.terraria:building.furniture.green_dungeon=Green Dungeon Furniture
 itemGroup.terraria:building.furniture.pink_dungeon=Pink Dungeon Furniture
 itemGroup.terraria:building.furniture.golden=Golden Furniture
+itemGroup.terraria:building.furniture.relics=Relics
 
 itemGroup.terraria:background_objects=Background Objects
 itemGroup.terraria:background_objects.pots=Pots
@@ -1180,6 +1181,13 @@ setbonus.terraria:save_ammo=%,d%% chance to save ammo
 tile.terraria:redstone_tranciever.name=Redstone émetteur-récepteur
 
 ### Furniture ###
+
+# Relics #
+tile.terraria:furniture/relics/king_slime.name=King Slime Relic
+tile.terraria:furniture/relics/eye_of_cthulhu.name=Eye of Cthulhu Relic
+tile.terraria:furniture/relics/eater_of_worlds.name=Eater of World Relic
+tile.terraria:furniture/relics/brain_of_cthulhu.name=Brain of Cthulhu Relic
+tile.terraria:furniture/relics/queen_bee.name=Queen Bee Relic
 
 # Bathtubs #
 
