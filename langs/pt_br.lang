@@ -1414,6 +1414,9 @@ tile.terraria:furniture/fountains/blood_water.name=Blood Water Fountain
 tile.terraria:furniture/fountains/cavern_water.name=Cavern Water Fountain
 tile.terraria:furniture/fountains/oasis_water.name=Oasis Water Fountain
 
+# Other #
+tile.terraria:furniture/sign.name=Sign
+
 tile.terraria:clay_pot.name=Clay Pot
 tile.terraria:empty_bottle.name=Bottle
 tile.terraria:furnace.name=Furnace
@@ -2763,6 +2766,9 @@ gui.terraria:coins.copper_coin=copper
 gui.terraria:coins.silver_coin=silver
 gui.terraria:coins.gold_coin=gold
 gui.terraria:coins.platinum_coin=platinum
+gui.terraria:cancel=Cancel
+gui.terraria:edit=Edit
+gui.terraria:save=Save
 
 fluid.terraria:water=Water
 fluid.terraria:lava=Lava
