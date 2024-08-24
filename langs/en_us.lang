@@ -225,6 +225,31 @@ gui.terraria:changeexpert=Expert Mode: %s
 gui.terraria:on=ON
 gui.terraria:off=OFF
 
+gui.terraria:waiting_for_character=Waiting for character...
+gui.terraria:last_character_save=Character %s was saved %s ago.
+gui.terraria:disconnect_now_prompt=If you don't want to wait, click the button below.
+gui.terraria:disconnect_now=Disconnect Now
+
+gui.terraria:play=Play
+gui.terraria:select_character=Select Character
+gui.terraria:new_character=New Character
+gui.terraria:rename_character=Rename
+gui.terraria:import=Import
+gui.terraria:new_character/name=Name
+gui.terraria:new_character/empty_name=Empty name.
+gui.terraria:new_character/modes/journey.name=Journey
+gui.terraria:new_character/modes/journey.desc=Journey characters start with extra equipment. Can only be played on Journey worlds.
+gui.terraria:new_character/modes/classic.name=Classic
+gui.terraria:new_character/modes/classic.desc=Classic characters drop money on death.
+gui.terraria:new_character/modes/mediumcore.name=Mediumcore
+gui.terraria:new_character/modes/mediumcore.desc=Mediumcore characters drop items on death.
+gui.terraria:new_character/modes/hardcore.name=Hardcore
+gui.terraria:new_character/modes/hardcore.desc=Hardcore characters die for good.
+
+gui.terraria:edit_character/title.desc=Edit Character
+gui.terraria:edit_character/save.desc=Save Character
+gui.terraria:edit_character/name.desc=Character Name:
+
 gui.terraria:new_world/world_size/small.name=§h19EEF7;Small
 gui.terraria:new_world/world_size/medium.name=§h33C394;Medium
 gui.terraria:new_world/world_size/large.name=§h3FB637;Large
@@ -2703,6 +2728,7 @@ command.terraria:npc_summon.ok=NPC %s was summoned.
 hud.terraria:life=Life: %s
 hud.terraria:mana=Mana
 
+chat.terraria:journey_disparity=Only Journey characters may enter a Journey world.
 chat.terraria:defeatenemy=%s has defeated %,d-th %s!
 chat.terraria:achievement=Achievement complete! %s
 chat.terraria:achievement_other=%s has completed achievement! %s
