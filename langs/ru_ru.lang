@@ -45,10 +45,10 @@ itemGroup.terraria:grenades=Гранаты
 itemGroup.terraria:bombs=Бомбы
 itemGroup.terraria:dynamites=Динамит
 itemGroup.terraria:guns=Огнестрельное оружие
-itemGroup.terraria:gem_staves=Gem Staves
+itemGroup.terraria:gem_staves=Посохи из драгоценных камней
 itemGroup.terraria:arrows=Стрелы
 itemGroup.terraria:bullets=Патроны
-itemGroup.terraria:flares=Flares
+itemGroup.terraria:flares=Сигнальные ракеты
 itemGroup.terraria:swords=Мечи
 itemGroup.terraria:shortswords=Короткие мечи
 itemGroup.terraria:yoyos=Йо-йо
@@ -69,15 +69,15 @@ itemGroup.terraria:storage=Хранилища
 itemGroup.terraria:graves=Надгробья
 itemGroup.terraria:treasure_bags=Мешки с сокровищами
 itemGroup.terraria:trophies=Трофеи
-itemGroup.terraria:buckets=Buckets
-itemGroup.terraria:pets=Pets
-itemGroup.terraria:glowing_pets=Light Pets
-itemGroup.terraria:carts=Minecarts
-itemGroup.terraria:mounts=Mounts
-itemGroup.terraria:hooks=Hooks
-itemGroup.terraria:boomerangs=Boomerangs
-itemGroup.terraria:expert_accessories=Expert Mode
-itemGroup.terraria:fences=Fences
+itemGroup.terraria:buckets=Ведра
+itemGroup.terraria:pets=Питомцы
+itemGroup.terraria:glowing_pets=Светящиеся питомцы
+itemGroup.terraria:carts=Вагонетки
+itemGroup.terraria:mounts=Транспорт
+itemGroup.terraria:hooks=Крюки-кошки
+itemGroup.terraria:boomerangs=Бумеранги
+itemGroup.terraria:expert_accessories=Эксперт
+itemGroup.terraria:fences=Заборы
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -102,50 +102,50 @@ itemGroup.terraria:building.furniture.planter_boxes=Кадки для расте
 itemGroup.terraria:building.furniture.fountains=Фонтаны
 
 # Furniture Sets
-itemGroup.terraria:building.furniture.generic=Generic Furniture
-itemGroup.terraria:building.furniture.boreal=Boreal Furniture
-itemGroup.terraria:building.furniture.rich_mahogany=Rich Mahogany Furniture
-itemGroup.terraria:building.furniture.palm=Palm Furniture
-itemGroup.terraria:building.furniture.ebonwood=Ebonwood Furniture
-itemGroup.terraria:building.furniture.shadewood=Shadewood Furniture
-itemGroup.terraria:building.furniture.pearlwood=Pearlwood Furniture
-itemGroup.terraria:building.furniture.ashwood=Ashwood Furniture
-itemGroup.terraria:building.furniture.spooky=Spooky Furniture
-itemGroup.terraria:building.furniture.dynasty=Dynasty Furniture
-itemGroup.terraria:building.furniture.bamboo=Bamboo Furniture
-itemGroup.terraria:building.furniture.cactus=Cactus Furniture
-itemGroup.terraria:building.furniture.pumpkin=Pumpkin Furniture
-itemGroup.terraria:building.furniture.mushroom=Mushroom Furniture
-itemGroup.terraria:building.furniture.granite=Granite Furniture
-itemGroup.terraria:building.furniture.marble=Marble Furniture
-itemGroup.terraria:building.furniture.sandstone=Sandstone Furniture
-itemGroup.terraria:building.furniture.frozen=Frozen Furniture
-itemGroup.terraria:building.furniture.reef=Reef Furniture
-itemGroup.terraria:building.furniture.skyware=Skyware Furniture
-itemGroup.terraria:building.furniture.meteorite=Meteorite Furniture
-itemGroup.terraria:building.furniture.living_wood=Living Wood Furniture
-itemGroup.terraria:building.furniture.lesion=Lesion Furniture
-itemGroup.terraria:building.furniture.flesh=Flesh Furniture
-itemGroup.terraria:building.furniture.bone=Bone Furniture
-itemGroup.terraria:building.furniture.crystal=Crystal Furniture
-itemGroup.terraria:building.furniture.glass=Glass Furniture
-itemGroup.terraria:building.furniture.balloon=Balloon Furniture
-itemGroup.terraria:building.furniture.slime=Slime Furniture
-itemGroup.terraria:building.furniture.honey=Honey Furniture
-itemGroup.terraria:building.furniture.spider=Spider Furniture
-itemGroup.terraria:building.furniture.steampunk=Steampunk Furniture
-itemGroup.terraria:building.furniture.lihzahrd=Lihzahrd Furniture
-itemGroup.terraria:building.furniture.martian=Martian Furniture
-itemGroup.terraria:building.furniture.lunar/solar=Solar Furniture
-itemGroup.terraria:building.furniture.lunar/vortex=Vortex Furniture
-itemGroup.terraria:building.furniture.lunar/nebula=Nebula Furniture
-itemGroup.terraria:building.furniture.lunar/stardust=Stardust Furniture
-itemGroup.terraria:building.furniture.obsidian=Obsidian Furniture
-itemGroup.terraria:building.furniture.blue_dungeon=Blue Dungeon Furniture
-itemGroup.terraria:building.furniture.green_dungeon=Green Dungeon Furniture
-itemGroup.terraria:building.furniture.pink_dungeon=Pink Dungeon Furniture
-itemGroup.terraria:building.furniture.golden=Golden Furniture
-itemGroup.terraria:building.furniture.relics=Relics
+itemGroup.terraria:building.furniture.generic=Стандартная мебель
+itemGroup.terraria:building.furniture.boreal=Мебель из заснеженной древесины
+itemGroup.terraria:building.furniture.rich_mahogany=Мебель из красной древесины
+itemGroup.terraria:building.furniture.palm=Мебель из пальмовой древесины
+itemGroup.terraria:building.furniture.ebonwood=Мебель из эбонитовой древесины
+itemGroup.terraria:building.furniture.shadewood=Мебель из теневой древесины
+itemGroup.terraria:building.furniture.pearlwood=Мебель из жемчужной древесины
+itemGroup.terraria:building.furniture.ashwood=Ясеневая мебель
+itemGroup.terraria:building.furniture.spooky=Жуткая мебель
+itemGroup.terraria:building.furniture.dynasty=Родовая мебель
+itemGroup.terraria:building.furniture.bamboo=Мебель из бамбука
+itemGroup.terraria:building.furniture.cactus=Мебель из кактуса
+itemGroup.terraria:building.furniture.pumpkin=Мебель из тыквы
+itemGroup.terraria:building.furniture.mushroom=Грибная мебель
+itemGroup.terraria:building.furniture.granite=Мебель из гранита
+itemGroup.terraria:building.furniture.marble=Мебель из мрамора
+itemGroup.terraria:building.furniture.sandstone=Песчаниковая мебель
+itemGroup.terraria:building.furniture.frozen=Замороженная мебель
+itemGroup.terraria:building.furniture.reef=Рифовая мебель
+itemGroup.terraria:building.furniture.skyware=Небесная мебель
+itemGroup.terraria:building.furniture.meteorite=Мебель из метеорита
+itemGroup.terraria:building.furniture.living_wood=Мебель из живой древесины
+itemGroup.terraria:building.furniture.lesion=Больная мебель
+itemGroup.terraria:building.furniture.flesh=Мебель из плоти
+itemGroup.terraria:building.furniture.bone=Костяная мебель
+itemGroup.terraria:building.furniture.crystal=Хрустальная мебель
+itemGroup.terraria:building.furniture.glass=Стеклянная мебель
+itemGroup.terraria:building.furniture.balloon=Воздушная мебель
+itemGroup.terraria:building.furniture.slime=Гелевая мебель
+itemGroup.terraria:building.furniture.honey=Медовая мебель
+itemGroup.terraria:building.furniture.spider=Паучья мебель
+itemGroup.terraria:building.furniture.steampunk=Стимпанковая мебель
+itemGroup.terraria:building.furniture.lihzahrd=Мебель ящщеров
+itemGroup.terraria:building.furniture.martian=Марсианская мебель
+itemGroup.terraria:building.furniture.lunar/solar=Солнечная мебель
+itemGroup.terraria:building.furniture.lunar/vortex=Мебель вихря
+itemGroup.terraria:building.furniture.lunar/nebula=Мебель туманности
+itemGroup.terraria:building.furniture.lunar/stardust=Мебель из звездной пыли
+itemGroup.terraria:building.furniture.obsidian=Обсидиановая мебель
+itemGroup.terraria:building.furniture.blue_dungeon=Синяя мебель темницы
+itemGroup.terraria:building.furniture.green_dungeon=Зеленая мебель темницы
+itemGroup.terraria:building.furniture.pink_dungeon=Розовая мебель темницы
+itemGroup.terraria:building.furniture.golden=Золотая мебель
+itemGroup.terraria:building.furniture.relics=Реликвии
 
 itemGroup.terraria:background_objects=Объекты заднего плана
 itemGroup.terraria:background_objects.pots=Горшки
@@ -162,9 +162,9 @@ itemGroup.terraria:squirrels=Белки
 itemGroup.terraria:butterflies=Бабочки
 itemGroup.terraria:dragonflies=Стрекозы
 itemGroup.terraria:bosses=Боссы
-itemGroup.terraria:invasions=Invasions
-itemGroup.terraria:slimes=Slimes
-itemGroup.terraria:bats=Bats
+itemGroup.terraria:invasions=Вторжения
+itemGroup.terraria:slimes=Слаймы
+itemGroup.terraria:bats=Летучие мыши
 
 itemGroup.terraria:armor/mining=Броня шахтёра
 itemGroup.terraria:armor/wooden=Деревянная броня
@@ -196,13 +196,13 @@ itemGroup.terraria:armor/ancient_shadow=Древняя теневая броня
 itemGroup.terraria:armor/crimson=Кримтановая броня
 itemGroup.terraria:armor/molten=Литая броня
 itemGroup.terraria:armor/crowns=Короны
-itemGroup.terraria:armor/dev/zeith=Zeith's Outfit
-itemGroup.terraria:armor/dev/degeh03=Degeh's Outfit
-itemGroup.terraria:armor/dev/jar=Jar's Outfit
-itemGroup.terraria:armor/dev/ganza=Ganza's Outfit
-itemGroup.terraria:armor/dev/ashryman=Ashryman's Outfit
-itemGroup.terraria:armor/wizard=Wizard Armor
-itemGroup.terraria:armor/fossil=Fossil armor
+itemGroup.terraria:armor/dev/zeith=Костюм Zeith-а
+itemGroup.terraria:armor/dev/degeh03=Костюм Degeh-а
+itemGroup.terraria:armor/dev/jar=Костюм Jar-а
+itemGroup.terraria:armor/dev/ganza=Костюм Ganza
+itemGroup.terraria:armor/dev/ashryman=Костюм Ashryman-а
+itemGroup.terraria:armor/wizard=Броня колдуна
+itemGroup.terraria:armor/fossil=Ископаемая броня
 
 generator.Terraria=Мир "Террария"
 gui.achievements=Достижения
@@ -211,10 +211,10 @@ soundCategory.terraria.ambience=Окружение Terraria
 deathScreen.title.terraria=Вы были убиты...
 
 options.terraria:gore=Кровавые эффекты
-options.terraria:gore.desc=Should TerrariaCraft spawn gore particles upon killing entities?
+options.terraria:gore.desc=Должен ли TerrariaCraft создавать частицы крови при убийстве существ?
 
-options.terraria:boss_outlines=Boss Outlines
-options.terraria:boss_outlines.desc=Should bosses have a glow-like outline?
+options.terraria:boss_outlines=Обводка боссов
+options.terraria:boss_outlines.desc=Должны ли боссы иметь подсвечивающуюся обводку?
 
 gui.terraria:building_chunks_started=Строительство чанков...
 gui.terraria:building_chunks=Строительство чанков... (%s/%s)
@@ -225,67 +225,67 @@ gui.terraria:changeexpert=Эксперт: %s
 gui.terraria:on=ВКЛ
 gui.terraria:off=ВЫКЛ
 
-gui.terraria:waiting_for_character=Waiting for character...
-gui.terraria:last_character_save=Character %s was saved %s ago.
-gui.terraria:disconnect_now_prompt=If you don't want to wait, click the button below.
-gui.terraria:disconnect_now=Disconnect Now
+gui.terraria:waiting_for_character=Ожидание персонажа...
+gui.terraria:last_character_save=Персонаж %s был сохранен %s назад.
+gui.terraria:disconnect_now_prompt=Если вы не хотите ждать, нажмите кнопку ниже.
+gui.terraria:disconnect_now=Отключиться сейчас
 
-gui.terraria:play=Play
-gui.terraria:select_character=Select Character
-gui.terraria:new_character=New Character
-gui.terraria:rename_character=Rename
-gui.terraria:import=Import
-gui.terraria:new_character/name=Name
-gui.terraria:new_character/empty_name=Empty name.
-gui.terraria:new_character/modes/journey.name=Journey
-gui.terraria:new_character/modes/journey.desc=Journey characters start with extra equipment. Can only be played on Journey worlds.
-gui.terraria:new_character/modes/classic.name=Classic
-gui.terraria:new_character/modes/classic.desc=Classic characters drop money on death.
-gui.terraria:new_character/modes/mediumcore.name=Mediumcore
-gui.terraria:new_character/modes/mediumcore.desc=Mediumcore characters drop items on death.
-gui.terraria:new_character/modes/hardcore.name=Hardcore
-gui.terraria:new_character/modes/hardcore.desc=Hardcore characters die for good.
+gui.terraria:play=Играть
+gui.terraria:select_character=Выбрать персонажа
+gui.terraria:new_character=Новый персонаж
+gui.terraria:rename_character=Переименовать
+gui.terraria:import=Импорт
+gui.terraria:new_character/name=Имя
+gui.terraria:new_character/empty_name=Пустое имя.
+gui.terraria:new_character/modes/journey.name=Приключение
+gui.terraria:new_character/modes/journey.desc=Персонажи приключения начинают с дополнительным снаряжением. Они могут играть только в миры приключения.
+gui.terraria:new_character/modes/classic.name=Классика
+gui.terraria:new_character/modes/classic.desc=Персонажи классики теряют монеты после смерти.
+gui.terraria:new_character/modes/mediumcore.name=Средний режим
+gui.terraria:new_character/modes/mediumcore.desc=Персонажи среднего режима теряют вещи после смерти.
+gui.terraria:new_character/modes/hardcore.name=Хардкор
+gui.terraria:new_character/modes/hardcore.desc=Персонажи хардкора мрут как мухи.
 
-gui.terraria:edit_character/title.desc=Edit Character
-gui.terraria:edit_character/save.desc=Save Character
-gui.terraria:edit_character/name.desc=Character Name:
+gui.terraria:edit_character/title.desc=Редактировать персонажа
+gui.terraria:edit_character/save.desc=Сохранить персонажа
+gui.terraria:edit_character/name.desc=Имя персонажа:
 
-gui.terraria:new_world/world_size/small.name=§h19EEF7;Small
-gui.terraria:new_world/world_size/medium.name=§h33C394;Medium
-gui.terraria:new_world/world_size/large.name=§h3FB637;Large
-gui.terraria:new_world/modes/creative.name=§hE472AC;Journey
-gui.terraria:new_world/modes/classic.name=§hFFFFFF;Classic
-gui.terraria:new_world/modes/expert.name=§hF0A018;Expert
-gui.terraria:new_world/modes/master.name=§hD42F1F;Master
-gui.terraria:new_world/evil/random.name=Random
-gui.terraria:new_world/evil/corruption.name=§h8262B5;Corruption
-gui.terraria:new_world/evil/crimson.name=§hC65564;Crimson
-gui.terraria:new_world/mcgm/survival.name=Survival
-gui.terraria:new_world/mcgm/creative.name=Creative
-gui.terraria:new_world/cheats/disabled.name=No Cheats
-gui.terraria:new_world/cheats/enabled.name=Cheats
-gui.terraria:new_world/text=Please choose how your world will be built with the options above.
-gui.terraria:new_world/name.randomize=Randomize your world's name.
-gui.terraria:new_world/name=Give your world a name! You can always change it later if needed!
-gui.terraria:new_world/seed.randomize=Randomize your world's seed.
-gui.terraria:new_world/seed=The DNA marker that defines your world's specific shape and traits.
-gui.terraria:new_world/world_size/small=Ideal for a quick, single player experience.
-gui.terraria:new_world/world_size/medium=Bigger and better for prolonged exploration, or bringing a friend.
-gui.terraria:new_world/world_size/large=Super-sized for long term progression and multiple players.
-gui.terraria:new_world/modes/creative=With great power comes great responsibility (Unearth your creativity)
-gui.terraria:new_world/modes/classic=Your adventure begins... (The Standard TerrariaCraft Experience)
-gui.terraria:new_world/modes/expert=Fortune & Glory, Kid. (Far Greater Difficulty & Loot)
-gui.terraria:new_world/modes/master=Game over man, game over! (Brutally hard, for the truly brave)
-gui.terraria:new_world/evil/random=Let nature decide whether corruption or crimson infects your world.
-gui.terraria:new_world/evil/corruption=Disease-like corruption is guaranteed to be present in your world.
-gui.terraria:new_world/evil/crimson=Macabre, grotesque crimson is guaranteed to be present in your world.
-gui.terraria:new_world/mcgm/survival=The intended experience of TerrariaCraft. Mine resources, fight mobs, defeat bosses!
-gui.terraria:new_world/mcgm/creative=Unlimited resources, free flying and destroy blocks instantly with no tools.
-gui.terraria:new_world/cheats/disabled=You can not use any gameplay-altering commands.
-gui.terraria:new_world/cheats/enabled=You have full access to all gameplay-altering commands.
+gui.terraria:new_world/world_size/small.name=§h19EEF7;Маленький
+gui.terraria:new_world/world_size/medium.name=§h33C394;Средний
+gui.terraria:new_world/world_size/large.name=§h3FB637;Большой
+gui.terraria:new_world/modes/creative.name=§hE472AC;Приключение
+gui.terraria:new_world/modes/classic.name=§hFFFFFF;Классика
+gui.terraria:new_world/modes/expert.name=§hF0A018;Эксперт
+gui.terraria:new_world/modes/master.name=§hD42F1F;Мастер
+gui.terraria:new_world/evil/random.name=Случайно
+gui.terraria:new_world/evil/corruption.name=§h8262B5;Порча
+gui.terraria:new_world/evil/crimson.name=§hC65564;Багрянец
+gui.terraria:new_world/mcgm/survival.name=Выживание
+gui.terraria:new_world/mcgm/creative.name=Творческий
+gui.terraria:new_world/cheats/disabled.name=Без читов
+gui.terraria:new_world/cheats/enabled.name=С читами
+gui.terraria:new_world/text=Выберите как будет создаваться ваш мир, используя параметры выше.
+gui.terraria:new_world/name.randomize=Выбирает случайное имя для вашего мира.
+gui.terraria:new_world/name=Дайте своему миру имя! Вы всегда сможете изменить его позднее если потребуется!
+gui.terraria:new_world/seed.randomize=Выбирает случайный сид для вашего мира.
+gui.terraria:new_world/seed=Этот маркер ДНК характерные для вашего мира формы и черты.
+gui.terraria:new_world/world_size/small=Идеальный мир для коротких однопользовательских игр.
+gui.terraria:new_world/world_size/medium=Больший и лучший мир для увеличенного времени иследования или приглашения друга.
+gui.terraria:new_world/world_size/large=Супер большой мир для длительного иследования и нескольких игроков.
+gui.terraria:new_world/modes/creative=С большими силами приходит большая ответсвенность (Прояви свое творчество)
+gui.terraria:new_world/modes/classic=Твое приключение начинается... (Стандартный опыт игры в TerrariaCraft)
+gui.terraria:new_world/modes/expert=Удача и слава, малыш. (Более высокая сложность и более хорошая добыча)
+gui.terraria:new_world/modes/master=Конец игры дружок, конец игры! (Очень сложно, только для истинных храбрецов)
+gui.terraria:new_world/evil/random=Позвольте природе решить, будет ли в вашем мире Порча или Багрянец.
+gui.terraria:new_world/evil/corruption=В вашем мире обязательно будет болезненно выглядящая Порча.
+gui.terraria:new_world/evil/crimson=В вашем мире обязательно будет болезненно зловещий Багрянец.
+gui.terraria:new_world/mcgm/survival=Предполагаемый опыт от игры в TerrariaCraft. Добывай ресурсы, сражайся с монстрами, побеждай боссов!
+gui.terraria:new_world/mcgm/creative=Безграничные ресурсы, свободный полет и мгновеннное разрушение блоков без инструментов.
+gui.terraria:new_world/cheats/disabled=Вы не можете использовать команды влияющие на опыт игры.
+gui.terraria:new_world/cheats/enabled=У вас есть полный доступ к командам влияющим на опыт игры.
 
-container.terraria:coins=Coins
-container.terraria:ammo=Ammo
+container.terraria:coins=Монеты
+container.terraria:ammo=Амуниция
 
 worldsize.terraria:tiny=Крохотный
 worldsize.terraria:small=Маленький
@@ -304,7 +304,7 @@ jei.terraria.anvil_around=<T>
 jei.terraria.anvil.any=Любая наковальня
 jei.terraria.anvil.mythrilororichalcum=Мифриловая/Орихалковая наковальня
 jei.terraria.table_chair_around=Стол и стул
-jei.terraria.shimmer=Shimmer
+jei.terraria.shimmer=Мерцание
 
 mccue.trigger.terraria:crafting.name=Создание
 mccue.trigger.terraria:crafting.if=предмет создан
@@ -422,71 +422,71 @@ item.terraria:bows/tendon.name=Кримтановый лук
 item.terraria:living_leaf_wand.name=Жезл листьев
 item.terraria:living_wood_wand.name=Жезл живой древесины
 item.terraria:spears/rotted_fork.name=Гнилая вилка
-item.terraria:sickle.name=Sickle
+item.terraria:sickle.name=Коса
 
-item.terraria:weapons/yoyos/wooden.name=Wooden Yoyo
-item.terraria:weapons/yoyos/rally.name=Rally
-item.terraria:weapons/yoyos/malaise.name=Malaise
-item.terraria:weapons/yoyos/artery.name=Artery
-item.terraria:weapons/yoyos/amazon.name=Amazon
-item.terraria:weapons/yoyos/code_1.name=Code 1
-item.terraria:weapons/yoyos/valor.name=Valor
-item.terraria:weapons/yoyos/cascade.name=Cascade
-item.terraria:weapons/yoyos/chik.name=Chik
-item.terraria:weapons/yoyos/format_c.name=Format:C
-item.terraria:weapons/yoyos/hel_fire.name=Hel-fire
-item.terraria:weapons/yoyos/amarok.name=Amarok
-item.terraria:weapons/yoyos/gradient.name=Gradient
-item.terraria:weapons/yoyos/code_2.name=Code 2
-item.terraria:weapons/yoyos/yelets.name=Yelets
-item.terraria:weapons/yoyos/dev_zeith_throw.name=Zeith's Throw
-item.terraria:weapons/yoyos/dev_red_throw.name=Red's Throw
-item.terraria:weapons/yoyos/dev_valkyrie.name=Valkyrie Yoyo
-item.terraria:weapons/yoyos/kraken.name=Kraken
-item.terraria:weapons/yoyos/eye_cthulhu.name=The Eye of Cthulhu
-item.terraria:weapons/yoyos/terrarian.name=Terrarian
-item.terraria:weapons/yoyos/hive_five.name=Hive-Five
+item.terraria:weapons/yoyos/wooden.name=Деревянный йо-йо
+item.terraria:weapons/yoyos/rally.name=Ралли
+item.terraria:weapons/yoyos/malaise.name=Дискомфорт
+item.terraria:weapons/yoyos/artery.name=Артерия
+item.terraria:weapons/yoyos/amazon.name=Амазония
+item.terraria:weapons/yoyos/code_1.name=Код 1
+item.terraria:weapons/yoyos/valor.name=Доблесть
+item.terraria:weapons/yoyos/cascade.name=Каскад
+item.terraria:weapons/yoyos/chik.name=Чик
+item.terraria:weapons/yoyos/format_c.name=Формат:C
+item.terraria:weapons/yoyos/hel_fire.name=Пекло
+item.terraria:weapons/yoyos/amarok.name=Амарок
+item.terraria:weapons/yoyos/gradient.name=Градиент
+item.terraria:weapons/yoyos/code_2.name=Код 2
+item.terraria:weapons/yoyos/yelets.name=Елец
+item.terraria:weapons/yoyos/dev_zeith_throw.name=Бросок Zeith-а
+item.terraria:weapons/yoyos/dev_red_throw.name=Бросок Red
+item.terraria:weapons/yoyos/dev_valkyrie.name=Йо-йо валькирии
+item.terraria:weapons/yoyos/kraken.name=Кракен
+item.terraria:weapons/yoyos/eye_cthulhu.name=Глаз Ктулху
+item.terraria:weapons/yoyos/terrarian.name=Террариан
+item.terraria:weapons/yoyos/hive_five.name=Пчёл-йо
 
-item.terraria:weapons/boomerangs/wooden.name=Wooden Boomerang
-item.terraria:weapons/boomerangs/ice.name=Ice Boomerang
-item.terraria:weapons/boomerangs/enchanted.name=Enchanted Boomerang
-item.terraria:weapons/boomerangs/flamarang.name=Flamarang
-item.terraria:weapons/boomerangs/shroomerang.name=Shroomerang
-item.terraria:weapons/boomerangs/trimarang.name=Trimarang
-item.terraria:weapons/boomerangs/thorn_chakram.name=Thorn Chakram
-item.terraria:weapons/boomerangs/fruitcake_chakram.name=Fruitcake Chakram
+item.terraria:weapons/boomerangs/wooden.name=Деревянный бумеранг
+item.terraria:weapons/boomerangs/ice.name=Ледяной бумеранг
+item.terraria:weapons/boomerangs/enchanted.name=Зачарованный бумеранг
+item.terraria:weapons/boomerangs/flamarang.name=Огнеранг
+item.terraria:weapons/boomerangs/shroomerang.name=Сумеранг
+item.terraria:weapons/boomerangs/trimarang.name=Тримаранг
+item.terraria:weapons/boomerangs/thorn_chakram.name=Колючий чакрам
+item.terraria:weapons/boomerangs/fruitcake_chakram.name=Кексовый чакрам
 
-item.terraria:weapons/guns/boomstick.name=Boomstick
-item.terraria:weapons/guns/musket.name=Musket
-item.terraria:weapons/guns/revolver.name=Revolver
-item.terraria:weapons/guns/vortex_beater.name=Vortex Beater
-item.terraria:weapons/guns/undertaker.name=The Undertaker
-item.terraria:weapons/guns/star_cannon.name=Star Cannon
-item.terraria:weapons/guns/handgun.name=Handgun
-item.terraria:weapons/guns/shotgun.name=Shotgun
-item.terraria:weapons/guns/minishark.name=Minishark
-item.terraria:weapons/guns/sandgun.name=Sandgun
-item.terraria:weapons/guns/dev_degeh_archilles.name=The Archilles
-item.terraria:weapons/guns/megashark.name=Megashark
-item.terraria:weapons/guns/candy_corn_rifle.name=Candy Corn Rifle
-item.terraria:weapons/guns/space_gun.name=Space Gun
-item.terraria:weapons/guns/quad_barrel_shotgun.name=Quad-Barrel Shotgun
-item.terraria:weapons/guns/flare_gun.name=Flare Gun
+item.terraria:weapons/guns/boomstick.name=Обрез
+item.terraria:weapons/guns/musket.name=Мушкет
+item.terraria:weapons/guns/revolver.name=Револьвер
+item.terraria:weapons/guns/vortex_beater.name=Пушка вихря
+item.terraria:weapons/guns/undertaker.name=Гробовщик
+item.terraria:weapons/guns/star_cannon.name=Звездная пушка
+item.terraria:weapons/guns/handgun.name=Пистолет
+item.terraria:weapons/guns/shotgun.name=Дробовик
+item.terraria:weapons/guns/minishark.name=Мини-акула
+item.terraria:weapons/guns/sandgun.name=Песчаная пушка
+item.terraria:weapons/guns/dev_degeh_archilles.name=Ахиллес
+item.terraria:weapons/guns/megashark.name=Мега-акула
+item.terraria:weapons/guns/candy_corn_rifle.name=Винтовка из кенди-корна
+item.terraria:weapons/guns/space_gun.name=Космическая пушка
+item.terraria:weapons/guns/quad_barrel_shotgun.name=Дробовик с четырьмя стволами
+item.terraria:weapons/guns/flare_gun.name=Сигнальная ракетница
 
-item.terraria:weapons/blowpipe.name=Blowpipe
-item.terraria:weapons/blowgun.name=Blowgun
+item.terraria:weapons/blowpipe.name=Духовая трубка
+item.terraria:weapons/blowgun.name=Духовое ружье
 
-item.terraria:weapons/magic/flower_of_fire.name=Flower of Fire
-item.terraria:weapons/magic/wand_of_sparking.name=Wand of Sparking
-item.terraria:weapons/magic/wand_of_frosting.name=Wand of Frosting
-item.terraria:weapons/magic/gem_staves/amethyst.name=Amethyst Staff
-item.terraria:weapons/magic/gem_staves/topaz.name=Topaz Staff
-item.terraria:weapons/magic/gem_staves/sapphire.name=Sapphire Staff
-item.terraria:weapons/magic/gem_staves/emerald.name=Emerald Staff
-item.terraria:weapons/magic/gem_staves/amber.name=Amber Staff
-item.terraria:weapons/magic/gem_staves/amber.name=Amber Staff
-item.terraria:weapons/magic/gem_staves/ruby.name=Ruby Staff
-item.terraria:weapons/magic/gem_staves/diamond.name=Diamond Staff
+item.terraria:weapons/magic/flower_of_fire.name=Огненный цветок
+item.terraria:weapons/magic/wand_of_sparking.name=Жезл искр
+item.terraria:weapons/magic/wand_of_frosting.name=Морозящий жезл
+item.terraria:weapons/magic/gem_staves/amethyst.name=Аметистовый посох
+item.terraria:weapons/magic/gem_staves/topaz.name=Топазовый посох
+item.terraria:weapons/magic/gem_staves/sapphire.name=Сапфировый посох
+item.terraria:weapons/magic/gem_staves/emerald.name=Измурудный посох
+item.terraria:weapons/magic/gem_staves/amber.name=Янтарный посох
+item.terraria:weapons/magic/gem_staves/amber.name=Янтарный посох
+item.terraria:weapons/magic/gem_staves/ruby.name=Рубиновый посох
+item.terraria:weapons/magic/gem_staves/diamond.name=Алмазный посох
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
@@ -557,55 +557,55 @@ item.terraria:artifacts/angler_earring.name=Серьга рыбака
 item.terraria:artifacts/tackle_box.name=Коробочка с рыбацкими снастями
 item.terraria:artifacts/high_test_fishing_line.name=Прочная леска
 item.terraria:artifacts/angler_tackle_bag.name=Сумка рыбака
-item.terraria:artifacts/armor_polish.name=Armor Polish
-item.terraria:artifacts/vitamins.name=Vitamins
-item.terraria:artifacts/armor_bracing.name=Armor Bracing
-item.terraria:artifacts/adhesive_bandage.name=Adhesive Bandage
-item.terraria:artifacts/medicated_bandage.name=Medicated Bandage
-item.terraria:artifacts/trifold_map.name=Trifold Map
-item.terraria:artifacts/fast_clock.name=Fast Clock
-item.terraria:artifacts/the_plan.name=The Plan
-item.terraria:artifacts/nazar.name=Nazar
-item.terraria:artifacts/megaphone.name=Megaphone
-item.terraria:artifacts/countercurse_mantra.name=Countercurse Mantra
-item.terraria:artifacts/ankh_charm.name=Ankh Charm
-item.terraria:artifacts/pocket_mirror.name=Pocket Mirror
-item.terraria:artifacts/reflective_shades.name=Reflective Shades
-item.terraria:artifacts/wings/fledgling.name=Fledgling Wings
-item.terraria:artifacts/panic_necklace.name=Panic Necklace
-item.terraria:artifacts/magic_cuffs.name=Magic Cuffs
-item.terraria:artifacts/celestial_magnet.name=Celestial Magnet
-item.terraria:artifacts/celestial_cuffs.name=Celestial Cuffs
-item.terraria:artifacts/ancient_chisel.name=Ancient Chisel
-item.terraria:artifacts/cross_necklace.name=Cross Necklace
-item.terraria:artifacts/charm_of_myths.name=Charm of Myths
-item.terraria:artifacts/discount_card.name=Discount Card
-item.terraria:artifacts/gold_ring.name=Gold Ring
-item.terraria:artifacts/coin_ring.name=Coin Ring
-item.terraria:artifacts/greedy_ring.name=Greedy Ring
-item.terraria:artifacts/flying_carpet.name=Flying Carpet
-item.terraria:artifacts/toolbelt.name=Toolbelt
-item.terraria:artifacts/compass.name=Compass
-item.terraria:artifacts/gold_watch.name=Gold Watch
-item.terraria:artifacts/platinum_watch.name=Platinum Watch
-item.terraria:artifacts/depth_meter.name=Depth Meter
+item.terraria:artifacts/armor_polish.name=Полироль
+item.terraria:artifacts/vitamins.name=Витамины
+item.terraria:artifacts/armor_bracing.name=Крепление для брони
+item.terraria:artifacts/adhesive_bandage.name=Липкий пластырь
+item.terraria:artifacts/medicated_bandage.name=Лечебный пластырь
+item.terraria:artifacts/trifold_map.name=Складная карта
+item.terraria:artifacts/fast_clock.name=Быстрые часы
+item.terraria:artifacts/the_plan.name=План
+item.terraria:artifacts/nazar.name=Назар
+item.terraria:artifacts/megaphone.name=Мегафон
+item.terraria:artifacts/countercurse_mantra.name=Антисглазная мантра
+item.terraria:artifacts/ankh_charm.name=Амулет анха
+item.terraria:artifacts/pocket_mirror.name=Карманное зеркало
+item.terraria:artifacts/reflective_shades.name=Светоотражающие очки
+item.terraria:artifacts/wings/fledgling.name=Крылья птенца
+item.terraria:artifacts/panic_necklace.name=Ожерелье паники
+item.terraria:artifacts/magic_cuffs.name=Магические наручники
+item.terraria:artifacts/celestial_magnet.name=Небесный магнит
+item.terraria:artifacts/celestial_cuffs.name=Небесные наручники
+item.terraria:artifacts/ancient_chisel.name=Древнее долото
+item.terraria:artifacts/cross_necklace.name=Золотой крестик
+item.terraria:artifacts/charm_of_myths.name=Очарование мифов
+item.terraria:artifacts/discount_card.name=Дисконтная карта
+item.terraria:artifacts/gold_ring.name=Золотое кольцо
+item.terraria:artifacts/coin_ring.name=Денежное кольцо
+item.terraria:artifacts/greedy_ring.name=Кольцо жадности
+item.terraria:artifacts/flying_carpet.name=Ковер-самолет
+item.terraria:artifacts/toolbelt.name=Пояс с инструментами
+item.terraria:artifacts/compass.name=Компас
+item.terraria:artifacts/gold_watch.name=Золотые часы
+item.terraria:artifacts/platinum_watch.name=Платиновые часы
+item.terraria:artifacts/depth_meter.name=Глубинометр
 item.terraria:artifacts/gps.name=GPS
-item.terraria:artifacts/rocket_boots.name=Rocket Boots
-item.terraria:artifacts/spectre_boots.name=Spectre Boots
-item.terraria:artifacts/lightning_boots.name=Lightning Boots
-item.terraria:artifacts/frostspark_boots.name=Frostspark Boots
-item.terraria:artifacts/lava_waders.name=Lava Waders
-item.terraria:artifacts/terraspark_boots.name=Terraspark Boots
-item.terraria:artifacts/dunerider_boots.name=Dunerider Boots
-item.terraria:artifacts/honey_comb.name=Honey Comb
-item.terraria:artifacts/stinger_necklace.name=Stinger Necklace
-item.terraria:artifacts/sweetheart_necklace.name=Sweetheart Necklace
+item.terraria:artifacts/rocket_boots.name=Реактивные сапоги
+item.terraria:artifacts/spectre_boots.name=Спектральные ботинки
+item.terraria:artifacts/lightning_boots.name=Молниеносные ботинки
+item.terraria:artifacts/frostspark_boots.name=Искрометные морозные ботинки
+item.terraria:artifacts/lava_waders.name=Ботинки хождения по лаве
+item.terraria:artifacts/terraspark_boots.name=Терраискрометные ботинки
+item.terraria:artifacts/dunerider_boots.name=Ботинки дюнного наездника
+item.terraria:artifacts/honey_comb.name=Мед в сотах
+item.terraria:artifacts/stinger_necklace.name=Ожерелье из жал
+item.terraria:artifacts/sweetheart_necklace.name=Ожерелье возлюбленного
 
-item.terraria:artifacts/expert/shield_of_cthulhu.name=Shield of Cthulhu
-item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
+item.terraria:artifacts/expert/shield_of_cthulhu.name=Щит Ктулху
+item.terraria:artifacts/expert/worm_scarf.name=Шарф-червь
 item.terraria:artifacts/expert/royal_gel.name=Королевский гель
-item.terraria:artifacts/expert/brain_of_confusion.name=Brain of Confusion
-item.terraria:artifacts/expert/hive_pack.name=Hive Pack
+item.terraria:artifacts/expert/brain_of_confusion.name=Мозг запутанности
+item.terraria:artifacts/expert/hive_pack.name=Рюкзак-улей
 
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Малое лечебное зелье
@@ -724,9 +724,9 @@ item.terraria:potions/food/grape_juice.name=Виноградный сок
 item.terraria:potions/food/monster_lasagna.name=Монстро-лазанья
 item.terraria:potions/food/pumpkin_pie.name=Тыквенный пирог
 item.terraria:potions/food/roasted_duck.name=Жареная утка
-item.terraria:potions/restoration.name=Restoration Potion
-item.terraria:potions/sake.name=Sake
-item.terraria:potions/ale.name=Ale
+item.terraria:potions/restoration.name=Восстановительное зелье
+item.terraria:potions/sake.name=Саке
+item.terraria:potions/ale.name=Эль
 
 # Materials
 item.terraria:materials/fallen_star.name=Упавшая звезда
@@ -839,10 +839,10 @@ item.terraria:materials/baits/jellyfish_blue.name=Синяя медуза
 item.terraria:materials/baits/jellyfish_green.name=Зелёная медуза
 item.terraria:materials/baits/jellyfish_pink.name=Розовая медуза
 item.terraria:materials/coal.name=Уголь
-item.terraria:materials/tattered_cloth.name=Tattered Cloth
-item.terraria:materials/hook.name=Hook
-item.terraria:materials/giant_harpy_feather.name=Giant Harpy Feather
-item.terraria:materials/defender_medal.name=Defender Medal
+item.terraria:materials/tattered_cloth.name=Потрепанная ткань
+item.terraria:materials/hook.name=Крюк
+item.terraria:materials/giant_harpy_feather.name=Перо гигантской гарпии
+item.terraria:materials/defender_medal.name=Медаль защитника
 
 # Armor
 item.terraria:armor/wooden/helm.name=Деревянный шлем
@@ -851,18 +851,18 @@ item.terraria:armor/wooden/legs.name=Деревянные ботинки
 item.terraria:armor/jungle_wood/helm.name=Шлем из красной древесины
 item.terraria:armor/jungle_wood/body.name=Нагрудник из красной древесины
 item.terraria:armor/jungle_wood/legs.name=Ботинки из красной древесины
-item.terraria:armor/dev/jar/helm.name=Jar's Jar
-item.terraria:armor/dev/jar/body.name=Jar's Cosmic Suit
-item.terraria:armor/dev/jar/legs.name=Jar's Cosmic Leggings
-item.terraria:armor/dev/zeith/helm.name=Zeith's Headsuit
-item.terraria:armor/dev/zeith/body.name=Zeith's Bodysuit
-item.terraria:armor/dev/zeith/legs.name=Zeith's Feetpaws
+item.terraria:armor/dev/jar/helm.name=Банка Jar-а
+item.terraria:armor/dev/jar/body.name=Космический нагрудник Jar-а
+item.terraria:armor/dev/jar/legs.name=Космические штаны Jar-а
+item.terraria:armor/dev/zeith/helm.name=Головной убор Zeith-а
+item.terraria:armor/dev/zeith/body.name=Нательный костюм Zeith-а
+item.terraria:armor/dev/zeith/legs.name=Лапы Zeith-а
 item.terraria:armor/mining/helm.name=Каска шахтёра
 item.terraria:armor/mining/body.name=Рубашка шахтёра
 item.terraria:armor/mining/legs.name=Штаны шахтёра
-item.terraria:armor/dev/ganza/helm.name=Ganza's Mind
-item.terraria:armor/dev/ganza/body.name=Ganza's Enlightenment
-item.terraria:armor/dev/ganza/legs.name=Ganza's Curse
+item.terraria:armor/dev/ganza/helm.name=Разум Ganza
+item.terraria:armor/dev/ganza/body.name=Просвещение Ganza
+item.terraria:armor/dev/ganza/legs.name=Проклятие Ganza
 item.terraria:armor/tungsten/helm.name=Вольфрамовый шлем
 item.terraria:armor/tungsten/body.name=Вольфрамовый нагрудник
 item.terraria:armor/tungsten/legs.name=Вольфрамовые ботинки
@@ -875,7 +875,7 @@ item.terraria:armor/tin/legs.name=Оловянные ботинки
 item.terraria:armor/iron/helm.name=Железный шлем
 item.terraria:armor/iron/body.name=Железная кольчуга
 item.terraria:armor/iron/legs.name=Железные сапоги
-item.terraria:armor/iron_ancient_helmet.name=Ancient Iron Helmet
+item.terraria:armor/iron_ancient_helmet.name=Древний железный шлем
 item.terraria:armor/ancient_shadow/helm.name=Древний теневой шлем
 item.terraria:armor/ancient_shadow/body.name=Древний теневой нагрудник
 item.terraria:armor/ancient_shadow/legs.name=Древние теневые ботинки
@@ -888,16 +888,16 @@ item.terraria:armor/silver/legs.name=Сереребряные сапоги
 item.terraria:armor/gold/helm.name=Золотой шлем
 item.terraria:armor/gold/body.name=Золотая кольчуга
 item.terraria:armor/gold/legs.name=Золотые сапоги
-item.terraria:armor/gold_ancient_helmet.name=Ancient Gold Helmet
+item.terraria:armor/gold_ancient_helmet.name=Древний золотой шлем
 item.terraria:armor/platinum/helm.name=Платиновый шлем
 item.terraria:armor/platinum/body.name=Платиновый нагрудник
 item.terraria:armor/platinum/legs.name=Платиновый ботинки
 item.terraria:armor/molten/helm.name=Литой шлем
 item.terraria:armor/molten/body.name=Литой нагрудник
 item.terraria:armor/molten/legs.name=Литые ботинки
-item.terraria:armor/dev/ashryman/helm.name=Ashryman's Helm of Infamy
-item.terraria:armor/dev/ashryman/body.name=Ashryman's Chest of Valor
-item.terraria:armor/dev/ashryman/legs.name=Ashryman's Boots of Triumph
+item.terraria:armor/dev/ashryman/helm.name=Шлем позора Ashryman-а
+item.terraria:armor/dev/ashryman/body.name=Нагрудник доблести Ashryman-а
+item.terraria:armor/dev/ashryman/legs.name=Сапоги триумфа Ashryman-а
 item.terraria:armor/boreal_wood/helm.name=Шлем из заснеженной древесины
 item.terraria:armor/boreal_wood/body.name=Нагрудник из заснеженной древесины
 item.terraria:armor/boreal_wood/legs.name=Ботинки из заснеженной древесины
@@ -933,8 +933,8 @@ item.terraria:armor/snow/legs.name=Меховая торбаса
 item.terraria:armor/pink_snow/helm.name=Розовый меховой капюшон
 item.terraria:armor/pink_snow/body.name=Розовая меховая парка
 item.terraria:armor/pink_snow/legs.name=Розовая меховая торбаса
-item.terraria:armor/dev/degeh03/body.name=Degeh's Jacket
-item.terraria:armor/dev/degeh03/legs.name=Degeh's Pants
+item.terraria:armor/dev/degeh03/body.name=Куртка Degeh-а
+item.terraria:armor/dev/degeh03/legs.name=Штаны Degeh-а
 item.terraria:armor/cactus/helm.name=Кактусовый шлем
 item.terraria:armor/cactus/body.name=Кактусовый нагрудник
 item.terraria:armor/cactus/legs.name=Кактусовые ботинки
@@ -947,18 +947,18 @@ item.terraria:armor/crimson/legs.name=Багряные ботинки
 item.terraria:armor/angler/helm.name=Шляпа рыбака
 item.terraria:armor/angler/body.name=Куртка рыбака
 item.terraria:armor/angler/legs.name=Брюки рыбака
-item.terraria:armor/fossil/helm.name=Fossil Helmet
-item.terraria:armor/fossil/body.name=Fossil Plate
-item.terraria:armor/fossil/legs.name=Fossil Greaves
+item.terraria:armor/fossil/helm.name=Ископаемый шлем
+item.terraria:armor/fossil/body.name=Ископаемый нагрудник
+item.terraria:armor/fossil/legs.name=Ископаемые ботинки
 
 # Unit Armor
-item.terraria:armor/wizard/hat.name=Wizard Hat
+item.terraria:armor/wizard/hat.name=Шляпа колдуна
 
 # Vanity Armor
-item.terraria:armor/vanity/sunglasses.name=Sunglasses
-item.terraria:armor/vanity/gold_crown.name=Gold Crown
-item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
-item.terraria:armor/vanity/skull.name=Skull
+item.terraria:armor/vanity/sunglasses.name=Солнцезащитные очки
+item.terraria:armor/vanity/gold_crown.name=Золотая корона
+item.terraria:armor/vanity/platinum_crown.name=Платиновая корона
+item.terraria:armor/vanity/skull.name=Череп
 
 # Misc
 item.terraria:whoopie_cushion.name=Подушка-пердушка
@@ -996,7 +996,7 @@ item.terraria:dyes/purple.name=Фиолетовая краска
 item.terraria:dyes/violet.name=Пурпурная краска
 item.terraria:dyes/pink.name=Розовая краска
 item.terraria:dyes/rainbow.name=Радужная краска
-item.terraria:dyes/silver.name=Silver Dye
+item.terraria:dyes/silver.name=Серебристый краситель
 item.terraria:seeds/jungle.name=Семена джунглей
 item.terraria:world_info_editor.name=Редактор информации о мире
 item.terraria:wire_cutter.name=Кусачки
@@ -1062,59 +1062,59 @@ item.terraria:flower_seeds/white.name=Семена белого цветка
 item.terraria:flower_seeds/wild.name=Семена дикого цветка
 item.terraria:flower_seeds/tall_grass.name=Семена высокой травы
 item.terraria:worms_can.name=Банка с червями
-item.terraria:treasure_bags/king_slime.name=Мешок с сокровищами
+item.terraria:treasure_bags/king_slime.name=Мешок с сокровищами (Король слизней)
 item.terraria:candy_corn.name=Кенди-корн
 item.terraria:marshmallow_stick.name=Маршмеллоу на палочке
 item.terraria:game_object.name=[Игровой объект]
 item.terraria:seeds/corrupt.name=Семена порчи
 item.terraria:seeds/crimson.name=Семена багрянца
-item.terraria:treasure_bags/eye_of_cthulhu.name=Мешок с сокровищами
+item.terraria:treasure_bags/eye_of_cthulhu.name=Мешок с сокровищами (Глаз Ктулху)
 item.terraria:purification_powder.name=Очищающий порошок
-item.terraria:treasure_bags/queen_bee.name=Мешок с сокровищами
+item.terraria:treasure_bags/queen_bee.name=Мешок с сокровищами (Королева пчел)
 item.terraria:money_trough.name=Денежное корыто
 item.terraria:empty_bucket.name=Ведро
 item.terraria:lava_bucket.name=Ведро с лавой
 item.terraria:water_bucket.name=Ведро с водой
 item.terraria:honey_bucket.name=Ведро с медом
-item.terraria:demon_heart.name=Demon Heart
-item.terraria:flare.name=Flare
-item.terraria:flare_blue.name=Blue Flare
-item.terraria:flare_cursed.name=Cursed Flare
-item.terraria:flare_rainbow.name=Rainbow Flare
-item.terraria:flare_shimmer.name=Shimmer Flare
-item.terraria:seed.name=Seed
-item.terraria:vital_crystal.name=Vital Crystal
-item.terraria:beenade.name=Beenade
-item.terraria:treasure_bags/eater_of_worlds.name=Treasure Bag
-item.terraria:treasure_bags/brain_of_cthulhu.name=Treasure Bag
+item.terraria:demon_heart.name=Сердца демона
+item.terraria:flare.name=Сигнальная ракета
+item.terraria:flare_blue.name=Синяя сигнальная ракета
+item.terraria:flare_cursed.name=Проклятая сигнальная ракета
+item.terraria:flare_rainbow.name=Радужная сигнальная ракета
+item.terraria:flare_shimmer.name=Мерцающая сигнальная ракета
+item.terraria:seed.name=Семечко
+item.terraria:vital_crystal.name=Жизненный кристал
+item.terraria:beenade.name=Пчелоната
+item.terraria:treasure_bags/eater_of_worlds.name=Мешок с сокровищами (Пожиратель миров)
+item.terraria:treasure_bags/brain_of_cthulhu.name=Мешок с сокровищами (Мозг Ктулху)
 
-item.terraria:encumbering_stone.name=Encumbering Stone
-item.terraria:uncumbering_stone.name=Uncumbering Stone
+item.terraria:encumbering_stone.name=Камень-утяжелитель
+item.terraria:uncumbering_stone.name=Камень-облегчитель
 item.terraria:guide_to_plant_critter_companionship.name=Руководство по общению с животными
-item.terraria:guide_to_plant_critter_companionship_inactive.name=Guide To Critter Companionship (Inactive)
-item.terraria:guide_to_environmental_preservation.name=Guide to Environmental Preservation
-item.terraria:guide_to_environmental_preservation_inactive.name=Guide to Environmental Preservation (Inactive)
-item.terraria:guide_to_peaceful_coexistence.name=Guide to Peaceful Coexistence
-item.terraria:guide_to_peaceful_coexistence_inactive.name=Guide to Peaceful Coexistence (Inactive)
+item.terraria:guide_to_plant_critter_companionship_inactive.name=Руководство по общению с животными (Неактивно)
+item.terraria:guide_to_environmental_preservation.name=Руководство по охране окружающей среды
+item.terraria:guide_to_environmental_preservation_inactive.name=Руководство по охране окружающей среды (Неактивно)
+item.terraria:guide_to_peaceful_coexistence.name=Руководство по мирному сосуществованию
+item.terraria:guide_to_peaceful_coexistence_inactive.name=Руководство по мирному сосуществованию (Неактивно)
 
 # Grappling Hooks
-item.terraria:hooks/grappling.name=Grappling Hook
-item.terraria:hooks/slime.name=Slime Hook
-item.terraria:hooks/squirrel.name=Squirrel Hook
-item.terraria:hooks/amethyst.name=Amethyst Hook
-item.terraria:hooks/topaz.name=Topaz Hook
-item.terraria:hooks/sapphire.name=Sapphire Hook
-item.terraria:hooks/emerald.name=Emerald Hook
-item.terraria:hooks/ruby.name=Ruby Hook
-item.terraria:hooks/amber.name=Amber Hook
-item.terraria:hooks/diamond.name=Diamond Hook
-item.terraria:hooks/ivy.name=Ivy Whip
-item.terraria:hooks/bat.name=Bat Hook
-item.terraria:hooks/candy_cane.name=Candy Cane Hook
+item.terraria:hooks/grappling.name=Крюк-кошка
+item.terraria:hooks/slime.name=Слизневый крюк
+item.terraria:hooks/squirrel.name=Крюк-белка
+item.terraria:hooks/amethyst.name=Аметистовый крюк
+item.terraria:hooks/topaz.name=Топазовый крюк
+item.terraria:hooks/sapphire.name=Сапфировый крюк
+item.terraria:hooks/emerald.name=Изумрудный крюк
+item.terraria:hooks/ruby.name=Рубиновый крюк
+item.terraria:hooks/amber.name=Янтарный крюк
+item.terraria:hooks/diamond.name=Алмазный крюк
+item.terraria:hooks/ivy.name=Хлыст из плюща
+item.terraria:hooks/bat.name=Крюк летучей мыши
+item.terraria:hooks/candy_cane.name=Карамельный крюк
 
 # Pets
-item.terraria:pets/glowing/shadow_orb.name=Shadow Orb
-item.terraria:pets/glowing/crimson_heart.name=Crimson Heart
+item.terraria:pets/glowing/shadow_orb.name=Сфера тени
+item.terraria:pets/glowing/crimson_heart.name=Багряное сердце
 
 # Critters
 item.terraria:critters/bunny.name=Кролик
@@ -1177,11 +1177,11 @@ item.terraria:critters/golden/ladybug.name=Золотая божья коров�
 item.terraria:slime_crown.name=Корона слизня
 item.terraria:suspicious_looking_eye.name=Подозрительно выглядящий глаз
 item.terraria:abeemination.name=Пчелиная масса
-item.terraria:worm_food.name=Worm Food
-item.terraria:bloody_spine.name=Bloody Spine
+item.terraria:worm_food.name=Пища для червей
+item.terraria:bloody_spine.name=Кровавый позвоночник
 
 # Hostiles (Invasions)
-item.terraria:goblin_battle_standard.name=Goblin Battle Standard
+item.terraria:goblin_battle_standard.name=Вторжение гоблинов
 
 #################
 
@@ -1194,10 +1194,10 @@ setbonus.terraria:cactus=Нападающие получают урон от ш�
 setbonus.terraria:meteor=Космическая пушка не тратит ману
 setbonus.terraria:crimson=Значительно увеличена регенерация здоровья
 setbonus.terraria:extra_melee_damage=Увеличение урона на %,d%%
-setbonus.terraria:knockback_immunity=Grants immunity to knockback
-setbonus.terraria:i.frozen_or_chilled=Cannot be frozen or chilled
-setbonus.terraria:decreased_enemy_rate=Decreased enemy spawn rate
-setbonus.terraria:save_ammo=%,d%% chance to save ammo
+setbonus.terraria:knockback_immunity=Дает невосприимчивость к отбрасыванию
+setbonus.terraria:i.frozen_or_chilled=Дает невосприимчивость к заморозке и охлаждению
+setbonus.terraria:decreased_enemy_rate=Уменьшеная скорость появления врагов
+setbonus.terraria:save_ammo=Шанс %,d%% сэкономить боеприпасы
 
 #########################
 
@@ -1208,17 +1208,17 @@ tile.terraria:redstone_tranciever.name=Редстоуновый приемопе
 ### Furniture ###
 
 # Relics #
-tile.terraria:furniture/relics/king_slime.name=King Slime Relic
-tile.terraria:furniture/relics/eye_of_cthulhu.name=Eye of Cthulhu Relic
-tile.terraria:furniture/relics/eater_of_worlds.name=Eater of World Relic
-tile.terraria:furniture/relics/brain_of_cthulhu.name=Brain of Cthulhu Relic
-tile.terraria:furniture/relics/queen_bee.name=Queen Bee Relic
+tile.terraria:furniture/relics/king_slime.name=Реликвия Короля слизней
+tile.terraria:furniture/relics/eye_of_cthulhu.name=Реликвия Глаза Ктулху
+tile.terraria:furniture/relics/eater_of_worlds.name=Реликвия Пожирателя миров
+tile.terraria:furniture/relics/brain_of_cthulhu.name=Реликвия Мозга Ктулху
+tile.terraria:furniture/relics/queen_bee.name=Реликвия Королевы пчел
 
 # Bathtubs #
 
 # Beds #
-tile.terraria:furniture/beds/wood.name=Bed
-tile.terraria:furniture/beds/boreal.name=Boreal Wood Bed
+tile.terraria:furniture/beds/wood.name=Кровать
+tile.terraria:furniture/beds/boreal.name=Кровать из заснеженной древесины
 
 # Bookcases #
 tile.terraria:furniture/bookcases/wood.name=Книжный шкаф
@@ -1236,31 +1236,31 @@ tile.terraria:furniture/bookcases/green_dungeon.name=Зелёный книжны
 tile.terraria:furniture/bookcases/rich_mahogany.name=Книжный шкаф из красной древесины
 
 # Candelabras #
-tile.terraria:furniture/candelabras/candelabra.name=Candelabra
-tile.terraria:furniture/candelabras/platinum.name=Platinum Candelabra
-tile.terraria:furniture/candelabras/boreal.name=Boreal Wood Candelabra
+tile.terraria:furniture/candelabras/candelabra.name=Канделябр
+tile.terraria:furniture/candelabras/platinum.name=Платиновый канделябр
+tile.terraria:furniture/candelabras/boreal.name=Канделябр из заснеженной древесины
 
 # Candles #
-tile.terraria:furniture/candles/gold.name=Candle
-tile.terraria:furniture/candles/platinum.name=Platinum Candle
-tile.terraria:furniture/candles/water.name=Water Candle
-tile.terraria:furniture/candles/cactus.name=Cactus Candle
+tile.terraria:furniture/candles/gold.name=Свечка
+tile.terraria:furniture/candles/platinum.name=Платиновая свечка
+tile.terraria:furniture/candles/water.name=Водяная свечка
+tile.terraria:furniture/candles/cactus.name=Кактусовая свечка
 
 # Chairs #
-tile.terraria:furniture/chairs/wood.name=Wooden Chair
+tile.terraria:furniture/chairs/wood.name=Деревянный стул
 tile.terraria:furniture/chairs/wood_2.name=Барный стул
 tile.terraria:furniture/chairs/dynasty.name=Родовой стул
-tile.terraria:furniture/chairs/palm.name=Palm Wood Chair
+tile.terraria:furniture/chairs/palm.name=Стул из пальмовой древесины
 tile.terraria:furniture/chairs/sandstone.name=Песчаниковый стул
-tile.terraria:furniture/chairs/lunar/nebula.name=Nebula Chair
-tile.terraria:furniture/chairs/lunar/solar.name=Solar Chair
-tile.terraria:furniture/chairs/lunar/stardust.name=Stardust Chair
-tile.terraria:furniture/chairs/lunar/vortex.name=Vortex Chair
+tile.terraria:furniture/chairs/lunar/nebula.name=Стул туманности
+tile.terraria:furniture/chairs/lunar/solar.name=Солнечный стул
+tile.terraria:furniture/chairs/lunar/stardust.name=Стул звездной пыли
+tile.terraria:furniture/chairs/lunar/vortex.name=Стул вихря
 tile.terraria:furniture/chairs/martian.name=Марсианское парящее кресло
-tile.terraria:furniture/chairs/boreal.name=Boreal Chair
+tile.terraria:furniture/chairs/boreal.name=Стул из заснеженной древесины
 
 # Chests #
-tile.terraria:furniture/chests/wood.name=Chest
+tile.terraria:furniture/chests/wood.name=Сундук
 tile.terraria:furniture/chests/gold.name=Золотой сундук
 tile.terraria:furniture/chests/frozen.name=Ледяной сундук
 tile.terraria:furniture/chests/living_wood.name=Сундук из живой древесины
@@ -1280,7 +1280,7 @@ tile.terraria:furniture/doors/wood.name=Деревянная дверь
 tile.terraria:furniture/doors/cactus.name=Кактусовая дверь
 tile.terraria:furniture/doors/glass.name=Стеклянная дверь
 tile.terraria:furniture/doors/ebonwood.name=Дверь из эбонитовой древесины
-tile.terraria:furniture/doors/living_wood.name=Livingwood Door
+tile.terraria:furniture/doors/living_wood.name=Дверь из живой древесины
 tile.terraria:furniture/doors/mushroom.name=Грибная дверь
 tile.terraria:furniture/doors/skyware.name=Небесная дверь
 tile.terraria:furniture/doors/pumpkin.name=Тыквеная дверь
@@ -1302,7 +1302,7 @@ tile.terraria:furniture/doors/rich_mahogany.name=Дверь из красной 
 # Dressers #
 
 # Lamps #
-tile.terraria:furniture/lamps/boreal.name=Boreal Wood Lamp
+tile.terraria:furniture/lamps/boreal.name=Лампа из заснеженной древесины
 
 # Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Фонарь на цепи
@@ -1362,12 +1362,12 @@ tile.terraria:furniture/lanterns/lesion.name=Поврежденная лампа
 # Pianos #
 
 # Platforms #
-tile.terraria:furniture/platforms/ebonwood.name=Ebonwood Platform
-tile.terraria:furniture/platforms/wood.name=Wood Platform
+tile.terraria:furniture/platforms/ebonwood.name=Платформа из эбонитовой древесины
+tile.terraria:furniture/platforms/wood.name=Деревянная платформа
 tile.terraria:furniture/platforms/rich_mahogany.name=Платформа из красного дерева
-tile.terraria:furniture/platforms/shadewood.name=Shadewood Platform
-tile.terraria:furniture/platforms/living_wood.name=Livingwood Platform
-tile.terraria:furniture/platforms/obsidian.name=Obsidian Platform
+tile.terraria:furniture/platforms/shadewood.name=Платформа из теневой древесины
+tile.terraria:furniture/platforms/living_wood.name=Платформа из живой древесины
+tile.terraria:furniture/platforms/obsidian.name=Обсидиановая платформа
 
 # Sinks #
 
@@ -1397,7 +1397,7 @@ tile.terraria:furniture/tables/wood_2.name=Банкетный стол
 tile.terraria:furniture/tables/granite.name=Гранитный стол
 tile.terraria:furniture/tables/marble.name=Мраморный стол
 tile.terraria:furniture/tables/martian.name=Марсианский стол
-tile.terraria:furniture/tables/boreal.name=Boreal Table
+tile.terraria:furniture/tables/boreal.name=Стол из заснеженной древесины
 
 # Toilets #
 
@@ -1425,7 +1425,7 @@ tile.terraria:furniture/work_benches/spooky.name=Жуткий верстак
 tile.terraria:furniture/work_benches/obsidian.name=Обсидиановый верстак
 
 # Fences #
-tile.terraria:furniture/fences/wood.name=Wooden Fence
+tile.terraria:furniture/fences/wood.name=Деревянный забор
 
 # Fountains #
 tile.terraria:furniture/fountains/pure_water.name=Фонтан чистой воды
@@ -1440,7 +1440,7 @@ tile.terraria:furniture/fountains/cavern_water.name=Фонтан пещерно�
 tile.terraria:furniture/fountains/oasis_water.name=Фонтан оазисной воды
 
 # Other #
-tile.terraria:furniture/sign.name=Sign
+tile.terraria:furniture/sign.name=Табличка
 
 tile.terraria:clay_pot.name=Глиняный горшок
 tile.terraria:empty_bottle.name=Бутылка
@@ -1514,7 +1514,7 @@ tile.terraria:ice.name=Лёд
 tile.terraria:silt.name=Ил
 tile.terraria:tinkerer_workshop.name=Мастерская инженера
 tile.terraria:wood/forest.name=Древесина
-tile.terraria:wood/boreal.name=Северная древесина
+tile.terraria:wood/boreal.name=Заснеженная древесина
 tile.terraria:wood/palm.name=Пальмовая древесина
 tile.terraria:wood/rich_mahogany.name=Богатое красное дерево
 tile.terraria:wood/pearl.name=Жемчужная древесина
@@ -1531,7 +1531,7 @@ tile.terraria:sand_crimson.name=Блок багрянцевого песка
 tile.terraria:sandstone_crimson.name=Багрянцевый песчаниковый блок
 tile.terraria:mushroom_vicious.name=Порочный гриб
 tile.terraria:wood/corrupted.name=Чёрная древесина
-tile.terraria:wood/shade.name=Мрачная древесина
+tile.terraria:wood/shade.name=Теневая древесина
 tile.terraria:bricks/gray.name=Серые кирпичи
 tile.terraria:bricks/red.name=Красные кирпичи
 tile.terraria:bricks/ebonstone.name=Эбонитовые кирпичи
@@ -1579,7 +1579,7 @@ tile.terraria:torches/orange.name=Оранжевый факел
 tile.terraria:torches/pink.name=Розовый факел
 tile.terraria:torches/ice.name=Ледяной факел
 tile.terraria:torches/rainbow.name=Радужный факел
-tile.terraria:ore/amber.name=Amber Ore
+tile.terraria:ore/amber.name=Янтарная руда
 tile.terraria:ore/amethyst.name=Аметистовая руда
 tile.terraria:ore/diamond.name=Алмазная руда
 tile.terraria:ore/emerald.name=Изумрудная руда
@@ -1769,8 +1769,8 @@ tile.terraria:hanging_pots/shiverthorn.name=Дрожецвет в подвесн
 tile.terraria:hanging_pots/waterleaf.name=Воднолист в подвесном горшке
 tile.terraria:barrel.name=Бочка
 tile.terraria:torches/cursed.name=Проклятый факел
-tile.terraria:torches/ichor.name=Ихорорный факел
-tile.terraria:torches/corrupt.name=Факел искажения
+tile.terraria:torches/ichor.name=Ихорный факел
+tile.terraria:torches/corrupt.name=Факел порчи
 tile.terraria:torches/crimson.name=Факел багрянца
 tile.terraria:torches/hallowed.name=Освящённый факел
 tile.terraria:chimney.name=Камин
@@ -1831,10 +1831,10 @@ tile.terraria:bamboo.name=Бамбук
 tile.terraria:campfires/jungle.name=Костёр джунглей
 tile.terraria:campfires/frozen.name=Ледяной костёр
 tile.terraria:campfires/desert.name=Пустынный костёр
-tile.terraria:campfires/crimson.name=Багряный костёр
-tile.terraria:campfires/corrupted.name=Corrupt Campfire
-tile.terraria:trophies/king_slime.name=Трофей короля слизней
-tile.terraria:trophies/eye_of_cthulhu.name=Трофей глаза Ктулху
+tile.terraria:campfires/crimson.name=Костёр багрянца
+tile.terraria:campfires/corrupted.name=Костёр порчи
+tile.terraria:trophies/king_slime.name=Трофей Короля слизней
+tile.terraria:trophies/eye_of_cthulhu.name=Трофей Глаза Ктулху
 tile.terraria:hardened_crimsand.name=Блок затвердевшего кримтанового песка
 tile.terraria:hardened_ebonsand.name=Блок затвердевшего эбонитового песка
 tile.terraria:planter_boxes/daybloom.name=Кадка для цветка дня
@@ -1848,7 +1848,7 @@ tile.terraria:planter_boxes/waterleaf.name=Кадка для воднолист�
 tile.terraria:pots/corruption.name=Горшок порчи
 tile.terraria:ambient/coral.name=Коралл
 tile.terraria:boss_tiles/larva.name=Личинка
-tile.terraria:trophies/queen_bee.name=Трофей королевы пчел
+tile.terraria:trophies/queen_bee.name=Трофей Королевы пчел
 tile.terraria:hive_block.name=Блок улья
 tile.terraria:traps/boulder.name=Валун
 tile.terraria:statues/boulder.name=Статуя валуна
@@ -1860,17 +1860,17 @@ tile.terraria:ambient/copper_coin_stash.name=Маленький мешочек �
 tile.terraria:ambient/silver_coin_stash.name=Маленький мешочек с серебряными монетами
 tile.terraria:ambient/gold_coin_stash.name=Маленький мешочек с золотыми монетами
 tile.terraria:cauldron.name=Котел
-tile.terraria:pots/pyramid.name=Pyramid Pot
-tile.terraria:statues/blood_zombie.name=Blood Zombie Statue
-tile.terraria:repaired_life_crystal.name=Repaired Life Crystal
-tile.terraria:repaired_mana_crystal.name=Repaired Mana Crystal
-tile.terraria:torches/mushroom.name=Mushroom Torch
-tile.terraria:torches/aether.name=Aether Torch
-tile.terraria:trophies/eater_of_worlds.name=Eater of Worlds Trophy
-tile.terraria:trophies/brain_of_cthulhu.name=Brain of Cthulhu Trophy
-tile.terraria:pin_wheel.name=Pin Wheel
-tile.terraria:hay.name=Hay
-tile.terraria:statues/bat.name=Bat Statue
+tile.terraria:pots/pyramid.name=Горшок из пирамиды
+tile.terraria:statues/blood_zombie.name=Статуя кровавого зомби
+tile.terraria:repaired_life_crystal.name=Восстановленный кристал жизни
+tile.terraria:repaired_mana_crystal.name=Восстановленный кристал маны
+tile.terraria:torches/mushroom.name=Грибной факел
+tile.terraria:torches/aether.name=Эфирный факел
+tile.terraria:trophies/eater_of_worlds.name=Трофей Пожирателя миров
+tile.terraria:trophies/brain_of_cthulhu.name=Трофей Мозга Ктулху
+tile.terraria:pin_wheel.name=Вертушка на палочке
+tile.terraria:hay.name=Сено
+tile.terraria:statues/bat.name=Статуя летучей мыши
 
 ##################
 
@@ -1881,11 +1881,11 @@ tile.terraria:statues/bat.name=Bat Statue
 key.category.terraria=TerrariaCraft
 key.terraria.toggle_gravity=Переключить гравитацию
 key.hotbar.0=Слот 10
-key.terraria.healing=Quick Heal
-key.terraria.mana=Quick Mana
-key.terraria.buffs=Quick Buff
+key.terraria.healing=Быстрое лечение
+key.terraria.mana=Быстрая мана
+key.terraria.buffs=Быстрое усиление
 key.terraria.pass_platforms=Спуститься сквозь платформу
-key.terraria.grapple=Grapple
+key.terraria.grapple=Использовать крюк-кошку
 
 ####################
 
@@ -1893,43 +1893,43 @@ key.terraria.grapple=Grapple
 
 ######DAMAGE SOURCE DEATH######
 
-death.attack.terraria:generic=%s was slain...
+death.attack.terraria:generic=%s был убит...
 death.terraria:arrow=%s был застрелен %s.
 death.terraria:starfury=%s был убит %s с помощью Звёздной ярости.
 death.terraria:falling_star=%s увидел смертельную падающую звезду.
 death.terraria:dart_trap=%s стал жертвой ловушки с дротиком.
 death.attack.terraria:thorn_bushes=%s был заколот до смерти.
 
-death.attack.terraria:fire=%s couldn't put the fire out.
-death.attack.terraria:poison=%s couldn't find the antidote.
+death.attack.terraria:fire=%s не может потушить огонь.
+death.attack.terraria:poison=%s не смог найти противоядие.
 
-death.attack.terraria:falling_while_stoned.0=%s needs to be swept up.
-death.attack.terraria:falling_while_stoned.1=%s can't be put back together.
+death.attack.terraria:falling_while_stoned.0=%s нужно смести в кучу.
+death.attack.terraria:falling_while_stoned.1=%s больше не собрать воедино.
 
-death.attack.terraria:explosion.0=%s exploded.
-death.attack.terraria:explosion.1=%s had a mining accident.
-death.attack.terraria:explosion.2=%s forgot to run.
-death.attack.terraria:explosion.player.0=%s was destroyed by %s's Explosive.
-death.attack.terraria:explosion.player.1=%s was turned into a pile of flesh by %s's Explosives.
+death.attack.terraria:explosion.0=%s взорвался.
+death.attack.terraria:explosion.1=%s попал в несчастный случай в шахте.
+death.attack.terraria:explosion.2=%s забыл убежать.
+death.attack.terraria:explosion.player.0=%s уничтожен взрывом %s.
+death.attack.terraria:explosion.player.1=%s превращен в кучу плоти взрывами %s.
 
-death.attack.terraria:drown.0=%s is shark food.
-death.attack.terraria:drown.1=%s forgot to breathe.
-death.attack.terraria:drown.2=%s is sleeping with the fish.
-death.attack.terraria:drown.3=%s drowned.
-death.attack.terraria:drown.4=%s thought he was a fish.
+death.attack.terraria:drown.0=%s пошел на корм акулам.
+death.attack.terraria:drown.1=%s забыл, как дышать.
+death.attack.terraria:drown.2=%s спит на дне.
+death.attack.terraria:drown.3=%s утонул.
+death.attack.terraria:drown.4=%s подумал что он рыба.
 
-death.attack.terraria:lava.0=%s likes to play in magma.
-death.attack.terraria:lava.1=%s got melted.
-death.attack.terraria:lava.2=%s tried to swim in lava.
-death.attack.terraria:lava.3=%s was incinerated.
+death.attack.terraria:lava.0=%s любит играть в магме.
+death.attack.terraria:lava.1=%s был расплавлен.
+death.attack.terraria:lava.2=%s решает искупаться в лаве.
+death.attack.terraria:lava.3=%s превратился в пепел.
 
-death.attack.terraria:falling.0=%s left a small crater.
-death.attack.terraria:falling.1=%s discovered gravity.
-death.attack.terraria:falling.2=%s didn't bounce.
-death.attack.terraria:falling.3=%s faceplanted the ground.
-death.attack.terraria:falling.4=%s fell victim to gravity.
-death.attack.terraria:falling.5=%s fell to their death.
-death.attack.terraria:falling.6=%s hit the ground face first.
+death.attack.terraria:falling.0=%s оставляет небольшой кратор на земле.
+death.attack.terraria:falling.1=%s зобретает гравитацию.
+death.attack.terraria:falling.2=%s не отскочил.
+death.attack.terraria:falling.3=%s размазался лицом об поверхность.
+death.attack.terraria:falling.4=%s стал жертвой гравитации.
+death.attack.terraria:falling.5=%s упал насмерть.
+death.attack.terraria:falling.6=%s сперва ударился лицом о землю.
 
 #########################
 
@@ -2062,59 +2062,59 @@ buff.terraria:dryad_blessing.desc=Силы природы защищают ва�
 buff.terraria:battle.name=Бой
 buff.terraria:battle.desc=Увеличена скорость появления врагов
 
-buff.terraria:venom.name=Acid Venom
-buff.terraria:venom.desc=Losing life
+buff.terraria:venom.name=Кислотный яд
+buff.terraria:venom.desc=Потеря здоровья
 
-buff.terraria:broken_armor.name=Broken Armor
-buff.terraria:broken_armor.desc=Defense is cut in half
+buff.terraria:broken_armor.name=Сломанная броня
+buff.terraria:broken_armor.desc=Защита снижена вдвое
 
-buff.terraria:weak.name=Weak
-buff.terraria:weak.desc=Physical abilities are decreased
+buff.terraria:weak.name=Ослабление
+buff.terraria:weak.desc=Физические характеристики уменьшены
 
-buff.terraria:bleeding.name=Bleeding
-buff.terraria:bleeding.desc=Cannot regenerate life
+buff.terraria:bleeding.name=Кровотечение
+buff.terraria:bleeding.desc=Нельзя восстановить здоровье естественным путем
 
-buff.terraria:confused.name=Confused
-buff.terraria:confused.desc=Movement is reversed
+buff.terraria:confused.name=Запутанность
+buff.terraria:confused.desc=Инвертирует управление
 
-buff.terraria:slow.name=Slow
-buff.terraria:slow.desc=Movement speed is reduced
+buff.terraria:slow.name=Замедление
+buff.terraria:slow.desc=Скорость движения уменьшена
 
-buff.terraria:silenced.name=Silenced
-buff.terraria:silenced.desc=Cannot use items that require mana
+buff.terraria:silenced.name=Безмолвие
+buff.terraria:silenced.desc=Невозможность использовать предметы, требующие ману
 
-buff.terraria:cursed.name=Cursed
-buff.terraria:cursed.desc=Cannot use any items
+buff.terraria:cursed.name=Проклятие
+buff.terraria:cursed.desc=Использование любых предметов невозможно
 
-buff.terraria:stoned.name=Stoned
-buff.terraria:stoned.desc=You are completely petrified!
+buff.terraria:stoned.name=Окаменение
+buff.terraria:stoned.desc=Вы полностью окаменели!
 
-buff.terraria:shadow_orb.name=Shadow Orb
-buff.terraria:shadow_orb.desc=A magical orb that provides light
+buff.terraria:shadow_orb.name=Теневая сфера
+buff.terraria:shadow_orb.desc=Волшебная сфера, излучающая свет
 
-buff.terraria:crimson_heart.name=Crimson Heart
-buff.terraria:crimson_heart.desc=A magical heart that provides light
+buff.terraria:crimson_heart.name=Багряное сердце
+buff.terraria:crimson_heart.desc=Магическое сердце, излучающее свет
 
-buff.terraria:panic.name=Panic
-buff.terraria:panic.desc=Movement speed is increased
+buff.terraria:panic.name=Паника
+buff.terraria:panic.desc=Скорость передвижения увеличена
 
-buff.terraria:water_candle.name=Water Candle
-buff.terraria:water_candle.desc=Increased monster spawn rate
+buff.terraria:water_candle.name=Водяная свечка
+buff.terraria:water_candle.desc=Увеличена скорость появления монстров
 
-buff.terraria:tipsy.name=Tipsy
-buff.terraria:tipsy.desc=Increased melee abilities, lowered defense
+buff.terraria:tipsy.name=Опьянение
+buff.terraria:tipsy.desc=Характеристики ближнего боя увеличены, защита снижена
 
-buff.terraria:cerebral_mindtrick.name=Cerebral Mindtrick
-buff.terraria:cerebral_mindtrick.desc=Increased critical chance
+buff.terraria:cerebral_mindtrick.name=Интеллектуальный трюк
+buff.terraria:cerebral_mindtrick.desc=Шанс критического удара увеличен
 
-buff.terraria:feral_bite.name=Feral Bite
-buff.terraria:feral_bite.desc=Increased damage, Decreased life regen, Causes status effects
+buff.terraria:feral_bite.name=Укус зверя
+buff.terraria:feral_bite.desc=Урон увеличен, регенерация здоровья снижена, вызывает случайные дебаффы
 
-buff.terraria:midas.name=Midas
-buff.terraria:midas.desc=Drop more money on death
+buff.terraria:midas.name=Мидас
+buff.terraria:midas.desc=Количество выпадающих монет при смерти увеличено
 
-buff.terraria:mana_sickness.name=Mana Sickness
-buff.terraria:mana_sickness.desc=Magic damage reduced by %d%%
+buff.terraria:mana_sickness.name=Истощение маны
+buff.terraria:mana_sickness.desc=Магический урон снижен на %d%%
 
 #################
 
@@ -2124,8 +2124,8 @@ buff.terraria:mana_sickness.desc=Magic damage reduced by %d%%
 
 # General Tooltips
 
-tooltip.terraria:expert=Expert
-tooltip.terraria:crafting=Crafting
+tooltip.terraria:expert=Эксперт
+tooltip.terraria:crafting=Создание
 tooltip.terraria:material=Материал
 tooltip.terraria:ammo=Боеприпасы
 tooltip.terraria:mana=Мана
@@ -2135,7 +2135,7 @@ tooltip.terraria:uses_mana=Использует %s ед. маны
 tooltip.terraria:restores_life=Восстанавливает %s ед. здоровья
 tooltip.terraria:restores_mana=Восстанавливает %s ед. маны
 tooltip.terraria:potion_duration=Длительность: %s мин.
-tooltip.terraria:potion_duration_s=Duration: %s sec
+tooltip.terraria:potion_duration_s=Длительность: %s сек.
 tooltip.terraria:regen_speed_increase=Ускоряет регенерацию здоровья
 tooltip.terraria:placeable.key=Можно установить пока нажата клавиша %s
 tooltip.terraria:placeable=Можно поставить
@@ -2169,18 +2169,18 @@ tooltip.terraria:angler_armor=Увеличивает мастерство рыб
 tooltip.terraria:faved=Помечено как избранное
 
 tooltip.terraria:increased_movement_speed=%,d%%-ное увеличение скорости передвижения
-tooltip.terraria:increased_minion=Increases your max number of minions by %,d
+tooltip.terraria:increased_minion=Увеличивает максимальное число ваших питомцев на %,d
 
-tooltip.terraria:increased_critical_chance=%,d%% increased critical strike chance
-tooltip.terraria:increased_melee_critical_chance=%,d%% increased melee critical strike chance
-tooltip.terraria:increased_ranged_critical_chance=%,d%% increased ranged critical strike chance
+tooltip.terraria:increased_critical_chance=Увеличение шанса критического удара на %,d%%
+tooltip.terraria:increased_melee_critical_chance=Увеличение шанса критического удара в ближнем бою на %,d%%
+tooltip.terraria:increased_ranged_critical_chance=Увеличение шанса критического удара дистанционным уроном на %,d%%
 
-tooltip.terraria:increased_damage=%,d%% increased damage
-tooltip.terraria:increased_melee_damage=%,d%% increased melee damage
-tooltip.terraria:increased_ranged_damage=%,d%% increased ranged damage
-tooltip.terraria:increased_summon_damage=Increases summon damage by %,d%%
+tooltip.terraria:increased_damage=Увеличивает урон на %,d%%
+tooltip.terraria:increased_melee_damage=Увеличивает урон ближнего боя на %,d%%
+tooltip.terraria:increased_ranged_damage=Увеличивает дистанционный урон на %,d%%
+tooltip.terraria:increased_summon_damage=Увеличивает урон призываемых существ на %,d%%
 
-tooltip.terraria:increased_melee_speed=%,d%% increased melee speed
+tooltip.terraria:increased_melee_speed=Увеличивает скорость атаки в ближнем бою на %,d%%
 
 # Item Tooltips
 
@@ -2211,53 +2211,53 @@ tooltip.terraria:artifacts/philosopher_stone=Уменьшает время во�
 tooltip.terraria:artifacts/angler_earring=Увеличивает мастерство рыбалки
 tooltip.terraria:artifacts/tackle_box=Уменьшает вероятность использования наживки
 tooltip.terraria:artifacts/high_test_fishing_line=Леска никогда не порвётся
-tooltip.terraria:artifacts/armor_polish=Immunity to Broken Armor
-tooltip.terraria:artifacts/vitamins=Immunity to Weakness
-tooltip.terraria:artifacts/armor_bracing=Immunity to Weakness and Broken Armor
-tooltip.terraria:artifacts/adhesive_bandage=Immunity to Bleeding
-tooltip.terraria:artifacts/medicated_bandage=Immunity to Poison and Bleeding
-tooltip.terraria:artifacts/trifold_map=Immunity to Confusion
-tooltip.terraria:artifacts/fast_clock=Immunity to Slow
-tooltip.terraria:artifacts/the_plan=Immunity to Slow and Confusion
-tooltip.terraria:artifacts/nazar=Immunity to Curse
-tooltip.terraria:artifacts/megaphone=Immunity to Silence
-tooltip.terraria:artifacts/countercurse_mantra=Immunity to Silence and Curse
-tooltip.terraria:artifacts/ankh_charm=Grants immunity to most debuffs
-tooltip.terraria:artifacts/pocket_mirror=Immunity to petrification
-tooltip.terraria:artifacts/reflective_shades=Immunity to Darkness and Petrification
-tooltip.terraria:artifacts/panic_necklace=Increases movement speed after taking damage
-tooltip.terraria:artifacts/magic_cuffs=Restores mana when damaged
-tooltip.terraria:artifacts/celestial_magnet=Increases pickup range for mana stars
-tooltip.terraria:artifacts/ancient_chisel=Ancient problems require ancient solutions
-tooltip.terraria:artifacts/cross_necklace=Increases length of invincibility after taking damage
-tooltip.terraria:artifacts/charm_of_myths=Provides life regeneration and reduces the cooldown of healing potions by 25%%
-tooltip.terraria:artifacts/discount_card=Shops prices lowered by 20%%
-tooltip.terraria:artifacts/greedy_ring=Increases coin pickup range and shops prices lowered by 20%%</br>Hitting enemies will sometimes drop extra coins
-tooltip.terraria:artifacts/gold_ring=Increases coin pickup range
-tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting enemies will sometimes drop extra coins
-tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
-tooltip.terraria:artifacts/toolbelt=Increases block placement range by 1
-tooltip.terraria:artifacts/compass=Displays horizontal position
-tooltip.terraria:artifacts/gold_watch=Tells the time
-tooltip.terraria:artifacts/platinum_watch=Tells the time
-tooltip.terraria:artifacts/depth_meter=Displays depth
-tooltip.terraria:artifacts/gps=Shows position</br>Tells the time
-tooltip.terraria:artifacts/rocket_boots=Allows flight
-tooltip.terraria:artifacts/spectre_boots=Allows flight</br>The wearer can run super fast
-tooltip.terraria:artifacts/lightning_boots=Allows flight, super fast running</br>8%% increased movement speed
-tooltip.terraria:artifacts/frostspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed
-tooltip.terraria:artifacts/lava_waders=Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
-tooltip.terraria:artifacts/terraspark_boots=Allows flight, super fast running, and extra mobility on ice</br>8%% increased movement speed</br>Provides the ability to walk on water, honey & lava</br>Grants immunity to fire blocks and 7 seconds of immunity to lava</br>Reduces damage from touching lava
-tooltip.terraria:artifacts/dunerider_boots=The wearer can run super fast, and even faster on sand</br>'Walk without rhythm and you won't attract the worm'
-tooltip.terraria:artifacts/honey_comb=Releases bees and douses the user in honey when damaged
-tooltip.terraria:artifacts/stinger_necklace=Increases armor penetration by 5</br>Releases bees and douses the user in honey when damaged
-tooltip.terraria:artifacts/sweetheart_necklace=Releases bees, douses the user in honey and increases movement speed when damaged
+tooltip.terraria:artifacts/armor_polish=Невосприимчивость к сломанной броне
+tooltip.terraria:artifacts/vitamins=Невосприимчивость к ослаблению
+tooltip.terraria:artifacts/armor_bracing=Невосприимчивость к ослаблению и сломанной броне
+tooltip.terraria:artifacts/adhesive_bandage=Невосприимчивость к кровотечению
+tooltip.terraria:artifacts/medicated_bandage=Невосприимчивость к отравлению и кровотечению
+tooltip.terraria:artifacts/trifold_map=Невосприимчивость к запутанности
+tooltip.terraria:artifacts/fast_clock=Невосприимчивость к замедлению
+tooltip.terraria:artifacts/the_plan=Невосприимчивость к замедлению и запутанности
+tooltip.terraria:artifacts/nazar=Невосприимчивость к проклятию
+tooltip.terraria:artifacts/megaphone=Невосприимчивость к безмолвию
+tooltip.terraria:artifacts/countercurse_mantra=Невосприимчивость к безмолвию и проклятию
+tooltip.terraria:artifacts/ankh_charm=Дает невосприимчивость к большинству ослаблений
+tooltip.terraria:artifacts/pocket_mirror=Невосприимчивость к окаменению
+tooltip.terraria:artifacts/reflective_shades=Невоприимчивость к темноте и окаменению
+tooltip.terraria:artifacts/panic_necklace=После получения урона увеличивает скорость передвижения
+tooltip.terraria:artifacts/magic_cuffs=При получении урона восстанавливает ману
+tooltip.terraria:artifacts/celestial_magnet=Увеличивает дистанцию взятия звезд маны
+tooltip.terraria:artifacts/ancient_chisel=Древние проблемы требуют древних решений
+tooltip.terraria:artifacts/cross_necklace=Увеличивает продолжительность неуязвимости после получения урона
+tooltip.terraria:artifacts/charm_of_myths=Увеличивает регенерацию здоровья и снижает время отката зелий лечения на 25%%
+tooltip.terraria:artifacts/discount_card=Уменьшает цены в магазине на 20%%
+tooltip.terraria:artifacts/greedy_ring=Увеличивает дистанцию сбора монет и уменьшает цены в магазине на 20%%</br>При ударе по врагам иногда выпадают дополнительные монеты
+tooltip.terraria:artifacts/gold_ring=Увеличивает дистанцию сбора монет
+tooltip.terraria:artifacts/coin_ring=Увеличивает дистанцию сбора монет</br>При ударе по врагам иногда выпадают дополнительные монеты
+tooltip.terraria:artifacts/flying_carpet=Позволяет владельцу парить в воздухе несколько секунд
+tooltip.terraria:artifacts/toolbelt=Увеличивает дальность размещения блоков на 1
+tooltip.terraria:artifacts/compass=Показывает горизонтальное местоположение
+tooltip.terraria:artifacts/gold_watch=Сообщает время
+tooltip.terraria:artifacts/platinum_watch=Сообщает время
+tooltip.terraria:artifacts/depth_meter=Показывает глубину
+tooltip.terraria:artifacts/gps=Показывает местоположение</br>Сообщает время
+tooltip.terraria:artifacts/rocket_boots=Позволяет летать
+tooltip.terraria:artifacts/spectre_boots=Позволяет летать</br>Носитель может бегать супербыстро
+tooltip.terraria:artifacts/lightning_boots=Позволяет летать и очень быстро бегать</br>Увеличивает скорость движения на 8%%
+tooltip.terraria:artifacts/frostspark_boots=Позволяет летать, очень быстро бегать и увеличивает подвиждность на льду</br>Увеличивает скорость движения на 8%%
+tooltip.terraria:artifacts/lava_waders=Дает возможность ходить по воде, меду и лаве</br>Дает иммунитет к огненным блокам и 7 секунд иммунитета к лаве</br>Снижает урон от прикосновения к лаве
+tooltip.terraria:artifacts/terraspark_boots=Позволяет летать, очень быстро бегать и увеличивает подвиждность на льду</br>Увеличивает скорость движения на 8%%</br>Дает возможность ходить по воде, меду и лаве</br>Дает иммунитет к огненным блокам и 7 секунд иммунитета к лаве</br>Снижает урон от прикосновения к лаве
+tooltip.terraria:artifacts/dunerider_boots=Носитель может бегать супербыстро, а на песке еще быстрее</br>'Двигайтесь хаотично и червяк вас не заметит'
+tooltip.terraria:artifacts/honey_comb=При уроне выпускает пчел и погружает владельца в мед
+tooltip.terraria:artifacts/stinger_necklace=Увеличивает пробивание брони на 5</br>При уроне выпускает пчел и погружает владельца в мед
+tooltip.terraria:artifacts/sweetheart_necklace=При уроне выпускает пчел, погружает владельца в мед и увеличивает скорость передвижения
 
-tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
-tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
+tooltip.terraria:artifacts/expert/shield_of_cthulhu=Позволяет игрока бросаться на врагов</br>Дважды коснитесь нужного направления
+tooltip.terraria:artifacts/expert/worm_scarf=Получаемый урон снижен на 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Слизняки становятся дружественными
-tooltip.terraria:artifacts/expert/brain_of_confusion=Has a chance to create illusions and dodge an attack</br>Temporarily increase critical chance after dodge</br>May confuse nearby enemies after being struck
-tooltip.terraria:artifacts/expert/hive_pack=Increases the strength of friendly bees
+tooltip.terraria:artifacts/expert/brain_of_confusion=Имеет шанс создать иллюзии и уклониться от атаки</br>Временно увеличивает шанс критического удара после уклонения</br>При ударе может сбить с толку ваших врагов
+tooltip.terraria:artifacts/expert/hive_pack=Увеличивает силу дружественных пчел
 
 tooltip.terraria:shine_potion=Излучает ауру света
 tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
@@ -2266,9 +2266,9 @@ tooltip.terraria:bars/meteorite=Тёплый на ощупь
 tooltip.terraria:bars/hellstone=Горячий на ощупь
 tooltip.terraria:bars/chlorophyte=Светочувствительна
 tooltip.terraria:bars/luminite=Это вибрирует световой небесной энергией
-tooltip.terraria:weapons/magic/flower_of_fire=Throws balls of fire
-tooltip.terraria:weapons/magic/wand_of_sparking=Shoots a small spark
-tooltip.terraria:weapons/magic/wand_of_frosting=Shoots a little frost
+tooltip.terraria:weapons/magic/flower_of_fire=Метает огненные шары
+tooltip.terraria:weapons/magic/wand_of_sparking=Стреляет искоркой
+tooltip.terraria:weapons/magic/wand_of_frosting=Стреляет маленьким морозным зарядом
 tooltip.terraria:bloody_tear=Какая ужасная ночь, чтобы быть проклятым
 tooltip.terraria:solar_tablet=Призывает солнечное затмение
 tooltip.terraria:holy_hand_grenade=Это выбранное Лордом оружее
@@ -2338,7 +2338,7 @@ tooltip.terraria:potions/endurance=Уменьшает урон по вам на 
 tooltip.terraria:potions/wrath=Увеличивает урон на 10%%
 tooltip.terraria:potions/heartreach=Увеличивает дальность сбора сердец
 tooltip.terraria:potions/crate=Увеличивает шанс выловить ящик
-tooltip.terraria:armor/vanity/sunglasses=Makes you look cool!
+tooltip.terraria:armor/vanity/sunglasses=Делают тебя крутым!
 item.terraria:armor/dev_zeith.desc=О нет, фурри!
 item.terraria:armor/ancient_cobalt/helm.tooltip=Увеличевает максимум маны на 40</br>Увеличает шанс критического урона на 6%%
 item.terraria:armor/ancient_cobalt/body.tooltip=Увеличевает максимум маны на 20</br>Увеличает шанс критического урона на 6%%
@@ -2354,7 +2354,7 @@ tooltip.terraria:food/gingerbread_cookie=Только не желейные пу
 tooltip.terraria:food/cooked_marshmallow=Как я могу получить еще немного ничего?
 tooltip.terraria:food/marshmallow=Наденьте его на палку и поджарьте на костре
 tooltip.terraria:food/marshmallow2=Сколько ты сможешь поместить во рту?
-tooltip.terraria:marshmallow_stick=Roast it over a campfire!
+tooltip.terraria:marshmallow_stick=Поджарьте его на костре!
 tooltip.terraria:furniture/sofas/chippys_couch_1=Привеееет игроки террарии!
 tooltip.terraria:furniture/sofas/chippys_couch_2='Отлично подходит чтобы расслабиться, как стример!'
 tooltip.terraria:furniture/sofas/slime=Слизневан!
@@ -2400,67 +2400,67 @@ tooltip.terraria:food/grape_juice='Сладкий. Жидкий. Фиолето�
 tooltip.terraria:food/monster_lasagna='На вкус как мясо с лапшой и волосами'
 tooltip.terraria:food/roasted_duck='Всё лучше, чем курица со стены'
 tooltip.terraria:food/pumpkin_pie='Съешь все за один присест!'
-tooltip.terraria:demon_heart=Permanently increases the number of accessory slots
-tooltip.terraria:mana_crystal=Permanently increases maximum mana by 20
-tooltip.terraria:furniture/candles/water=Holding this may attract unwanted attention
-tooltip.terraria:potions/restoration=Reduced potion cooldown
-tooltip.terraria:extractinator=Placing silt/slush/fossil piles into the extractinator turns them into something more useful
-tooltip.terraria:furnace=Used for smelting ore
-tooltip.terraria:adamantite_forge=Used to smelt adamantite and titanium ore
-tooltip.terraria:seed=For use with Blowpipe
-tooltip.terraria:vital_crystal=Permanently boosts life regeneration
-tooltip.terraria:potions/sake/1=Minor improvements to melee stats & lowered defense
-tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate master.'
-tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernkeep
-tooltip.terraria:potions/ale='Down the hatch!'
-tooltip.terraria:armor/wizard/hat=5%% increased magic damage
-tooltip.terraria:beenade=Explodes into a swarm of bees
+tooltip.terraria:demon_heart=Навсегда увеличивает доступное количество ячеек аксессуаров 
+tooltip.terraria:mana_crystal=Навсегда увеличивает максимум маны на 20
+tooltip.terraria:furniture/candles/water=Держащий это может привлечь нежелательное внимание
+tooltip.terraria:potions/restoration=Снижает откат зелий
+tooltip.terraria:extractinator=Если поместить ил, слякоть или ископаемые в обогатитель, они превратяться во что-то более полезное
+tooltip.terraria:furnace=Используется для переплавки руды
+tooltip.terraria:adamantite_forge=Используется для плавки адамантитовой и титановой руды
+tooltip.terraria:seed=Используется с духовой трубкой
+tooltip.terraria:vital_crystal=Навсегда ускоряет восстановление здоровья
+tooltip.terraria:potions/sake/1=Небольшое увеличение параметров ближнего боя и сниженная защита
+tooltip.terraria:potions/sake/2='Перебрав с этим, можно стать мастером карате.'
+tooltip.terraria:materials/defender_medal=Валюта для торговли с Трактирщиком
+tooltip.terraria:potions/ale='До дна!'
+tooltip.terraria:armor/wizard/hat=Увеличивает магический урон на 5%%
+tooltip.terraria:beenade=Взрывается роем пчел
 
-tooltip.terraria:encumbering_stone=Prevents item pickups while locked</br>Right click to unlock</br>'You are over-encumbered'
-tooltip.terraria:uncumbering_stone=Prevents item pickups while locked</br>Right click to lock</br>'You are over-encumbered'
-tooltip.terraria:guide_to_plant_critter_companionship=Предотвращает причинение вреда существам, если находится в инвентаре
-tooltip.terraria:guide_to_plant_critter_companionship_inactive=Prevents you from hurting critters while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
-tooltip.terraria:guide_to_environmental_preservation=Prevents you from accidentally destroying the environment while in the inventory</br>Right click to deactivate effects
-tooltip.terraria:guide_to_environmental_preservation_inactive=Prevents you from accidentally destroying the environment while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
-tooltip.terraria:guide_to_peaceful_coexistence=Prevents you from hurting critters while in the inventory</br>Prevents you from accidentally destroying the environment while in the inventory</br>Right click to deactivate effects
-tooltip.terraria:guide_to_peaceful_coexistence_inactive=Prevents you from hurting critters while in the inventory</br>Prevents you from accidentally destroying the environment while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
+tooltip.terraria:encumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы разблокировать</br>'Вы перегружены'
+tooltip.terraria:uncumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы заблокировать</br>'Вы перегружены'
+tooltip.terraria:guide_to_plant_critter_companionship=Не позволяет ранить существ, когда находится в инвентаре</br>Нажмите ПКМ чтобы отключить эффекты
+tooltip.terraria:guide_to_plant_critter_companionship_inactive=Не позволяет ранить существ, когда находится в инвентаре</br>Эффекты сейчас отключены,</br>Нажмите ПКМ чтобы снова включить
+tooltip.terraria:guide_to_environmental_preservation=Не позволяет случайно навредить окружающей среде, когда находится в инвентаре</br>Нажмите ПКМ чтобы отключить эффекты
+tooltip.terraria:guide_to_environmental_preservation_inactive=Не позволяет случайно навредить окружающей среде, когда находится в инвентаре</br>Эффекты сейчас отключены,</br>Нажмите ПКМ чтобы снова включить
+tooltip.terraria:guide_to_peaceful_coexistence=Не позволяет ранить существ, когда находится в инвентаре</br>Не позволяет случайно навредить окружающей среде, когда находится в инвентаре</br>Нажмите ПКМ чтобы отключить эффекты
+tooltip.terraria:guide_to_peaceful_coexistence_inactive=Не позволяет ранить существ, когда находится в инвентаре</br>Не позволяет случайно навредить окружающей среде, когда находится в инвентаре</br>Эффекты сейчас отключены,</br>Нажмите ПКМ чтобы снова включить
 
-tooltip.terraria:weapons/guns/shotgun=Fires a spread of bullets
-tooltip.terraria:weapons/guns/sandgun=This is a good idea!
-tooltip.terraria:weapons/guns/star_cannon=Shoots fallen stars
-tooltip.terraria:weapons/guns/dev_degeh_archilles=Degeh's Rifle - Spread/Precise
-tooltip.terraria:weapons/guns/minishark=33%% chance to save ammo</br>'Half shark, half gun, completely awesome.'
-tooltip.terraria:weapons/guns/megashark=50%% chance to save ammo</br>'Minishark's older brother'
-tooltip.terraria:weapons/guns/musket='I have to be ready, said the minuteman'
-tooltip.terraria:weapons/guns/vortex_beater='The catastrophic mixture of pew pew and boom boom.'
-tooltip.terraria:weapons/guns/candy_corn_rifle=33%% chance to save ammo
-tooltip.terraria:weapons/guns/quad_barrel_shotgun='When 2 or 3 just doesn't cut it'
-tooltip.terraria:weapons/blowpipe=Allows the collection of seeds for ammo
-tooltip.terraria:weapons/boomerangs/trimarang='Three Boomerangs are better than one'
+tooltip.terraria:weapons/guns/shotgun=Стреляет веером пуль
+tooltip.terraria:weapons/guns/sandgun=Это отличная идея!
+tooltip.terraria:weapons/guns/star_cannon=Стреляет падающими звездами
+tooltip.terraria:weapons/guns/dev_degeh_archilles=Винтовка Degeh-а - Разброс/Точность
+tooltip.terraria:weapons/guns/minishark=Шанс 33%% сэкономить боеприпасы</br>'Наполовину акула, наполовину пушка, идеально.'
+tooltip.terraria:weapons/guns/megashark=Шанс 50%% сэкономить боеприпасы</br>'Старший брат мини-акулы'
+tooltip.terraria:weapons/guns/musket='Всегда готов'
+tooltip.terraria:weapons/guns/vortex_beater='Катастрофическая смесь бах-бах и бум-бум'
+tooltip.terraria:weapons/guns/candy_corn_rifle=Шанс 33%% сэкономить боеприпасы
+tooltip.terraria:weapons/guns/quad_barrel_shotgun='Возьмите 2 или 3, главное не прерываться'
+tooltip.terraria:weapons/blowpipe=Позволяет собирать семена как снаряды
+tooltip.terraria:weapons/boomerangs/trimarang='Три бумеранга лучше одного'
 
-tooltip.terraria:sickle=Allows the collection of hay from grass
-tooltip.terraria:worm_food=Summons the Eater of Worlds
-tooltip.terraria:bloody_spine=Summons the Brain of Cthulhu
-tooltip.terraria:goblin_battle_standard=Summons a Goblin Army
+tooltip.terraria:sickle=Позволяет собирать сено из травы
+tooltip.terraria:worm_food=Призывает Пожирателя миров
+tooltip.terraria:bloody_spine=Призывает Мозг Ктулху
+tooltip.terraria:goblin_battle_standard=Призывает Армию гоблинов
 
-tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
-tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
+tooltip.terraria:pets/glowing/shadow_orb=Создает волшебную теневую сферу
+tooltip.terraria:pets/glowing/crimson_heart=Призывает сердце, которое дает свет
 
 # Misc Tooltips
-moon_phase.0=Full Moon
-moon_phase.1=Waning Gibbous
-moon_phase.2=Last Quarter
-moon_phase.3=Waning Crescent
-moon_phase.4=New Moon
-moon_phase.5=Waxing Crescent
-moon_phase.6=First Quarter
-moon_phase.7=Waxing Gibbous
+moon_phase.0=Полнолуние
+moon_phase.1=Убывающий серп
+moon_phase.2=Последняя четверть
+moon_phase.3=Убывающая Луна
+moon_phase.4=Новолуние
+moon_phase.5=Растущий серп
+moon_phase.6=Первая четверть
+moon_phase.7=Растущая Луна
 
-layer.space=Space
-layer.surface=Surface
-layer.underground=Underground
-layer.caverns=Caverns
-layer.underworld=Underworld
+layer.space=Космос
+layer.surface=Поверхность
+layer.underground=Подземелье
+layer.caverns=Пещеры
+layer.underworld=Преисподняя
 
 speed.terraria:insanely_fast=Невероятно высокая скорость
 speed.terraria:very_fast=Очень высокая скорость
@@ -2472,15 +2472,15 @@ speed.terraria:extremely_slow=Крайне низкая скорость
 speed.terraria:snail=Невероятно низкая скорость
 speed.terraria:mysterious=Таинственная скорость
 
-knockback.terraria:none=No knockback
-knockback.terraria:extremely_weak=Extremely weak knockback
-knockback.terraria:very_weak=Very weak knockback
-knockback.terraria:weak=Weak knockback
-knockback.terraria:average=Average knockback
-knockback.terraria:strong=Strong knockback
-knockback.terraria:very_strong=Very strong knockback
-knockback.terraria:extremely_strong=Extremely strong knockback
-knockback.terraria:insane=Insane knockback
+knockback.terraria:none=Нет отбрасывания
+knockback.terraria:extremely_weak=Невероятно слабое отбрасывание
+knockback.terraria:very_weak=Очень слабое отбрасывание
+knockback.terraria:weak=Слабое отбрасывание
+knockback.terraria:average=Среднее отбрасывание
+knockback.terraria:strong=Сильное отбрасывание
+knockback.terraria:very_strong=Очень сильное отбрасывание
+knockback.terraria:extremely_strong=Невероятно сильное отбрасывание
+knockback.terraria:insane=Безумное отбрасывание
 
 damage.terraria:melee=%,d ед. ближнего урона
 damage.terraria:ranged=%,d ед. дальнего урона
@@ -2509,8 +2509,8 @@ itweaks.terraria:forge_sel_res_load.desc=Позволяет Forge быстрее
 itweaks.terraria:lower_render_distance.name=Меньшее расстояние отрисовки
 itweaks.terraria:lower_render_distance.desc=Уменьшает расстояние рендеринга, чтобы исправить отстающие объекты,<LN>блоки и общую производительность сервера.
 
-itweaks.terraria:lower_spawn_loaded_chunks.name=Lower Spawn-Load Distance
-itweaks.terraria:lower_spawn_loaded_chunks.desc=Reduces the amount of chunks loaded around spawn point.<LN>Slightly reduces memory freezes and improves performance.
+itweaks.terraria:lower_spawn_loaded_chunks.name=Меньшее расстояние спавн-чанков
+itweaks.terraria:lower_spawn_loaded_chunks.desc=Уменьшает количество чанков загруженных около спавна мира.<LN>Немного уменьшает зависания памяти и повышает производительность.
 
 itweaks.terraria:reduce_cube_gen_amount.name=Меньшее количество генерации кубов
 itweaks.terraria:reduce_cube_gen_amount.desc=Уменьшает количество кубов, которые могут быть сгенерированы за тик.<LN>Повышает производительность сервера при активной генерации новых кубов.
@@ -2631,53 +2631,53 @@ achievement.terraria:wheres_my_honey.desc=Найдите большой пчел
 achievement.terraria:smashing_poppet.name=Отлично, марионетка!
 achievement.terraria:smashing_poppet.desc=Используя взрывчатку или старый добрый молот, разбейте теневую сферу или багряное сердце в злой части вашего мира.
 
-achievement.terraria:i_am_loot.name=I Am Loot!
-achievement.terraria:i_am_loot.desc=Discover a golden chest underground and take a peek at its contents.
+achievement.terraria:i_am_loot.name=Я есть добыча!
+achievement.terraria:i_am_loot.desc=Найдите золотой сундук под землей и взгляните на его содержимое.
 
-achievement.terraria:worm_fodder.name=Worm Fodder
-achievement.terraria:worm_fodder.desc=Defeat the Eater of Worlds, a massive worm who dwells in the corruption.
+achievement.terraria:worm_fodder.name=Пища для червей
+achievement.terraria:worm_fodder.desc=Победите Пожирателя миров - огромного червя, живущего в Порче.
 
-achievement.terraria:mastermind.name=Mastermind
-achievement.terraria:mastermind.desc=Defeat the Brain of Cthulhu, an enormous demon brain which haunts the creeping crimson.
+achievement.terraria:mastermind.name=Повелитель мозга
+achievement.terraria:mastermind.desc=Победите Мозг Ктулху - огромный демонический мозг, живущий в Багрянце.
 
-achievement.terraria:goblin_punter.name=Goblin Punter
-achievement.terraria:goblin_punter.desc=Triumph over a goblin invasion, a ragtag regiment of crude, barbaric, pointy-eared warriors and their shadowflame sorcerers.
+achievement.terraria:goblin_punter.name=Владыка гоблинов
+achievement.terraria:goblin_punter.desc=Победите нашествие гоблинов - безумный полк грубых варварских остроухих воинов и их колдунов теневого пламени.
 
-achievement.terraria:gelatin_world_tour.name=Gelatin World Tour
-achievement.terraria:gelatin_world_tour.desc=Defeat every type of slime there is!
+achievement.terraria:gelatin_world_tour.name=Мировой тур по желатиновым местам
+achievement.terraria:gelatin_world_tour.desc=Убейте слизней всех видов!
 
-achievement.terraria:fashion_statement.name=Fashion Statement
-achievement.terraria:fashion_statement.desc=Equip armor or vanity clothing in all three social slots.
+achievement.terraria:fashion_statement.name=Модный приговор
+achievement.terraria:fashion_statement.desc=Поместите броню или косметическую броню во все три ячейки для украшений.
 
-achievement.terraria:bulldozer.name=Bulldozer
-achievement.terraria:bulldozer.desc=Destroy a total of 10,000 tiles.
+achievement.terraria:bulldozer.name=Бульдозер
+achievement.terraria:bulldozer.desc=Уничтожьте в сумме 10000 блоков.
 
-achievement.terraria:the_frequent_flyer.name=The Frequent Flyer
-achievement.terraria:the_frequent_flyer.desc=Spend over 1 gold being treated by the nurse.
+achievement.terraria:the_frequent_flyer.name=Постоянный клиент
+achievement.terraria:the_frequent_flyer.desc=Потратьте более 1 золотого на лечение у медсестры.
 
-achievement.terraria:completely_awesome.name=Completely Awesome
-achievement.terraria:completely_awesome.desc=Obtain a minishark.
+achievement.terraria:completely_awesome.name=Абсолютно идеально
+achievement.terraria:completely_awesome.desc=Получите мини-акулу.
 
-achievement.terraria:hot_reels.name=Hot Reels!
-achievement.terraria:hot_reels.desc=Drop a lure in a pool of lava for a pre-fried haul!
+achievement.terraria:hot_reels.name=Горячие катушки!
+achievement.terraria:hot_reels.desc=Бросьте приманку в бассейн с лавой, чтобы получить обжаренную добычу!
 
-achievement.terraria:feast_of_midas.name=Feast of Midas
-achievement.terraria:feast_of_midas.desc=Obtain Golden Delight, the highest quality meal made from the highest quality... ingredients.
+achievement.terraria:feast_of_midas.name=Пиршество мидаса
+achievement.terraria:feast_of_midas.desc=Получите золотое лакомство - деликатес высшей пробы, изготовленный из самых качественных... ингредиентов.
 
-achievement.terraria:unusual_survival_strategies.name=Unusual Survival Strategies
-achievement.terraria:unusual_survival_strategies.desc=Delay death from drowning by drinking water. It doesn't make much sense, but you did what you had to do.
+achievement.terraria:unusual_survival_strategies.name=Необычные стратегии выживание
+achievement.terraria:unusual_survival_strategies.desc=Выпить воду, чтоб отсрочить смерть от утопления. Особой пользы в этом нет, но вы сделали всё по инструкции.
 
-achievement.terraria:ankhumulation_complete.name=Ankhumulation Complete
-achievement.terraria:ankhumulation_complete.desc=Obtain the Ankh Shield, the finest protection from unpleasant maladies and ailments.
+achievement.terraria:ankhumulation_complete.name=Анхкумуляция завершена
+achievement.terraria:ankhumulation_complete.desc=Заполучить щит анха – лучшую защиту от неприятных хворей и недугов.
 
-achievement.terraria:funkytown.name=Funkytown
-achievement.terraria:funkytown.desc=Build or encounter a glowing mushroom field above the surface.
+achievement.terraria:funkytown.name=Веселяево
+achievement.terraria:funkytown.desc=Построить или обнаружить поле со светящимися грибами на поверхности.
 
-achievement.terraria:its_getting_hot_in_here.name=It's Getting Hot in Here
-achievement.terraria:its_getting_hot_in_here.desc=Spelunk deep enough to reach the molten underworld.
+achievement.terraria:its_getting_hot_in_here.name=Здесь становится жарковато
+achievement.terraria:its_getting_hot_in_here.desc=Копать глубже, пока не достигнете ада.
 
-achievement.terraria:lucky_break.name=Lucky Break
-achievement.terraria:lucky_break.desc=Survive a long fall with just a sliver of health remaining.
+achievement.terraria:lucky_break.name=Везуха
+achievement.terraria:lucky_break.desc=Выжить после падения с большой высоты, оставшись с низким уровнем здоровья.
 
 ########################
 
@@ -2705,61 +2705,61 @@ event.terraria:slime_rain=Слизневый дождь
 event.terraria:slime_rain.start=С неба падают слизни!
 event.terraria:slime_rain.end=Слизни прекратили падать с неба.
 
-event.terraria:lantern_night=Lantern Night
-event.terraria:lantern_night.start=Everyone is celebrating your victory.
-event.terraria:lantern_night.end=Lantern Night is over.
+event.terraria:lantern_night=Ночь фонарей
+event.terraria:lantern_night.start=Все празднуют вашу победу.
+event.terraria:lantern_night.end=Ночь фонарей закончилась.
 
-event.terraria:frost_moon=Frost Moon
-event.terraria:frost_moon.start=The Frost Moon is rising...
-event.terraria:frost_moon.end=The Frost Moon is descending...
+event.terraria:frost_moon=Морозная луна
+event.terraria:frost_moon.start=Морозная луна восходит...
+event.terraria:frost_moon.end=Морозная луна заходит...
 
-event.terraria:pumpkin_moon=Pumpkin Moon
-event.terraria:pumpkin_moon.start=The Pumpkin Moon is rising...
-event.terraria:pumpkin_moon.end=The Pumpkin Moon is descending...
+event.terraria:pumpkin_moon=Тыквенная луна
+event.terraria:pumpkin_moon.start=Тыквенная луна восходит...
+event.terraria:pumpkin_moon.end=Тыквенная луны заходит...
 
 feature.terraria:from_author=От разработчика мода
 command.terraria:export.usage=/tc_export <x1> <y1> <z1> <x2> <y2> <z2> <сохранить воздух true|false> <имя>
-command.terraria:wormhole.usage=/wormhole <player>
-command.terraria:wormhole.missing_potion=You need %s to use this command.
-command.terraria:npc_unlock.ok=NPC %s was unlocked.
-command.terraria:npc_unlock.unlocked=NPC %s was already unlocked.
-command.terraria:npc_summon.ok=NPC %s was summoned.
+command.terraria:wormhole.usage=/wormhole <игрок>
+command.terraria:wormhole.missing_potion=Тебе необходимо %s для использования этой команды.
+command.terraria:npc_unlock.ok=НИП %s разблокирован.
+command.terraria:npc_unlock.unlocked=НИП %s уже разблокирован.
+command.terraria:npc_summon.ok=НИП %s призван.
 
 hud.terraria:life=Жизнь: %s
 hud.terraria:mana=Мана
 
-chat.terraria:journey_disparity=Only Journey characters may enter a Journey world.
-chat.terraria:defeatenemy=%s победил %,d-th %s!
-chat.terraria:achievement=Achievement complete! %s
-chat.terraria:achievement_other=%s has completed achievement! %s
+chat.terraria:journey_disparity=Только персонажи типа Приключение могут заходить в миры типа Приключение.
+chat.terraria:defeatenemy=%s победил %,d %s!
+chat.terraria:achievement=Достижение выполнено! %s
+chat.terraria:achievement_other=%s завершил достижение! %s
 chat.terraria:spawn_point.set=Точка возрождения установлена!
 chat.terraria:spawn_point.remove=Точка возрождения удалена!
 chat.terraria:eye_of_cthulhu_spawn=Вы чувствуете чьё-то злобное внимание...
 chat.terraria:npc.slain=%s убит...
 chat.terraria:npc.move_in=%s появился!
-chat.terraria:meteorite_landed=§h45C87C;A meteorite has landed!
+chat.terraria:meteorite_landed=§h45C87C;Метеорит приземлился!
 
-chat.terraria:pvp.enabled=%s has enabled PvP!
-chat.terraria:pvp.disabled=%s has disabled PvP!
-chat.terraria:pvp.team.leave=%s is no longer on a party.
-chat.terraria:pvp.team.red=%s has joined the red party.
-chat.terraria:pvp.team.green=%s has joined the green party.
-chat.terraria:pvp.team.blue=%s has joined the blue party.
-chat.terraria:pvp.team.yellow=%s has joined the yellow party.
-chat.terraria:pvp.team.pink=%s has joined the pink party.
+chat.terraria:pvp.enabled=%s включил режим PvP!
+chat.terraria:pvp.disabled=%s выключил режим PvP!
+chat.terraria:pvp.team.leave=%s больше не входит в команду.
+chat.terraria:pvp.team.red=%s присоединился к команде красных.
+chat.terraria:pvp.team.green=%s присоединился к команде зеленых.
+chat.terraria:pvp.team.blue=%s присоединился к команде синих.
+chat.terraria:pvp.team.yellow=%s присоединился к команде желтых.
+chat.terraria:pvp.team.pink=%s присоединился к команде розовых.
 
 chat.terraria:boss_tiles/shadow_orb.1=Леденящий ужас спускается по твоему позвоночнику...
 chat.terraria:boss_tiles/shadow_orb.2=Вокруг тебя разносится эхо криков...
 
-chat.terraria:boss_tiles/crimson_heart.1=A horrible chill goes down your spine...
-chat.terraria:boss_tiles/crimson_heart.2=Screams echo around you...
+chat.terraria:boss_tiles/crimson_heart.1=Мурашки бегут по вашей спине...
+chat.terraria:boss_tiles/crimson_heart.2=Отголоски воплей разносятся вокруг...
 
-debug.terraria:copy_player_pos.help=F3 + C = Copy player position to clipboard
-debug.terraria:copy_player_pos=Player position copied to clipboard
+debug.terraria:copy_player_pos.help=F3 + C = Скопировать позицию игрока в буфер обмена
+debug.terraria:copy_player_pos=Позиция игрока скопирована в буфер обмена
 
-debug.terraria:copy_block_state.help=F3 + I = Copy block state to clipboard
-debug.terraria:copy_block_state=Block state copied to clipboard
-debug.terraria:copy_block_state.err=§cYou must be looking at a block to copy it.
+debug.terraria:copy_block_state.help=F3 + I = Скопировать состояние блока в буфер обмена
+debug.terraria:copy_block_state=Состояние блока скопировано в буфер обмена
+debug.terraria:copy_block_state.err=§cВы должны смотреть на блок, чтобы скопировать его.
 
 house.terraria:limits=Превышен предел размера дома: %s/%s
 house.terraria:occupied=Этот дом уже заселен!
@@ -2772,29 +2772,29 @@ house.terraria:ok=Этот дом подходит.
 house.terraria:npc_home_pos=Дом %s находится в %s.
 house.terraria:npc_not_found=%s не найден в мире.
 house.terraria:npc_has_no_home=%s не имеет дома.
-house.terraria:npc_already_here=%s already lives here.
-house.terraria:npc_kicked=%s was kicked from house %s.
-house.terraria:npc_moved=%s was moved into house %s.
-house.terraria:show_location=Show location
-house.terraria:move_here=Move Here
-house.terraria:query=Query house
+house.terraria:npc_already_here=%s уже живет тут.
+house.terraria:npc_kicked=%s изгнан из дома %s.
+house.terraria:npc_moved=%s переместился в дом %s.
+house.terraria:show_location=Показать расположение
+house.terraria:move_here=Переместить сюда
+house.terraria:query=Проверка дома
 
-gui.terraria:tinkerer.reforge=Place an item here to reforge
-gui.terraria:guide.crafting.empty=Place a material here
-gui.terraria:guide.crafting.uses=Showing recipes that use %s
-gui.terraria:guide.crafting.required=Required objects: %s
+gui.terraria:tinkerer.reforge=Поместите предмет сюда, чтобы перековать
+gui.terraria:guide.crafting.empty=Поместите сюда материал
+gui.terraria:guide.crafting.uses=Показывает рецепты в которых используется %s
+gui.terraria:guide.crafting.required=Необходимые рабочие станции: %s
 gui.terraria:buy=Купить за
 gui.terraria:sell=Продать за
 gui.terraria:hand=Hand
 gui.terraria:nurse.heal=Вылечится за
-gui.terraria:coins.cost=Cost:
-gui.terraria:coins.copper_coin=copper
-gui.terraria:coins.silver_coin=silver
-gui.terraria:coins.gold_coin=gold
-gui.terraria:coins.platinum_coin=platinum
-gui.terraria:cancel=Cancel
-gui.terraria:edit=Edit
-gui.terraria:save=Save
+gui.terraria:coins.cost=Цена:
+gui.terraria:coins.copper_coin=мед.
+gui.terraria:coins.silver_coin=сер.
+gui.terraria:coins.gold_coin=зол.
+gui.terraria:coins.platinum_coin=плат.
+gui.terraria:cancel=Закрыть
+gui.terraria:edit=Отредактировать
+gui.terraria:save=Сохранить
 
 fluid.terraria:water=Вода
 fluid.terraria:lava=Лава
@@ -2826,7 +2826,7 @@ tbiome.terraria:granite_cave=Гранитная пещера
 tbiome.terraria:marble_cave=Мраморная пещера
 tbiome.terraria:living_tree=Живое дерево
 tbiome.terraria:beehive=Пчелиный улей
-tbiome.terraria:frozen_ocean=Frozen Ocean
+tbiome.terraria:frozen_ocean=Замороженый океан
 
 ##################
 
@@ -2834,110 +2834,110 @@ tbiome.terraria:frozen_ocean=Frozen Ocean
 
 ######PREFIXES######
 
-prefix.terraria:artifact/hard=Hard
-prefix.terraria:artifact/guarding=Guarding
-prefix.terraria:artifact/armored=Armored
-prefix.terraria:artifact/warding=Warding
-prefix.terraria:artifact/precise=Precise
-prefix.terraria:artifact/lucky=Lucky
-prefix.terraria:artifact/jagged=Jagged
-prefix.terraria:artifact/spiked=Spiked
-prefix.terraria:artifact/angry=Angry
-prefix.terraria:artifact/menacing=Menacing
-prefix.terraria:artifact/brisk=Brisk
-prefix.terraria:artifact/fleeting=Fleeting
-prefix.terraria:artifact/hasty=Hasty
-prefix.terraria:artifact/quick=Quick
-prefix.terraria:artifact/wild=Wild
-prefix.terraria:artifact/rash=Rash
-prefix.terraria:artifact/intrepid=Intrepid
-prefix.terraria:artifact/violent=Violent
-prefix.terraria:artifact/arcane=Arcane
+prefix.terraria:artifact/hard=Твердый
+prefix.terraria:artifact/guarding=Защитный
+prefix.terraria:artifact/armored=Укрепленный
+prefix.terraria:artifact/warding=Охранный
+prefix.terraria:artifact/precise=Точный
+prefix.terraria:artifact/lucky=Счастливый
+prefix.terraria:artifact/jagged=Зазубренный
+prefix.terraria:artifact/spiked=Шипастый
+prefix.terraria:artifact/angry=Сердящий
+prefix.terraria:artifact/menacing=Грозный
+prefix.terraria:artifact/brisk=Бойкий
+prefix.terraria:artifact/fleeting=Молниеносный
+prefix.terraria:artifact/hasty=Стремительный
+prefix.terraria:artifact/quick=Быстрый
+prefix.terraria:artifact/wild=Дикий
+prefix.terraria:artifact/rash=Безудержный
+prefix.terraria:artifact/intrepid=Отважный
+prefix.terraria:artifact/violent=Жестокий
+prefix.terraria:artifact/arcane=Тайный
 
 # Universal
-prefix.terraria:weapon/keen=Keen
-prefix.terraria:weapon/superior=Superior
-prefix.terraria:weapon/forceful=Forceful
-prefix.terraria:weapon/broken=Broken
-prefix.terraria:weapon/damaged=Damaged
-prefix.terraria:weapon/shoddy=Shoddy
-prefix.terraria:weapon/hurtful=Hurtful
-prefix.terraria:weapon/strong=Strong
-prefix.terraria:weapon/unpleasant=Unpleasant
-prefix.terraria:weapon/weak=Weak
-prefix.terraria:weapon/ruthless=Ruthless
-prefix.terraria:weapon/godly=Godly
-prefix.terraria:weapon/demonic=Demonic
-prefix.terraria:weapon/zealous=Zealous
+prefix.terraria:weapon/keen=Заточенный
+prefix.terraria:weapon/superior=Превосходный
+prefix.terraria:weapon/forceful=Неистовый
+prefix.terraria:weapon/broken=Сломанный
+prefix.terraria:weapon/damaged=Поврежденный
+prefix.terraria:weapon/shoddy=Поддельный
+prefix.terraria:weapon/hurtful=Вредный
+prefix.terraria:weapon/strong=Крепкий
+prefix.terraria:weapon/unpleasant=Неприятный
+prefix.terraria:weapon/weak=Слабый
+prefix.terraria:weapon/ruthless=Безжалостный
+prefix.terraria:weapon/godly=Божественный
+prefix.terraria:weapon/demonic=Демонический
+prefix.terraria:weapon/zealous=Пылкий
 # Common
-prefix.terraria:weapon/quick=Quick
-prefix.terraria:weapon/deadly=Deadly
-prefix.terraria:weapon/agile=Agile
-prefix.terraria:weapon/nimble=Nimble
-prefix.terraria:weapon/murderous=Murderous
-prefix.terraria:weapon/slow=Slow
-prefix.terraria:weapon/sluggish=Sluggish
-prefix.terraria:weapon/lazy=Lazy
-prefix.terraria:weapon/annoying=Annoying
-prefix.terraria:weapon/nasty=Nasty
+prefix.terraria:weapon/quick=Быстрый
+prefix.terraria:weapon/deadly=Смертоносный
+prefix.terraria:weapon/agile=Подвижный
+prefix.terraria:weapon/nimble=Ловкий
+prefix.terraria:weapon/murderous=Убийственный
+prefix.terraria:weapon/slow=Вялый
+prefix.terraria:weapon/sluggish=Медлительный
+prefix.terraria:weapon/lazy=Ленивый
+prefix.terraria:weapon/annoying=Раздражающий
+prefix.terraria:weapon/nasty=Мерзкий
 # Melee
-prefix.terraria:weapon/large=Large
-prefix.terraria:weapon/massive=Massive
-prefix.terraria:weapon/dangerous=Dangerous
-prefix.terraria:weapon/savage=Savage
-prefix.terraria:weapon/sharp=Sharp
-prefix.terraria:weapon/pointy=Pointy
-prefix.terraria:weapon/tiny=Tiny
-prefix.terraria:weapon/terrible=Terrible
-prefix.terraria:weapon/small=Small
-prefix.terraria:weapon/dull=Dull
-prefix.terraria:weapon/unhappy=Unhappy
-prefix.terraria:weapon/bulky=Bulky
-prefix.terraria:weapon/shameful=Shameful
-prefix.terraria:weapon/heavy=Heavy
-prefix.terraria:weapon/light=Light
-prefix.terraria:weapon/legendary=Legendary
+prefix.terraria:weapon/large=Большой
+prefix.terraria:weapon/massive=Массивный
+prefix.terraria:weapon/dangerous=Опасный
+prefix.terraria:weapon/savage=Дикий
+prefix.terraria:weapon/sharp=Колкий
+prefix.terraria:weapon/pointy=Остроконечный
+prefix.terraria:weapon/tiny=Крошечный
+prefix.terraria:weapon/terrible=Ужасный
+prefix.terraria:weapon/small=Маленький
+prefix.terraria:weapon/dull=Тупой
+prefix.terraria:weapon/unhappy=Невезучий
+prefix.terraria:weapon/bulky=Массивный
+prefix.terraria:weapon/shameful=Позорный
+prefix.terraria:weapon/heavy=Тяжелый
+prefix.terraria:weapon/light=Лёгкий
+prefix.terraria:weapon/legendary=Легендарный
 # Ranged
-prefix.terraria:weapon/sighted=Sighted
-prefix.terraria:weapon/rapid=Rapid
-prefix.terraria:weapon/hasty=Hasty
-prefix.terraria:weapon/intimidating=Intimidating
-prefix.terraria:weapon/deadly_ranged=Deadly
-prefix.terraria:weapon/staunch=Staunch
-prefix.terraria:weapon/awful=Awful
-prefix.terraria:weapon/lethargic=Lethargic
-prefix.terraria:weapon/awkward=Awkward
-prefix.terraria:weapon/powerful=Powerful
-prefix.terraria:weapon/frenzying=Frenzying
-prefix.terraria:weapon/unreal=Unreal
+prefix.terraria:weapon/sighted=Зрячий
+prefix.terraria:weapon/rapid=Скоростной
+prefix.terraria:weapon/hasty=Стремительный
+prefix.terraria:weapon/intimidating=Устрашающий
+prefix.terraria:weapon/deadly_ranged=Смертоносный
+prefix.terraria:weapon/staunch=Стойкий
+prefix.terraria:weapon/awful=Ужасный
+prefix.terraria:weapon/lethargic=Летаргический
+prefix.terraria:weapon/awkward=Неуклюжий
+prefix.terraria:weapon/powerful=Мощный
+prefix.terraria:weapon/frenzying=Безумный
+prefix.terraria:weapon/unreal=Нереальный
 # Magic and summoning
-prefix.terraria:weapon/mystic=Mystic
-prefix.terraria:weapon/adept=Adept
-prefix.terraria:weapon/masterful=Masterful
-prefix.terraria:weapon/inept=Inept
-prefix.terraria:weapon/ignorant=Ignorant
-prefix.terraria:weapon/deranged=Deranged
-prefix.terraria:weapon/intense=Intense
-prefix.terraria:weapon/taboo=Taboo
-prefix.terraria:weapon/celestial=Celestial
-prefix.terraria:weapon/furious=Furious
-prefix.terraria:weapon/manic=Manic
-prefix.terraria:weapon/mythical=Mythical
+prefix.terraria:weapon/mystic=Мистический
+prefix.terraria:weapon/adept=Искусный
+prefix.terraria:weapon/masterful=Мастерский
+prefix.terraria:weapon/inept=Неумелый
+prefix.terraria:weapon/ignorant=Невежественный
+prefix.terraria:weapon/deranged=Невменяемый
+prefix.terraria:weapon/intense=Интенсивный
+prefix.terraria:weapon/taboo=Запретный
+prefix.terraria:weapon/celestial=Небесный
+prefix.terraria:weapon/furious=Яростный
+prefix.terraria:weapon/manic=Маниакальный
+prefix.terraria:weapon/mythical=Мифический
 
-attribute.terraria:artifact/defense=Defense
-attribute.terraria:artifact/crit_chance=Critical strike chance
-attribute.terraria:artifact/damage=Damage
-attribute.terraria:artifact/movement_speed=Movement speed
-attribute.terraria:artifact/melee_speed=Melee speed
-attribute.terraria:artifact/mana=Mana
+attribute.terraria:artifact/defense=защита
+attribute.terraria:artifact/crit_chance=шанс критического удара
+attribute.terraria:artifact/damage=урон
+attribute.terraria:artifact/movement_speed=скорость передвижения
+attribute.terraria:artifact/melee_speed=скорость атаки в ближнем бою
+attribute.terraria:artifact/mana=мана
 
-attribute.terraria:weapon/damage=Damage
-attribute.terraria:weapon/speed=Speed
-attribute.terraria:weapon/crit_chance=Critical strike chance
-attribute.terraria:weapon/mana_cost=Mana cost
-attribute.terraria:weapon/size=Size
-attribute.terraria:weapon/velocity=Velocity
-attribute.terraria:weapon/knockback=Knockback
+attribute.terraria:weapon/damage=Урон
+attribute.terraria:weapon/speed=скорость
+attribute.terraria:weapon/crit_chance=шанс критического удара
+attribute.terraria:weapon/mana_cost=стоимость маны
+attribute.terraria:weapon/size=размер
+attribute.terraria:weapon/velocity=быстрота
+attribute.terraria:weapon/knockback=отбрасывание
 
 ####################
 
@@ -2955,19 +2955,19 @@ entity.terraria:general_ammo.name=Снаряд
 entity.terraria:large_item.name=Куча предметов
 entity.terraria:poisoned_dart.name=Дротик
 entity.terraria:starfury_star.name=Звезда звездной ярости
-entity.terraria:shadow_orb.name=Shadow Orb
+entity.terraria:shadow_orb.name=Сфера тени
 entity.terraria:chair.name=Стул
 entity.terraria:yoyo.name=Йо-йо
-entity.terraria:bed.name=Bed
-entity.terraria:boomerang.name=Boomerang
-entity.terraria:harpy_feather.name=Harpy Feather
-entity.terraria:hook.name=Hook
-entity.terraria:hook_carrier.name=Hook Carrier
+entity.terraria:bed.name=Кровать
+entity.terraria:boomerang.name=Бумеранг
+entity.terraria:harpy_feather.name=Перо гарпии
+entity.terraria:hook.name=Крюк
+entity.terraria:hook_carrier.name=Носитель крюка
 
 # Projectiles
-entity.terraria:vile_spit_eow.name=Vile Spit
-entity.terraria:chaos_ball.name=Chaos Ball
-entity.terraria:burning_sphere.name=Burning Sphere
+entity.terraria:vile_spit_eow.name=Мерзкий плевок
+entity.terraria:chaos_ball.name=Шарик хаоса
+entity.terraria:burning_sphere.name=Горящая сфера
 
 # Living
 entity.terraria:hostile/green_slime.name=Зеленый слизень
@@ -2980,7 +2980,7 @@ entity.terraria:hostile/demon_eye.name=Демонический глаз
 entity.terraria:creatures/firefly.name=Светлячок
 entity.terraria:creatures/lavafly.name=Лавовая муха
 entity.terraria:creatures/worm.name=Червяк
-entity.terraria:gold/creatures/worm.name=Gold Worm
+entity.terraria:gold/creatures/worm.name=Золотой червяк
 entity.terraria:hostile/red_slime.name=Красный слизень
 entity.terraria:hostile/purple_slime.name=Фиолетовый слизень
 entity.terraria:hostile/yellow_slime.name=Желтый слизень
@@ -2998,11 +2998,11 @@ entity.terraria:creatures/maggot.name=Опарыш
 entity.terraria:hostile/jungle_slime_spiked.name=Шипастый слизень джунглей
 entity.terraria:creatures/sluggy.name=Слизняк
 entity.terraria:creatures/grasshopper.name=Кузнечик
-entity.terraria:gold/creatures/grasshopper.name=Gold Grasshopper
+entity.terraria:gold/creatures/grasshopper.name=Золотой кузнечик
 entity.terraria:creatures/butterfly.name=Бабочка
 entity.terraria:creatures/penguin.name=Пингвин
 entity.terraria:creatures/mouse.name=Мышь
-entity.terraria:gold/creatures/mouse.name=Gold Mouse
+entity.terraria:gold/creatures/mouse.name=Золотая мышь
 entity.terraria:creatures/rat.name=Крыса
 entity.terraria:creatures/squirrel.name=Белка
 entity.terraria:creatures/bird.name=Птица
@@ -3013,10 +3013,10 @@ entity.terraria:creatures/bunny_explosive.name=Взрывокролик
 entity.terraria:creatures/owl.name=Сова
 entity.terraria:creatures/turtle.name=Черепаха
 entity.terraria:creatures/frog.name=Лягушка
-entity.terraria:gold/creatures/frog.name=Gold Frog
+entity.terraria:gold/creatures/frog.name=Золотая лягушка
 entity.terraria:hostile/blood_zombie.name=Кровавый зомби
 entity.terraria:creatures/ladybug.name=Божья коровка
-entity.terraria:gold/creatures/ladybug.name=Gold Ladybug
+entity.terraria:gold/creatures/ladybug.name=Золотая божья коровка
 entity.terraria:hostile/gnome.name=Гном
 entity.terraria:hostile/ghost.name=Призрак
 entity.terraria:hostile/servant_of_cthulhu.name=Прислужник Ктулху
@@ -3025,42 +3025,42 @@ entity.terraria:hostile/bee_smol.name=Пчела
 entity.terraria:money_trough.name=Денежное корыто
 entity.terraria:hostile/blood_zombie.name=Кровавый зомби
 entity.terraria:creatures/faeling.name=Феечка
-entity.terraria:hostile/spiked_slime.name=Spiked Slime
-entity.terraria:hostile/meteor_head.name=Meteor Head
-entity.terraria:hostile/umbrella_slime.name=Umbrella Slime
-entity.terraria:hostile/creeper_minion.name=Creeper
-entity.terraria:hostile/flying_fish.name=Flying Fish
-entity.terraria:hostile/invasions/goblin_army/peon.name=Goblin Peon
-entity.terraria:hostile/invasions/goblin_army/sorcerer.name=Goblin Sorcerer
-entity.terraria:hostile/invasions/goblin_army/thief.name=Goblin Thief
-entity.terraria:hostile/invasions/goblin_army/archer.name=Goblin Archer
-entity.terraria:hostile/invasions/goblin_army/warrior.name=Goblin Warrior
-entity.terraria:hostile/goblin_scout.name=Goblin Scout
-entity.terraria:bound_goblin.name=Bound Goblin
-entity.terraria:hostile/baby_slime.name=Baby Slime
-entity.terraria:hostile/mother_slime.name=Mother Slime
-entity.terraria:hostile/cave_bat.name=Cave Bat
-entity.terraria:hostile/jungle_bat.name=Jungle Bat
-entity.terraria:hostile/hellbat.name=Hellbat
-entity.terraria:hostile/ice_bat.name=Ice Bat
-entity.terraria:hostile/spore_bat.name=Spore Bat
-entity.terraria:hostile/fire_imp.name=Fire Imp
-entity.terraria:hostile/snatcher.name=Snatcher
-entity.terraria:hostile/man_eater.name=Man Eater
-entity.terraria:hostile/undead_miner.name=Undead Miner
-entity.terraria:hostile/harpy.name=Harpy
-entity.terraria:hostile/face_monster.name=Face Monster
-entity.terraria:hostile/frozen_zombie.name=Frozen Zombie
+entity.terraria:hostile/spiked_slime.name=Шипастый слизень
+entity.terraria:hostile/meteor_head.name=Тело метеора
+entity.terraria:hostile/umbrella_slime.name=Слизень с зонтиком
+entity.terraria:hostile/creeper_minion.name=Ползун
+entity.terraria:hostile/flying_fish.name=Летучая рыба
+entity.terraria:hostile/invasions/goblin_army/peon.name=Гоблин-пехотинец
+entity.terraria:hostile/invasions/goblin_army/sorcerer.name=Гоблин-маг
+entity.terraria:hostile/invasions/goblin_army/thief.name=Гоблин-вор
+entity.terraria:hostile/invasions/goblin_army/archer.name=Гоблин-лучник
+entity.terraria:hostile/invasions/goblin_army/warrior.name=Гоблин-воин
+entity.terraria:hostile/goblin_scout.name=Гоблин-разведчик
+entity.terraria:bound_goblin.name=Связанный гоблин
+entity.terraria:hostile/baby_slime.name=Слизень-детёныш
+entity.terraria:hostile/mother_slime.name=Мать слизней
+entity.terraria:hostile/cave_bat.name=Пещерная летучая мышь
+entity.terraria:hostile/jungle_bat.name=Летучая мышь джунглей
+entity.terraria:hostile/hellbat.name=Адская летучая мышь
+entity.terraria:hostile/ice_bat.name=Ледяная летучая мышь
+entity.terraria:hostile/spore_bat.name=Споровая летучая мышь
+entity.terraria:hostile/fire_imp.name=Огненный бес
+entity.terraria:hostile/snatcher.name=Хвататель
+entity.terraria:hostile/man_eater.name=Людоед
+entity.terraria:hostile/undead_miner.name=Мертвый шахтер
+entity.terraria:hostile/harpy.name=Гарпия
+entity.terraria:hostile/face_monster.name=Лицевой монстр
+entity.terraria:hostile/frozen_zombie.name=Замороженный зомби
 
-entity.terraria:hostile/giant_worm.name=Giant Worm
-entity.terraria:hostile/giant_worm/head.name=Giant Worm Head
-entity.terraria:hostile/giant_worm/body.name=Giant Worm Body
-entity.terraria:hostile/giant_worm/tail.name=Giant Worm Tail
+entity.terraria:hostile/giant_worm.name=Гигантский червь
+entity.terraria:hostile/giant_worm/head.name=Голова гигантского червя
+entity.terraria:hostile/giant_worm/body.name=Тело гигантского червя
+entity.terraria:hostile/giant_worm/tail.name=Хвост гигантского червя
 
-entity.terraria:hostile/devourer.name=Devourer
-entity.terraria:hostile/devourer/head.name=Devourer Head
-entity.terraria:hostile/devourer/body.name=Devourer Body
-entity.terraria:hostile/devourer/tail.name=Devourer Tail
+entity.terraria:hostile/devourer.name=Пожиратель
+entity.terraria:hostile/devourer/head.name=Голова пожирателя
+entity.terraria:hostile/devourer/body.name=Тело пожирателя
+entity.terraria:hostile/devourer/tail.name=Хвост пожирателя
 
 entity.terraria:hostile/zombie.name=Зомби
 entity.terraria:zombies/normal=Зомби
@@ -3072,20 +3072,20 @@ entity.terraria:zombies/twiggy=Зомби-росток
 entity.terraria:zombies/female=Зомби-девушка
 entity.terraria:zombies/torch=Зомби с факелом
 
-entity.terraria:hostile/skeleton.name=Skeleton
-entity.terraria:skeletons/skeleton=Skeleton
-entity.terraria:skeletons/skeleton.s=Small Skeleton
-entity.terraria:skeletons/skeleton.b=Big Skeleton
-entity.terraria:skeletons/headache=Headache Skeleton
-entity.terraria:skeletons/headache.s=Small Headache Skeleton
-entity.terraria:skeletons/headache.b=Big Headache Skeleton
-entity.terraria:skeletons/misassembled=Misassembled Skeleton
-entity.terraria:skeletons/misassembled.s=Small Misassembled Skeleton
-entity.terraria:skeletons/misassembled.b=Big Misassembled Skeleton
-entity.terraria:skeletons/pantless=Pantless Skeleton
-entity.terraria:skeletons/pantless.s=Small Pantless Skeleton
-entity.terraria:skeletons/pantless.b=Big Pantless Skeleton
-entity.terraria:skeletons/spore=Spore Skeleton
+entity.terraria:hostile/skeleton.name=Скелет
+entity.terraria:skeletons/skeleton=Скелет
+entity.terraria:skeletons/skeleton.s=Маленький скелет
+entity.terraria:skeletons/skeleton.b=Большой скелет
+entity.terraria:skeletons/headache=Скелет с головной болью
+entity.terraria:skeletons/headache.s=Маленький скелет с головной болью
+entity.terraria:skeletons/headache.b=Большой скелет с головной болью
+entity.terraria:skeletons/misassembled=Вывернутый скелет
+entity.terraria:skeletons/misassembled.s=Маленький вывернутый скелет
+entity.terraria:skeletons/misassembled.b=Большой вывернутый скелет
+entity.terraria:skeletons/pantless=Скелет без штанов
+entity.terraria:skeletons/pantless.s=Маленький скелет без штанов
+entity.terraria:skeletons/pantless.b=Большой скелет без штанов
+entity.terraria:skeletons/spore=Споровый скелет
 
 entity.terraria:hornets/hornet=Шершень
 entity.terraria:hornets/hornet.s=Маленький шершень
@@ -3106,8 +3106,8 @@ entity.terraria:hornets/stingy=Жалящий шершень
 entity.terraria:hornets/stingy.s=Маленький жалящий шершень
 entity.terraria:hornets/stingy.b=Большой жалящий шершень
 
-entity.terraria:pets/glowing/shadow_orb.name=Shadow Orb
-entity.terraria:pets/glowing/crimson_heart.name=Crimson Heart
+entity.terraria:pets/glowing/shadow_orb.name=Теневая сфера
+entity.terraria:pets/glowing/crimson_heart.name=Багряное сердце
 
 entity.terraria:hostile/bosses/king_slime.name=Король слизней
 boss.terraria:hostile/bosses/king_slime.awake=Король слизней пробудился!
@@ -3121,29 +3121,29 @@ entity.terraria:hostile/bosses/queen_bee.name=Королева пчел
 boss.terraria:hostile/bosses/queen_bee.awake=Королева пчел пробудилась!
 boss.terraria:hostile/bosses/queen_bee.defeat=Королева пчел побеждена!
 
-entity.terraria:hostile/bosses/eater_of_worlds/container.name=Eater of Worlds
-entity.terraria:hostile/bosses/eater_of_worlds/part.name=Eater of Worlds
-boss.terraria:hostile/bosses/eater_of_worlds/container.awake=Eater of Worlds has awoken!
-boss.terraria:hostile/bosses/eater_of_worlds/container.defeat=Eater of Worlds has been defeated!
+entity.terraria:hostile/bosses/eater_of_worlds/container.name=Пожиратель миров
+entity.terraria:hostile/bosses/eater_of_worlds/part.name=Пожиратель миров
+boss.terraria:hostile/bosses/eater_of_worlds/container.awake=Пожиратель миров пробудился!
+boss.terraria:hostile/bosses/eater_of_worlds/container.defeat=Пожиратель миров побежден!
 
-entity.terraria:hostile/bosses/brain_of_cthulhu.name=Brain of Cthulhu
-boss.terraria:hostile/bosses/brain_of_cthulhu.awake=Brain of Cthulhu has awoken!
-boss.terraria:hostile/bosses/brain_of_cthulhu.defeat=Brain of Cthulhu has been defeated!
+entity.terraria:hostile/bosses/brain_of_cthulhu.name=Мозг Ктулху
+boss.terraria:hostile/bosses/brain_of_cthulhu.awake=Мозг Ктулху пробудился!
+boss.terraria:hostile/bosses/brain_of_cthulhu.defeat=Мозг Ктулху побежден!
 
 ####################
 
 #### INVASIONS #####
 
-invasion.terraria:cleared=Cleared %d%%
-invasion.terraria:east=east
-invasion.terraria:west=west
-invasion.terraria:south=south
-invasion.terraria:north=north
+invasion.terraria:cleared=Зачищено %d%%
+invasion.terraria:east=востока
+invasion.terraria:west=запада
+invasion.terraria:south=юга
+invasion.terraria:north=севера
 
-invasion.terraria:goblin_army.name=Goblin Army
-invasion.terraria:goblin_army.enqueue=A goblin army is approaching from the %s!
-invasion.terraria:goblin_army.arrive=A goblin army has arrived!
-invasion.terraria:goblin_army.depart=A goblin army has been defeated!
+invasion.terraria:goblin_army.name=Армия гоблинов
+invasion.terraria:goblin_army.enqueue=Армия гоблинов движется с %s!
+invasion.terraria:goblin_army.arrive=Армия гоблинов прибыла!
+invasion.terraria:goblin_army.depart=Армия гоблинов повержена!
 
 ####################
 
@@ -3154,8 +3154,8 @@ npc.terraria:ui.happiness=Счастье
 npc.terraria:ui.close=Закрыть
 npc.terraria:ui.advice=Помощь
 npc.terraria:ui.heal=Лечение
-npc.terraria:ui.crafting=Crafting
-npc.terraria:ui.reforge=Reforge
+npc.terraria:ui.crafting=Создание
+npc.terraria:ui.reforge=Перековка
 
 ## GUIDE ##
 npc.terraria:guide.name=Гид
@@ -3565,56 +3565,56 @@ npc.terraria:witch_doctor.happiness.neutral=Я — олицетворение с
 
 
 ## GOBLIN TINKERER ##
-npc.terraria:goblin_tinkerer.name=Goblin Tinkerer
-npc.terraria:goblin_tinkerer=%s the Goblin Tinkerer
-npc.terraria:goblin_tinkerer.names=Arback,Dalek,Darz,Durnok,Fahd,Fjell,Gnudar,Grodax,Knogs,Knub,Mobart,Mrunok,Negurk,Nort,Nuxatk,Ragz,Sarx,Smador,Stazen,Stezom,Tgerd,Tkanus,Trogem,Xanos,Xon
+npc.terraria:goblin_tinkerer.name=Гоблин-изобретатель
+npc.terraria:goblin_tinkerer=Гоблин-изобретатель %s
+npc.terraria:goblin_tinkerer.names=Арбак,Далек,Дарз,Дурнок,Фад,Фьёль,Гнудар,Гродакс,Ногс,Наб,Мобарт,Мрунок,Негурк,Норт,Нузатк,Рагз,Саркс,Смадор,Стацен,Стезом,Тгерд,Тканус,Трогем,Ксанос,Ксон
 
-npc.terraria:goblin_tinkerer.rescue=Thank you for freeing me, human. I was tied up and left here by the other goblins. You could say that we didn't get along very well.
-npc.terraria:goblin_tinkerer.homeless.1=I can't believe they tied me up and left me here just for pointing out that they weren't going east!
-npc.terraria:goblin_tinkerer.homeless.2=Now that I'm an outcast, can I throw away the spiked balls? My pockets hurt.
-npc.terraria:goblin_tinkerer.homeless.3=Looking for a gadgets expert? I'm your goblin!
-npc.terraria:goblin_tinkerer.homeless.4=Thanks for your help. Now, I have to finish pacing around aimlessly here. I'm sure we'll meet again.
-npc.terraria:goblin_tinkerer.homeless.5=I thought you'd be taller.
-npc.terraria:goblin_tinkerer.interact.1=Goblins are surprisingly easy to anger. In fact, they could start a war over cloth!
-npc.terraria:goblin_tinkerer.interact.2=To be honest, most goblins aren't exactly rocket scientists. Well, some are.
-npc.terraria:goblin_tinkerer.interact.3=Do you know why we all carry around these spiked balls? Because I don't.
-npc.terraria:goblin_tinkerer.interact.4=I just finished my newest creation! This version doesn't explode violently if you breathe on it too hard.
-npc.terraria:goblin_tinkerer.interact.5=Goblin thieves aren't very good at their job. They can't even steal from an unlocked chest!
-npc.terraria:goblin_tinkerer.night.1=Hey, does your hat need a motor? I think I have a motor that would fit exactly in that hat.
-npc.terraria:goblin_tinkerer.night.2=Yo, I heard you like rockets and running boots, so I put some rockets in your running boots.
-npc.terraria:goblin_tinkerer.night.3=Silence is golden. Duct tape is silver.
-npc.terraria:goblin_tinkerer.night.4=YES, gold is stronger than iron. What are they teaching these humans nowadays?
-npc.terraria:goblin_tinkerer.night.5=You know, that mining helmet-flipper combination was a much better idea on paper.
-npc.terraria:goblin_tinkerer.rain.1=All this rainfall makes it hard to see. I should tinker my goggles with a pair of windshield wipers.
-npc.terraria:goblin_tinkerer.rain.2=Humans are a lot taller than goblins. When it floods, we are always in big trouble!
-npc.terraria:goblin_tinkerer.thunderstorm.1=I'm working on an invention that will harness the energy being released around us!
-npc.terraria:goblin_tinkerer.thunderstorm.2=Most goblins hate thunderstorms. Probably because they carry so many spiky balls.
-npc.terraria:goblin_tinkerer.windyday.1=This weather is the reason why I wear goggles! I can't have dirt and sand blowing in my eyes.
-npc.terraria:goblin_tinkerer.windyday.2=Now would be a great time to tinker a pinwheel accessory!
-npc.terraria:goblin_tinkerer.graveyard.1=I'm working on a Photon Sack. It's an invention to trap all the ghasts lurking around outside!
-npc.terraria:goblin_tinkerer.graveyard.2=The constant moaning and ear-piercing screeching noises are distracting me from my work!
-npc.terraria:goblin_tinkerer.party=Goblin parties are a lot like humans. They both have games like "Pin the Blame on the Human" er... I don't play that game at my parties.
-npc.terraria:goblin_tinkerer.npc.mechanic=Hey...what's %s up to? Have you...have you talked to her, by chance?
-npc.terraria:goblin_tinkerer.npc.stylist=I tried to visit %s one time. She just looked at me and said 'nope.'
-npc.terraria:goblin_tinkerer.extra.ooa=You know, these Etherian Goblins are nothing like my people. Really rowdy bunch. Not that my people are much better...
+npc.terraria:goblin_tinkerer.rescue=Спасибо, что освободил меня, человек. Я был связан и брошен здесь другими гоблинами. Можно сказать, мы не очень ладили друг с другом.
+npc.terraria:goblin_tinkerer.homeless.1=Не могу поверить — они меня связали и бросили тут только за то, что я сказал им, что восток в другой стороне!
+npc.terraria:goblin_tinkerer.homeless.2=Теперь, когда я свободен, можно мне выкинуть эти колючие шары? У меня уже карманы болят!
+npc.terraria:goblin_tinkerer.homeless.3=Ищешь мастера-изобретателя? Я в твоём распоряжении!
+npc.terraria:goblin_tinkerer.homeless.4=Спасибо за помощь. Теперь я не буду бесцельно бродить здесь. Уверен, мы скоро встретимся вновь.
+npc.terraria:goblin_tinkerer.homeless.5=Я думал, ты будешь выше.
+npc.terraria:goblin_tinkerer.interact.1=Гоблинов очень легко разозлить. На самом деле, они могут начать войну и из-за куска тряпки!
+npc.terraria:goblin_tinkerer.interact.2=Честно говоря, большинство гоблинов не инженеры-ракетостроители. Хотя есть исключения.
+npc.terraria:goblin_tinkerer.interact.3=Не знаешь, почему мы всегда таскаем с собой эти колючие шары? Я вот без понятия.
+npc.terraria:goblin_tinkerer.interact.4=Я только что завершил моё последнее творение! Новая версия больше не взрывается, если на неё дунуть слишком сильно.
+npc.terraria:goblin_tinkerer.interact.5=Гоблины-воришки не очень хороши в своём деле. Они не могут ничего украсть даже из незапертого сундука!
+npc.terraria:goblin_tinkerer.night.1=Эй, тебе не нужна шляпа с мотором? Кажется, у меня есть мотор, который как раз влезет в эту шляпу.
+npc.terraria:goblin_tinkerer.night.2=Йоу, я слышал, ты любишь ракеты и сапоги-скороходы, так что я приделал пару ракет к твоим сапогам.
+npc.terraria:goblin_tinkerer.night.3=Молчание — золото. А липкая лента стоит серебряную монету.
+npc.terraria:goblin_tinkerer.night.4=Конечно, золото прочнее железа. Чему только вас, людей, в школе учат?
+npc.terraria:goblin_tinkerer.night.5=Знаешь, комбинация шахтёрской каски с ластами смотрелась гораздо лучше на чертежах.
+npc.terraria:goblin_tinkerer.rain.1=Этот дождь затрудняет мне обзор. Надо бы мне приделать пару стеклоочистителей к моим очкам.
+npc.terraria:goblin_tinkerer.rain.2=Люди намного выше гоблинов. Если случится наводнение, то у нас большие проблемы!
+npc.terraria:goblin_tinkerer.thunderstorm.1=Я работаю над изобретением, которое позволит обуздать энергию вокруг нас!
+npc.terraria:goblin_tinkerer.thunderstorm.2=Многие гоблины ненавидят грозу. Наверное из-за того, что они носят с собой слишком много колючих шаров.
+npc.terraria:goblin_tinkerer.windyday.1=Именно из-за такой погоды я и ношу очки! Они защищают от песка и пыли в глазах.
+npc.terraria:goblin_tinkerer.windyday.2=Сейчас самое время заняться разработкой аксессуаров-вертушек!
+npc.terraria:goblin_tinkerer.graveyard.1=Я работаю над фотонным мешком. Это изобретение поможет нам поймать всех призраков, витающих в округе!
+npc.terraria:goblin_tinkerer.graveyard.2=Эти постоянные стоны и пронзительные визги мешают мне работать!
+npc.terraria:goblin_tinkerer.party=Гоблины веселятся не так, как люди. У них есть такие развлечения, как "Свали вину на человека". Эм… Я не люблю такие игры на вечеринках.
+npc.terraria:goblin_tinkerer.npc.mechanic=Слушай… я хотел бы спросить у тебя о механике… %s… Ты с ней, случайно, не разговаривал?
+npc.terraria:goblin_tinkerer.npc.stylist=Однажды, я наведался к стилисту. %s просто посмотрела на меня и сказала 'не-а'.
+npc.terraria:goblin_tinkerer.extra.ooa=Знаешь, эти этерийские гоблины не похожи на мой народ. Просто кучка дебоширов. Не то, чтобы кто-то из моего народа был лучше…
 
 
-npc.terraria:goblin_tinkerer.happiness.homeless=Goblins don't normally need nice homes, but I'm not like most goblins.
-npc.terraria:goblin_tinkerer.happiness.home.far=I want to work on my new invention, but my house is way over there!
-npc.terraria:goblin_tinkerer.happiness.sparse=Perfect, the lack of annoying neighbors adequately meet my needs.
-npc.terraria:goblin_tinkerer.happiness.npc.overcrowded.1=There appears to be an unlikeable amount of humans gathering around me, hm?
-npc.terraria:goblin_tinkerer.happiness.npc.overcrowded.2=This crowding triggers bad memories of goblin war camps, I really hate it.
-npc.terraria:goblin_tinkerer.happiness.biome.caverns=Ahh, the Underground is a nice, quiet place to construct more gadgets. Major like-age!
-npc.terraria:goblin_tinkerer.happiness.biome.jungle=I don't like the Jungle, it is filled with loud, annoying pests that get in the way of my work!
-npc.terraria:goblin_tinkerer.happiness.evil.corruption=I hate the Corruption, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!
-npc.terraria:goblin_tinkerer.happiness.evil.crimson=I hate the Crimson, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!
-npc.terraria:goblin_tinkerer.happiness.evil.dungeon=I hate the Dungeon, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!
-npc.terraria:goblin_tinkerer.happiness.npc.mechanic=%s  makes my cardiac core function improperly, it appears I love how that feels!
-npc.terraria:goblin_tinkerer.happiness.npc.dye_trader=%s understands how fun it is to mix things together, I can respect that!
-npc.terraria:goblin_tinkerer.happiness.npc.clothier=I detect eerie vibes from %s, as if they contain dark secrets. I don't like the feeling.
-npc.terraria:goblin_tinkerer.happiness.npc.stylist=I really hate how %s humiliated me, all because male goblins cannot grow real hair!
-npc.terraria:goblin_tinkerer.happiness.npc.princess=%s likes my inventions, and says all friendly goblins are welcome!
-npc.terraria:goblin_tinkerer.happiness.neutral=Feelings are currently nominal.
+npc.terraria:goblin_tinkerer.happiness.homeless=Гоблинам обычно не нужны приличные дома, но я не такой, как большинство гоблинов.
+npc.terraria:goblin_tinkerer.happiness.home.far=Я хочу работать над моим новым изобретением, но мой дом так далеко!
+npc.terraria:goblin_tinkerer.happiness.sparse=Прекрасно, отсутствие надоедливых соседей удовлетворяет мои потребности.
+npc.terraria:goblin_tinkerer.happiness.npc.overcrowded.1=Кажется, вокруг меня собирается невероятно много людей, м?
+npc.terraria:goblin_tinkerer.happiness.npc.overcrowded.2=Столько народу вызывает во мне воспоминания о гоблинских военных лагерях, мне это очень не нравится.
+npc.terraria:goblin_tinkerer.happiness.biome.caverns=Ах, пещеры — это славное, тихое место для разработки новых гаджетов. Вечная любовь!
+npc.terraria:goblin_tinkerer.happiness.biome.jungle=Не люблю джунгли, там кишат громкие и раздражающие вредители, мешающие моей работе!
+npc.terraria:goblin_tinkerer.happiness.evil.corruption=Я ненавижу такое место, как порча, я не могу собрать все эти безделушки в одно целое в то время, как мне нужно бороться за свою жизнь!
+npc.terraria:goblin_tinkerer.happiness.evil.crimson=Я ненавижу такое место, как багрянец, я не могу собрать все эти безделушки в одно целое в то время, как мне нужно бороться за свою жизнь!
+npc.terraria:goblin_tinkerer.happiness.evil.dungeon=Я ненавижу такое место, как темница, я не могу собрать все эти безделушки в одно целое в то время, как мне нужно бороться за свою жизнь!
+npc.terraria:goblin_tinkerer.happiness.npc.mechanic=%s заставляет моё сердце работать неправильно, но, кажется, мне нравится это ощущение!
+npc.terraria:goblin_tinkerer.happiness.npc.dye_trader=%s понимает, на сколько это классно — соединять вещи вместе, моё уважение!
+npc.terraria:goblin_tinkerer.happiness.npc.clothier=Я заметил жуткие вибрации, исходящие от такого человека, как %s, будто они скрывают за собой мрачные секреты. Мне не нравится это чувство.
+npc.terraria:goblin_tinkerer.happiness.npc.stylist=Мне правда не нравится, как %s пытается унизить меня, а всё потому, что гоблины-мужчины не могут отрастить настоящие волосы!
+npc.terraria:goblin_tinkerer.happiness.npc.princess=%s любит мои изобретения, а ещё говорит, что все дружелюбные гоблины приветливые!
+npc.terraria:goblin_tinkerer.happiness.neutral=Ощущения сейчас вполне номинальны.
 
 ##################
 
