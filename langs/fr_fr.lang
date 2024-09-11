@@ -3051,6 +3051,7 @@ entity.terraria:hostile/undead_miner.name=Undead Miner
 entity.terraria:hostile/harpy.name=Harpy
 entity.terraria:hostile/face_monster.name=Face Monster
 entity.terraria:hostile/frozen_zombie.name=Frozen Zombie
+entity.terraria:hostile/lava_slime.name=Lava Slime
 
 entity.terraria:hostile/giant_worm.name=Giant Worm
 entity.terraria:hostile/giant_worm/head.name=Giant Worm Head

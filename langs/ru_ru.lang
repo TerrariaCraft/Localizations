@@ -3051,6 +3051,7 @@ entity.terraria:hostile/undead_miner.name=Мертвый шахтер
 entity.terraria:hostile/harpy.name=Гарпия
 entity.terraria:hostile/face_monster.name=Лицевой монстр
 entity.terraria:hostile/frozen_zombie.name=Замороженный зомби
+entity.terraria:hostile/lava_slime.name=Lava Slime
 
 entity.terraria:hostile/giant_worm.name=Гигантский червь
 entity.terraria:hostile/giant_worm/head.name=Голова гигантского червя
