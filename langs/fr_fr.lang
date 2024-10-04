@@ -1215,10 +1215,12 @@ tile.terraria:furniture/relics/brain_of_cthulhu.name=Brain of Cthulhu Relic
 tile.terraria:furniture/relics/queen_bee.name=Queen Bee Relic
 
 # Bathtubs #
+tile.terraria:furniture/bathtubs/living_wood.name=Living Wood Bathtub
 
 # Beds #
 tile.terraria:furniture/beds/wood.name=Bed
 tile.terraria:furniture/beds/boreal.name=Boreal Wood Bed
+tile.terraria:furniture/beds/living_wood.name=Living Wood Bed
 
 # Bookcases #
 tile.terraria:furniture/bookcases/wood.name=Bibliothèque
@@ -1239,12 +1241,14 @@ tile.terraria:furniture/bookcases/rich_mahogany.name=Rich Mahogany Bookcase
 tile.terraria:furniture/candelabras/candelabra.name=Candelabra
 tile.terraria:furniture/candelabras/platinum.name=Platinum Candelabra
 tile.terraria:furniture/candelabras/boreal.name=Boreal Wood Candelabra
+tile.terraria:furniture/candelabras/living_wood.name=Living Wood Candelabra
 
 # Candles #
 tile.terraria:furniture/candles/gold.name=Candle
 tile.terraria:furniture/candles/platinum.name=Platinum Candle
 tile.terraria:furniture/candles/water.name=Water Candle
 tile.terraria:furniture/candles/cactus.name=Cactus Candle
+tile.terraria:furniture/candles/living_wood.name=Living Wood Candle
 
 # Chairs #
 tile.terraria:furniture/chairs/wood.name=Wooden Chair
@@ -1258,6 +1262,7 @@ tile.terraria:furniture/chairs/lunar/stardust.name=Stardust Chair
 tile.terraria:furniture/chairs/lunar/vortex.name=Vortex Chair
 tile.terraria:furniture/chairs/martian.name=Martian Hover Chair
 tile.terraria:furniture/chairs/boreal.name=Boreal Chair
+tile.terraria:furniture/chairs/living_wood.name=Living Wood Chair
 
 # Chests #
 tile.terraria:furniture/chests/wood.name=Chest
@@ -1303,6 +1308,7 @@ tile.terraria:furniture/doors/rich_mahogany.name=Porte en acajou riche
 
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Boreal Wood Lamp
+tile.terraria:furniture/lamps/living_wood.name=Living Wood Lamp
 
 # Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Lanterne à chaîne
@@ -1398,8 +1404,10 @@ tile.terraria:furniture/tables/granite.name=Table en granite
 tile.terraria:furniture/tables/marble.name=Table en marbre
 tile.terraria:furniture/tables/martian.name=Martian Table
 tile.terraria:furniture/tables/boreal.name=Boreal Table
+tile.terraria:furniture/tables/living_wood.name=Living Wood Table
 
 # Toilets #
+tile.terraria:furniture/toilets/living_wood.name=Living Wood Toilet
 
 # Work Benches #
 tile.terraria:furniture/work_benches/wood.name=Établi
@@ -3052,6 +3060,8 @@ entity.terraria:hostile/harpy.name=Harpy
 entity.terraria:hostile/face_monster.name=Face Monster
 entity.terraria:hostile/frozen_zombie.name=Frozen Zombie
 entity.terraria:hostile/lava_slime.name=Lava Slime
+entity.terraria:hostile/sand_slime.name=Sand Slime
+entity.terraria:hostile/vulture.name=Vulture
 
 entity.terraria:hostile/giant_worm.name=Giant Worm
 entity.terraria:hostile/giant_worm/head.name=Giant Worm Head

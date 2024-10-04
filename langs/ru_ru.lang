@@ -1215,10 +1215,12 @@ tile.terraria:furniture/relics/brain_of_cthulhu.name=Реликвия Мозга
 tile.terraria:furniture/relics/queen_bee.name=Реликвия Королевы пчел
 
 # Bathtubs #
+tile.terraria:furniture/bathtubs/living_wood.name=Living Wood Bathtub
 
 # Beds #
 tile.terraria:furniture/beds/wood.name=Кровать
 tile.terraria:furniture/beds/boreal.name=Кровать из заснеженной древесины
+tile.terraria:furniture/beds/living_wood.name=Living Wood Bed
 
 # Bookcases #
 tile.terraria:furniture/bookcases/wood.name=Книжный шкаф
@@ -1239,12 +1241,14 @@ tile.terraria:furniture/bookcases/rich_mahogany.name=Книжный шкаф и�
 tile.terraria:furniture/candelabras/candelabra.name=Канделябр
 tile.terraria:furniture/candelabras/platinum.name=Платиновый канделябр
 tile.terraria:furniture/candelabras/boreal.name=Канделябр из заснеженной древесины
+tile.terraria:furniture/candelabras/living_wood.name=Living Wood Candelabra
 
 # Candles #
 tile.terraria:furniture/candles/gold.name=Свечка
 tile.terraria:furniture/candles/platinum.name=Платиновая свечка
 tile.terraria:furniture/candles/water.name=Водяная свечка
 tile.terraria:furniture/candles/cactus.name=Кактусовая свечка
+tile.terraria:furniture/candles/living_wood.name=Living Wood Candle
 
 # Chairs #
 tile.terraria:furniture/chairs/wood.name=Деревянный стул
@@ -1258,6 +1262,7 @@ tile.terraria:furniture/chairs/lunar/stardust.name=Стул звездной п�
 tile.terraria:furniture/chairs/lunar/vortex.name=Стул вихря
 tile.terraria:furniture/chairs/martian.name=Марсианское парящее кресло
 tile.terraria:furniture/chairs/boreal.name=Стул из заснеженной древесины
+tile.terraria:furniture/chairs/living_wood.name=Living Wood Chair
 
 # Chests #
 tile.terraria:furniture/chests/wood.name=Сундук
@@ -1303,6 +1308,7 @@ tile.terraria:furniture/doors/rich_mahogany.name=Дверь из красной 
 
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Лампа из заснеженной древесины
+tile.terraria:furniture/lamps/living_wood.name=Living Wood Lamp
 
 # Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Фонарь на цепи
@@ -1398,8 +1404,10 @@ tile.terraria:furniture/tables/granite.name=Гранитный стол
 tile.terraria:furniture/tables/marble.name=Мраморный стол
 tile.terraria:furniture/tables/martian.name=Марсианский стол
 tile.terraria:furniture/tables/boreal.name=Стол из заснеженной древесины
+tile.terraria:furniture/tables/living_wood.name=Living Wood Table
 
 # Toilets #
+tile.terraria:furniture/toilets/living_wood.name=Living Wood Toilet
 
 # Work Benches #
 tile.terraria:furniture/work_benches/wood.name=Верстак
@@ -3052,6 +3060,8 @@ entity.terraria:hostile/harpy.name=Гарпия
 entity.terraria:hostile/face_monster.name=Лицевой монстр
 entity.terraria:hostile/frozen_zombie.name=Замороженный зомби
 entity.terraria:hostile/lava_slime.name=Лавовый слизень
+entity.terraria:hostile/sand_slime.name=Sand Slime
+entity.terraria:hostile/vulture.name=Vulture
 
 entity.terraria:hostile/giant_worm.name=Гигантский червь
 entity.terraria:hostile/giant_worm/head.name=Голова гигантского червя
