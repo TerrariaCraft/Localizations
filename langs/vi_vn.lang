@@ -1250,6 +1250,10 @@ tile.terraria:furniture/candles/water.name=Water Candle
 tile.terraria:furniture/candles/cactus.name=Cactus Candle
 tile.terraria:furniture/candles/living_wood.name=Living Wood Candle
 
+# Chandeliers #
+tile.terraria:furniture/chandeliers/boreal.name=Boreal Wood Chandelier
+tile.terraria:furniture/chandeliers/living_wood.name=Living Wood Chandelier
+
 # Chairs #
 tile.terraria:furniture/chairs/wood.name=Wooden Chair
 tile.terraria:furniture/chairs/wood_2.name=Ghế Đẩu
@@ -1396,6 +1400,7 @@ tile.terraria:furniture/sofas/lunar/solar.name=Sôpha Thái Dương
 tile.terraria:furniture/sofas/lunar/stardust.name=Sôpha Sao Băng
 tile.terraria:furniture/sofas/lunar/vortex.name=Sôpha Thiên Hà
 tile.terraria:furniture/sofas/dynasty.name=Dynasty Sofa
+tile.terraria:furniture/sofas/living_wood.name=Living Wood Sofa
 
 # Tables #
 tile.terraria:furniture/tables/wood.name=Bàn

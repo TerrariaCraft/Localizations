@@ -1250,6 +1250,10 @@ tile.terraria:furniture/candles/water.name=Водяная свечка
 tile.terraria:furniture/candles/cactus.name=Кактусовая свечка
 tile.terraria:furniture/candles/living_wood.name=Living Wood Candle
 
+# Chandeliers #
+tile.terraria:furniture/chandeliers/boreal.name=Boreal Wood Chandelier
+tile.terraria:furniture/chandeliers/living_wood.name=Living Wood Chandelier
+
 # Chairs #
 tile.terraria:furniture/chairs/wood.name=Деревянный стул
 tile.terraria:furniture/chairs/wood_2.name=Барный стул
@@ -1396,6 +1400,7 @@ tile.terraria:furniture/sofas/lunar/solar.name=Солнечный диван
 tile.terraria:furniture/sofas/lunar/stardust.name=Диван звездной пыли
 tile.terraria:furniture/sofas/lunar/vortex.name=Диван вихря
 tile.terraria:furniture/sofas/dynasty.name=Родовой диван
+tile.terraria:furniture/sofas/living_wood.name=Living Wood Sofa
 
 # Tables #
 tile.terraria:furniture/tables/wood.name=Стол
