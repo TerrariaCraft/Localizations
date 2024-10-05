@@ -78,6 +78,7 @@ itemGroup.terraria:hooks=Hooks
 itemGroup.terraria:boomerangs=Boomerangs
 itemGroup.terraria:expert_accessories=Expert Mode
 itemGroup.terraria:fences=Fences
+itemGroup.terraria:watches=Watches
 
 itemGroup.terraria:crafting_stations=Crafting Stations
 itemGroup.terraria:crafting_stations.work_benches=Work Benches
@@ -586,6 +587,10 @@ item.terraria:artifacts/greedy_ring.name=Greedy Ring
 item.terraria:artifacts/flying_carpet.name=Flying Carpet
 item.terraria:artifacts/toolbelt.name=Toolbelt
 item.terraria:artifacts/compass.name=Compass
+item.terraria:artifacts/copper_watch.name=Copper Watch
+item.terraria:artifacts/tin_watch.name=Tin Watch
+item.terraria:artifacts/silver_watch.name=Silver Watch
+item.terraria:artifacts/tungsten_watch.name=Tungsten Watch
 item.terraria:artifacts/gold_watch.name=Gold Watch
 item.terraria:artifacts/platinum_watch.name=Platinum Watch
 item.terraria:artifacts/depth_meter.name=Depth Meter
@@ -1282,6 +1287,7 @@ tile.terraria:furniture/chests/mushroom.name=Mushroom Chest
 tile.terraria:furniture/chests/rich_mahogany.name=Rich Mahogany Chest
 
 # Clocks #
+tile.terraria:furniture/clocks/living_wood.name=Living Wood Clock
 
 # Doors #
 tile.terraria:furniture/doors/wood_1.name=木门
@@ -1309,6 +1315,7 @@ tile.terraria:furniture/doors/marble.name=大理石门
 tile.terraria:furniture/doors/rich_mahogany.name=红木门
 
 # Dressers #
+tile.terraria:furniture/dressers/living_wood.name=Living Wood Dresser
 
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Boreal Wood Lamp
@@ -1370,6 +1377,7 @@ tile.terraria:furniture/lanterns/lunar/vortex.name=Vortex Lantern
 tile.terraria:furniture/lanterns/lesion.name=Lesion Lantern
 
 # Pianos #
+tile.terraria:furniture/pianos/living_wood.name=Living Wood Piano
 
 # Platforms #
 tile.terraria:furniture/platforms/ebonwood.name=Ebonwood Platform
@@ -1380,6 +1388,7 @@ tile.terraria:furniture/platforms/living_wood.name=Livingwood Platform
 tile.terraria:furniture/platforms/obsidian.name=Obsidian Platform
 
 # Sinks #
+tile.terraria:furniture/sinks/living_wood.name=Living Wood Sink
 
 # Sofas #
 tile.terraria:furniture/sofas/chippys_couch.name=Chippy's Couch
@@ -2251,8 +2260,7 @@ tooltip.terraria:artifacts/coin_ring=Increases coin pickup range</br>Hitting ene
 tooltip.terraria:artifacts/flying_carpet=Allows the owner to float for a few seconds
 tooltip.terraria:artifacts/toolbelt=Increases block placement range by 1
 tooltip.terraria:artifacts/compass=Displays horizontal position
-tooltip.terraria:artifacts/gold_watch=Tells the time
-tooltip.terraria:artifacts/platinum_watch=Tells the time
+tooltip.terraria:artifacts/watch=Tells the time
 tooltip.terraria:artifacts/depth_meter=Displays depth
 tooltip.terraria:artifacts/gps=Shows position</br>Tells the time
 tooltip.terraria:artifacts/rocket_boots=Allows flight
@@ -2751,6 +2759,7 @@ chat.terraria:eye_of_cthulhu_spawn=You feel an evil presence watching you...
 chat.terraria:npc.slain=%s was slain...
 chat.terraria:npc.move_in=%s has arrived!
 chat.terraria:meteorite_landed=§h45C87C;A meteorite has landed!
+chat.terraria:time=Time: %s
 
 chat.terraria:pvp.enabled=%s has enabled PvP!
 chat.terraria:pvp.disabled=%s has disabled PvP!

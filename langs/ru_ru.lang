@@ -78,6 +78,7 @@ itemGroup.terraria:hooks=Крюки-кошки
 itemGroup.terraria:boomerangs=Бумеранги
 itemGroup.terraria:expert_accessories=Эксперт
 itemGroup.terraria:fences=Заборы
+itemGroup.terraria:watches=Watches
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -586,6 +587,10 @@ item.terraria:artifacts/greedy_ring.name=Кольцо жадности
 item.terraria:artifacts/flying_carpet.name=Ковер-самолет
 item.terraria:artifacts/toolbelt.name=Пояс с инструментами
 item.terraria:artifacts/compass.name=Компас
+item.terraria:artifacts/copper_watch.name=Copper Watch
+item.terraria:artifacts/tin_watch.name=Tin Watch
+item.terraria:artifacts/silver_watch.name=Silver Watch
+item.terraria:artifacts/tungsten_watch.name=Tungsten Watch
 item.terraria:artifacts/gold_watch.name=Золотые часы
 item.terraria:artifacts/platinum_watch.name=Платиновые часы
 item.terraria:artifacts/depth_meter.name=Глубинометр
@@ -1282,6 +1287,7 @@ tile.terraria:furniture/chests/mushroom.name=Грибной сундук
 tile.terraria:furniture/chests/rich_mahogany.name=Сундук из красной древесины
 
 # Clocks #
+tile.terraria:furniture/clocks/living_wood.name=Living Wood Clock
 
 # Doors #
 tile.terraria:furniture/doors/wood_1.name=Деревянная дверь
@@ -1309,6 +1315,7 @@ tile.terraria:furniture/doors/marble.name=Мраморная дверь
 tile.terraria:furniture/doors/rich_mahogany.name=Дверь из красной древесины
 
 # Dressers #
+tile.terraria:furniture/dressers/living_wood.name=Living Wood Dresser
 
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Лампа из заснеженной древесины
@@ -1370,6 +1377,7 @@ tile.terraria:furniture/lanterns/lunar/vortex.name=Лампа вихря
 tile.terraria:furniture/lanterns/lesion.name=Поврежденная лампа
 
 # Pianos #
+tile.terraria:furniture/pianos/living_wood.name=Living Wood Piano
 
 # Platforms #
 tile.terraria:furniture/platforms/ebonwood.name=Платформа из эбонитовой древесины
@@ -1380,6 +1388,7 @@ tile.terraria:furniture/platforms/living_wood.name=Платформа из жи�
 tile.terraria:furniture/platforms/obsidian.name=Обсидиановая платформа
 
 # Sinks #
+tile.terraria:furniture/sinks/living_wood.name=Living Wood Sink
 
 # Sofas #
 tile.terraria:furniture/sofas/chippys_couch.name=Диван Чиппи
@@ -2251,8 +2260,7 @@ tooltip.terraria:artifacts/coin_ring=Увеличивает дистанцию �
 tooltip.terraria:artifacts/flying_carpet=Позволяет владельцу парить в воздухе несколько секунд
 tooltip.terraria:artifacts/toolbelt=Увеличивает дальность размещения блоков на 1
 tooltip.terraria:artifacts/compass=Показывает горизонтальное местоположение
-tooltip.terraria:artifacts/gold_watch=Сообщает время
-tooltip.terraria:artifacts/platinum_watch=Сообщает время
+tooltip.terraria:artifacts/watch=Tells the time
 tooltip.terraria:artifacts/depth_meter=Показывает глубину
 tooltip.terraria:artifacts/gps=Показывает местоположение</br>Сообщает время
 tooltip.terraria:artifacts/rocket_boots=Позволяет летать
@@ -2751,6 +2759,7 @@ chat.terraria:eye_of_cthulhu_spawn=Вы чувствуете чьё-то зло�
 chat.terraria:npc.slain=%s убит...
 chat.terraria:npc.move_in=%s появился!
 chat.terraria:meteorite_landed=§h45C87C;Метеорит приземлился!
+chat.terraria:time=Time: %s
 
 chat.terraria:pvp.enabled=%s включил режим PvP!
 chat.terraria:pvp.disabled=%s выключил режим PvP!
