@@ -217,6 +217,9 @@ options.terraria:gore.desc=Should TerrariaCraft spawn gore particles upon killin
 options.terraria:boss_outlines=Boss Outlines
 options.terraria:boss_outlines.desc=Should bosses have a glow-like outline?
 
+options.terraria:smart_weather=Smart Weather
+options.terraria:smart_weather.desc=Should weather effects stop at full non-opaque blocks like glass?
+
 gui.terraria:building_chunks_started=Construindo Blocos...
 gui.terraria:building_chunks=Construindo Blocos... (%s/%s)
 gui.terraria:building_chunks_done=Construção de Blocos Completa.
@@ -488,6 +491,7 @@ item.terraria:weapons/magic/gem_staves/amber.name=Amber Staff
 item.terraria:weapons/magic/gem_staves/amber.name=Amber Staff
 item.terraria:weapons/magic/gem_staves/ruby.name=Ruby Staff
 item.terraria:weapons/magic/gem_staves/diamond.name=Diamond Staff
+item.terraria:weapons/magic/vilethorn.name=Vilethorn
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Band of Regeneration
@@ -2436,6 +2440,7 @@ tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernke
 tooltip.terraria:potions/ale='Down the hatch!'
 tooltip.terraria:armor/wizard/hat=5%% increased magic damage
 tooltip.terraria:beenade=Explodes into a swarm of bees
+tooltip.terraria:weapons/magic/vilethorn=Summons a vile thorn
 
 tooltip.terraria:encumbering_stone=Prevents item pickups while locked</br>Right click to unlock</br>'You are over-encumbered'
 tooltip.terraria:uncumbering_stone=Prevents item pickups while locked</br>Right click to lock</br>'You are over-encumbered'

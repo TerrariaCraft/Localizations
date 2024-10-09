@@ -217,6 +217,9 @@ options.terraria:gore.desc=Должен ли TerrariaCraft создавать ч
 options.terraria:boss_outlines=Обводка боссов
 options.terraria:boss_outlines.desc=Должны ли боссы иметь подсвечивающуюся обводку?
 
+options.terraria:smart_weather=Smart Weather
+options.terraria:smart_weather.desc=Should weather effects stop at full non-opaque blocks like glass?
+
 gui.terraria:building_chunks_started=Строительство чанков...
 gui.terraria:building_chunks=Строительство чанков... (%s/%s)
 gui.terraria:building_chunks_done=Строительство чанков завершено.
@@ -488,6 +491,7 @@ item.terraria:weapons/magic/gem_staves/amber.name=Янтарный посох
 item.terraria:weapons/magic/gem_staves/amber.name=Янтарный посох
 item.terraria:weapons/magic/gem_staves/ruby.name=Рубиновый посох
 item.terraria:weapons/magic/gem_staves/diamond.name=Алмазный посох
+item.terraria:weapons/magic/vilethorn.name=Vilethorn
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
@@ -2436,6 +2440,7 @@ tooltip.terraria:materials/defender_medal=Валюта для торговли �
 tooltip.terraria:potions/ale='До дна!'
 tooltip.terraria:armor/wizard/hat=Увеличивает магический урон на 5%%
 tooltip.terraria:beenade=Взрывается роем пчел
+tooltip.terraria:weapons/magic/vilethorn=Summons a vile thorn
 
 tooltip.terraria:encumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы разблокировать</br>'Вы перегружены'
 tooltip.terraria:uncumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы заблокировать</br>'Вы перегружены'
