@@ -78,7 +78,7 @@ itemGroup.terraria:hooks=Крюки-кошки
 itemGroup.terraria:boomerangs=Бумеранги
 itemGroup.terraria:expert_accessories=Эксперт
 itemGroup.terraria:fences=Заборы
-itemGroup.terraria:watches=Watches
+itemGroup.terraria:watches=Часы
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -217,8 +217,8 @@ options.terraria:gore.desc=Должен ли TerrariaCraft создавать ч
 options.terraria:boss_outlines=Обводка боссов
 options.terraria:boss_outlines.desc=Должны ли боссы иметь подсвечивающуюся обводку?
 
-options.terraria:smart_weather=Smart Weather
-options.terraria:smart_weather.desc=Should weather effects stop at full non-opaque blocks like glass?
+options.terraria:smart_weather=Умная погода
+options.terraria:smart_weather.desc=Должны ли эффекты погоды переставать отображаться за полными прозрачными блоками, такими как стекло?
 
 gui.terraria:building_chunks_started=Строительство чанков...
 gui.terraria:building_chunks=Строительство чанков... (%s/%s)
@@ -491,7 +491,7 @@ item.terraria:weapons/magic/gem_staves/amber.name=Янтарный посох
 item.terraria:weapons/magic/gem_staves/amber.name=Янтарный посох
 item.terraria:weapons/magic/gem_staves/ruby.name=Рубиновый посох
 item.terraria:weapons/magic/gem_staves/diamond.name=Алмазный посох
-item.terraria:weapons/magic/vilethorn.name=Vilethorn
+item.terraria:weapons/magic/vilethorn.name=Мерзкая колючка
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
@@ -591,10 +591,10 @@ item.terraria:artifacts/greedy_ring.name=Кольцо жадности
 item.terraria:artifacts/flying_carpet.name=Ковер-самолет
 item.terraria:artifacts/toolbelt.name=Пояс с инструментами
 item.terraria:artifacts/compass.name=Компас
-item.terraria:artifacts/copper_watch.name=Copper Watch
-item.terraria:artifacts/tin_watch.name=Tin Watch
-item.terraria:artifacts/silver_watch.name=Silver Watch
-item.terraria:artifacts/tungsten_watch.name=Tungsten Watch
+item.terraria:artifacts/copper_watch.name=Медные часы
+item.terraria:artifacts/tin_watch.name=Оловянные часы
+item.terraria:artifacts/silver_watch.name=Серебряные часы
+item.terraria:artifacts/tungsten_watch.name=Вольфрамовые часы
 item.terraria:artifacts/gold_watch.name=Золотые часы
 item.terraria:artifacts/platinum_watch.name=Платиновые часы
 item.terraria:artifacts/depth_meter.name=Глубинометр
@@ -1224,12 +1224,12 @@ tile.terraria:furniture/relics/brain_of_cthulhu.name=Реликвия Мозга
 tile.terraria:furniture/relics/queen_bee.name=Реликвия Королевы пчел
 
 # Bathtubs #
-tile.terraria:furniture/bathtubs/living_wood.name=Living Wood Bathtub
+tile.terraria:furniture/bathtubs/living_wood.name=Ванна из живого дерева
 
 # Beds #
 tile.terraria:furniture/beds/wood.name=Кровать
 tile.terraria:furniture/beds/boreal.name=Кровать из заснеженной древесины
-tile.terraria:furniture/beds/living_wood.name=Living Wood Bed
+tile.terraria:furniture/beds/living_wood.name=Кровать из живого дерева
 
 # Bookcases #
 tile.terraria:furniture/bookcases/wood.name=Книжный шкаф
@@ -1238,7 +1238,7 @@ tile.terraria:furniture/bookcases/slime.name=Гелевый книжный шк�
 tile.terraria:furniture/bookcases/shadewood.name=Книжный шкаф из теневой древесины
 tile.terraria:furniture/bookcases/blue_dungeon.name=Синий книжный шкаф темницы
 tile.terraria:furniture/bookcases/cactus.name=Кактусовый книжный шкаф
-tile.terraria:furniture/bookcases/living_wood.name=Книжный шкаф из живой древесины
+tile.terraria:furniture/bookcases/living_wood.name=Книжный шкаф из живого дерева
 tile.terraria:furniture/bookcases/skyware.name=Небесный книжный шкаф
 tile.terraria:furniture/bookcases/mushroom.name=Грибной книжный шкаф
 tile.terraria:furniture/bookcases/sandstone.name=Книжный шкаф из песчаника
@@ -1250,18 +1250,18 @@ tile.terraria:furniture/bookcases/rich_mahogany.name=Книжный шкаф и�
 tile.terraria:furniture/candelabras/candelabra.name=Канделябр
 tile.terraria:furniture/candelabras/platinum.name=Платиновый канделябр
 tile.terraria:furniture/candelabras/boreal.name=Канделябр из заснеженной древесины
-tile.terraria:furniture/candelabras/living_wood.name=Living Wood Candelabra
+tile.terraria:furniture/candelabras/living_wood.name=Канделябр из живого дерева
 
 # Candles #
 tile.terraria:furniture/candles/gold.name=Свечка
 tile.terraria:furniture/candles/platinum.name=Платиновая свечка
 tile.terraria:furniture/candles/water.name=Водяная свечка
 tile.terraria:furniture/candles/cactus.name=Кактусовая свечка
-tile.terraria:furniture/candles/living_wood.name=Living Wood Candle
+tile.terraria:furniture/candles/living_wood.name=Свеча из живого дерева
 
 # Chandeliers #
-tile.terraria:furniture/chandeliers/boreal.name=Boreal Wood Chandelier
-tile.terraria:furniture/chandeliers/living_wood.name=Living Wood Chandelier
+tile.terraria:furniture/chandeliers/boreal.name=Люстра из заснеженной древесины
+tile.terraria:furniture/chandeliers/living_wood.name=Люстра из живого дерева
 
 # Chairs #
 tile.terraria:furniture/chairs/wood.name=Деревянный стул
@@ -1275,13 +1275,13 @@ tile.terraria:furniture/chairs/lunar/stardust.name=Стул звездной п�
 tile.terraria:furniture/chairs/lunar/vortex.name=Стул вихря
 tile.terraria:furniture/chairs/martian.name=Марсианское парящее кресло
 tile.terraria:furniture/chairs/boreal.name=Стул из заснеженной древесины
-tile.terraria:furniture/chairs/living_wood.name=Living Wood Chair
+tile.terraria:furniture/chairs/living_wood.name=Стул из живого дерева
 
 # Chests #
 tile.terraria:furniture/chests/wood.name=Сундук
 tile.terraria:furniture/chests/gold.name=Золотой сундук
 tile.terraria:furniture/chests/frozen.name=Ледяной сундук
-tile.terraria:furniture/chests/living_wood.name=Сундук из живой древесины
+tile.terraria:furniture/chests/living_wood.name=Сундук из живого дерева
 tile.terraria:furniture/chests/shadow.name=Теневой сундук
 tile.terraria:furniture/chests/ivy.name=Увитый плющом сундук
 tile.terraria:furniture/chests/water.name=Водный сундук
@@ -1291,7 +1291,7 @@ tile.terraria:furniture/chests/mushroom.name=Грибной сундук
 tile.terraria:furniture/chests/rich_mahogany.name=Сундук из красной древесины
 
 # Clocks #
-tile.terraria:furniture/clocks/living_wood.name=Living Wood Clock
+tile.terraria:furniture/clocks/living_wood.name=Часы из живого дерева
 
 # Doors #
 tile.terraria:furniture/doors/wood_1.name=Деревянная дверь
@@ -1299,7 +1299,7 @@ tile.terraria:furniture/doors/wood.name=Деревянная дверь
 tile.terraria:furniture/doors/cactus.name=Кактусовая дверь
 tile.terraria:furniture/doors/glass.name=Стеклянная дверь
 tile.terraria:furniture/doors/ebonwood.name=Дверь из эбонитовой древесины
-tile.terraria:furniture/doors/living_wood.name=Дверь из живой древесины
+tile.terraria:furniture/doors/living_wood.name=Дверь из живого дерева
 tile.terraria:furniture/doors/mushroom.name=Грибная дверь
 tile.terraria:furniture/doors/skyware.name=Небесная дверь
 tile.terraria:furniture/doors/pumpkin.name=Тыквеная дверь
@@ -1319,11 +1319,11 @@ tile.terraria:furniture/doors/marble.name=Мраморная дверь
 tile.terraria:furniture/doors/rich_mahogany.name=Дверь из красной древесины
 
 # Dressers #
-tile.terraria:furniture/dressers/living_wood.name=Living Wood Dresser
+tile.terraria:furniture/dressers/living_wood.name=Комод из живого дерева
 
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Лампа из заснеженной древесины
-tile.terraria:furniture/lamps/living_wood.name=Living Wood Lamp
+tile.terraria:furniture/lamps/living_wood.name=Лампа из живого дерева
 
 # Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Фонарь на цепи
@@ -1381,18 +1381,18 @@ tile.terraria:furniture/lanterns/lunar/vortex.name=Лампа вихря
 tile.terraria:furniture/lanterns/lesion.name=Поврежденная лампа
 
 # Pianos #
-tile.terraria:furniture/pianos/living_wood.name=Living Wood Piano
+tile.terraria:furniture/pianos/living_wood.name=Пианино из живого дерева
 
 # Platforms #
 tile.terraria:furniture/platforms/ebonwood.name=Платформа из эбонитовой древесины
 tile.terraria:furniture/platforms/wood.name=Деревянная платформа
 tile.terraria:furniture/platforms/rich_mahogany.name=Платформа из красного дерева
 tile.terraria:furniture/platforms/shadewood.name=Платформа из теневой древесины
-tile.terraria:furniture/platforms/living_wood.name=Платформа из живой древесины
+tile.terraria:furniture/platforms/living_wood.name=Платформа из живого дерева
 tile.terraria:furniture/platforms/obsidian.name=Обсидиановая платформа
 
 # Sinks #
-tile.terraria:furniture/sinks/living_wood.name=Living Wood Sink
+tile.terraria:furniture/sinks/living_wood.name=Раковина из живого дерева
 
 # Sofas #
 tile.terraria:furniture/sofas/chippys_couch.name=Диван Чиппи
@@ -1413,7 +1413,7 @@ tile.terraria:furniture/sofas/lunar/solar.name=Солнечный диван
 tile.terraria:furniture/sofas/lunar/stardust.name=Диван звездной пыли
 tile.terraria:furniture/sofas/lunar/vortex.name=Диван вихря
 tile.terraria:furniture/sofas/dynasty.name=Родовой диван
-tile.terraria:furniture/sofas/living_wood.name=Living Wood Sofa
+tile.terraria:furniture/sofas/living_wood.name=Диван из живого дерева
 
 # Tables #
 tile.terraria:furniture/tables/wood.name=Стол
@@ -1422,10 +1422,10 @@ tile.terraria:furniture/tables/granite.name=Гранитный стол
 tile.terraria:furniture/tables/marble.name=Мраморный стол
 tile.terraria:furniture/tables/martian.name=Марсианский стол
 tile.terraria:furniture/tables/boreal.name=Стол из заснеженной древесины
-tile.terraria:furniture/tables/living_wood.name=Living Wood Table
+tile.terraria:furniture/tables/living_wood.name=Стол из живого дерева
 
 # Toilets #
-tile.terraria:furniture/toilets/living_wood.name=Living Wood Toilet
+tile.terraria:furniture/toilets/living_wood.name=Унитаз из живого дерева
 
 # Work Benches #
 tile.terraria:furniture/work_benches/wood.name=Верстак
@@ -1442,7 +1442,7 @@ tile.terraria:furniture/work_benches/honey.name=Медовый верстак
 tile.terraria:furniture/work_benches/palm.name=Верстак из пальмовой древесины
 tile.terraria:furniture/work_benches/glass.name=Стеклянный верстак
 tile.terraria:furniture/work_benches/lihzahrd.name=Верстак ящщеров
-tile.terraria:furniture/work_benches/living_wood.name=Верстак из живой древесины
+tile.terraria:furniture/work_benches/living_wood.name=Верстак из живого дерева
 tile.terraria:furniture/work_benches/flesh.name=Верстак из плоти
 tile.terraria:furniture/work_benches/skyware.name=Небесный верстак
 tile.terraria:furniture/work_benches/marble.name=Мраморный верстак
@@ -2264,7 +2264,7 @@ tooltip.terraria:artifacts/coin_ring=Увеличивает дистанцию �
 tooltip.terraria:artifacts/flying_carpet=Позволяет владельцу парить в воздухе несколько секунд
 tooltip.terraria:artifacts/toolbelt=Увеличивает дальность размещения блоков на 1
 tooltip.terraria:artifacts/compass=Показывает горизонтальное местоположение
-tooltip.terraria:artifacts/watch=Tells the time
+tooltip.terraria:artifacts/watch=Сообщает время
 tooltip.terraria:artifacts/depth_meter=Показывает глубину
 tooltip.terraria:artifacts/gps=Показывает местоположение</br>Сообщает время
 tooltip.terraria:artifacts/rocket_boots=Позволяет летать
@@ -2440,7 +2440,7 @@ tooltip.terraria:materials/defender_medal=Валюта для торговли �
 tooltip.terraria:potions/ale='До дна!'
 tooltip.terraria:armor/wizard/hat=Увеличивает магический урон на 5%%
 tooltip.terraria:beenade=Взрывается роем пчел
-tooltip.terraria:weapons/magic/vilethorn=Summons a vile thorn
+tooltip.terraria:weapons/magic/vilethorn=Выпускает мерзкую колючку
 
 tooltip.terraria:encumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы разблокировать</br>'Вы перегружены'
 tooltip.terraria:uncumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы заблокировать</br>'Вы перегружены'
@@ -2763,9 +2763,9 @@ chat.terraria:spawn_point.remove=Точка возрождения удален�
 chat.terraria:eye_of_cthulhu_spawn=Вы чувствуете чьё-то злобное внимание...
 chat.terraria:npc.slain=%s убит...
 chat.terraria:npc.move_in=%s появился!
-chat.terraria:meteorite_falling=§h45C87C;You feel the air getting warmer...
-chat.terraria:meteorite_landed=§h45C87C;Метеорит приземлился!
-chat.terraria:time=Time: %s
+chat.terraria:meteorite_falling=§h45C87C;Вы чувствуете как воздух стал жарче...
+chat.terraria:meteorite_landed=§h45C87C;Упал метеорит!
+chat.terraria:time=Время: %s
 
 chat.terraria:pvp.enabled=%s включил режим PvP!
 chat.terraria:pvp.disabled=%s выключил режим PvP!
@@ -3080,8 +3080,8 @@ entity.terraria:hostile/harpy.name=Гарпия
 entity.terraria:hostile/face_monster.name=Лицевой монстр
 entity.terraria:hostile/frozen_zombie.name=Замороженный зомби
 entity.terraria:hostile/lava_slime.name=Лавовый слизень
-entity.terraria:hostile/sand_slime.name=Sand Slime
-entity.terraria:hostile/vulture.name=Vulture
+entity.terraria:hostile/sand_slime.name=Песчаный слизень
+entity.terraria:hostile/vulture.name=Стервятник
 
 entity.terraria:hostile/giant_worm.name=Гигантский червь
 entity.terraria:hostile/giant_worm/head.name=Голова гигантского червя
