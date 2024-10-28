@@ -1276,6 +1276,7 @@ tile.terraria:furniture/chairs/lunar/vortex.name=Стул вихря
 tile.terraria:furniture/chairs/martian.name=Марсианское парящее кресло
 tile.terraria:furniture/chairs/boreal.name=Стул из заснеженной древесины
 tile.terraria:furniture/chairs/living_wood.name=Стул из живого дерева
+tile.terraria:furniture/chairs/pumpkin.name=Pumpkin Chair
 
 # Chests #
 tile.terraria:furniture/chests/wood.name=Сундук
@@ -1426,6 +1427,7 @@ tile.terraria:furniture/tables/living_wood.name=Стол из живого де�
 
 # Toilets #
 tile.terraria:furniture/toilets/living_wood.name=Унитаз из живого дерева
+tile.terraria:furniture/toilets/pumpkin.name=Pumpkin Toilet
 
 # Work Benches #
 tile.terraria:furniture/work_benches/wood.name=Верстак
@@ -1897,6 +1899,8 @@ tile.terraria:trophies/brain_of_cthulhu.name=Трофей Мозга Ктулх�
 tile.terraria:pin_wheel.name=Вертушка на палочке
 tile.terraria:hay.name=Сено
 tile.terraria:statues/bat.name=Статуя летучей мыши
+tile.terraria:pumpkin.name=Pumpkin
+tile.terraria:plants/pumpkin.name=Pumpkin Seed
 
 ##################
 

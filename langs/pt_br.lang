@@ -1276,6 +1276,7 @@ tile.terraria:furniture/chairs/lunar/vortex.name=Vortex Chair
 tile.terraria:furniture/chairs/martian.name=Martian Hover Chair
 tile.terraria:furniture/chairs/boreal.name=Boreal Chair
 tile.terraria:furniture/chairs/living_wood.name=Living Wood Chair
+tile.terraria:furniture/chairs/pumpkin.name=Pumpkin Chair
 
 # Chests #
 tile.terraria:furniture/chests/wood.name=Chest
@@ -1426,6 +1427,7 @@ tile.terraria:furniture/tables/living_wood.name=Living Wood Table
 
 # Toilets #
 tile.terraria:furniture/toilets/living_wood.name=Living Wood Toilet
+tile.terraria:furniture/toilets/pumpkin.name=Pumpkin Toilet
 
 # Work Benches #
 tile.terraria:furniture/work_benches/wood.name=Work Bench
@@ -1897,6 +1899,8 @@ tile.terraria:trophies/brain_of_cthulhu.name=Brain of Cthulhu Trophy
 tile.terraria:pin_wheel.name=Pin Wheel
 tile.terraria:hay.name=Hay
 tile.terraria:statues/bat.name=Bat Statue
+tile.terraria:pumpkin.name=Pumpkin
+tile.terraria:plants/pumpkin.name=Pumpkin Seed
 
 ##################
 
