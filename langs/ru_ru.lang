@@ -2282,6 +2282,7 @@ tooltip.terraria:artifacts/dunerider_boots=Носитель может бега�
 tooltip.terraria:artifacts/honey_comb=При уроне выпускает пчел и погружает владельца в мед
 tooltip.terraria:artifacts/stinger_necklace=Увеличивает пробивание брони на 5</br>При уроне выпускает пчел и погружает владельца в мед
 tooltip.terraria:artifacts/sweetheart_necklace=При уроне выпускает пчел, погружает владельца в мед и увеличивает скорость передвижения
+tooltip.terraria:artifacts/feral_claws=Enables auto swing for melee weapons
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Позволяет игрока бросаться на врагов</br>Дважды коснитесь нужного направления
 tooltip.terraria:artifacts/expert/worm_scarf=Получаемый урон снижен на 17%%
