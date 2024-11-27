@@ -236,6 +236,7 @@ gui.terraria:quick_action.deposit_all=Deposit All
 gui.terraria:quick_action.quick_stack=Quick Stack
 gui.terraria:quick_action.restock=Restock
 gui.terraria:quick_action.sort_items=Sort Items
+gui.terraria:loadout=Loadout %s
 
 gui.terraria:waiting_for_character=Waiting for character...
 gui.terraria:last_character_save=Character %s was saved %s ago.
