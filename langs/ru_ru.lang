@@ -230,6 +230,12 @@ gui.terraria:on=ВКЛ
 gui.terraria:off=ВЫКЛ
 gui.terraria:visible=Visible
 gui.terraria:hidden=Hidden
+gui.terraria:quick_stack_n=Quick Stack to Nearby Chests
+gui.terraria:quick_action.loot_all=Loot All
+gui.terraria:quick_action.deposit_all=Deposit All
+gui.terraria:quick_action.quick_stack=Quick Stack
+gui.terraria:quick_action.restock=Restock
+gui.terraria:quick_action.sort_items=Sort Items
 
 gui.terraria:waiting_for_character=Ожидание персонажа...
 gui.terraria:last_character_save=Персонаж %s был сохранен %s назад.
