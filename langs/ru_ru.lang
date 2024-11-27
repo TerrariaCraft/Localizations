@@ -228,6 +228,8 @@ gui.terraria:world_size=Размер мира: %s
 gui.terraria:changeexpert=Эксперт: %s
 gui.terraria:on=ВКЛ
 gui.terraria:off=ВЫКЛ
+gui.terraria:visible=Visible
+gui.terraria:hidden=Hidden
 
 gui.terraria:waiting_for_character=Ожидание персонажа...
 gui.terraria:last_character_save=Персонаж %s был сохранен %s назад.

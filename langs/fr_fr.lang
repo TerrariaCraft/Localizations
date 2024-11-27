@@ -228,6 +228,8 @@ gui.terraria:world_size=Taille du Monde: %s
 gui.terraria:changeexpert=Mode Expert: %s
 gui.terraria:on=Activé
 gui.terraria:off=Désactivé
+gui.terraria:visible=Visible
+gui.terraria:hidden=Hidden
 
 gui.terraria:waiting_for_character=Waiting for character...
 gui.terraria:last_character_save=Character %s was saved %s ago.

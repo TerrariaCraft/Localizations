@@ -228,6 +228,8 @@ gui.terraria:world_size=Kích cỡ thế giới: %s
 gui.terraria:changeexpert=Chế độ chuyên gia: %s
 gui.terraria:on=BẬT
 gui.terraria:off=TẮT
+gui.terraria:visible=Visible
+gui.terraria:hidden=Hidden
 
 gui.terraria:waiting_for_character=Waiting for character...
 gui.terraria:last_character_save=Character %s was saved %s ago.
