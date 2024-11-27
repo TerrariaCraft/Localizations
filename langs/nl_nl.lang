@@ -228,6 +228,15 @@ gui.terraria:world_size=Wereld Grotte: %s
 gui.terraria:changeexpert=Expert Modus: %s
 gui.terraria:on=AAN
 gui.terraria:off=UIT
+gui.terraria:visible=Visible
+gui.terraria:hidden=Hidden
+gui.terraria:quick_stack_n=Quick Stack to Nearby Chests
+gui.terraria:quick_action.loot_all=Loot All
+gui.terraria:quick_action.deposit_all=Deposit All
+gui.terraria:quick_action.quick_stack=Quick Stack
+gui.terraria:quick_action.restock=Restock
+gui.terraria:quick_action.sort_items=Sort Items
+gui.terraria:loadout=Loadout %s
 
 gui.terraria:waiting_for_character=Waiting for character...
 gui.terraria:last_character_save=Character %s was saved %s ago.
@@ -963,6 +972,7 @@ item.terraria:armor/fossil/legs.name=Fossil Greaves
 
 # Unit Armor
 item.terraria:armor/wizard/hat.name=Wizard Hat
+item.terraria:armor/goggles.name=Goggles
 
 # Vanity Armor
 item.terraria:armor/vanity/sunglasses.name=Sunglasses
