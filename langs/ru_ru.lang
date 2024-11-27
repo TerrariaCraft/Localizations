@@ -972,6 +972,7 @@ item.terraria:armor/fossil/legs.name=Ископаемые ботинки
 
 # Unit Armor
 item.terraria:armor/wizard/hat.name=Шляпа колдуна
+item.terraria:armor/goggles.name=Goggles
 
 # Vanity Armor
 item.terraria:armor/vanity/sunglasses.name=Солнцезащитные очки
