@@ -2583,6 +2583,9 @@ achievement.terraria:heavy_metal.desc=Obtain an anvil made from iron or lead.
 achievement.terraria:star_power.name=Star Power
 achievement.terraria:star_power.desc=Craft a mana crystal out of fallen stars, and consume it.
 
+achievement.terraria:hold_on_tight.name=Hold on Tight!
+achievement.terraria:hold_on_tight.desc=Equip your first grappling hook.
+
 achievement.terraria:its_hard.name=It's Hard!
 achievement.terraria:its_hard.desc=Unleash the ancient spirits of light and darkness across your world, enabling much stronger foes and showering the world with dazzling treasures (and rainbows!).
 
@@ -2666,6 +2669,9 @@ achievement.terraria:eye_on_you.desc=Defeat the Eye of Cthulhu, an ocular menace
 
 achievement.terraria:sting_operation.name=Sting Operation
 achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of the jungle hives.
+
+achievement.terraria:boned.name=Boned
+achievement.terraria:boned.desc=Defeat Skeletron, the cursed guardian of the dungeon.
 
 achievement.terraria:wheres_my_honey.name=Where's My Honey?
 achievement.terraria:wheres_my_honey.desc=Discover a large bee's hive deep in the jungle.

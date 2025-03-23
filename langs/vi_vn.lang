@@ -2583,6 +2583,9 @@ achievement.terraria:heavy_metal.desc=Chế tạo một cái đe từ Sắt ho�
 achievement.terraria:star_power.name=Năng lượng từ những vì sao
 achievement.terraria:star_power.desc=Chế tạo Pha Lê Mana và hấp thụ nó.
 
+achievement.terraria:hold_on_tight.name=Hold on Tight!
+achievement.terraria:hold_on_tight.desc=Equip your first grappling hook.
+
 achievement.terraria:its_hard.name=Thật khó nhằn!
 achievement.terraria:its_hard.desc=Giải phóng linh hồn cổ đại của ánh sáng và màn đêm, tạo nên những quái vật hùng mạnh và trút xuống thế giới những kho báu lấp lánh (à cả cầu vồng nữa!).
 
@@ -2666,6 +2669,9 @@ achievement.terraria:eye_on_you.desc=Tiêu diệt mắt Cthulhu, con quái vật
 
 achievement.terraria:sting_operation.name=Sting Operation
 achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of the jungle hives.
+
+achievement.terraria:boned.name=Boned
+achievement.terraria:boned.desc=Defeat Skeletron, the cursed guardian of the dungeon.
 
 achievement.terraria:wheres_my_honey.name=Where's My Honey?
 achievement.terraria:wheres_my_honey.desc=Discover a large bee's hive deep in the jungle.

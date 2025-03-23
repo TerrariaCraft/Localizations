@@ -2583,6 +2583,9 @@ achievement.terraria:heavy_metal.desc=Consigue un yunque de hierro o plomo.
 achievement.terraria:star_power.name=Poder estelar
 achievement.terraria:star_power.desc=Crea un cristal de maná hecho de estrellas caídas y consúmelo.
 
+achievement.terraria:hold_on_tight.name=Hold on Tight!
+achievement.terraria:hold_on_tight.desc=Equip your first grappling hook.
+
 achievement.terraria:its_hard.name=¡Qué duro!
 achievement.terraria:its_hard.desc=Desata los antiguos espíritus de la luz y la oscuridad en tu mundo, habilitando enemigos mucho más fuertes y regando el mundo con deslumbrantes tesoros (¡y arcoíris!).
 
@@ -2666,6 +2669,9 @@ achievement.terraria:eye_on_you.desc=Derrota al Ojo de Cthulhu, una amenaza ocul
 
 achievement.terraria:sting_operation.name=Sting Operation
 achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of the jungle hives.
+
+achievement.terraria:boned.name=Boned
+achievement.terraria:boned.desc=Defeat Skeletron, the cursed guardian of the dungeon.
 
 achievement.terraria:wheres_my_honey.name=Where's My Honey?
 achievement.terraria:wheres_my_honey.desc=Discover a large bee's hive deep in the jungle.

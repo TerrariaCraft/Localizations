@@ -2583,6 +2583,9 @@ achievement.terraria:heavy_metal.desc=Получите наковальню из
 achievement.terraria:star_power.name=Звездная сила
 achievement.terraria:star_power.desc=Создайте и примените кристалл маны.
 
+achievement.terraria:hold_on_tight.name=Hold on Tight!
+achievement.terraria:hold_on_tight.desc=Equip your first grappling hook.
+
 achievement.terraria:its_hard.name=Это сложно!
 achievement.terraria:its_hard.desc=Разблокируйте режим Хардмод, впустив в свой мир духов света и тьмы.
 
@@ -2666,6 +2669,9 @@ achievement.terraria:eye_on_you.desc=Победите глаз Ктулху, г�
 
 achievement.terraria:sting_operation.name=Операция «Жало»
 achievement.terraria:sting_operation.desc=Победите Королеву пчел—повелительницу ульев в джунглях.
+
+achievement.terraria:boned.name=Boned
+achievement.terraria:boned.desc=Defeat Skeletron, the cursed guardian of the dungeon.
 
 achievement.terraria:wheres_my_honey.name=Где мистер Мед?
 achievement.terraria:wheres_my_honey.desc=Найдите большой пчелиный улей в глубине джунглей.

@@ -2583,6 +2583,9 @@ achievement.terraria:heavy_metal.desc=获得由铁或铅制成的砧子。
 achievement.terraria:star_power.name=星之魔力
 achievement.terraria:star_power.desc=使用坠落之星制作魔力水晶并使用它。
 
+achievement.terraria:hold_on_tight.name=Hold on Tight!
+achievement.terraria:hold_on_tight.desc=Equip your first grappling hook.
+
 achievement.terraria:its_hard.name=举步维艰！
 achievement.terraria:its_hard.desc=在你的世界里释放古老的光明与黑暗之魂，打败无比强大的敌人，利用耀眼夺目的宝藏（和彩虹！）净化世界。
 
@@ -2666,6 +2669,9 @@ achievement.terraria:eye_on_you.desc=Defeat the Eye of Cthulhu, an ocular menace
 
 achievement.terraria:sting_operation.name=Sting Operation
 achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of the jungle hives.
+
+achievement.terraria:boned.name=Boned
+achievement.terraria:boned.desc=Defeat Skeletron, the cursed guardian of the dungeon.
 
 achievement.terraria:wheres_my_honey.name=Where's My Honey?
 achievement.terraria:wheres_my_honey.desc=Discover a large bee's hive deep in the jungle.
