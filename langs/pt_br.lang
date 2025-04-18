@@ -226,7 +226,7 @@ gui.terraria:building_chunks=Construindo Blocos... (%s/%s)
 gui.terraria:building_chunks_done=Construção de Blocos Completa.
 gui.terraria:changecurse=Mudar a Maldição do Mundo
 gui.terraria:world_size=Tamanho do Mundo: %s
-gui.terraria:changeexpert:Modo Expert: %s
+gui.terraria:changeexpert=Modo Expert: %s
 gui.terraria:on=LIGADO
 gui.terraria:off=DESLIGADO
 gui.terraria:visible=Visível
@@ -1466,7 +1466,7 @@ tile.terraria:furniture/work_benches/spooky.name=Bancada de Trabalho Assustadora
 tile.terraria:furniture/work_benches/obsidian.name=Bancada de Trabalho de Obsidiana
 
 # Fences #
-tile.terraria:furniture/fences/wood.name= cerca de Madeira
+tile.terraria:furniture/fences/wood.name=cerca de Madeira
 
 # Fountains #
 tile.terraria:furniture/fountains/pure_water.name=Fonte de Água Pura
@@ -1851,7 +1851,7 @@ tile.terraria:bricks/pink.name=Bloco Rosa
 tile.terraria:mushroom_green.name=Cogumelo Verde
 tile.terraria:mushroom_teal.name=Cogumelo Teal
 tile.terraria:dye_vat.name=Cilindro de Tingimento
-tile.terraria:bowl.name= Tigela
+tile.terraria:bowl.name=Tigela
 tile.terraria:seashell.name=Concha
 tile.terraria:starfish.name=Estrela do Mar
 tile.terraria:glass_bowl.name=Tigela de Vidro
@@ -2794,7 +2794,6 @@ item_flags.terraria.ecto_mist=Nevoa Ectoplasmática
 
 ######BIOMAS######
 
-```properties
 tbiome.terraria:corruption=Corrupção
 tbiome.terraria:crimson=Crimson
 tbiome.terraria:desert=Deserto
@@ -2821,7 +2820,6 @@ tbiome.terraria:frozen_ocean=Oceano Congelado
 
 ######PREFIXES######
 
-```properties
 prefix.terraria:artifact/hard=Duro
 prefix.terraria:artifact/guarding=Defensor
 prefix.terraria:artifact/armored=Blindado
