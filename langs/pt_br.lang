@@ -103,7 +103,6 @@ itemGroup.terraria:building.furniture.planter_boxes=Caixa de Plantas
 itemGroup.terraria:building.furniture.fountains=Fontes
 
 # Furniture Sets
-# Mobilia Sets
 itemGroup.terraria:building.furniture.generic=Mobiliário Genérico
 itemGroup.terraria:building.furniture.boreal=Mobiliário Boreal
 itemGroup.terraria:building.furniture.rich_mahogany=Mobiliário de Mogno Rico
@@ -143,6 +142,7 @@ itemGroup.terraria:building.furniture.lunar/vortex=Mobiliário de Vórtice
 itemGroup.terraria:building.furniture.lunar/nebula=Mobiliário de Névoa
 itemGroup.terraria:building.furniture.lunar/stardust=Mobiliário de Poeira Estelar
 itemGroup.terraria:building.furniture.obsidian=Mobiliário de Obsidiana
+itemGroup.terraria:building.furniture.blue_dungeon=Blue Dungeon Furniture
 itemGroup.terraria:building.furniture.green_dungeon=Mobiliário da Masmorra Verde
 itemGroup.terraria:building.furniture.pink_dungeon=Mobiliário da Masmorra Rosa
 itemGroup.terraria:building.furniture.golden=Mobiliário Dourado
@@ -220,7 +220,6 @@ options.terraria:boss_outlines.desc=Chefes devem ter um contorno com efeito de b
 options.terraria:smart_weather=Clima Inteligente
 options.terraria:smart_weather.desc=Efeitos climáticos devem parar ao encontrar blocos totalmente sólidos, como vidro?
 
-
 gui.terraria:building_chunks_started=Construindo Blocos...
 gui.terraria:building_chunks=Construindo Blocos... (%s/%s)
 gui.terraria:building_chunks_done=Construção de Blocos Completa.
@@ -263,7 +262,6 @@ gui.terraria:new_character/modes/hardcore.desc=Personagens Hardcore morrem perma
 gui.terraria:edit_character/title.desc=Editar Personagem
 gui.terraria:edit_character/save.desc=Salvar Personagem
 gui.terraria:edit_character/name.desc=Nome do Personagem:
-
 
 gui.terraria:new_world/world_size/small.name=§h19EEF7;Pequeno
 gui.terraria:new_world/world_size/medium.name=§h33C394;Médio
@@ -628,7 +626,6 @@ item.terraria:artifacts/expert/royal_gel.name=Gel Real
 item.terraria:artifacts/expert/brain_of_confusion.name=Cérebro de Confusão
 item.terraria:artifacts/expert/hive_pack.name=Pacote da Colmeia
 
-
 # Potions & Food
 item.terraria:potions/lesser_healing.name=Poção de Cura Menor
 item.terraria:potions/lesser_mana.name=Poção de Mana Menor
@@ -746,6 +743,9 @@ item.terraria:potions/food/grape_juice.name=Suco de Uva
 item.terraria:potions/food/monster_lasagna.name=Lasanha de Monstro
 item.terraria:potions/food/pumpkin_pie.name=Torta de Abóbora
 item.terraria:potions/food/roasted_duck.name=Pato Assado
+item.terraria:potions/restoration.name=Restoration Potion
+item.terraria:potions/sake.name=Sake
+item.terraria:potions/ale.name=Ale
 
 # Materials
 item.terraria:materials/fallen_star.name=Estrela Cadente
@@ -863,7 +863,6 @@ item.terraria:materials/hook.name=Gancho
 item.terraria:materials/giant_harpy_feather.name=Pena Gigante de Harpia
 item.terraria:materials/defender_medal.name=Medalha de Defensor
 
-
 # Armor
 item.terraria:armor/wooden/helm.name=Elmo de Madeira
 item.terraria:armor/wooden/body.name=Peitoral de Madeira
@@ -971,17 +970,17 @@ item.terraria:armor/fossil/helm.name=Elmo Fóssil
 item.terraria:armor/fossil/body.name=Placa Fóssil
 item.terraria:armor/fossil/legs.name=Grevas Fósseis
 
-# Armadura de Unidade
+# Unit Armor
 item.terraria:armor/wizard/hat.name=Chapéu de Mago
 item.terraria:armor/goggles.name=Óculos de Proteção
 
-# Armadura Cosmética
+# Vanity Armor
 item.terraria:armor/vanity/sunglasses.name=Óculos Escuros
 item.terraria:armor/vanity/gold_crown.name=Coroa de Ouro
 item.terraria:armor/vanity/platinum_crown.name=Coroa de Platina
 item.terraria:armor/vanity/skull.name=Caveira
 
-# Diversos
+# Misc
 item.terraria:whoopie_cushion.name=Almofada de Pum
 item.terraria:copper_coin.name=Moeda de Cobre
 item.terraria:silver_coin.name=Moeda de Prata
@@ -1133,7 +1132,6 @@ item.terraria:hooks/ivy.name=Língua de Hera
 item.terraria:hooks/bat.name=Gancho de Morcego
 item.terraria:hooks/candy_cane.name=Gancho de Bengala Doce
 
-
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Orbe Sombrio  
 item.terraria:pets/glowing/crimson_heart.name=Coração Carmesim
@@ -1223,28 +1221,28 @@ setbonus.terraria:save_ammo=%,d%% de chance de não gastar munição
 
 #########################
 
-######BLOCS###### 
+######BLOCKS######
 
 tile.terraria:redstone_tranciever.name=Transmissor de Redstone
 
-### Mobilia ###
+### Furniture ###
 
-# Relíquias #
+# Relics #
 tile.terraria:furniture/relics/king_slime.name=Relíquia do Rei Slime
 tile.terraria:furniture/relics/eye_of_cthulhu.name=Relíquia do Olho de Cthulhu
 tile.terraria:furniture/relics/eater_of_worlds.name=Relíquia do Eater of Worlds
 tile.terraria:furniture/relics/brain_of_cthulhu.name=Relíquia do Cérebro de Cthulhu
 tile.terraria:furniture/relics/queen_bee.name=Relíquia da Rainha Abelha
 
-# Banheiras #
+# Bathtubs #
 tile.terraria:furniture/bathtubs/living_wood.name=Banheira de Madeira Viva
 
-# Camas #
+# Beds #
 tile.terraria:furniture/beds/wood.name=Cama
 tile.terraria:furniture/beds/boreal.name=Cama de Madeira Boreal
 tile.terraria:furniture/beds/living_wood.name=Cama de Madeira Viva
 
-# Estantes #
+# Bookcases #
 tile.terraria:furniture/bookcases/wood.name=Estante de Madeira
 tile.terraria:furniture/bookcases/dynasty.name=Estante de Dinastia
 tile.terraria:furniture/bookcases/slime.name=Estante de Slime
@@ -1259,24 +1257,24 @@ tile.terraria:furniture/bookcases/golden.name=Estante Dourado
 tile.terraria:furniture/bookcases/green_dungeon.name=Estante de Masmorras Verdes
 tile.terraria:furniture/bookcases/rich_mahogany.name=Estante de Mogno Rico
 
-# Candelabros #
+# Candelabras #
 tile.terraria:furniture/candelabras/candelabra.name=Candelabro
 tile.terraria:furniture/candelabras/platinum.name=Candelabro de Platina
 tile.terraria:furniture/candelabras/boreal.name=Candelabro de Madeira Boreal
 tile.terraria:furniture/candelabras/living_wood.name=Candelabro de Madeira Viva
 
-# Velas #
+# Candles #
 tile.terraria:furniture/candles/gold.name=Vela
 tile.terraria:furniture/candles/platinum.name=Vela de Platina
 tile.terraria:furniture/candles/water.name=Vela de Água
 tile.terraria:furniture/candles/cactus.name=Vela de Cacto
 tile.terraria:furniture/candles/living_wood.name=Vela de Madeira Viva
 
-# Lustres #
+# Chandeliers #
 tile.terraria:furniture/chandeliers/boreal.name=Lustre de Madeira Boreal
 tile.terraria:furniture/chandeliers/living_wood.name=Lustre de Madeira Viva
 
-# Cadeiras #
+# Chairs #
 tile.terraria:furniture/chairs/wood.name=Cadeira de Madeira
 tile.terraria:furniture/chairs/wood_2.name=Banquinho
 tile.terraria:furniture/chairs/dynasty.name=Cadeira de Dinastia
@@ -1291,7 +1289,7 @@ tile.terraria:furniture/chairs/boreal.name=Cadeira de Madeira Boreal
 tile.terraria:furniture/chairs/living_wood.name=Cadeira de Madeira Viva
 tile.terraria:furniture/chairs/pumpkin.name=Cadeira de Abóbora
 
-# Baús #
+# Chests #
 tile.terraria:furniture/chests/wood.name=Baú
 tile.terraria:furniture/chests/gold.name=Baú de Ouro
 tile.terraria:furniture/chests/frozen.name=Baú Congelado
@@ -1304,10 +1302,10 @@ tile.terraria:furniture/chests/skyware.name=Baú Skyware
 tile.terraria:furniture/chests/mushroom.name=Baú de Cogumelos
 tile.terraria:furniture/chests/rich_mahogany.name=Baú de Mogno Rico
 
-# Relógios #
+# Clocks #
 tile.terraria:furniture/clocks/living_wood.name=Relógio de Madeira Viva
 
-# Portas #
+# Doors #
 tile.terraria:furniture/doors/wood_1.name=Porta de Madeira
 tile.terraria:furniture/doors/wood.name=Porta de Madeira
 tile.terraria:furniture/doors/cactus.name=Porta de Cacto
@@ -1332,14 +1330,14 @@ tile.terraria:furniture/doors/lead.name=Porta de Chumbo
 tile.terraria:furniture/doors/marble.name=Porta de Mármore
 tile.terraria:furniture/doors/rich_mahogany.name=Porta de Mogno Rico
 
-# Cômodas #
+# Dressers #
 tile.terraria:furniture/dressers/living_wood.name=Comoda de Madeira Viva
 
-# Lâmpadas #
+# Lamps #
 tile.terraria:furniture/lamps/boreal.name=Lâmpada de Madeira Boreal
 tile.terraria:furniture/lamps/living_wood.name=Lâmpada de Madeira Viva
 
-# Lanternas #
+# Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Lanterna de Cadeia
 tile.terraria:furniture/lanterns/diabolist_lamp.name=Lâmpada de Diabolista
 tile.terraria:furniture/lanterns/alchemy.name=Lanterna de Alquimia
@@ -1480,7 +1478,7 @@ tile.terraria:furniture/fountains/blood_water.name=Fonte de Água Sanguinolenta
 tile.terraria:furniture/fountains/cavern_water.name=Fonte de Água das Cavernas
 tile.terraria:furniture/fountains/oasis_water.name=Fonte de Água do Oasis
 
-# Outros #
+# Other #
 tile.terraria:furniture/sign.name=Placa
 
 tile.terraria:clay_pot.name=Vaso de Barro
@@ -1575,7 +1573,6 @@ tile.terraria:wood/corrupted.name=Madeira Vil
 tile.terraria:wood/shade.name=Madeira Sombria
 tile.terraria:bricks/gray.name=Tijolos Cinza
 tile.terraria:bricks/red.name=Tijolos Vermelhos
-
 tile.terraria:bricks/ebonstone.name=Tijolos de Pedrapodre  
 tile.terraria:bricks/pearlstone.name=Tijolos de Pérola de Pedra  
 tile.terraria:bricks/sandstone.name=Tijolos de Arenito  
@@ -1707,7 +1704,6 @@ tile.terraria:statues/w.name=Estátua 'W'
 tile.terraria:statues/x.name=Estátua 'X'  
 tile.terraria:statues/y.name=Estátua 'Y'  
 tile.terraria:statues/z.name=Estátua 'Z'  
-
 tile.terraria:statues/anvil.name=Estátua de Biguá  
 tile.terraria:statues/pot.name=Estátua de Vaso  
 tile.terraria:statues/cross.name=Estátua de Cruz  
@@ -1756,7 +1752,6 @@ tile.terraria:crystal_ball.name=Globo de Cristal
 tile.terraria:crates/jungle.name=Caixa da Selva  
 tile.terraria:crates/corrupt.name=Caixa Corrompida  
 tile.terraria:cog.name=Engrenagem  
-
 tile.terraria:thorn_bushes/jungle.name=Arbustos Espinhosos da Selva
 tile.terraria:thorn_bushes/crimson.name=Arbustos Espinhosos Crimson
 tile.terraria:thorn_bushes/corrupt.name=Arbustos Espinhosos Corrompidos
@@ -1917,6 +1912,7 @@ tile.terraria:hay.name=Feno
 tile.terraria:statues/bat.name=Estátua de Morcego
 tile.terraria:pumpkin.name=Abóbora
 tile.terraria:plants/pumpkin.name=Semente de Abóbora
+tile.terraria:ambient/fallen_log.name=Fallen Log
 
 ##################
 
@@ -1932,7 +1928,6 @@ key.terraria.mana=Mana Rápida
 key.terraria.buffs=Buffs Rápidos
 key.terraria.pass_platforms=Atravessar Plataforma
 key.terraria.grapple=Gancho
-
 
 ####################
 
@@ -1977,7 +1972,6 @@ death.attack.terraria:falling.3=%s bateu de cara no chão.
 death.attack.terraria:falling.4=%s foi vítima da gravidade.
 death.attack.terraria:falling.5=%s caiu até a morte.
 death.attack.terraria:falling.6=%s caiu de cara no chão.
-
 
 #########################
 
@@ -2164,7 +2158,6 @@ buff.terraria:midas.desc=Deixa mais dinheiro ao morrer
 buff.terraria:mana_sickness.name=Doença de Mana
 buff.terraria:mana_sickness.desc=Dano mágico reduzido em %d%%
 
-
 #################
 
 
@@ -2302,13 +2295,11 @@ tooltip.terraria:artifacts/stinger_necklace=Aumenta a penetração de armadura e
 tooltip.terraria:artifacts/sweetheart_necklace=Libera abelhas, cobre o usuário com mel e aumenta a velocidade de movimento ao sofrer dano
 tooltip.terraria:artifacts/feral_claws=Ativa ataque automático para armas corpo a corpo
 
-
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Permite ao jogador avançar contra inimigos</br>Toque duas vezes em uma direção
 tooltip.terraria:artifacts/expert/worm_scarf=Reduz o dano recebido em 17%%
 tooltip.terraria:artifacts/expert/royal_gel=Slimes se tornam amigáveis
 tooltip.terraria:artifacts/expert/brain_of_confusion=Tem chance de criar ilusões e desviar de um ataque</br>Aumenta temporariamente a chance de crítico após desviar</br>Pode confundir inimigos próximos ao ser atingido
 tooltip.terraria:artifacts/expert/hive_pack=Aumenta a força das abelhas aliadas
-
 
 tooltip.terraria:shine_potion=Emite uma aura de luz
 tooltip.terraria:whoopie_cushion=Pode irritar os outros
@@ -2390,7 +2381,83 @@ tooltip.terraria:potions/wrath=Aumenta o dano em 10%
 tooltip.terraria:potions/heartreach=Aumenta o alcance para pegar corações de vida
 tooltip.terraria:potions/crate=Aumenta a chance de conseguir um baú de pesca
 tooltip.terraria:armor/vanity/sunglasses=Faz você parecer estiloso!
-
+item.terraria:armor/dev_zeith.desc=Oh no, a furry!
+item.terraria:armor/ancient_cobalt/helm.tooltip=Increases maximum mana by 40</br>6%% increased magic critical strike chance
+item.terraria:armor/ancient_cobalt/body.tooltip=Increases maximum mana by 20</br>6%% increased magic critical strike chance
+item.terraria:armor/ancient_cobalt/legs.tooltip=Increases maximum mana by 20</br>6%% increased magic critical strike chance
+tooltip.terraria:armor/dev_ashryman=Once worn by a hero consumed by the spirits of darkness
+tooltip.terraria:armor/dev_jar=Vital signs critical, seek medical attention immediately
+tooltip.terraria:armor/dev_degeh03=Wait, it's delayed again???
+tooltip.terraria:slime_crown=Summons King Slime
+tooltip.terraria:materials/coal=You've been naughty this year
+tooltip.terraria:food/christmas_pudding=A cozy treat by the fireplace.
+tooltip.terraria:food/sugar_cookie=You'll bounce off the walls!
+tooltip.terraria:food/gingerbread_cookie=Not the gumdrop buttons!
+tooltip.terraria:food/cooked_marshmallow=How can I have some more of nothing?
+tooltip.terraria:food/marshmallow=Put it on a stick and roast over a campfire
+tooltip.terraria:food/marshmallow2=How many can you fit in your mouth?
+tooltip.terraria:marshmallow_stick=Roast it over a campfire!
+tooltip.terraria:furniture/sofas/chippys_couch_1=Heeellllllo Terraria enthusiasts!
+tooltip.terraria:furniture/sofas/chippys_couch_2='Great for chilling like a streamer!'
+tooltip.terraria:furniture/sofas/slime=Slofa!
+tooltip.terraria:suspicious_looking_eye=Summons the Eye of Cthulhu
+tooltip.terraria:vile_powder=Spreads the Corruption
+tooltip.terraria:vicious_powder=Spreads the Crimson
+tooltip.terraria:purification_powder=Cleanses the evil
+tooltip.terraria:potions/battle=Increases ememy spawn rate
+tooltip.terraria:living_leaf_wand=Places leaves
+tooltip.terraria:living_wood_wand=Places living wood
+tooltip.terraria:abeemination=Summons the Queen Bee
+tooltip.terraria:money_trough=Summons a flying piggy bank to store your items.
+tooltip.terraria:swords/grass=Has a chance to poison enemies.
+tooltip.terraria:swords/fiery=It's made out of fire!
+tooltip.terraria:food/apple_pie='Nothing is as Terrarian as apple pie.'
+tooltip.terraria:food/bacon='Bacon? Bacon.'
+tooltip.terraria:food/banana_split='Make like a banana and split!'
+tooltip.terraria:food/bbq_ribs='Grilled to perfection!'
+tooltip.terraria:food/carton_of_milk='For strong, healthy bones'
+tooltip.terraria:food/chicken_nugget='Caution: may contain harpy.'
+tooltip.terraria:food/chocolate_chip_cookie='Fresh from the oven'
+tooltip.terraria:food/coffee='Hello darkness my old friend'
+tooltip.terraria:food/cream_soda='It's so fizzy!'
+tooltip.terraria:food/fried_egg='Sunny side up!'
+tooltip.terraria:food/fries='Where's the Ketchup!?'
+tooltip.terraria:food/grapes='Wrath not included.'
+tooltip.terraria:food/hotdog='Hot diggity!'
+tooltip.terraria:food/ice_cream='Eat it before it melts!'
+tooltip.terraria:food/milkshake='It brings the boys to the yard!'
+tooltip.terraria:food/nachos='It's nach-yos, it's mine!'
+tooltip.terraria:food/pizza='With pepperoni and extra cheese.'
+tooltip.terraria:food/potato_chips='Betcha can't eat just one!'
+tooltip.terraria:food/shrimp_po_boy='Po' Boy are you in for a treat!'
+tooltip.terraria:food/spaghetti='Al dente!'
+tooltip.terraria:food/steak='Well done with ketchup!'
+tooltip.terraria:food/joja_cola='Please Recycle'
+tooltip.terraria:food/pad_thai='Spicy level 5!'
+tooltip.terraria:food/pho='Pho sho...'
+tooltip.terraria:food/bowl_of_soup='Simple, yet refreshing.'
+tooltip.terraria:food/escargot='Look at that S Car Go!'
+tooltip.terraria:food/froggle_bunwich='Has a bit of a kick to it.'
+tooltip.terraria:food/grape_juice='Sugar. Water. Purple.'
+tooltip.terraria:food/monster_lasagna='Tastes like hairs and meats with noodle.'
+tooltip.terraria:food/roasted_duck='Better than chicken from a wall.'
+tooltip.terraria:food/pumpkin_pie='Stuff it all up in one bite!'
+tooltip.terraria:demon_heart=Permanently increases the number of accessory slots
+tooltip.terraria:mana_crystal=Permanently increases maximum mana by 20
+tooltip.terraria:furniture/candles/water=Holding this may attract unwanted attention
+tooltip.terraria:potions/restoration=Reduced potion cooldown
+tooltip.terraria:extractinator=Placing silt/slush/fossil piles into the extractinator turns them into something more useful
+tooltip.terraria:furnace=Used for smelting ore
+tooltip.terraria:adamantite_forge=Used to smelt adamantite and titanium ore
+tooltip.terraria:seed=For use with Blowpipe
+tooltip.terraria:vital_crystal=Permanently boosts life regeneration
+tooltip.terraria:potions/sake/1=Minor improvements to melee stats & lowered defense
+tooltip.terraria:potions/sake/2='Drink too much of this, and you become karate master.'
+tooltip.terraria:materials/defender_medal=Currency for trading with the Tavernkeep
+tooltip.terraria:potions/ale='Down the hatch!'
+tooltip.terraria:armor/wizard/hat=5%% increased magic damage
+tooltip.terraria:beenade=Explodes into a swarm of bees
+tooltip.terraria:weapons/magic/vilethorn=Summons a vile thorn
 
 tooltip.terraria:encumbering_stone=Impedirá a coleta de itens enquanto estiver bloqueado</br>Clique direito para desbloquear</br>'Você está sobrecarregado'
 tooltip.terraria:uncumbering_stone=Impedirá a coleta de itens enquanto estiver bloqueado</br>Clique direito para bloquear</br>'Você está sobrecarregado'
@@ -2490,7 +2557,6 @@ itweaks.terraria:lower_spawn_loaded_chunks.desc=Reduz a quantidade de blocos car
 
 itweaks.terraria:reduce_cube_gen_amount.name=Reduzir Geração de Cubos
 itweaks.terraria:reduce_cube_gen_amount.desc=Reduz a quantidade de cubos gerados por tick.<LN>Melhora o desempenho do servidor ao gerar novos cubos ativamente.
-
 
 ####################
 
@@ -2662,7 +2728,6 @@ achievement.terraria:its_getting_hot_in_here.desc=Explore fundo o suficiente par
 achievement.terraria:lucky_break.name=Feliz Acidente
 achievement.terraria:lucky_break.desc=Sobreviva a uma queda longa com apenas uma fatia de saúde restante.
 
-
 ########################
 
 
@@ -2792,7 +2857,7 @@ item_flags.terraria.ecto_mist=Nevoa Ectoplasmática
 
 
 
-######BIOMAS######
+######BIOMES######
 
 tbiome.terraria:corruption=Corrupção
 tbiome.terraria:crimson=Crimson
@@ -2925,7 +2990,6 @@ attribute.terraria:weapon/size=Tamanho
 attribute.terraria:weapon/velocity=Velocidade
 attribute.terraria:weapon/knockback=Recuo
 
-
 ####################
 
 
@@ -2951,12 +3015,12 @@ entity.terraria:harpy_feather.name=Penna de Harpia
 entity.terraria:hook.name=Gancho
 entity.terraria:hook_carrier.name=Portador de Gancho
 
-# Projéteis
+# Projectiles
 entity.terraria:vile_spit_eow.name=Spit Vil
 entity.terraria:chaos_ball.name=Bola do Caos
 entity.terraria:burning_sphere.name=Esfera Ardente
 
-# Criaturas Vivas
+# Living
 entity.terraria:hostile/green_slime.name=Slime Verde
 entity.terraria:hostile/blue_slime.name=Slime Azul
 entity.terraria:baby_slime.name=Slime Filhote
@@ -3174,6 +3238,7 @@ npc.terraria:guide.npc.tavernkeep=Normalmente eu tentaria te ensinar tudo sobre 
 npc.terraria:guide.boss.wallofflesh=Fico me perguntando por que meu predecessor pegou fogo espontaneamente. Espero que isso não aconteça comigo...
 npc.terraria:guide.npc.taxcollector=Eu pensei que você tivesse purificado %s? Ele ainda está tão ganancioso como sempre!
 
+
 npc.terraria:guide.happiness.homeless=Já estou bem acostumado a não ter um lar, mas não me importaria de ter um.
 npc.terraria:guide.happiness.home.far=Estou bem longe de casa, pelo visto.
 npc.terraria:guide.happiness.biome.forest=Gosto muito de passear pela Floresta. Eu me sinto bem aqui.
@@ -3274,7 +3339,6 @@ npc.terraria:merchant.happiness.npc.angler=Eu odeio a personalidade horrível de
 npc.terraria:merchant.happiness.neutral=Estou me sentindo bem-sucedido! Quer comprar algo?
 
 
-
 ## DEMOLITIONIST ##
 npc.terraria:demolitionist.name=Demolidor
 npc.terraria:demolitionist=%s o Demolidor
@@ -3327,7 +3391,6 @@ npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=Eu quero amarrar %s o G
 npc.terraria:demolitionist.happiness.npc.arms_dealer=Eu quero amarrar %s o Vendedor de Armas a um foguete e ver o que acontece!
 npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=Eu quero amarrar %s o Goblin Engenheiro a um foguete e ver o que acontece!
 npc.terraria:demolitionist.happiness.neutral=Bem, não estou a fim de explodir nada hoje!
-
 
 
 ## NURSE ##
@@ -3415,6 +3478,7 @@ npc.terraria:arms_dealer.npc.demolitionist.1=Não se preocupe com %s, eu tenho t
 npc.terraria:arms_dealer.npc.demolitionist.2=Qual é o problema do %s? Ele sequer percebe que vendemos coisas completamente diferentes?
 npc.terraria:arms_dealer.npc.guide=Ouvi dizer que tem uma boneca muito parecida com %s em algum lugar do submundo. Eu adoraria dar alguns tiros nela.
 
+
 npc.terraria:arms_dealer.happiness.homeless=Eu não tenho um lugar para ficar, amigo!
 npc.terraria:arms_dealer.happiness.home.far=Não gosto de fazer negócios tão longe de casa.
 npc.terraria:arms_dealer.happiness.sparse=Isso é o que eu estou falando, privacidade!
@@ -3451,6 +3515,7 @@ npc.terraria:dye_trader.thunderstorm.2=Egads! Eu odeio essas tempestades incomod
 npc.terraria:dye_trader.graveyard.1=Ai, ai... isso não está certo. Os arredores fétidos estão apagando as pétalas da minha tinta.
 npc.terraria:dye_trader.graveyard.2=Você acha que este é um lugar digno da minha presença? Tão sem graça, tão sem vida, essas pessoas estão literalmente abaixo de mim.
 
+
 npc.terraria:dye_trader.happiness.homeless=Não, não, isso não vai funcionar, preciso de um lugar para chamar de meu.
 npc.terraria:dye_trader.happiness.home.far=Você acha que posso fazer cores brilhantes tão longe da minha loja? Não acho!
 npc.terraria:dye_trader.happiness.sparse=Querida, este palácio está silencioso o suficiente para dormir como um sultão!
@@ -3467,7 +3532,6 @@ npc.terraria:dye_trader.happiness.npc.painter=%s o Pintor tem bons olhos para vi
 npc.terraria:dye_trader.happiness.npc.steampunker=Oh querido, aquele %s o Steampunker não tem senso de cor ou estilo, eu não gosto.
 npc.terraria:dye_trader.happiness.npc.pirate=Eu realmente, realmente odeio o quão sem escrúpulos %s o Pirata pode ser.
 npc.terraria:dye_trader.happiness.neutral=Eu? Estou bem, estou bem.
-
 
 
 ## DRYAD ##
@@ -3497,6 +3561,7 @@ npc.terraria:dryad.bloodmoon.2=Cara, é só eu ou tem tipo um milhão de zumbis 
 npc.terraria:dryad.bloodmoon.3=Eu não quero que você compre minhas coisas. Eu quero que você queira comprar minhas coisas, ok?
 npc.terraria:dryad.bloodmoon.4=Por que você tem que ser tão confrontacional durante um momento como esse?
 
+
 npc.terraria:dryad.happiness.homeless=Toda a natureza pode ser minha casa, mas uma casa me trataria bem.
 npc.terraria:dryad.happiness.home.far=Uma flor não cresce muito bem tão longe de suas raízes!
 npc.terraria:dryad.happiness.sparse=A solidão às vezes é boa - há espaço para crescer e respirar.
@@ -3513,6 +3578,7 @@ npc.terraria:dryad.happiness.npc.truffle=Eu gosto de como %s ressoa com cada fib
 npc.terraria:dryad.happiness.npc.angler=Eu não gosto que %s não tenha respeito pelos outros seres.
 npc.terraria:dryad.happiness.npc.golfer=Eu odeio os hábitos destrutivos de %s em relação à natureza!
 npc.terraria:dryad.happiness.neutral=Tudo está em paz, não estrague isso.
+
 
 ## WITCH DOCTOR ##
 npc.terraria:witch_doctor.name=Mestre Voodoo
@@ -3533,6 +3599,7 @@ npc.terraria:witch_doctor.thunderstorm.2=Os espíritos soam alto neste dia, em m
 npc.terraria:witch_doctor.graveyard.1=Você pode tirar o ceifador do cemitério, mas não pode tirar o cemitério do ceifador...
 npc.terraria:witch_doctor.graveyard.2=Levante-se, zumbi! Zumbi, levante-se!
 
+
 npc.terraria:witch_doctor.happiness.homeless=Uma cabana seria o suficiente. Nem todos os meus arredores abraçam a tranquilidade.
 npc.terraria:witch_doctor.happiness.home.far=Eu me afastei muito do meu lugar calmo.
 npc.terraria:witch_doctor.happiness.sparse=Uma forte energia flui sem impedimentos pela presença vizinha, muito agradável.
@@ -3549,6 +3616,7 @@ npc.terraria:witch_doctor.happiness.npc.guide=%s o Guia é um espírito afim da 
 npc.terraria:witch_doctor.happiness.npc.nurse=Não gosto das práticas de %s a Enfermeira. A verdadeira cura não vem de metal e vidro.
 npc.terraria:witch_doctor.happiness.npc.truffle=Fúria preenche meu ser à medida que abominações brotam da terra corrompida - Falo de %s o Trufa.
 npc.terraria:witch_doctor.happiness.neutral=Eu encarnam a satisfação.
+
 
 ## GOBLIN TINKERER ##
 npc.terraria:goblin_tinkerer.name=Goblin Inventor
@@ -3584,6 +3652,7 @@ npc.terraria:goblin_tinkerer.npc.mechanic=Ei... o que %s está fazendo? Você...
 npc.terraria:goblin_tinkerer.npc.stylist=Tentei visitar %s uma vez. Ela apenas me olhou e disse 'não'.
 npc.terraria:goblin_tinkerer.extra.ooa=Sabia, esses Goblins de Etheria não são como o meu povo. Uma turma bem barulhenta. Não que o meu povo seja muito melhor...
 
+
 npc.terraria:goblin_tinkerer.happiness.homeless=Goblins normalmente não precisam de boas casas, mas eu não sou como a maioria dos goblins.
 npc.terraria:goblin_tinkerer.happiness.home.far=Quero trabalhar na minha nova invenção, mas minha casa está bem lá no fim!
 npc.terraria:goblin_tinkerer.happiness.sparse=Perfeito, a falta de vizinhos irritantes atende adequadamente às minhas necessidades.
@@ -3600,7 +3669,6 @@ npc.terraria:goblin_tinkerer.happiness.npc.clothier=Eu detecto uma vibração es
 npc.terraria:goblin_tinkerer.happiness.npc.stylist=Eu realmente odeio como %s me humilhou, tudo por causa de goblins machos não conseguirem crescer cabelo de verdade!
 npc.terraria:goblin_tinkerer.happiness.npc.princess=%s gosta das minhas invenções, e diz que todos os goblins amigáveis são bem-vindos!
 npc.terraria:goblin_tinkerer.happiness.neutral=Os sentimentos estão atualmente normais.
-
 
 ##################
 
@@ -4235,7 +4303,6 @@ new_world.terraria:adjective.607=Sereno
 new_world.terraria:adjective.608=Desagradável
 new_world.terraria:adjective.609=Revolting
 
-
 new_world.terraria:location.0=Doença
 new_world.terraria:location.1=Coração
 new_world.terraria:location.2=Origem
@@ -4361,7 +4428,6 @@ new_world.terraria:location.121=Sororidade
 new_world.terraria:location.122=Rota
 new_world.terraria:location.123=Penhasco
 new_world.terraria:location.124=Fábrica
-
 new_world.terraria:location.125=Céu
 new_world.terraria:location.126=Território
 new_world.terraria:location.127=Tela
@@ -4763,7 +4829,6 @@ new_world.terraria:noun.144=the Ducks
 new_world.terraria:noun.145=Traitors
 new_world.terraria:noun.146=Severed Heads
 new_world.terraria:noun.147=Trouble
-
 new_world.terraria:noun.148=Impostos
 new_world.terraria:noun.149=Flor-de-Fogo
 new_world.terraria:noun.150=Insanidade
@@ -4917,7 +4982,6 @@ new_world.terraria:noun.297=Os Mortos
 new_world.terraria:noun.298=Filhas
 new_world.terraria:noun.299=Pão de Alho
 new_world.terraria:noun.300=Cogumelos
-
 new_world.terraria:noun.301=o Nu
 new_world.terraria:noun.302=Mentiras
 new_world.terraria:noun.303=Terror
@@ -5118,7 +5182,6 @@ new_world.terraria:noun.497=Desabrigados
 new_world.terraria:noun.498=Distorsão
 new_world.terraria:noun.499=Patos
 new_world.terraria:noun.500=Memes
-
 new_world.terraria:noun.501=Asas
 new_world.terraria:noun.502=Vítima
 new_world.terraria:noun.503=Erva da Morte
@@ -5299,7 +5362,6 @@ new_world.terraria:noun.677=Satisfação
 new_world.terraria:noun.678=Debauchery
 new_world.terraria:noun.679=Degradação
 new_world.terraria:noun.680=Daybloom
-
 new_world.terraria:noun.681=Demonita
 new_world.terraria:noun.682=Chifres
 new_world.terraria:noun.683=Inteligência

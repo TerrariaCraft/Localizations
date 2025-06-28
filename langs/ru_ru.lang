@@ -1912,6 +1912,7 @@ tile.terraria:hay.name=Сено
 tile.terraria:statues/bat.name=Статуя летучей мыши
 tile.terraria:pumpkin.name=Pumpkin
 tile.terraria:plants/pumpkin.name=Pumpkin Seed
+tile.terraria:ambient/fallen_log.name=Fallen Log
 
 ##################
 

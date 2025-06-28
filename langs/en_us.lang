@@ -1912,6 +1912,7 @@ tile.terraria:hay.name=Hay
 tile.terraria:statues/bat.name=Bat Statue
 tile.terraria:pumpkin.name=Pumpkin
 tile.terraria:plants/pumpkin.name=Pumpkin Seed
+tile.terraria:ambient/fallen_log.name=Fallen Log
 
 ##################
 
