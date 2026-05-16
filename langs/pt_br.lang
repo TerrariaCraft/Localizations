@@ -3105,6 +3105,7 @@ entity.terraria:hostile/frozen_zombie.name=Zumbi Congelado
 entity.terraria:hostile/lava_slime.name=Slime de Lava
 entity.terraria:hostile/sand_slime.name=Slime de Areia
 entity.terraria:hostile/vulture.name=Urubu
+entity.terraria:hostile/blood_crawler.name=Blood Crawler
 
 entity.terraria:hostile/giant_worm.name=Vermão Gigante
 entity.terraria:hostile/giant_worm/head.name=Cabeça do Vermão Gigante
