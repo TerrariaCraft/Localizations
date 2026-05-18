@@ -1927,6 +1927,7 @@ key.terraria.healing=Быстрое лечение
 key.terraria.mana=Быстрая мана
 key.terraria.buffs=Быстрое усиление
 key.terraria.pass_platforms=Спуститься сквозь платформу
+key.terraria.no_auto_stepping=Disable Auto-stepping
 key.terraria.grapple=Использовать крюк-кошку
 
 ####################

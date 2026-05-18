@@ -1927,6 +1927,7 @@ key.terraria.healing=Quick Heal
 key.terraria.mana=Quick Mana
 key.terraria.buffs=Quick Buff
 key.terraria.pass_platforms=Fall Through Platform
+key.terraria.no_auto_stepping=Disable Auto-stepping
 key.terraria.grapple=Grapple
 
 ####################

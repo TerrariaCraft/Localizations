@@ -1927,6 +1927,7 @@ key.terraria.healing=Cura Rápida
 key.terraria.mana=Mana Rápida
 key.terraria.buffs=Buffs Rápidos
 key.terraria.pass_platforms=Atravessar Plataforma
+key.terraria.no_auto_stepping=Disable Auto-stepping
 key.terraria.grapple=Gancho
 
 ####################
