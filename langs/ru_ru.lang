@@ -147,6 +147,7 @@ itemGroup.terraria:building.furniture.green_dungeon=Зеленая мебель 
 itemGroup.terraria:building.furniture.pink_dungeon=Розовая мебель темницы
 itemGroup.terraria:building.furniture.golden=Золотая мебель
 itemGroup.terraria:building.furniture.relics=Реликвии
+itemGroup.terraria:building.furniture.dev_structure=§hD42F1F;Structure Furniture
 
 itemGroup.terraria:background_objects=Объекты заднего плана
 itemGroup.terraria:background_objects.pots=Горшки
@@ -1236,11 +1237,13 @@ tile.terraria:furniture/relics/queen_bee.name=Реликвия Королевы 
 
 # Bathtubs #
 tile.terraria:furniture/bathtubs/living_wood.name=Ванна из живого дерева
+tile.terraria:furniture/bathtubs/dev_structure.name=§hD42F1F;Structure Bathtub
 
 # Beds #
 tile.terraria:furniture/beds/wood.name=Кровать
 tile.terraria:furniture/beds/boreal.name=Кровать из заснеженной древесины
 tile.terraria:furniture/beds/living_wood.name=Кровать из живого дерева
+tile.terraria:furniture/beds/dev_structure.name=§hD42F1F;Structure Bed
 
 # Bookcases #
 tile.terraria:furniture/bookcases/wood.name=Книжный шкаф
@@ -1256,12 +1259,14 @@ tile.terraria:furniture/bookcases/sandstone.name=Книжный шкаф из п
 tile.terraria:furniture/bookcases/golden.name=Золотой книжный шкаф
 tile.terraria:furniture/bookcases/green_dungeon.name=Зелёный книжный шкаф темницы 
 tile.terraria:furniture/bookcases/rich_mahogany.name=Книжный шкаф из красной древесины
+tile.terraria:furniture/bookcases/dev_structure.name=§hD42F1F;Structure Bookcase
 
 # Candelabras #
 tile.terraria:furniture/candelabras/candelabra.name=Канделябр
 tile.terraria:furniture/candelabras/platinum.name=Платиновый канделябр
 tile.terraria:furniture/candelabras/boreal.name=Канделябр из заснеженной древесины
 tile.terraria:furniture/candelabras/living_wood.name=Канделябр из живого дерева
+tile.terraria:furniture/candelabras/dev_structure.name=§hD42F1F;Structure Candelabra
 
 # Candles #
 tile.terraria:furniture/candles/gold.name=Свечка
@@ -1269,10 +1274,12 @@ tile.terraria:furniture/candles/platinum.name=Платиновая свечка
 tile.terraria:furniture/candles/water.name=Водяная свечка
 tile.terraria:furniture/candles/cactus.name=Кактусовая свечка
 tile.terraria:furniture/candles/living_wood.name=Свеча из живого дерева
+tile.terraria:furniture/candles/dev_structure.name=§hD42F1F;Structure Candle
 
 # Chandeliers #
 tile.terraria:furniture/chandeliers/boreal.name=Люстра из заснеженной древесины
 tile.terraria:furniture/chandeliers/living_wood.name=Люстра из живого дерева
+tile.terraria:furniture/chandeliers/dev_structure.name=§hD42F1F;Structure Chandelier
 
 # Chairs #
 tile.terraria:furniture/chairs/wood.name=Деревянный стул
@@ -1288,6 +1295,7 @@ tile.terraria:furniture/chairs/martian.name=Марсианское паряще�
 tile.terraria:furniture/chairs/boreal.name=Стул из заснеженной древесины
 tile.terraria:furniture/chairs/living_wood.name=Стул из живого дерева
 tile.terraria:furniture/chairs/pumpkin.name=Pumpkin Chair
+tile.terraria:furniture/chairs/dev_structure.name=§hD42F1F;Structure Chair
 
 # Chests #
 tile.terraria:furniture/chests/wood.name=Сундук
@@ -1301,9 +1309,11 @@ tile.terraria:furniture/chests/safe.name=Сейф
 tile.terraria:furniture/chests/skyware.name=Небесный сундук
 tile.terraria:furniture/chests/mushroom.name=Грибной сундук
 tile.terraria:furniture/chests/rich_mahogany.name=Сундук из красной древесины
+tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
 
 # Clocks #
 tile.terraria:furniture/clocks/living_wood.name=Часы из живого дерева
+tile.terraria:furniture/clocks/dev_structure.name=§hD42F1F;Structure Clock
 
 # Doors #
 tile.terraria:furniture/doors/wood_1.name=Деревянная дверь
@@ -1329,13 +1339,16 @@ tile.terraria:furniture/doors/iron.name=Железная дверь
 tile.terraria:furniture/doors/lead.name=Свинцовая дверь
 tile.terraria:furniture/doors/marble.name=Мраморная дверь
 tile.terraria:furniture/doors/rich_mahogany.name=Дверь из красной древесины
+tile.terraria:furniture/doors/dev_structure.name=§hD42F1F;Structure Door
 
 # Dressers #
 tile.terraria:furniture/dressers/living_wood.name=Комод из живого дерева
+tile.terraria:furniture/dressers/dev_structure.name=§hD42F1F;Structure Dresser
 
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Лампа из заснеженной древесины
 tile.terraria:furniture/lamps/living_wood.name=Лампа из живого дерева
+tile.terraria:furniture/lamps/dev_structure.name=§hD42F1F;Structure Lamp
 
 # Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Фонарь на цепи
@@ -1391,9 +1404,11 @@ tile.terraria:furniture/lanterns/lunar/solar.name=Лампа солнца
 tile.terraria:furniture/lanterns/lunar/stardust.name=Лампа звёздной пыли
 tile.terraria:furniture/lanterns/lunar/vortex.name=Лампа вихря
 tile.terraria:furniture/lanterns/lesion.name=Поврежденная лампа
+tile.terraria:furniture/lanterns/dev_structure.name=§hD42F1F;Structure Lantern
 
 # Pianos #
 tile.terraria:furniture/pianos/living_wood.name=Пианино из живого дерева
+tile.terraria:furniture/pianos/dev_structure.name=§hD42F1F;Structure Piano
 
 # Platforms #
 tile.terraria:furniture/platforms/ebonwood.name=Платформа из эбонитовой древесины
@@ -1402,9 +1417,11 @@ tile.terraria:furniture/platforms/rich_mahogany.name=Платформа из к�
 tile.terraria:furniture/platforms/shadewood.name=Платформа из теневой древесины
 tile.terraria:furniture/platforms/living_wood.name=Платформа из живого дерева
 tile.terraria:furniture/platforms/obsidian.name=Обсидиановая платформа
+tile.terraria:furniture/platforms/dev_structure.name=§hD42F1F;Structure Platform
 
 # Sinks #
 tile.terraria:furniture/sinks/living_wood.name=Раковина из живого дерева
+tile.terraria:furniture/sinks/dev_structure.name=§hD42F1F;Structure Sink
 
 # Sofas #
 tile.terraria:furniture/sofas/chippys_couch.name=Диван Чиппи
@@ -1426,6 +1443,7 @@ tile.terraria:furniture/sofas/lunar/stardust.name=Диван звездной п
 tile.terraria:furniture/sofas/lunar/vortex.name=Диван вихря
 tile.terraria:furniture/sofas/dynasty.name=Родовой диван
 tile.terraria:furniture/sofas/living_wood.name=Диван из живого дерева
+tile.terraria:furniture/sofas/dev_structure.name=§hD42F1F;Structure Sofa
 
 # Tables #
 tile.terraria:furniture/tables/wood.name=Стол
@@ -1435,10 +1453,12 @@ tile.terraria:furniture/tables/marble.name=Мраморный стол
 tile.terraria:furniture/tables/martian.name=Марсианский стол
 tile.terraria:furniture/tables/boreal.name=Стол из заснеженной древесины
 tile.terraria:furniture/tables/living_wood.name=Стол из живого дерева
+tile.terraria:furniture/tables/dev_structure.name=§hD42F1F;Structure Table
 
 # Toilets #
 tile.terraria:furniture/toilets/living_wood.name=Унитаз из живого дерева
 tile.terraria:furniture/toilets/pumpkin.name=Pumpkin Toilet
+tile.terraria:furniture/toilets/dev_structure.name=§hD42F1F;Structure Toilet
 
 # Work Benches #
 tile.terraria:furniture/work_benches/wood.name=Верстак
@@ -1462,6 +1482,7 @@ tile.terraria:furniture/work_benches/marble.name=Мраморный верста
 tile.terraria:furniture/work_benches/mushroom.name=Грибной верстак
 tile.terraria:furniture/work_benches/spooky.name=Жуткий верстак
 tile.terraria:furniture/work_benches/obsidian.name=Обсидиановый верстак
+tile.terraria:furniture/work_benches/dev_structure.name=§hD42F1F;Structure Work Bench
 
 # Fences #
 tile.terraria:furniture/fences/wood.name=Деревянный забор

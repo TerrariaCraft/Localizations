@@ -147,6 +147,7 @@ itemGroup.terraria:building.furniture.green_dungeon=Mobiliário da Masmorra Verd
 itemGroup.terraria:building.furniture.pink_dungeon=Mobiliário da Masmorra Rosa
 itemGroup.terraria:building.furniture.golden=Mobiliário Dourado
 itemGroup.terraria:building.furniture.relics=Relíquias
+itemGroup.terraria:building.furniture.dev_structure=§hD42F1F;Structure Furniture
 
 itemGroup.terraria:background_objects=Objetos de Fundo
 itemGroup.terraria:background_objects.pots=Potes
@@ -1236,11 +1237,13 @@ tile.terraria:furniture/relics/queen_bee.name=Relíquia da Rainha Abelha
 
 # Bathtubs #
 tile.terraria:furniture/bathtubs/living_wood.name=Banheira de Madeira Viva
+tile.terraria:furniture/bathtubs/dev_structure.name=§hD42F1F;Structure Bathtub
 
 # Beds #
 tile.terraria:furniture/beds/wood.name=Cama
 tile.terraria:furniture/beds/boreal.name=Cama de Madeira Boreal
 tile.terraria:furniture/beds/living_wood.name=Cama de Madeira Viva
+tile.terraria:furniture/beds/dev_structure.name=§hD42F1F;Structure Bed
 
 # Bookcases #
 tile.terraria:furniture/bookcases/wood.name=Estante de Madeira
@@ -1256,12 +1259,14 @@ tile.terraria:furniture/bookcases/sandstone.name=Estante de Arenito
 tile.terraria:furniture/bookcases/golden.name=Estante Dourado
 tile.terraria:furniture/bookcases/green_dungeon.name=Estante de Masmorras Verdes
 tile.terraria:furniture/bookcases/rich_mahogany.name=Estante de Mogno Rico
+tile.terraria:furniture/bookcases/dev_structure.name=§hD42F1F;Structure Bookcase
 
 # Candelabras #
 tile.terraria:furniture/candelabras/candelabra.name=Candelabro
 tile.terraria:furniture/candelabras/platinum.name=Candelabro de Platina
 tile.terraria:furniture/candelabras/boreal.name=Candelabro de Madeira Boreal
 tile.terraria:furniture/candelabras/living_wood.name=Candelabro de Madeira Viva
+tile.terraria:furniture/candelabras/dev_structure.name=§hD42F1F;Structure Candelabra
 
 # Candles #
 tile.terraria:furniture/candles/gold.name=Vela
@@ -1269,10 +1274,12 @@ tile.terraria:furniture/candles/platinum.name=Vela de Platina
 tile.terraria:furniture/candles/water.name=Vela de Água
 tile.terraria:furniture/candles/cactus.name=Vela de Cacto
 tile.terraria:furniture/candles/living_wood.name=Vela de Madeira Viva
+tile.terraria:furniture/candles/dev_structure.name=§hD42F1F;Structure Candle
 
 # Chandeliers #
 tile.terraria:furniture/chandeliers/boreal.name=Lustre de Madeira Boreal
 tile.terraria:furniture/chandeliers/living_wood.name=Lustre de Madeira Viva
+tile.terraria:furniture/chandeliers/dev_structure.name=§hD42F1F;Structure Chandelier
 
 # Chairs #
 tile.terraria:furniture/chairs/wood.name=Cadeira de Madeira
@@ -1288,6 +1295,7 @@ tile.terraria:furniture/chairs/martian.name=Cadeira Flutuante Marciana
 tile.terraria:furniture/chairs/boreal.name=Cadeira de Madeira Boreal
 tile.terraria:furniture/chairs/living_wood.name=Cadeira de Madeira Viva
 tile.terraria:furniture/chairs/pumpkin.name=Cadeira de Abóbora
+tile.terraria:furniture/chairs/dev_structure.name=§hD42F1F;Structure Chair
 
 # Chests #
 tile.terraria:furniture/chests/wood.name=Baú
@@ -1301,9 +1309,11 @@ tile.terraria:furniture/chests/safe.name=Cofre
 tile.terraria:furniture/chests/skyware.name=Baú Skyware
 tile.terraria:furniture/chests/mushroom.name=Baú de Cogumelos
 tile.terraria:furniture/chests/rich_mahogany.name=Baú de Mogno Rico
+tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
 
 # Clocks #
 tile.terraria:furniture/clocks/living_wood.name=Relógio de Madeira Viva
+tile.terraria:furniture/clocks/dev_structure.name=§hD42F1F;Structure Clock
 
 # Doors #
 tile.terraria:furniture/doors/wood_1.name=Porta de Madeira
@@ -1329,13 +1339,16 @@ tile.terraria:furniture/doors/iron.name=Porta de Ferro
 tile.terraria:furniture/doors/lead.name=Porta de Chumbo
 tile.terraria:furniture/doors/marble.name=Porta de Mármore
 tile.terraria:furniture/doors/rich_mahogany.name=Porta de Mogno Rico
+tile.terraria:furniture/doors/dev_structure.name=§hD42F1F;Structure Door
 
 # Dressers #
 tile.terraria:furniture/dressers/living_wood.name=Comoda de Madeira Viva
+tile.terraria:furniture/dressers/dev_structure.name=§hD42F1F;Structure Dresser
 
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Lâmpada de Madeira Boreal
 tile.terraria:furniture/lamps/living_wood.name=Lâmpada de Madeira Viva
+tile.terraria:furniture/lamps/dev_structure.name=§hD42F1F;Structure Lamp
 
 # Lanterns #
 tile.terraria:furniture/lanterns/chain.name=Lanterna de Cadeia
@@ -1391,9 +1404,11 @@ tile.terraria:furniture/lanterns/lunar/solar.name=Lanterna Solar
 tile.terraria:furniture/lanterns/lunar/stardust.name=Lanterna de Poeira Estelar
 tile.terraria:furniture/lanterns/lunar/vortex.name=Lanterna Vortex
 tile.terraria:furniture/lanterns/lesion.name=Lanterna Lesão
+tile.terraria:furniture/lanterns/dev_structure.name=§hD42F1F;Structure Lantern
 
 # Pianos #
 tile.terraria:furniture/pianos/living_wood.name=Piano de Madeira Viva
+tile.terraria:furniture/pianos/dev_structure.name=§hD42F1F;Structure Piano
 
 # Platforms #
 tile.terraria:furniture/platforms/ebonwood.name=Plataforma de Madeira Ebon
@@ -1402,9 +1417,11 @@ tile.terraria:furniture/platforms/rich_mahogany.name=Plataforma de Mogno Rico
 tile.terraria:furniture/platforms/shadewood.name=Plataforma de Madeira Sombria
 tile.terraria:furniture/platforms/living_wood.name=Plataforma de Madeira Viva
 tile.terraria:furniture/platforms/obsidian.name=Plataforma de Obsidiana
+tile.terraria:furniture/platforms/dev_structure.name=§hD42F1F;Structure Platform
 
 # Sinks #
 tile.terraria:furniture/sinks/living_wood.name=Pia de Madeira Viva
+tile.terraria:furniture/sinks/dev_structure.name=§hD42F1F;Structure Sink
 
 # Sofas #
 tile.terraria:furniture/sofas/chippys_couch.name=Sofá do Chippy
@@ -1426,6 +1443,7 @@ tile.terraria:furniture/sofas/lunar/stardust.name=Sofá de Poeira Estelar
 tile.terraria:furniture/sofas/lunar/vortex.name=Sofá do Vórtice
 tile.terraria:furniture/sofas/dynasty.name=Sofá Dinástico
 tile.terraria:furniture/sofas/living_wood.name=Sofá de Madeira Viva
+tile.terraria:furniture/sofas/dev_structure.name=§hD42F1F;Structure Sofa
 
 # Tables #
 tile.terraria:furniture/tables/wood.name=Mesa
@@ -1435,10 +1453,12 @@ tile.terraria:furniture/tables/marble.name=Mesa de Mármore
 tile.terraria:furniture/tables/martian.name=Mesa Marciana
 tile.terraria:furniture/tables/boreal.name=Mesa Boreal
 tile.terraria:furniture/tables/living_wood.name=Mesa de Madeira Viva
+tile.terraria:furniture/tables/dev_structure.name=§hD42F1F;Structure Table
 
 # Toilets #
 tile.terraria:furniture/toilets/living_wood.name=Vaso Sanitário de Madeira Viva
 tile.terraria:furniture/toilets/pumpkin.name=Vaso Sanitário de Abóbora
+tile.terraria:furniture/toilets/dev_structure.name=§hD42F1F;Structure Toilet
 
 # Work Benches #
 tile.terraria:furniture/work_benches/wood.name=Bancada de Trabalho
@@ -1462,6 +1482,7 @@ tile.terraria:furniture/work_benches/marble.name=Bancada de Trabalho de Mármore
 tile.terraria:furniture/work_benches/mushroom.name=Bancada de Trabalho de Cogumelo
 tile.terraria:furniture/work_benches/spooky.name=Bancada de Trabalho Assustadora
 tile.terraria:furniture/work_benches/obsidian.name=Bancada de Trabalho de Obsidiana
+tile.terraria:furniture/work_benches/dev_structure.name=§hD42F1F;Structure Work Bench
 
 # Fences #
 tile.terraria:furniture/fences/wood.name=cerca de Madeira
