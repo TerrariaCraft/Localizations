@@ -3375,11 +3375,6 @@ npc.terraria:demolitionist.interact.5=Check out my goods; they have explosive pr
 
 npc.terraria:demolitionist.corrupt=Trying to get past that Corruption, eh? Why not introduce it to one of these explosives!
 npc.terraria:demolitionist.crimson=Trying to get past that Crimson, eh? Why not introduce it to one of these explosives!
-npc.terraria:demolitionist.npc.dryad=Why purify the world when you can just blow it up?
-npc.terraria:demolitionist.npc.nurse=I'm sure %s will help if you accidentally lose a limb to these.
-npc.terraria:demolitionist.npc.arms_dealer.1=Even %s wants what I'm selling!
-npc.terraria:demolitionist.npc.arms_dealer.2=Would you rather have a bullet hole or a grenade hole? That's what I thought.
-npc.terraria:demolitionist.npc.arms_dealer.3=Let's strap %s to a rocket and see what happens!
 npc.terraria:demolitionist.night.1=If you throw this one in the bathtub and close all the windows, it'll clear your sinuses and pop your ears!
 npc.terraria:demolitionist.night.2=Wanna play Fuse Chicken?
 npc.terraria:demolitionist.night.3=Hey, could you sign this Griefing Waiver?
@@ -3397,6 +3392,11 @@ npc.terraria:demolitionist.windyday.1=Now might not be the best time to lob gren
 npc.terraria:demolitionist.windyday.2=You want boomerang bombs? Throw some out in that gust, they'll come back to you alright!
 npc.terraria:demolitionist.graveyard.1=The stench of death here is worse than the skeleton-infested caverns where I work!
 npc.terraria:demolitionist.graveyard.2=All these piles of bones and stones... perfect for blowin' up!
+npc.terraria:demolitionist.npc.dryad=Why purify the world when you can just blow it up?
+npc.terraria:demolitionist.npc.nurse=I'm sure %s will help if you accidentally lose a limb to these.
+npc.terraria:demolitionist.npc.arms_dealer.1=Even %s wants what I'm selling!
+npc.terraria:demolitionist.npc.arms_dealer.2=Would you rather have a bullet hole or a grenade hole? That's what I thought.
+npc.terraria:demolitionist.npc.arms_dealer.3=Let's strap %s to a rocket and see what happens!
 
 npc.terraria:demolitionist.happiness.homeless=I don't have a place to live, did I blow up my last one?
 npc.terraria:demolitionist.happiness.home.far=I need more BOOM, I think I left it way back at home.
@@ -3412,7 +3412,6 @@ npc.terraria:demolitionist.happiness.npc.tavernkeep=I love how well %s the Taver
 npc.terraria:demolitionist.happiness.npc.mechanic=%s the Mechanic is a good friend I like, helps me load the gunpowder!
 npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=I wanna strap %s the Goblin Tinkerer to a rocket and watch what happens!
 npc.terraria:demolitionist.happiness.npc.arms_dealer=I wanna strap %s the Arms Dealer to a rocket and watch what happens!
-npc.terraria:demolitionist.happiness.npc.goblin_tinkerer=I wanna strap %s the Goblin Tinkerer to a rocket and watch what happens!
 npc.terraria:demolitionist.happiness.neutral=Well, I don't feel like exploding today!
 
 
@@ -3692,6 +3691,103 @@ npc.terraria:goblin_tinkerer.happiness.npc.clothier=I detect eerie vibes from %s
 npc.terraria:goblin_tinkerer.happiness.npc.stylist=I really hate how %s humiliated me, all because male goblins cannot grow real hair!
 npc.terraria:goblin_tinkerer.happiness.npc.princess=%s likes my inventions, and says all friendly goblins are welcome!
 npc.terraria:goblin_tinkerer.happiness.neutral=Feelings are currently nominal.
+
+
+## CLOTHIER ##
+npc.terraria:clothier.name=Clothier
+npc.terraria:clothier=%s the Clothier
+npc.terraria:clothier.names=Alfred,Arthur,Benjamin,Cedric,Clive,Cyril,Edgar,Edmund,Edward,Eustace,Fitz,Graham,Henry,Herald,James,Lincoln,Lloyd,Mervyn,Nigel,Pip,Rodney,Rodrick,Roland,Rupert,Sebastian
+
+npc.terraria:clothier.interact.1=Thanks again for freeing me from my curse. Felt like something jumped up and bit me.
+npc.terraria:clothier.interact.2=Mama always said I would make a great tailor.
+npc.terraria:clothier.interact.3=Life's like a box of clothes; you never know what you are gonna wear!
+npc.terraria:clothier.interact.4=Of course embroidery is hard! If it wasn't hard, no one would do it! That's what makes it great.
+npc.terraria:clothier.interact.5=I know everything they is to know about the clothierin' business.
+npc.terraria:clothier.interact.6=Being cursed was lonely, so I once made a friend out of leather. I named him Wilson.
+npc.terraria:clothier.red_hat=That Red Hat of yours looks familiar...
+npc.terraria:clothier.bloodmoon=... we have a problem! It's a Blood Moon out there!
+npc.terraria:clothier.rain.1=It's raining alright! Little bitty stingin' big ol' fat sideways rain! At least it ain't coming from straight up underneath us!
+npc.terraria:clothier.rain.2=One day it started raining like this, and it didn't quit for four days!
+npc.terraria:clothier.thunderstorm.1=Remember to keep breathing, because eventually this storm will pass!
+npc.terraria:clothier.thunderstorm.2=If it wasn't storming, everyone would go outside. It's the lightning that makes it dangerous.
+npc.terraria:clothier.windyday.1=Sometimes, I guess there's just not enough windmills.
+npc.terraria:clothier.windyday.2=The air has certainly got it, today!
+npc.terraria:clothier.graveyard.1=I've been cursed! Take me to the hospital!
+npc.terraria:clothier.graveyard.2=It's a big graveyard, we'll divide it up! The dead stay in their half, we'll stay in ours!
+npc.terraria:clothier.party=Mama always said you've got to put the past behind you before you can party on.
+npc.terraria:clothier.npc.nurse=T'were I younger, I would ask %s out. I used to be quite the lady killer.
+npc.terraria:clothier.npc.no_mechanic=I keep having vague memories of tying up a woman and throwing her in a dungeon.
+npc.terraria:clothier.npc.truffle=I'll give you a discount on your wears if you can convince %s to come over for a...sizing.
+
+
+npc.terraria:clothier.happiness.homeless=No home at all? I will not be subjected to criminal abuse!
+npc.terraria:clothier.happiness.home.far=It's a highly tedious procedure, cranking out a spyglass and looking for my house.
+npc.terraria:clothier.happiness.sparse=I'm not a popular man, but I know what tranquility is.
+npc.terraria:clothier.happiness.npc.overcrowded.1=The local population is like living with dead weight on my back.
+npc.terraria:clothier.happiness.npc.overcrowded.2=Overcrowding is as overcrowding does.
+npc.terraria:clothier.happiness.biome.underground=Seeing is believing, but sometimes the most likeable things are in the Underground.
+npc.terraria:clothier.happiness.biome.caverns=Seeing is believing, but sometimes the most likeable things are in the Cavern.
+npc.terraria:clothier.happiness.biome.underworld=Seeing is believing, but sometimes the most likeable things are in the Underworld.
+npc.terraria:clothier.happiness.evil.hallow=There just aren't enough dark rooms in the The Hallow.
+npc.terraria:clothier.happiness.evil.corruption=My soul feels torn here in the Corruption, as if my very being is at war between good and evil.
+npc.terraria:clothier.happiness.evil.crimson=My soul feels torn here in the Crimson, as if my very being is at war between good and evil.
+npc.terraria:clothier.happiness.evil.dungeon=My soul feels torn here in the Dungeon, as if my very being is at war between good and evil.
+npc.terraria:clothier.happiness.npc.truffle=%s? I hadn't seen anything so delicious in my life.
+npc.terraria:clothier.happiness.npc.princess=There's no greater joy than seen through the eyes of %s!
+npc.terraria:clothier.happiness.npc.tax_collector=I can't quite place it, but I find %s fascinating.
+npc.terraria:clothier.happiness.npc.nurse=For some reason, being around %s makes me feel uneasy.
+npc.terraria:clothier.happiness.npc.mechanic=I hate %s and I don't know why.
+npc.terraria:clothier.happiness.neutral=What's normal, anyways?
+
+## MECHANIC ##
+npc.terraria:mechanic.name=Mechanic
+npc.terraria:mechanic=%s the Mechanic
+npc.terraria:mechanic.names=Amy,Autumn,Brooke,Dawn,Ella,Ellen,Ginger,Jenny,Kayla,Korrie,Lauren,Marshanna,Meredith,Nancy,Sally,Selah,Selene,Shayna,Sheena,Shirlena,Sophia,Susana,Terra,Trisha
+
+npc.terraria:mechanic.rescue=Thanks! It was just a matter of time before I ended up like the rest of the skeletons down here.
+npc.terraria:mechanic.homeless.1=Hey, watch where you're going! I was over there a little while ago!
+npc.terraria:mechanic.homeless.2=Hold on, I've almost got wifi going down here.
+npc.terraria:mechanic.homeless.3=But I was almost done putting blinking lights up here!
+npc.terraria:mechanic.homeless.4=DON'T MOVE. I DROPPED MY CONTACT.
+npc.terraria:mechanic.interact.1=Always buy more wire than you need!
+npc.terraria:mechanic.interact.2=Did you make sure your device was plugged in?
+npc.terraria:mechanic.interact.3=Oh, you know what this house needs? More blinking lights.
+npc.terraria:mechanic.bloodmoon.1=All I want is for the switch to make the... What?!
+npc.terraria:mechanic.bloodmoon.2=Oh, let me guess. Didn't buy enough wire. Idiot.
+npc.terraria:mechanic.bloodmoon.3=Just-could you just... Please? Ok? Ok. Ugh.
+npc.terraria:mechanic.bloodmoon.4=I don't appreciate the way you're looking at me. I am WORKING right now.
+npc.terraria:mechanic.rain.1=Oh Fudge! Shorted out another outlet! I hate this weather.
+npc.terraria:mechanic.rain.2=If it doesn't stop raining, my wrench is going to get all rusty!
+npc.terraria:mechanic.thunderstorm.1=Don't go outside right now while holding any of my products, you'll attract an unwanted dose of electrical power!
+npc.terraria:mechanic.thunderstorm.2=Great! There goes another pump. When will the lightning stop frying my equipment?!
+npc.terraria:mechanic.windyday.1=My wires are getting tangled in this cyclone. Watch where you step!
+npc.terraria:mechanic.windyday.2=Oh no! There are pockets of low pressure rolling in, I must secure the power grid.
+npc.terraria:mechanic.graveyard.1=I should light up this dark and scary place to keep the monsters away.
+npc.terraria:mechanic.graveyard.2=I'd run some wire here, but the spooky dead things are in the way!
+npc.terraria:mechanic.party=Do you think anyone would mind if I wired a cake with bulbs instead of candles?
+npc.terraria:mechanic.npc.arms_dealer=%s keeps talking about pressing my pressure plate. I told him it was for stepping on.
+npc.terraria:mechanic.npc.tavernkeep=%s offered me a Root Beer, I told him to give it to me in a square cup.
+npc.terraria:mechanic.npc.goblin_tinkerer=Hey, %s, did you just come from %s's? Did he say anything about me by chance?
+
+
+npc.terraria:mechanic.happiness.homeless=I need some sort of structure to run these wires through.
+npc.terraria:mechanic.happiness.home.far=Oh, it seems I'm out of signal range! Hmm.
+npc.terraria:mechanic.happiness.sparse=Perfect, no one is in the way for building infrastructure.
+npc.terraria:mechanic.happiness.npc.overcrowded.1=The flickering lights are bothering me. Is there a load on the grid?
+npc.terraria:mechanic.happiness.npc.overcrowded.2=I'm going to need a way bigger power source for THIS MANY people, I hate it!
+npc.terraria:mechanic.happiness.biome.snow=I like the Snow biome, machines don't overheat here, and the energy flow is efficient.
+npc.terraria:mechanic.happiness.biome.underground=I don't like the Underground, it reminds me of a traumatic experience!
+npc.terraria:mechanic.happiness.biome.caverns=I don't like the Cavern, it reminds me of a traumatic experience!
+npc.terraria:mechanic.happiness.biome.underworld=I don't like the The Underworld, it reminds me of a traumatic experience!
+npc.terraria:mechanic.happiness.evil.corruption=I feel extremely uncomfortable in the Corruption, as if creeping eyes are always watching me.
+npc.terraria:mechanic.happiness.evil.crimson=I feel extremely uncomfortable in the Crimson, as if creeping eyes are always watching me.
+npc.terraria:mechanic.happiness.evil.dungeon=I feel extremely uncomfortable in the Dungeon, as if creeping eyes are always watching me.
+npc.terraria:mechanic.happiness.npc.goblin_tinkerer=Umm... %s makes my heart flutter, I need to get that checked!
+npc.terraria:mechanic.happiness.npc.princess=%s hotwired one of my pumps, I'm super impressed!
+npc.terraria:mechanic.happiness.npc.cyborg=I feel like I understand %s better than anyone else.
+npc.terraria:mechanic.happiness.npc.arms_dealer=I don't really like that %s won't leave me alone!
+npc.terraria:mechanic.happiness.npc.clothier=I hate how %s doesn't know how to treat a woman!
+npc.terraria:mechanic.happiness.neutral=Everything's working correctly - oh, me? Yeah I'm fine!
 
 ##################
 
