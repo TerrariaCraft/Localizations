@@ -620,6 +620,9 @@ item.terraria:artifacts/honey_comb.name=Colmeia de Mel
 item.terraria:artifacts/stinger_necklace.name=Colar de Agulha
 item.terraria:artifacts/sweetheart_necklace.name=Colar de Namorado
 item.terraria:artifacts/feral_claws.name=Garras Selvagens
+item.terraria:artifacts/cobalt_shield.name=Cobalt Shield
+item.terraria:artifacts/obsidian_shield.name=Obsidian Shield
+item.terraria:artifacts/ankh_shield.name=Ankh Shield
 
 item.terraria:artifacts/expert/shield_of_cthulhu.name=Escudo de Cthulhu
 item.terraria:artifacts/expert/worm_scarf.name=Cachecol de Verme
@@ -863,6 +866,7 @@ item.terraria:materials/tattered_cloth.name=Pano Esfarrapado
 item.terraria:materials/hook.name=Gancho
 item.terraria:materials/giant_harpy_feather.name=Pena Gigante de Harpia
 item.terraria:materials/defender_medal.name=Medalha de Defensor
+item.terraria:materials/shadow_key.name=Shadow Key
 
 # Armor
 item.terraria:armor/wooden/helm.name=Elmo de Madeira
@@ -2231,6 +2235,8 @@ tooltip.terraria:bait_power=Bait Power: %,d%%
 tooltip.terraria:fishing_power=Fishing Power: %,d%%
 tooltip.terraria:angler_armor=Increases fishing power
 tooltip.terraria:faved=Marked as favorite
+tooltip.terraria:materials/golden_key=Opens one locked Gold Chest or Lock Box
+tooltip.terraria:materials/shadow_key=Opens all Shadow Chests and Obsidian Lock Boxes
 
 tooltip.terraria:increased_movement_speed=%,d%% increased movement speed
 tooltip.terraria:increased_minion=Increases your max number of minions by %,d
@@ -2316,6 +2322,9 @@ tooltip.terraria:artifacts/honey_comb=Libera abelhas e cobre o usuário com mel 
 tooltip.terraria:artifacts/stinger_necklace=Aumenta a penetração de armadura em 5</br>Libera abelhas e cobre o usuário com mel ao sofrer dano
 tooltip.terraria:artifacts/sweetheart_necklace=Libera abelhas, cobre o usuário com mel e aumenta a velocidade de movimento ao sofrer dano
 tooltip.terraria:artifacts/feral_claws=Ativa ataque automático para armas corpo a corpo
+tooltip.terraria:artifacts/cobalt_shield=Grants immunity to knockback
+tooltip.terraria:artifacts/obsidian_shield=Grants immunity to knockback</br>Grants immunity to fire blocks
+tooltip.terraria:artifacts/ankh_shield=Grants immunity to knockback and fire blocks</br>Grants immunity to most debuffs
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Permite ao jogador avançar contra inimigos</br>Toque duas vezes em uma direção
 tooltip.terraria:artifacts/expert/worm_scarf=Reduz o dano recebido em 17%%
@@ -2365,7 +2374,6 @@ tooltip.terraria:materials/cursed_flame=Nem mesmo água pode apagar a chama
 tooltip.terraria:materials/vial_of_venom=Extremamente tóxico
 tooltip.terraria:bomb=Uma pequena explosão que destrói alguns blocos
 tooltip.terraria:dynamite=Uma grande explosão que destrói a maioria dos blocos
-tooltip.terraria:golden_key=Abre um Baú Dourado ou do Calabouço
 tooltip.terraria:rope_item=Pode ser escalado
 tooltip.terraria:materials/rotten_chunk=Parece saboroso!
 tooltip.terraria:materials/ichor=O sangue dos deuses
