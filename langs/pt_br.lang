@@ -156,6 +156,7 @@ itemGroup.terraria:background_objects.thorny_bushes=Arbustos Espinhosos
 itemGroup.terraria:mechanisms=Mecânismos
 itemGroup.terraria:mechanisms.activators=Ativadores
 itemGroup.terraria:mechanisms.activators.pressure_plates=Placas de Pressão
+itemGroup.terraria:mechanisms.activators.timers=Timers
 itemGroup.terraria:mechanisms.traps=Armadilhas
 
 itemGroup.terraria:seeds=Sementes
@@ -1121,6 +1122,7 @@ item.terraria:guide_to_environmental_preservation.name=Guia da Preservação Amb
 item.terraria:guide_to_environmental_preservation_inactive.name=Guia da Preservação Ambiental (Inativo)
 item.terraria:guide_to_peaceful_coexistence.name=Guia da Convivência Pacífica
 item.terraria:guide_to_peaceful_coexistence_inactive.name=Guia da Convivência Pacífica (Inativo)
+item.terraria:mech/actuator.name=Actuator
 
 # Grappling Hooks
 item.terraria:hooks/grappling.name=Gancho
@@ -1937,6 +1939,7 @@ tile.terraria:mech/pressure_plates/gray.name=Placa de Pressão Cinza
 tile.terraria:mech/pressure_plates/green.name=Placa de Pressão Verde
 tile.terraria:mech/pressure_plates/yellow.name=Placa de Pressão Amarela
 tile.terraria:mech/pressure_plates/red.name=Placa de Pressão Vermelha
+tile.terraria:mech/pressure_plates/orange.name=Orange Pressure Plate
 tile.terraria:mech/traps/dart.name=Armadilha de Dardos
 tile.terraria:mech/traps/boulder.name=Pedra
 tile.terraria:mech/timers/1s.name=1 Second Timer
@@ -2241,8 +2244,6 @@ tooltip.terraria:bait_power=Bait Power: %,d%%
 tooltip.terraria:fishing_power=Fishing Power: %,d%%
 tooltip.terraria:angler_armor=Increases fishing power
 tooltip.terraria:faved=Marked as favorite
-tooltip.terraria:materials/golden_key=Opens one locked Gold Chest or Lock Box
-tooltip.terraria:materials/shadow_key=Opens all Shadow Chests and Obsidian Lock Boxes
 
 tooltip.terraria:increased_movement_speed=%,d%% increased movement speed
 tooltip.terraria:increased_minion=Increases your max number of minions by %,d
@@ -2494,6 +2495,14 @@ tooltip.terraria:potions/ale='Down the hatch!'
 tooltip.terraria:armor/wizard/hat=5%% increased magic damage
 tooltip.terraria:beenade=Explodes into a swarm of bees
 tooltip.terraria:weapons/magic/vilethorn=Summons a vile thorn
+tooltip.terraria:materials/golden_key=Opens one locked Gold Chest or Lock Box
+tooltip.terraria:materials/shadow_key=Opens all Shadow Chests and Obsidian Lock Boxes
+tooltip.terraria:mech/actuator=Enables solid blocks to be toggled on and off
+tooltip.terraria:mech/timers/1s=Signals every second
+tooltip.terraria:mech/timers/3s=Signals every 3 seconds
+tooltip.terraria:mech/timers/5s=Signals every 5 seconds
+tooltip.terraria:mech/timers/hs=Signals every half of a second
+tooltip.terraria:mech/timers/qs=Signals every fourth of a second
 
 tooltip.terraria:encumbering_stone=Impedirá a coleta de itens enquanto estiver bloqueado</br>Clique direito para desbloquear</br>'Você está sobrecarregado'
 tooltip.terraria:uncumbering_stone=Impedirá a coleta de itens enquanto estiver bloqueado</br>Clique direito para bloquear</br>'Você está sobrecarregado'

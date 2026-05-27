@@ -156,6 +156,7 @@ itemGroup.terraria:background_objects.thorny_bushes=Thorny Bushes
 itemGroup.terraria:mechanisms=Mechanisms
 itemGroup.terraria:mechanisms.activators=Activators
 itemGroup.terraria:mechanisms.activators.pressure_plates=Pressure Plates
+itemGroup.terraria:mechanisms.activators.timers=Timers
 itemGroup.terraria:mechanisms.traps=Traps
 
 itemGroup.terraria:seeds=Seeds
@@ -1121,6 +1122,7 @@ item.terraria:guide_to_environmental_preservation.name=Guide to Environmental Pr
 item.terraria:guide_to_environmental_preservation_inactive.name=Guide to Environmental Preservation (Inactive)
 item.terraria:guide_to_peaceful_coexistence.name=Guide to Peaceful Coexistence
 item.terraria:guide_to_peaceful_coexistence_inactive.name=Guide to Peaceful Coexistence (Inactive)
+item.terraria:mech/actuator.name=Actuator
 
 # Grappling Hooks
 item.terraria:hooks/grappling.name=Grappling Hook
@@ -1937,6 +1939,7 @@ tile.terraria:mech/pressure_plates/gray.name=Gray Pressure Plate
 tile.terraria:mech/pressure_plates/green.name=Green Pressure Plate
 tile.terraria:mech/pressure_plates/yellow.name=Yellow Pressure Plate
 tile.terraria:mech/pressure_plates/red.name=Red Pressure Plate
+tile.terraria:mech/pressure_plates/orange.name=Orange Pressure Plate
 tile.terraria:mech/traps/dart.name=Dart Trap
 tile.terraria:mech/traps/boulder.name=Boulder
 tile.terraria:mech/timers/1s.name=1 Second Timer
@@ -2241,8 +2244,6 @@ tooltip.terraria:bait_power=Bait Power: %,d%%
 tooltip.terraria:fishing_power=Fishing Power: %,d%%
 tooltip.terraria:angler_armor=Increases fishing power
 tooltip.terraria:faved=Marked as favorite
-tooltip.terraria:materials/golden_key=Opens one locked Gold Chest or Lock Box
-tooltip.terraria:materials/shadow_key=Opens all Shadow Chests and Obsidian Lock Boxes
 
 tooltip.terraria:increased_movement_speed=%,d%% increased movement speed
 tooltip.terraria:increased_minion=Increases your max number of minions by %,d
@@ -2494,6 +2495,14 @@ tooltip.terraria:potions/ale='Down the hatch!'
 tooltip.terraria:armor/wizard/hat=5%% increased magic damage
 tooltip.terraria:beenade=Explodes into a swarm of bees
 tooltip.terraria:weapons/magic/vilethorn=Summons a vile thorn
+tooltip.terraria:materials/golden_key=Opens one locked Gold Chest or Lock Box
+tooltip.terraria:materials/shadow_key=Opens all Shadow Chests and Obsidian Lock Boxes
+tooltip.terraria:mech/actuator=Enables solid blocks to be toggled on and off
+tooltip.terraria:mech/timers/1s=Signals every second
+tooltip.terraria:mech/timers/3s=Signals every 3 seconds
+tooltip.terraria:mech/timers/5s=Signals every 5 seconds
+tooltip.terraria:mech/timers/hs=Signals every half of a second
+tooltip.terraria:mech/timers/qs=Signals every fourth of a second
 
 tooltip.terraria:encumbering_stone=Prevents item pickups while locked</br>Right click to unlock</br>'You are over-encumbered'
 tooltip.terraria:uncumbering_stone=Prevents item pickups while locked</br>Right click to lock</br>'You are over-encumbered'
