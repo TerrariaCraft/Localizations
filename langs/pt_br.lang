@@ -1971,17 +1971,22 @@ key.terraria.grapple=Gancho
 ######DAMAGE SOURCE DEATH######
 
 death.attack.terraria:generic=%s foi assassinado...
-death.terraria:arrow=%s foi atingido por uma flecha de %s.
-death.terraria:starfury=%s foi morto por %s usando Starfury.
-death.terraria:falling_star=%s viu uma estrela cadente fatal.
-death.terraria:dart_trap=%s foi vítima de uma armadilha de dardos.
+death.attack.terraria:arrow=%s was shot by %s.
+death.attack.terraria:starfury=%s was killed by %s using Starfury.
+death.attack.terraria:falling_star=%s saw deadly falling star.
 death.attack.terraria:thorn_bushes=%s foi picado até a morte.
 
-death.attack.terraria:fire=%s não conseguiu apagar o fogo.
+death.attack.terraria:fire.0=%s couldn't put the fire out.
+death.attack.terraria:fire.1=%s was reduced to charcoal.
+death.attack.terraria:fire.2=%s was burnt to a crisp.
+death.attack.terraria:fire.3=%s is a well-done steak.
+
 death.attack.terraria:poison=%s não conseguiu encontrar o antídoto.
 
 death.attack.terraria:falling_while_stoned.0=%s precisa ser varrido.
 death.attack.terraria:falling_while_stoned.1=%s não pode ser recolocado.
+death.attack.terraria:falling_while_stoned.2=%s shattered into pieces.
+death.attack.terraria:falling_while_stoned.3=%s just became another dirt pile.
 
 death.attack.terraria:explosion.0=%s explodiu.
 death.attack.terraria:explosion.1=%s teve um acidente de mineração.
@@ -1994,11 +1999,14 @@ death.attack.terraria:drown.1=%s esqueceu de respirar.
 death.attack.terraria:drown.2=%s está dormindo com os peixes.
 death.attack.terraria:drown.3=%s se afogou.
 death.attack.terraria:drown.4=%s achava que era um peixe.
+death.attack.terraria:drown.5=%s discovered Atlantis.
+death.attack.terraria:drown.6=%s forgot to bring a towel.
 
 death.attack.terraria:lava.0=%s adora brincar no magma.
 death.attack.terraria:lava.1=%s foi derretido.
 death.attack.terraria:lava.2=%s tentou nadar na lava.
 death.attack.terraria:lava.3=%s foi incinerado.
+death.attack.terraria:lava.4=%s is bad at the Floor Is Lava.
 
 death.attack.terraria:falling.0=%s deixou uma pequena cratera.
 death.attack.terraria:falling.1=%s descobriu a gravidade.
@@ -2007,6 +2015,10 @@ death.attack.terraria:falling.3=%s bateu de cara no chão.
 death.attack.terraria:falling.4=%s foi vítima da gravidade.
 death.attack.terraria:falling.5=%s caiu até a morte.
 death.attack.terraria:falling.6=%s caiu de cara no chão.
+death.attack.terraria:falling.7=%s left a crater.
+death.attack.terraria:falling.8=%s forgot their happy thought.
+
+death.attack.terraria:boulder.0=%s's skull was crushed.
 
 #########################
 
@@ -2584,6 +2596,7 @@ text.terraria:sound_tags=Tags de Som:
 text.terraria:buff_tags=Tags de Buff:
 text.terraria:biome_tags=Tags de Bioma:
 text.terraria:weather_effects_tags=Tags de Efeitos Climáticos:
+text.terraria:research_duplication=Research %s more to unlock duplication
 
 itweaks.enabled=Este ajuste está habilitado
 itweaks.disabled=Este ajuste está desabilitado

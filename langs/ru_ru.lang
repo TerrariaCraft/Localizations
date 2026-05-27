@@ -1971,17 +1971,22 @@ key.terraria.grapple=Использовать крюк-кошку
 ######DAMAGE SOURCE DEATH######
 
 death.attack.terraria:generic=%s был убит...
-death.terraria:arrow=%s был застрелен %s.
-death.terraria:starfury=%s был убит %s с помощью Звёздной ярости.
-death.terraria:falling_star=%s увидел смертельную падающую звезду.
-death.terraria:dart_trap=%s стал жертвой ловушки с дротиком.
+death.attack.terraria:arrow=%s was shot by %s.
+death.attack.terraria:starfury=%s was killed by %s using Starfury.
+death.attack.terraria:falling_star=%s saw deadly falling star.
 death.attack.terraria:thorn_bushes=%s был заколот до смерти.
 
-death.attack.terraria:fire=%s не может потушить огонь.
+death.attack.terraria:fire.0=%s couldn't put the fire out.
+death.attack.terraria:fire.1=%s was reduced to charcoal.
+death.attack.terraria:fire.2=%s was burnt to a crisp.
+death.attack.terraria:fire.3=%s is a well-done steak.
+
 death.attack.terraria:poison=%s не смог найти противоядие.
 
 death.attack.terraria:falling_while_stoned.0=%s нужно смести в кучу.
 death.attack.terraria:falling_while_stoned.1=%s больше не собрать воедино.
+death.attack.terraria:falling_while_stoned.2=%s shattered into pieces.
+death.attack.terraria:falling_while_stoned.3=%s just became another dirt pile.
 
 death.attack.terraria:explosion.0=%s взорвался.
 death.attack.terraria:explosion.1=%s попал в несчастный случай в шахте.
@@ -1994,11 +1999,14 @@ death.attack.terraria:drown.1=%s забыл, как дышать.
 death.attack.terraria:drown.2=%s спит на дне.
 death.attack.terraria:drown.3=%s утонул.
 death.attack.terraria:drown.4=%s подумал что он рыба.
+death.attack.terraria:drown.5=%s discovered Atlantis.
+death.attack.terraria:drown.6=%s forgot to bring a towel.
 
 death.attack.terraria:lava.0=%s любит играть в магме.
 death.attack.terraria:lava.1=%s был расплавлен.
 death.attack.terraria:lava.2=%s решает искупаться в лаве.
 death.attack.terraria:lava.3=%s превратился в пепел.
+death.attack.terraria:lava.4=%s is bad at the Floor Is Lava.
 
 death.attack.terraria:falling.0=%s оставляет небольшой кратор на земле.
 death.attack.terraria:falling.1=%s зобретает гравитацию.
@@ -2007,6 +2015,10 @@ death.attack.terraria:falling.3=%s размазался лицом об пове
 death.attack.terraria:falling.4=%s стал жертвой гравитации.
 death.attack.terraria:falling.5=%s упал насмерть.
 death.attack.terraria:falling.6=%s сперва ударился лицом о землю.
+death.attack.terraria:falling.7=%s left a crater.
+death.attack.terraria:falling.8=%s forgot their happy thought.
+
+death.attack.terraria:boulder.0=%s's skull was crushed.
 
 #########################
 
@@ -2584,6 +2596,7 @@ text.terraria:sound_tags=Тэги музыки:
 text.terraria:buff_tags=Тэги эффектов:
 text.terraria:biome_tags=Тэги биомов:
 text.terraria:weather_effects_tags=Тэги погоды:
+text.terraria:research_duplication=Research %s more to unlock duplication
 
 itweaks.enabled=Этот твик включен
 itweaks.disabled=Этот твик отключен
