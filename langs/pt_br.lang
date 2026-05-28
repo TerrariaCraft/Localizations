@@ -2870,6 +2870,10 @@ debug.terraria:copy_block_state.help=F3 + I = Copiar estado do bloco para a áre
 debug.terraria:copy_block_state=Estado do bloco copiado para a área de transferência
 debug.terraria:copy_block_state.err=§cVocê precisa estar olhando para um bloco para copiá-lo.
 
+debug.terraria:copy_gl_state.help=F3 + L = Copy OpenGL state to clipboard
+debug.terraria:copy_gl_state=OpenGL state copied to clipboard
+debug.terraria:copy_gl_state.err=OpenGL state failed to generate.
+
 house.terraria:limits=Limite de tamanho da casa excedido: %s/%s
 house.terraria:occupied=Esta casa já está ocupada!
 house.terraria:small=A casa é muito pequena!
