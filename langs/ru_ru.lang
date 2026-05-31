@@ -79,6 +79,7 @@ itemGroup.terraria:boomerangs=Бумеранги
 itemGroup.terraria:expert_accessories=Эксперт
 itemGroup.terraria:fences=Заборы
 itemGroup.terraria:watches=Часы
+itemGroup.terraria:minecarts=Minecarts
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -1139,6 +1140,19 @@ item.terraria:hooks/ivy.name=Хлыст из плюща
 item.terraria:hooks/bat.name=Крюк летучей мыши
 item.terraria:hooks/candy_cane.name=Карамельный крюк
 
+# Minecarts
+item.terraria:minecarts/wooden.name=Wooden Minecart
+item.terraria:minecarts/iron.name=Minecart
+item.terraria:minecarts/mechanical.name=Mechanical Cart
+item.terraria:minecarts/desert.name=Desert Minecart
+item.terraria:minecarts/carp.name=Minecarp
+item.terraria:minecarts/bee.name=Bee Minecart
+item.terraria:minecarts/ladybug.name=Ladybug Minecart
+item.terraria:minecarts/pigron.name=Pigron Minecart
+item.terraria:minecarts/sunflower.name=Sunflower Minecart
+item.terraria:minecarts/demonic.name=Demonic Hellcart
+item.terraria:minecarts/shroom.name=Shroom Minecart
+
 # Pets
 item.terraria:pets/glowing/shadow_orb.name=Сфера тени
 item.terraria:pets/glowing/crimson_heart.name=Багряное сердце
@@ -1947,6 +1961,7 @@ tile.terraria:mech/timers/3s.name=3 Second Timer
 tile.terraria:mech/timers/5s.name=5 Second Timer
 tile.terraria:mech/timers/hs.name=1/2 Second Timer
 tile.terraria:mech/timers/qs.name=1/4 Second Timer
+tile.terraria:mech/minecart_track.name=Minecart Track
 
 ##################
 
@@ -2515,6 +2530,7 @@ tooltip.terraria:mech/timers/3s=Signals every 3 seconds
 tooltip.terraria:mech/timers/5s=Signals every 5 seconds
 tooltip.terraria:mech/timers/hs=Signals every half of a second
 tooltip.terraria:mech/timers/qs=Signals every fourth of a second
+tooltip.terraria:mech/minecart_track=Hammer end piece to change bumper style</br>Hammer or signal intersections to change direction
 
 tooltip.terraria:encumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы разблокировать</br>'Вы перегружены'
 tooltip.terraria:uncumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы заблокировать</br>'Вы перегружены'
