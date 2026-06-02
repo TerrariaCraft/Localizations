@@ -80,6 +80,7 @@ itemGroup.terraria:expert_accessories=Expert Mode
 itemGroup.terraria:fences=Fences
 itemGroup.terraria:watches=Watches
 itemGroup.terraria:minecarts=Minecarts
+itemGroup.terraria:keys=Keys
 
 itemGroup.terraria:crafting_stations=Ambacht Stations
 itemGroup.terraria:crafting_stations.work_benches=Werkbanken
@@ -439,6 +440,7 @@ item.terraria:living_leaf_wand.name=Leaf Wand
 item.terraria:living_wood_wand.name=Living Wood Wand
 item.terraria:spears/rotted_fork.name=The Rotted Fork
 item.terraria:sickle.name=Sickle
+item.terraria:chest_lock.name=Chest Lock
 
 item.terraria:weapons/yoyos/wooden.name=Wooden Yoyo
 item.terraria:weapons/yoyos/rally.name=Rally
@@ -668,6 +670,7 @@ item.terraria:potions/crate.name=Crate Potion
 item.terraria:potions/eggnog.name=Eggnog
 item.terraria:potions/wormhole.name=Wormhole Potion
 item.terraria:potions/battle.name=Battle Potion
+item.terraria:potions/dangersense.name=Dangersense Potion
 
 item.terraria:potions/food/golden_delight.name=Golden Delight
 item.terraria:potions/food/bunny_stew.name=Bunny Stew
@@ -1318,6 +1321,7 @@ tile.terraria:furniture/chairs/pumpkin.name=Pumpkin Chair
 tile.terraria:furniture/chairs/dev_structure.name=§hD42F1F;Structure Chair
 
 # Chests #
+tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
 tile.terraria:furniture/chests/wood.name=Chest
 tile.terraria:furniture/chests/gold.name=Gold Chest
 tile.terraria:furniture/chests/frozen.name=Ice Chest
@@ -1329,7 +1333,12 @@ tile.terraria:furniture/chests/safe.name=Safe
 tile.terraria:furniture/chests/skyware.name=Skyware Chest
 tile.terraria:furniture/chests/mushroom.name=Mushroom Chest
 tile.terraria:furniture/chests/rich_mahogany.name=Rich Mahogany Chest
-tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
+tile.terraria:furniture/chests/granite.name=Granite Chest
+tile.terraria:furniture/chests/marble.name=Marble Chest
+
+# Locked Chests
+tile.terraria:furniture/chests/gold_locked.name=Locked Gold Chest
+tile.terraria:furniture/chests/shadow_locked.name=Locked Shadow Chest
 
 # Clocks #
 tile.terraria:furniture/clocks/living_wood.name=Living Wood Clock
@@ -1962,6 +1971,7 @@ tile.terraria:mech/timers/5s.name=5 Second Timer
 tile.terraria:mech/timers/hs.name=1/2 Second Timer
 tile.terraria:mech/timers/qs.name=1/4 Second Timer
 tile.terraria:mech/minecart_track.name=Minecart Track
+tile.terraria:mech/pressure_plate_track.name=Pressure Plate Track
 
 ##################
 
@@ -1975,9 +1985,9 @@ key.hotbar.0=Hotbar Slot 10
 key.terraria.healing=Quick Heal
 key.terraria.mana=Quick Mana
 key.terraria.buffs=Quick Buff
-key.terraria.pass_platforms=Fall Through Platform
-key.terraria.no_auto_stepping=Disable Auto-stepping
+key.terraria.down=Down
 key.terraria.grapple=Grapple
+key.terraria.auto_select=Auto Select
 
 ####################
 
@@ -2219,6 +2229,9 @@ buff.terraria:midas.desc=Drop more money on death
 
 buff.terraria:mana_sickness.name=Mana Sickness
 buff.terraria:mana_sickness.desc=Magic damage reduced by %d%%
+
+buff.terraria:dangersense.name=Dangersense
+buff.terraria:dangersense.desc=You can see nearby hazards
 
 #################
 
@@ -2531,6 +2544,11 @@ tooltip.terraria:mech/timers/5s=Signals every 5 seconds
 tooltip.terraria:mech/timers/hs=Signals every half of a second
 tooltip.terraria:mech/timers/qs=Signals every fourth of a second
 tooltip.terraria:mech/minecart_track=Hammer end piece to change bumper style</br>Hammer or signal intersections to change direction
+tooltip.terraria:mech/pressure_plate_track=Signals when a minecart travels over it</br>Not for use on curves or slopes
+tooltip.terraria:potions/recall=Teleports you home
+tooltip.terraria:potions/water_walking=Allows the ability to walk on water
+tooltip.terraria:potions/builder=Increases placement speed and range
+tooltip.terraria:potions/dangersense=Allows you to see nearby danger sources
 
 tooltip.terraria:encumbering_stone=Prevents item pickups while locked</br>Right click to unlock</br>'You are over-encumbered'
 tooltip.terraria:uncumbering_stone=Prevents item pickups while locked</br>Right click to lock</br>'You are over-encumbered'
@@ -2540,6 +2558,7 @@ tooltip.terraria:guide_to_environmental_preservation=Prevents you from accidenta
 tooltip.terraria:guide_to_environmental_preservation_inactive=Prevents you from accidentally destroying the environment while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
 tooltip.terraria:guide_to_peaceful_coexistence=Prevents you from hurting critters while in the inventory</br>Prevents you from accidentally destroying the environment while in the inventory</br>Right click to deactivate effects
 tooltip.terraria:guide_to_peaceful_coexistence_inactive=Prevents you from hurting critters while in the inventory</br>Prevents you from accidentally destroying the environment while in the inventory</br>Effects are currently inactive,</br>Right click to reactivate
+tooltip.terraria:chest_lock=Can be used to lock some chests
 
 tooltip.terraria:weapons/guns/shotgun=Fires a spread of bullets
 tooltip.terraria:weapons/guns/sandgun=This is a good idea!

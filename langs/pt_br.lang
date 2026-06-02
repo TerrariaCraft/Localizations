@@ -80,6 +80,7 @@ itemGroup.terraria:expert_accessories=Expert Mode
 itemGroup.terraria:fences=Fences
 itemGroup.terraria:watches=Watches
 itemGroup.terraria:minecarts=Minecarts
+itemGroup.terraria:keys=Keys
 
 itemGroup.terraria:crafting_stations=Estações de Fabricação
 itemGroup.terraria:crafting_stations.work_benches=Mesas de Trabalho
@@ -439,6 +440,7 @@ item.terraria:living_leaf_wand.name=Varinha de Folha
 item.terraria:living_wood_wand.name=Varinha de Madeira Viva
 item.terraria:spears/rotted_fork.name=A Forquilha Apodrecida
 item.terraria:sickle.name=Foice
+item.terraria:chest_lock.name=Chest Lock
 
 item.terraria:weapons/yoyos/wooden.name=Wooden Yoyo
 item.terraria:weapons/yoyos/rally.name=Rally
@@ -668,6 +670,7 @@ item.terraria:potions/crate.name=Poção de Caixote
 item.terraria:potions/eggnog.name=Gemada
 item.terraria:potions/wormhole.name=Poção de Buraco de Minhoca
 item.terraria:potions/battle.name=Poção de Batalha
+item.terraria:potions/dangersense.name=Dangersense Potion
 
 item.terraria:potions/food/golden_delight.name=Delícia Dourada
 item.terraria:potions/food/bunny_stew.name=Ensopado de Coelho
@@ -1318,6 +1321,7 @@ tile.terraria:furniture/chairs/pumpkin.name=Cadeira de Abóbora
 tile.terraria:furniture/chairs/dev_structure.name=§hD42F1F;Structure Chair
 
 # Chests #
+tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
 tile.terraria:furniture/chests/wood.name=Baú
 tile.terraria:furniture/chests/gold.name=Baú de Ouro
 tile.terraria:furniture/chests/frozen.name=Baú Congelado
@@ -1329,7 +1333,12 @@ tile.terraria:furniture/chests/safe.name=Cofre
 tile.terraria:furniture/chests/skyware.name=Baú Skyware
 tile.terraria:furniture/chests/mushroom.name=Baú de Cogumelos
 tile.terraria:furniture/chests/rich_mahogany.name=Baú de Mogno Rico
-tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
+tile.terraria:furniture/chests/granite.name=Granite Chest
+tile.terraria:furniture/chests/marble.name=Marble Chest
+
+# Locked Chests
+tile.terraria:furniture/chests/gold_locked.name=Locked Gold Chest
+tile.terraria:furniture/chests/shadow_locked.name=Locked Shadow Chest
 
 # Clocks #
 tile.terraria:furniture/clocks/living_wood.name=Relógio de Madeira Viva
@@ -1962,6 +1971,7 @@ tile.terraria:mech/timers/5s.name=5 Second Timer
 tile.terraria:mech/timers/hs.name=1/2 Second Timer
 tile.terraria:mech/timers/qs.name=1/4 Second Timer
 tile.terraria:mech/minecart_track.name=Minecart Track
+tile.terraria:mech/pressure_plate_track.name=Pressure Plate Track
 
 ##################
 
@@ -1975,9 +1985,9 @@ key.hotbar.0=Slot da Hotbar 10
 key.terraria.healing=Cura Rápida
 key.terraria.mana=Mana Rápida
 key.terraria.buffs=Buffs Rápidos
-key.terraria.pass_platforms=Atravessar Plataforma
-key.terraria.no_auto_stepping=Disable Auto-stepping
+key.terraria.down=Down
 key.terraria.grapple=Gancho
+key.terraria.auto_select=Auto Select
 
 ####################
 
@@ -2219,6 +2229,9 @@ buff.terraria:midas.desc=Deixa mais dinheiro ao morrer
 
 buff.terraria:mana_sickness.name=Doença de Mana
 buff.terraria:mana_sickness.desc=Dano mágico reduzido em %d%%
+
+buff.terraria:dangersense.name=Dangersense
+buff.terraria:dangersense.desc=You can see nearby hazards
 
 #################
 
@@ -2531,6 +2544,11 @@ tooltip.terraria:mech/timers/5s=Signals every 5 seconds
 tooltip.terraria:mech/timers/hs=Signals every half of a second
 tooltip.terraria:mech/timers/qs=Signals every fourth of a second
 tooltip.terraria:mech/minecart_track=Hammer end piece to change bumper style</br>Hammer or signal intersections to change direction
+tooltip.terraria:mech/pressure_plate_track=Signals when a minecart travels over it</br>Not for use on curves or slopes
+tooltip.terraria:potions/recall=Teleports you home
+tooltip.terraria:potions/water_walking=Allows the ability to walk on water
+tooltip.terraria:potions/builder=Increases placement speed and range
+tooltip.terraria:potions/dangersense=Allows you to see nearby danger sources
 
 tooltip.terraria:encumbering_stone=Impedirá a coleta de itens enquanto estiver bloqueado</br>Clique direito para desbloquear</br>'Você está sobrecarregado'
 tooltip.terraria:uncumbering_stone=Impedirá a coleta de itens enquanto estiver bloqueado</br>Clique direito para bloquear</br>'Você está sobrecarregado'
@@ -2540,6 +2558,7 @@ tooltip.terraria:guide_to_environmental_preservation=Impedirá que você destrua
 tooltip.terraria:guide_to_environmental_preservation_inactive=Impedirá que você destrua o meio ambiente acidentalmente enquanto estiver no inventário</br>Efeitos estão inativos no momento,</br>Clique direito para reativar
 tooltip.terraria:guide_to_peaceful_coexistence=Impedirá que você machuque criaturas enquanto estiver no inventário</br>Impedirá que você destrua o meio ambiente acidentalmente enquanto estiver no inventário</br>Clique direito para desativar os efeitos
 tooltip.terraria:guide_to_peaceful_coexistence_inactive=Impedirá que você machuque criaturas enquanto estiver no inventário</br>Impedirá que você destrua o meio ambiente acidentalmente enquanto estiver no inventário</br>Efeitos estão inativos no momento,</br>Clique direito para reativar
+tooltip.terraria:chest_lock=Can be used to lock some chests
 
 tooltip.terraria:weapons/guns/shotgun=Dispara uma rajada de balas
 tooltip.terraria:weapons/guns/sandgun=Esta é uma boa ideia!

@@ -80,6 +80,7 @@ itemGroup.terraria:expert_accessories=Эксперт
 itemGroup.terraria:fences=Заборы
 itemGroup.terraria:watches=Часы
 itemGroup.terraria:minecarts=Minecarts
+itemGroup.terraria:keys=Keys
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -439,6 +440,7 @@ item.terraria:living_leaf_wand.name=Жезл листьев
 item.terraria:living_wood_wand.name=Жезл живой древесины
 item.terraria:spears/rotted_fork.name=Гнилая вилка
 item.terraria:sickle.name=Коса
+item.terraria:chest_lock.name=Chest Lock
 
 item.terraria:weapons/yoyos/wooden.name=Деревянный йо-йо
 item.terraria:weapons/yoyos/rally.name=Ралли
@@ -668,6 +670,7 @@ item.terraria:potions/crate.name=Зелье ящиков
 item.terraria:potions/eggnog.name=Гоголь-моголь
 item.terraria:potions/wormhole.name=Зелье червоточины
 item.terraria:potions/battle.name=Зелья битвы
+item.terraria:potions/dangersense.name=Dangersense Potion
 
 item.terraria:potions/food/golden_delight.name=Золотое лакомство
 item.terraria:potions/food/bunny_stew.name=Рагу из кролика
@@ -1318,6 +1321,7 @@ tile.terraria:furniture/chairs/pumpkin.name=Pumpkin Chair
 tile.terraria:furniture/chairs/dev_structure.name=§hD42F1F;Structure Chair
 
 # Chests #
+tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
 tile.terraria:furniture/chests/wood.name=Сундук
 tile.terraria:furniture/chests/gold.name=Золотой сундук
 tile.terraria:furniture/chests/frozen.name=Ледяной сундук
@@ -1329,7 +1333,12 @@ tile.terraria:furniture/chests/safe.name=Сейф
 tile.terraria:furniture/chests/skyware.name=Небесный сундук
 tile.terraria:furniture/chests/mushroom.name=Грибной сундук
 tile.terraria:furniture/chests/rich_mahogany.name=Сундук из красной древесины
-tile.terraria:furniture/chests/dev_structure.name=§hD42F1F;Structure Chest
+tile.terraria:furniture/chests/granite.name=Granite Chest
+tile.terraria:furniture/chests/marble.name=Marble Chest
+
+# Locked Chests
+tile.terraria:furniture/chests/gold_locked.name=Locked Gold Chest
+tile.terraria:furniture/chests/shadow_locked.name=Locked Shadow Chest
 
 # Clocks #
 tile.terraria:furniture/clocks/living_wood.name=Часы из живого дерева
@@ -1962,6 +1971,7 @@ tile.terraria:mech/timers/5s.name=5 Second Timer
 tile.terraria:mech/timers/hs.name=1/2 Second Timer
 tile.terraria:mech/timers/qs.name=1/4 Second Timer
 tile.terraria:mech/minecart_track.name=Minecart Track
+tile.terraria:mech/pressure_plate_track.name=Pressure Plate Track
 
 ##################
 
@@ -1975,9 +1985,9 @@ key.hotbar.0=Слот 10
 key.terraria.healing=Быстрое лечение
 key.terraria.mana=Быстрая мана
 key.terraria.buffs=Быстрое усиление
-key.terraria.pass_platforms=Спуститься сквозь платформу
-key.terraria.no_auto_stepping=Disable Auto-stepping
+key.terraria.down=Down
 key.terraria.grapple=Использовать крюк-кошку
+key.terraria.auto_select=Auto Select
 
 ####################
 
@@ -2219,6 +2229,9 @@ buff.terraria:midas.desc=Количество выпадающих монет п
 
 buff.terraria:mana_sickness.name=Истощение маны
 buff.terraria:mana_sickness.desc=Магический урон снижен на %d%%
+
+buff.terraria:dangersense.name=Dangersense
+buff.terraria:dangersense.desc=You can see nearby hazards
 
 #################
 
@@ -2531,6 +2544,11 @@ tooltip.terraria:mech/timers/5s=Signals every 5 seconds
 tooltip.terraria:mech/timers/hs=Signals every half of a second
 tooltip.terraria:mech/timers/qs=Signals every fourth of a second
 tooltip.terraria:mech/minecart_track=Hammer end piece to change bumper style</br>Hammer or signal intersections to change direction
+tooltip.terraria:mech/pressure_plate_track=Signals when a minecart travels over it</br>Not for use on curves or slopes
+tooltip.terraria:potions/recall=Teleports you home
+tooltip.terraria:potions/water_walking=Allows the ability to walk on water
+tooltip.terraria:potions/builder=Increases placement speed and range
+tooltip.terraria:potions/dangersense=Allows you to see nearby danger sources
 
 tooltip.terraria:encumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы разблокировать</br>'Вы перегружены'
 tooltip.terraria:uncumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы заблокировать</br>'Вы перегружены'
@@ -2540,6 +2558,7 @@ tooltip.terraria:guide_to_environmental_preservation=Не позволяет с�
 tooltip.terraria:guide_to_environmental_preservation_inactive=Не позволяет случайно навредить окружающей среде, когда находится в инвентаре</br>Эффекты сейчас отключены,</br>Нажмите ПКМ чтобы снова включить
 tooltip.terraria:guide_to_peaceful_coexistence=Не позволяет ранить существ, когда находится в инвентаре</br>Не позволяет случайно навредить окружающей среде, когда находится в инвентаре</br>Нажмите ПКМ чтобы отключить эффекты
 tooltip.terraria:guide_to_peaceful_coexistence_inactive=Не позволяет ранить существ, когда находится в инвентаре</br>Не позволяет случайно навредить окружающей среде, когда находится в инвентаре</br>Эффекты сейчас отключены,</br>Нажмите ПКМ чтобы снова включить
+tooltip.terraria:chest_lock=Can be used to lock some chests
 
 tooltip.terraria:weapons/guns/shotgun=Стреляет веером пуль
 tooltip.terraria:weapons/guns/sandgun=Это отличная идея!
