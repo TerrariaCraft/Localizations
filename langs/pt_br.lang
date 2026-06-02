@@ -532,14 +532,6 @@ item.terraria:artifacts/guide_to_plant_fiber_cordage.name=Guia para Cordas de Fi
 item.terraria:artifacts/blindfold.name=Viseira
 item.terraria:artifacts/shark_tooth_necklace.name=Colar de Dente de Tubarão
 item.terraria:artifacts/shackle.name=Grilhão
-item.terraria:artifacts/wings/angel.name=Asas de Anjo
-item.terraria:artifacts/wings/fairy.name=Asas de Fada
-item.terraria:artifacts/wings/demon.name=Asas de Demônio
-item.terraria:artifacts/wings/dev_zeith.name=Patinhas de Zeith
-item.terraria:artifacts/wings/dev_flamb.name=Asas de FLamb
-item.terraria:artifacts/wings/dev_jar.name=Asas de Jar
-item.terraria:artifacts/wings/dev_ganza.name=Asas de Ganza
-item.terraria:artifacts/wings/dev_ashryman.name=Asas de Glória de Ashryman
 item.terraria:artifacts/strings/black.name=String Preta
 item.terraria:artifacts/strings/blue.name=String Azul
 item.terraria:artifacts/strings/brown.name=String Marrom
@@ -590,7 +582,6 @@ item.terraria:artifacts/countercurse_mantra.name=Mantra Contra Maldição
 item.terraria:artifacts/ankh_charm.name=Amuleto de Ankh
 item.terraria:artifacts/pocket_mirror.name=Espelho de Bolso
 item.terraria:artifacts/reflective_shades.name=Óculos Reflexivos
-item.terraria:artifacts/wings/fledgling.name=Asas de Pássaro Jovem
 item.terraria:artifacts/panic_necklace.name=Colar do Pânico
 item.terraria:artifacts/magic_cuffs.name=Manchetes Mágicas
 item.terraria:artifacts/celestial_magnet.name=Ímã Celestial
@@ -628,6 +619,20 @@ item.terraria:artifacts/cobalt_shield.name=Cobalt Shield
 item.terraria:artifacts/obsidian_shield.name=Obsidian Shield
 item.terraria:artifacts/ankh_shield.name=Ankh Shield
 
+# Wings
+item.terraria:artifacts/wings/angel.name=Asas de Anjo
+item.terraria:artifacts/wings/fairy.name=Asas de Fada
+item.terraria:artifacts/wings/demon.name=Asas de Demônio
+item.terraria:artifacts/wings/dev_zeith.name=Patinhas de Zeith
+item.terraria:artifacts/wings/dev_flamb.name=Asas de FLamb
+item.terraria:artifacts/wings/dev_jar.name=Asas de Jar
+item.terraria:artifacts/wings/dev_ganza.name=Asas de Ganza
+item.terraria:artifacts/wings/dev_ashryman.name=Asas de Glória de Ashryman
+item.terraria:artifacts/wings/fledgling.name=Asas de Pássaro Jovem
+item.terraria:artifacts/wings/harpy.name=Harpy Wings
+item.terraria:artifacts/wings/fishron.name=Fishron Wings
+
+# Expert Mode Accessories
 item.terraria:artifacts/expert/shield_of_cthulhu.name=Escudo de Cthulhu
 item.terraria:artifacts/expert/worm_scarf.name=Cachecol de Verme
 item.terraria:artifacts/expert/royal_gel.name=Gel Real
@@ -2767,6 +2772,9 @@ achievement.terraria:sting_operation.desc=Derrote a Rainha Abelha, a matriarca d
 achievement.terraria:boned.name=Osso
 achievement.terraria:boned.desc=Derrote Skeletron, o guardião amaldiçoado da masmorra.
 
+achievement.terraria:dungeon_heist.name=Dungeon Heist
+achievement.terraria:dungeon_heist.desc=Steal a key from the dungeon's undead denizens, and unlock one of their precious golden chests.
+
 achievement.terraria:wheres_my_honey.name=Cadê o Meu Mel?
 achievement.terraria:wheres_my_honey.desc=Descubra uma grande colmeia de abelha no fundo da selva.
 
@@ -2820,6 +2828,21 @@ achievement.terraria:its_getting_hot_in_here.desc=Explore fundo o suficiente par
 
 achievement.terraria:lucky_break.name=Feliz Acidente
 achievement.terraria:lucky_break.desc=Sobreviva a uma queda longa com apenas uma fatia de saúde restante.
+
+achievement.terraria:boots_of_the_hero.name=Boots of the Hero
+achievement.terraria:boots_of_the_hero.desc=Obtain the Terraspark Boots, forged from the finest boots of fire and ice.
+
+achievement.terraria:on_fleek.name=On Fleek
+achievement.terraria:on_fleek.desc=Spot the sun on a 'cool' day.
+
+achievement.terraria:conservationist.name=Conservationist
+achievement.terraria:conservationist.desc=Support sustainable logging by planting 100 acorns.
+
+achievement.terraria:dye_hard.name=Dye Hard
+achievement.terraria:dye_hard.desc=Equip a dye in every possible dye slot.
+
+achievement.terraria:vehicular_manslaughter.name=Vehicular Manslaughter
+achievement.terraria:vehicular_manslaughter.desc=Defeat an enemy by running it over with a minecart.
 
 ########################
 

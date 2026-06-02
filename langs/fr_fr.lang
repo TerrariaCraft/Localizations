@@ -532,14 +532,6 @@ item.terraria:artifacts/guide_to_plant_fiber_cordage.name=Guide pour planter des
 item.terraria:artifacts/blindfold.name=Bandeau
 item.terraria:artifacts/shark_tooth_necklace.name=Shark Tooth Necklace
 item.terraria:artifacts/shackle.name=Shackle
-item.terraria:artifacts/wings/angel.name=Ailes d'ange
-item.terraria:artifacts/wings/fairy.name=Ailes de bonne fée
-item.terraria:artifacts/wings/demon.name=Ailes de démon
-item.terraria:artifacts/wings/dev_zeith.name=Pattes de Skiph
-item.terraria:artifacts/wings/dev_flamb.name=Ailes de FLamb
-item.terraria:artifacts/wings/dev_jar.name=Ailes de Jae
-item.terraria:artifacts/wings/dev_ganza.name=Ailes de Ganza
-item.terraria:artifacts/wings/dev_ashryman.name=Ailes d'Ashryman
 item.terraria:artifacts/strings/black.name=Black String
 item.terraria:artifacts/strings/blue.name=Blue String
 item.terraria:artifacts/strings/brown.name=Brown String
@@ -590,7 +582,6 @@ item.terraria:artifacts/countercurse_mantra.name=Countercurse Mantra
 item.terraria:artifacts/ankh_charm.name=Ankh Charm
 item.terraria:artifacts/pocket_mirror.name=Pocket Mirror
 item.terraria:artifacts/reflective_shades.name=Reflective Shades
-item.terraria:artifacts/wings/fledgling.name=Fledgling Wings
 item.terraria:artifacts/panic_necklace.name=Panic Necklace
 item.terraria:artifacts/magic_cuffs.name=Magic Cuffs
 item.terraria:artifacts/celestial_magnet.name=Celestial Magnet
@@ -628,6 +619,20 @@ item.terraria:artifacts/cobalt_shield.name=Cobalt Shield
 item.terraria:artifacts/obsidian_shield.name=Obsidian Shield
 item.terraria:artifacts/ankh_shield.name=Ankh Shield
 
+# Wings
+item.terraria:artifacts/wings/angel.name=Ailes d'ange
+item.terraria:artifacts/wings/fairy.name=Ailes de bonne fée
+item.terraria:artifacts/wings/demon.name=Ailes de démon
+item.terraria:artifacts/wings/dev_zeith.name=Pattes de Skiph
+item.terraria:artifacts/wings/dev_flamb.name=Ailes de FLamb
+item.terraria:artifacts/wings/dev_jar.name=Ailes de Jae
+item.terraria:artifacts/wings/dev_ganza.name=Ailes de Ganza
+item.terraria:artifacts/wings/dev_ashryman.name=Ailes d'Ashryman
+item.terraria:artifacts/wings/fledgling.name=Fledgling Wings
+item.terraria:artifacts/wings/harpy.name=Harpy Wings
+item.terraria:artifacts/wings/fishron.name=Fishron Wings
+
+# Expert Mode Accessories
 item.terraria:artifacts/expert/shield_of_cthulhu.name=Shield of Cthulhu
 item.terraria:artifacts/expert/worm_scarf.name=Worm Scarf
 item.terraria:artifacts/expert/royal_gel.name=Royal Gel
@@ -2767,6 +2772,9 @@ achievement.terraria:sting_operation.desc=Defeat the Queen Bee, the matriarch of
 achievement.terraria:boned.name=Boned
 achievement.terraria:boned.desc=Defeat Skeletron, the cursed guardian of the dungeon.
 
+achievement.terraria:dungeon_heist.name=Dungeon Heist
+achievement.terraria:dungeon_heist.desc=Steal a key from the dungeon's undead denizens, and unlock one of their precious golden chests.
+
 achievement.terraria:wheres_my_honey.name=Where's My Honey?
 achievement.terraria:wheres_my_honey.desc=Discover a large bee's hive deep in the jungle.
 
@@ -2820,6 +2828,21 @@ achievement.terraria:its_getting_hot_in_here.desc=Spelunk deep enough to reach t
 
 achievement.terraria:lucky_break.name=Lucky Break
 achievement.terraria:lucky_break.desc=Survive a long fall with just a sliver of health remaining.
+
+achievement.terraria:boots_of_the_hero.name=Boots of the Hero
+achievement.terraria:boots_of_the_hero.desc=Obtain the Terraspark Boots, forged from the finest boots of fire and ice.
+
+achievement.terraria:on_fleek.name=On Fleek
+achievement.terraria:on_fleek.desc=Spot the sun on a 'cool' day.
+
+achievement.terraria:conservationist.name=Conservationist
+achievement.terraria:conservationist.desc=Support sustainable logging by planting 100 acorns.
+
+achievement.terraria:dye_hard.name=Dye Hard
+achievement.terraria:dye_hard.desc=Equip a dye in every possible dye slot.
+
+achievement.terraria:vehicular_manslaughter.name=Vehicular Manslaughter
+achievement.terraria:vehicular_manslaughter.desc=Defeat an enemy by running it over with a minecart.
 
 ########################
 
