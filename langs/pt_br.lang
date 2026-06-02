@@ -809,7 +809,6 @@ item.terraria:materials/worm_tooth.name=Dente de Verme
 item.terraria:materials/cursed_flame.name=Chama Amaldiçoada
 item.terraria:materials/vial_of_venom.name=Frasco de Veneno
 item.terraria:materials/shark_fin.name=Barbatana de Tubarão
-item.terraria:materials/golden_key.name=Chave Dourada
 item.terraria:materials/rotten_chunk.name=Pedaço Podre
 item.terraria:materials/leather.name=Couro
 item.terraria:materials/vertebra.name=Vértebra
@@ -876,7 +875,14 @@ item.terraria:materials/tattered_cloth.name=Pano Esfarrapado
 item.terraria:materials/hook.name=Gancho
 item.terraria:materials/giant_harpy_feather.name=Pena Gigante de Harpia
 item.terraria:materials/defender_medal.name=Medalha de Defensor
-item.terraria:materials/shadow_key.name=Shadow Key
+item.terraria:keys/gold.name=Chave Dourada
+item.terraria:keys/shadow.name=Shadow Key
+item.terraria:keys/jungle.name=Jungle Key
+item.terraria:keys/corruption.name=Corruption Key
+item.terraria:keys/crimson.name=Crimson Key
+item.terraria:keys/hallowed.name=Hallowed Key
+item.terraria:keys/frozen.name=Frozen Key
+item.terraria:keys/desert.name=Desert Key
 
 # Armor
 item.terraria:armor/wooden/helm.name=Elmo de Madeira

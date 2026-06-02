@@ -809,7 +809,6 @@ item.terraria:materials/worm_tooth.name=Wurmzahn
 item.terraria:materials/cursed_flame.name=Verfluchte Flamme
 item.terraria:materials/vial_of_venom.name=Giftflasche
 item.terraria:materials/shark_fin.name=Haiflosse
-item.terraria:materials/golden_key.name=Goldener Schlüssl
 item.terraria:materials/rotten_chunk.name=Verrottetes Fleisch
 item.terraria:materials/leather.name=Leder
 item.terraria:materials/vertebra.name=Wirbel
@@ -876,7 +875,14 @@ item.terraria:materials/tattered_cloth.name=Tattered Cloth
 item.terraria:materials/hook.name=Hook
 item.terraria:materials/giant_harpy_feather.name=Giant Harpy Feather
 item.terraria:materials/defender_medal.name=Defender Medal
-item.terraria:materials/shadow_key.name=Shadow Key
+item.terraria:keys/gold.name=Goldener Schlüssl
+item.terraria:keys/shadow.name=Shadow Key
+item.terraria:keys/jungle.name=Jungle Key
+item.terraria:keys/corruption.name=Corruption Key
+item.terraria:keys/crimson.name=Crimson Key
+item.terraria:keys/hallowed.name=Hallowed Key
+item.terraria:keys/frozen.name=Frozen Key
+item.terraria:keys/desert.name=Desert Key
 
 # Armor
 item.terraria:armor/wooden/helm.name=Holzhelm
