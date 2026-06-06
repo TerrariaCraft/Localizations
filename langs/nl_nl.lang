@@ -2244,6 +2244,9 @@ buff.terraria:mana_sickness.desc=Magic damage reduced by %d%%
 buff.terraria:dangersense.name=Dangersense
 buff.terraria:dangersense.desc=You can see nearby hazards
 
+buff.terraria:minecart.name=Minecart
+buff.terraria:minecart.desc=Riding in a minecart
+
 #################
 
 
