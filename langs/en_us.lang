@@ -81,6 +81,7 @@ itemGroup.terraria:fences=Fences
 itemGroup.terraria:watches=Watches
 itemGroup.terraria:minecarts=Minecarts
 itemGroup.terraria:keys=Keys
+itemGroup.terraria:pylons=Pylons
 
 itemGroup.terraria:crafting_stations=Crafting Stations
 itemGroup.terraria:crafting_stations.work_benches=Work Benches
@@ -103,6 +104,10 @@ itemGroup.terraria:building.furniture.campfires=Campfires
 itemGroup.terraria:building.furniture.hanging_pots=Hanging Pots
 itemGroup.terraria:building.furniture.planter_boxes=Planter Boxes
 itemGroup.terraria:building.furniture.fountains=Fountains
+
+map.terraria:spawn=Spawn
+map.terraria:home=Home
+map.terraria:meteorite=Meteorite
 
 # Furniture Sets
 itemGroup.terraria:building.furniture.generic=Generic Furniture
@@ -1002,11 +1007,16 @@ item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
 item.terraria:armor/vanity/skull.name=Skull
 
 # Misc
-item.terraria:whoopie_cushion.name=Whoopie Cushion
+item.terraria:copper_coin.coin=Copper
+item.terraria:silver_coin.coin=Silver
+item.terraria:gold_coin.coin=Gold
+item.terraria:platinum_coin.coin=Platinum
+
 item.terraria:copper_coin.name=Copper Coin
 item.terraria:silver_coin.name=Silver Coin
 item.terraria:gold_coin.name=Gold Coin
 item.terraria:platinum_coin.name=Platinum Coin
+item.terraria:whoopie_cushion.name=Whoopie Cushion
 item.terraria:mana_crystal.name=Mana Crystal
 item.terraria:mana_star/default.name=Mana Star
 item.terraria:mana_star/soul_cake.name=Soul Cake
@@ -1388,6 +1398,7 @@ tile.terraria:furniture/dressers/dev_structure.name=§hD42F1F;Structure Dresser
 # Lamps #
 tile.terraria:furniture/lamps/boreal.name=Boreal Wood Lamp
 tile.terraria:furniture/lamps/living_wood.name=Living Wood Lamp
+tile.terraria:furniture/lamps/tiki_torch.name=Tiki Torch
 tile.terraria:furniture/lamps/dev_structure.name=§hD42F1F;Structure Lamp
 
 # Lanterns #
@@ -1964,6 +1975,15 @@ tile.terraria:pumpkin.name=Pumpkin
 tile.terraria:plants/pumpkin.name=Pumpkin Seed
 tile.terraria:ambient/fallen_log.name=Fallen Log
 
+tile.terraria:pylons/jungle.name=Jungle Pylon
+tile.terraria:pylons/forest.name=Forest Pylon
+tile.terraria:pylons/hallow.name=Hallow Pylon
+tile.terraria:pylons/cavern.name=Cavern Pylon
+tile.terraria:pylons/ocean.name=Ocean Pylon
+tile.terraria:pylons/desert.name=Desert Pylon
+tile.terraria:pylons/snow.name=Snow Pylon
+tile.terraria:pylons/mushroom.name=Mushroom Pylon
+
 tile.terraria:mech/switch.name=Switch
 tile.terraria:mech/lever.name=Lever
 tile.terraria:mech/teleporter.name=Teleporter
@@ -1999,6 +2019,7 @@ key.terraria.buffs=Quick Buff
 key.terraria.down=Down
 key.terraria.grapple=Grapple
 key.terraria.auto_select=Auto Select
+key.terraria.map=Open Map
 
 ####################
 
@@ -2601,6 +2622,8 @@ tooltip.terraria:goblin_battle_standard=Summons a Goblin Army
 tooltip.terraria:pets/glowing/shadow_orb=Creates a magical shadow orb
 tooltip.terraria:pets/glowing/crimson_heart=Summons a heart to provide light
 
+tooltip.terraria:pylon=Teleport to another pylon when 2 villagers are nearby</br>You can only place one per type and in the matching biome
+
 # Misc Tooltips
 moon_phase.0=Full Moon
 moon_phase.1=Waning Gibbous
@@ -2920,6 +2943,13 @@ chat.terraria:npc.move_in=%s has arrived!
 chat.terraria:meteorite_falling=§h45C87C;You feel the air getting warmer...
 chat.terraria:meteorite_landed=§h45C87C;A meteorite has landed!
 chat.terraria:time=Time: %s
+
+chat.terraria:pylon/far=You are not close enough to a pylon to teleport with the pylon network
+chat.terraria:pylon/npc_remote=There are not enough villagers living near that pylon to access it
+chat.terraria:pylon/npc_local=There are not enough villagers living near the current pylon
+chat.terraria:pylon/biome_remote=That pylon is not in the correct biome to use
+chat.terraria:pylon/biome_local=This pylon is not in the correct biome to use
+chat.terraria:pylon/obstructed=That pylon does not have a suitable safe surface
 
 chat.terraria:pvp.enabled=%s has enabled PvP!
 chat.terraria:pvp.disabled=%s has disabled PvP!
