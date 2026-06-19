@@ -109,6 +109,20 @@ itemGroup.terraria:building.furniture.fountains=Фонтаны
 map.terraria:spawn=Spawn
 map.terraria:home=Home
 map.terraria:meteorite=Meteorite
+map.terraria:death_point=%s died %s
+
+# Quantifier
+quantifier.function=q.amount == 1 ? 0 : 1
+quantifier.time.relative.past=%s ago
+quantifier.time.relative.future=in %s
+quantifier.time.second.0=%s second
+quantifier.time.second.1=%s seconds
+quantifier.time.minute.0=%s minute
+quantifier.time.minute.1=%s minutes
+quantifier.time.hour.0=%s hour
+quantifier.time.hour.1=%s hours
+quantifier.time.day.0=%s day
+quantifier.time.day.1=%s days
 
 # Furniture Sets
 itemGroup.terraria:building.furniture.generic=Стандартная мебель
@@ -764,6 +778,7 @@ item.terraria:potions/food/monster_lasagna.name=Монстро-лазанья
 item.terraria:potions/food/pumpkin_pie.name=Тыквенный пирог
 item.terraria:potions/food/roasted_duck.name=Жареная утка
 item.terraria:potions/restoration.name=Восстановительное зелье
+item.terraria:potions/jungle_juice.name=Jungle Juice
 item.terraria:potions/sake.name=Саке
 item.terraria:potions/ale.name=Эль
 
@@ -2597,6 +2612,7 @@ tooltip.terraria:plants/mushrooms/teal=Используется для приг�
 tooltip.terraria:plants/yellow_marigold=Used to make Yellow Dye
 tooltip.terraria:plants/blue_berries=Used to make Blue Dye
 tooltip.terraria:plants/orange_bloodroot=Used to make Orange Dye
+tooltip.terraria:potions/jungle_juice='A tropical concoction with hints of Life Fruit and nutmeg'
 
 tooltip.terraria:encumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы разблокировать</br>'Вы перегружены'
 tooltip.terraria:uncumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы заблокировать</br>'Вы перегружены'
