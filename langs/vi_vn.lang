@@ -112,7 +112,6 @@ map.terraria:meteorite=Meteorite
 map.terraria:death_point=%s died %s
 
 # Quantifier
-quantifier.function=q.amount == 1 ? 0 : 1
 quantifier.time.relative.past=%s ago
 quantifier.time.relative.future=in %s
 quantifier.time.second.0=%s second
