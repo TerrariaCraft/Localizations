@@ -115,26 +115,10 @@ map.terraria:death_point=%s died %s
 quantifier.function=math.abs(q.amount) == 1 ? 0 : 1
 quantifier.time.relative.past=%s ago
 quantifier.time.relative.future=in %s
-quantifier.time.second.0=%s second
-quantifier.time.second.1=%s seconds
-quantifier.time.second.2=%s seconds
-quantifier.time.second.3=%s seconds
-quantifier.time.second.4=%s seconds
-quantifier.time.minute.0=%s minute
-quantifier.time.minute.1=%s minutes
-quantifier.time.minute.2=%s minutes
-quantifier.time.minute.3=%s minutes
-quantifier.time.minute.4=%s minutes
-quantifier.time.hour.0=%s hour
-quantifier.time.hour.1=%s hours
-quantifier.time.hour.2=%s hours
-quantifier.time.hour.3=%s hours
-quantifier.time.hour.4=%s hours
-quantifier.time.day.0=%s day
-quantifier.time.day.1=%s days
-quantifier.time.day.2=%s days
-quantifier.time.day.3=%s days
-quantifier.time.day.4=%s days
+quantifier.time.second=%s second, %s seconds
+quantifier.time.minute=%s minute, %s minutes
+quantifier.time.hour=%s hour, %s hours
+quantifier.time.day=%s day, %s days
 
 # Furniture Sets
 itemGroup.terraria:building.furniture.generic=Generic Furniture
