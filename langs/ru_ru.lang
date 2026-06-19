@@ -2034,7 +2034,9 @@ key.terraria.buffs=Быстрое усиление
 key.terraria.down=Down
 key.terraria.grapple=Использовать крюк-кошку
 key.terraria.auto_select=Auto Select
-key.terraria.map=Open Map
+key.terraria.map.open=Open Map
+key.terraria.map.zoom_out=Zoom Out Map
+key.terraria.map.zoom_in=Zoom In Map
 
 ####################
 
@@ -2609,6 +2611,7 @@ tooltip.terraria:plants/yellow_marigold=Used to make Yellow Dye
 tooltip.terraria:plants/blue_berries=Used to make Blue Dye
 tooltip.terraria:plants/orange_bloodroot=Used to make Orange Dye
 tooltip.terraria:potions/jungle_juice='A tropical concoction with hints of Life Fruit and nutmeg'
+tooltip.terraria:potions/wormhole=Teleports you to a party member</br>Click their head on the fullscreen map
 
 tooltip.terraria:encumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы разблокировать</br>'Вы перегружены'
 tooltip.terraria:uncumbering_stone=Не позволяет брать предметы при блокировке</br>Нажмите ПКМ чтобы заблокировать</br>'Вы перегружены'
