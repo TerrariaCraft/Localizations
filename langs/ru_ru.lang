@@ -112,16 +112,29 @@ map.terraria:meteorite=Meteorite
 map.terraria:death_point=%s died %s
 
 # Quantifier
-quantifier.time.relative.past=%s ago
-quantifier.time.relative.future=in %s
-quantifier.time.second.0=%s second
-quantifier.time.second.1=%s seconds
-quantifier.time.minute.0=%s minute
-quantifier.time.minute.1=%s minutes
-quantifier.time.hour.0=%s hour
-quantifier.time.hour.1=%s hours
-quantifier.time.day.0=%s day
-quantifier.time.day.1=%s days
+quantifier.function=t.f = math.abs(q.amount) % 100; t.f = t.f > 20 ? t.f % 10 : t.f; return t.f == 1 ? 0 : (t.f >= 2 && t.f <= 4 ? 1 : 2);
+quantifier.time.relative.past=%s назад
+quantifier.time.relative.future=через %s
+quantifier.time.second.0=%s секунду
+quantifier.time.second.1=%s секунды
+quantifier.time.second.2=%s секунд
+quantifier.time.second.3=%s секунд
+quantifier.time.second.4=%s секунд
+quantifier.time.minute.0=%s минуту
+quantifier.time.minute.1=%s минуты
+quantifier.time.minute.2=%s минут
+quantifier.time.minute.3=%s минут
+quantifier.time.minute.4=%s минут
+quantifier.time.hour.0=%s час
+quantifier.time.hour.1=%s часа
+quantifier.time.hour.2=%s часов
+quantifier.time.hour.3=%s часов
+quantifier.time.hour.4=%s часов
+quantifier.time.day.0=%s день
+quantifier.time.day.1=%s дня
+quantifier.time.day.2=%s дней
+quantifier.time.day.3=%s дней
+quantifier.time.day.4=%s дней
 
 # Furniture Sets
 itemGroup.terraria:building.furniture.generic=Стандартная мебель
