@@ -1125,15 +1125,13 @@ item.terraria:flower_seeds/white.name=Sementes de Flor Branca
 item.terraria:flower_seeds/wild.name=Sementes de Flor Selvagem
 item.terraria:flower_seeds/tall_grass.name=Sementes de Grama Alta
 item.terraria:worms_can.name=Lata de Minhocas
-item.terraria:treasure_bags/king_slime.name=Saco de Tesouro
 item.terraria:candy_corn.name=Milho Doce
 item.terraria:marshmallow_stick.name=Marshmallow no Espeto
 item.terraria:game_object.name=[Objeto do Jogo]
 item.terraria:seeds/corrupt.name=Sementes da Corrupção
 item.terraria:seeds/crimson.name=Sementes do Carmim
-item.terraria:treasure_bags/eye_of_cthulhu.name=Saco de Tesouro
+item.terraria:seeds/ash.name=Ash Grass Seeds
 item.terraria:purification_powder.name=Pó de Purificação
-item.terraria:treasure_bags/queen_bee.name=Saco de Tesouro
 item.terraria:money_trough.name=Cochinho de Dinheiro
 item.terraria:empty_bucket.name=Balde Vazio
 item.terraria:lava_bucket.name=Balde de Lava
@@ -1148,9 +1146,6 @@ item.terraria:flare_shimmer.name=Sinalizador Cintilante
 item.terraria:seed.name=Semente
 item.terraria:vital_crystal.name=Cristal Vital
 item.terraria:beenade.name=Abelhada
-item.terraria:treasure_bags/eater_of_worlds.name=Saco de Tesouro
-item.terraria:treasure_bags/brain_of_cthulhu.name=Saco de Tesouro
-
 item.terraria:encumbering_stone.name=Pedra Empecilhante
 item.terraria:uncumbering_stone.name=Pedra Libertadora
 item.terraria:guide_to_plant_critter_companionship.name=Guia da Amizade com os Bichinhos
@@ -1160,6 +1155,12 @@ item.terraria:guide_to_environmental_preservation_inactive.name=Guia da Preserva
 item.terraria:guide_to_peaceful_coexistence.name=Guia da Convivência Pacífica
 item.terraria:guide_to_peaceful_coexistence_inactive.name=Guia da Convivência Pacífica (Inativo)
 item.terraria:mech/actuator.name=Actuator
+
+item.terraria:treasure_bags/king_slime.name=Saco de Tesouro
+item.terraria:treasure_bags/eye_of_cthulhu.name=Saco de Tesouro
+item.terraria:treasure_bags/queen_bee.name=Saco de Tesouro
+item.terraria:treasure_bags/eater_of_worlds.name=Saco de Tesouro
+item.terraria:treasure_bags/brain_of_cthulhu.name=Saco de Tesouro
 
 # Grappling Hooks
 item.terraria:hooks/grappling.name=Gancho
