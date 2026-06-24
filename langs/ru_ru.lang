@@ -83,6 +83,7 @@ itemGroup.terraria:minecarts=Minecarts
 itemGroup.terraria:keys=Keys
 itemGroup.terraria:pylons=Pylons
 itemGroup.terraria:dye_plants=Basic Dye Plants
+itemGroup.terraria:voice_changers=Voice-changing Accessories
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -648,6 +649,23 @@ item.terraria:artifacts/wings/fledgling.name=Крылья птенца
 item.terraria:artifacts/wings/harpy.name=Harpy Wings
 item.terraria:artifacts/wings/fishron.name=Fishron Wings
 
+# Voice Accessories
+item.terraria:artifacts/voice/whoopie_cushion.name=Подушка-пердушка
+item.terraria:artifacts/voice/balloon.name=Balloony Beads
+item.terraria:artifacts/voice/cat.name=Cat Chime
+item.terraria:artifacts/voice/chicken.name=Chicken Charm
+item.terraria:artifacts/voice/cow_bell.name=Cow Bell
+item.terraria:artifacts/voice/crow.name=Crow's Beak
+item.terraria:artifacts/voice/dog.name=Dog Collar
+item.terraria:artifacts/voice/fairy.name=Fairy Choker
+item.terraria:artifacts/voice/frog.name=Froggy Neckband
+item.terraria:artifacts/voice/goat.name=Goat's Tuft
+item.terraria:artifacts/voice/undead.name=Grim Old Barb
+item.terraria:artifacts/voice/goblin.name=Mean Goblin's Spikes
+item.terraria:artifacts/voice/retro.name=Old Companion Locket
+item.terraria:artifacts/voice/turkey.name=Turkey Wattle Necklace
+item.terraria:artifacts/voice/vampire.name=Vampire Pendant
+
 # Expert Mode Accessories
 item.terraria:artifacts/expert/shield_of_cthulhu.name=Щит Ктулху
 item.terraria:artifacts/expert/worm_scarf.name=Шарф-червь
@@ -1029,7 +1047,6 @@ item.terraria:copper_coin.name=Медная монета
 item.terraria:silver_coin.name=Серебряная монета
 item.terraria:gold_coin.name=Золотая монета
 item.terraria:platinum_coin.name=Платиновая монета
-item.terraria:whoopie_cushion.name=Подушка-пердушка
 item.terraria:mana_crystal.name=Кристалл маны
 item.terraria:mana_star/default.name=Звезда маны
 item.terraria:mana_star/soul_cake.name=Кулич душ
@@ -1414,6 +1431,7 @@ tile.terraria:furniture/doors/rich_mahogany.name=Дверь из красной 
 tile.terraria:furniture/doors/dev_structure.name=§hD42F1F;Structure Door
 
 # Dressers #
+tile.terraria:furniture/dressers/wood.name=Dresser
 tile.terraria:furniture/dressers/living_wood.name=Комод из живого дерева
 tile.terraria:furniture/dressers/dev_structure.name=§hD42F1F;Structure Dresser
 
@@ -2298,6 +2316,9 @@ buff.terraria:calm.desc=Decreased enemy spawn rate
 buff.terraria:minecart.name=Minecart
 buff.terraria:minecart.desc=Riding in a minecart
 
+buff.terraria:mighty_wind.name=Mighty Wind
+buff.terraria:mighty_wind.desc=The wind moves you around!
+
 #################
 
 
@@ -2439,6 +2460,21 @@ tooltip.terraria:artifacts/feral_claws=Enables auto swing for melee weapons
 tooltip.terraria:artifacts/cobalt_shield=Grants immunity to knockback
 tooltip.terraria:artifacts/obsidian_shield=Grants immunity to knockback</br>Grants immunity to fire blocks
 tooltip.terraria:artifacts/ankh_shield=Grants immunity to knockback and fire blocks</br>Grants immunity to most debuffs
+tooltip.terraria:artifacts/voice/whoopie_cushion=«Может раздражать окружающих»
+tooltip.terraria:artifacts/voice/balloon='We all float down here...'
+tooltip.terraria:artifacts/voice/cat='Don't give a crap' attitude not included'
+tooltip.terraria:artifacts/voice/chicken='Who you calling chicken?'
+tooltip.terraria:artifacts/voice/cow_bell='Just the prescription you needed'
+tooltip.terraria:artifacts/voice/crow='You may not be able to quote the raven, but this is pretty close'
+tooltip.terraria:artifacts/voice/dog='Bark: not just for trees anymore'
+tooltip.terraria:artifacts/voice/fairy='Clap your hands!'
+tooltip.terraria:artifacts/voice/frog='Ribbit 'til you croak!'
+tooltip.terraria:artifacts/voice/goat='Quite the gruff tuft'
+tooltip.terraria:artifacts/voice/undead='Braaiiiinnnssss...'
+tooltip.terraria:artifacts/voice/goblin='Oh, where have all the gobbos gone?'
+tooltip.terraria:artifacts/voice/retro='Otto was here'
+tooltip.terraria:artifacts/voice/turkey='You have a sudden urge for cranberry sauce'
+tooltip.terraria:artifacts/voice/vampire='Yes, you do say 'blah blah blah''
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Позволяет игрока бросаться на врагов</br>Дважды коснитесь нужного направления
 tooltip.terraria:artifacts/expert/worm_scarf=Получаемый урон снижен на 17%%
@@ -2447,7 +2483,6 @@ tooltip.terraria:artifacts/expert/brain_of_confusion=Имеет шанс соз�
 tooltip.terraria:artifacts/expert/hive_pack=Увеличивает силу дружественных пчел
 
 tooltip.terraria:shine_potion=Излучает ауру света
-tooltip.terraria:whoopie_cushion=«Может раздражать окружающих»
 tooltip.terraria:bars/demonite=Пульсирует тёмной энергией
 tooltip.terraria:bars/meteorite=Тёплый на ощупь
 tooltip.terraria:bars/hellstone=Горячий на ощупь
