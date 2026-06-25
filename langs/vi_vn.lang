@@ -1181,6 +1181,8 @@ item.terraria:buckets/sponges/water.name=Super Absorbant Sponge
 item.terraria:buckets/sponges/lava.name=Lava Absorbant Sponge
 item.terraria:buckets/sponges/honey.name=Honey Absorbant Sponge
 item.terraria:buckets/sponges/ultra.name=Ultra Absorbant Sponge
+item.terraria:arcane_crystal.name=Arcane Crystal
+item.terraria:aegis_fruit.name=Aegis Fruit
 
 item.terraria:treasure_bags/king_slime.name=Túi Kho Báu Vua SLime
 item.terraria:treasure_bags/eye_of_cthulhu.name=Túi Kho Báu Mắt Cthulhu
@@ -2318,6 +2320,9 @@ buff.terraria:minecart.desc=Riding in a minecart
 
 buff.terraria:mighty_wind.name=Mighty Wind
 buff.terraria:mighty_wind.desc=The wind moves you around!
+
+buff.terraria:shimmering.name=Shimmering
+buff.terraria:shimmering.desc=You've gone insubstantial!
 
 #################
 
