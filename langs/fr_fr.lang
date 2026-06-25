@@ -635,6 +635,10 @@ item.terraria:artifacts/feral_claws.name=Feral Claws
 item.terraria:artifacts/cobalt_shield.name=Cobalt Shield
 item.terraria:artifacts/obsidian_shield.name=Obsidian Shield
 item.terraria:artifacts/ankh_shield.name=Ankh Shield
+item.terraria:artifacts/weather_radio.name=Weather Radio
+item.terraria:artifacts/sextant.name=Sextant
+item.terraria:artifacts/fishermap_pocket_guide.name=Fisherman's Pocket Guide
+item.terraria:artifacts/fish_finder.name=Fish Finder
 
 # Wings
 item.terraria:artifacts/wings/angel.name=Ailes d'ange
@@ -1181,8 +1185,11 @@ item.terraria:buckets/sponges/water.name=Super Absorbant Sponge
 item.terraria:buckets/sponges/lava.name=Lava Absorbant Sponge
 item.terraria:buckets/sponges/honey.name=Honey Absorbant Sponge
 item.terraria:buckets/sponges/ultra.name=Ultra Absorbant Sponge
-item.terraria:arcane_crystal.name=Arcane Crystal
 item.terraria:aegis_fruit.name=Aegis Fruit
+item.terraria:arcane_crystal.name=Arcane Crystal
+item.terraria:galaxy_pearl.name=Galaxy Pearl
+item.terraria:gummy_worm.name=Gummy Worm
+item.terraria:ambrosia.name=Ambrosia
 
 item.terraria:treasure_bags/king_slime.name=Treasure Bag
 item.terraria:treasure_bags/eye_of_cthulhu.name=Treasure Bag
@@ -2480,6 +2487,10 @@ tooltip.terraria:artifacts/voice/goblin='Oh, where have all the gobbos gone?'
 tooltip.terraria:artifacts/voice/retro='Otto was here'
 tooltip.terraria:artifacts/voice/turkey='You have a sudden urge for cranberry sauce'
 tooltip.terraria:artifacts/voice/vampire='Yes, you do say 'blah blah blah''
+tooltip.terraria:artifacts/weather_radio=Displays the weather
+tooltip.terraria:artifacts/sextant=Displays the phase of the moon
+tooltip.terraria:artifacts/fishermap_pocket_guide=Displays fishing information
+tooltip.terraria:artifacts/fish_finder=Displays weather, moon phase, and fishing information
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
@@ -2668,6 +2679,11 @@ tooltip.terraria:plants/orange_bloodroot=Used to make Orange Dye
 tooltip.terraria:potions/jungle_juice='A tropical concoction with hints of Life Fruit and nutmeg'
 tooltip.terraria:potions/wormhole=Teleports you to a party member</br>Click their head on the fullscreen map
 tooltip.terraria:potions/calming=Decreases enemy spawn rate
+tooltip.terraria:aegis_fruit=Permanently increases defense
+tooltip.terraria:arcane_crystal=Permanently increases mana regeneration
+tooltip.terraria:galaxy_pearl=Permanently increases luck
+tooltip.terraria:gummy_worm=Permanently increases fishing skill
+tooltip.terraria:ambrosia=Permanently increases mining and building speed
 
 tooltip.terraria:buckets/empty=Can be used to scoop up a small amount of liquid</br>Collects water in the rain
 tooltip.terraria:buckets/water=Contains a small amount of water</br>Can be poured out
@@ -2724,6 +2740,8 @@ moon_phase.4=New Moon
 moon_phase.5=Waxing Crescent
 moon_phase.6=First Quarter
 moon_phase.7=Waxing Gibbous
+tooltip.terraria:info/fishing_power=%s Fishing Power
+tooltip.terraria:info/weather=%s (%s mph %s)
 
 layer.space=Space
 layer.surface=Surface
@@ -3270,6 +3288,7 @@ entity.terraria:boomerang.name=Boomerang
 entity.terraria:harpy_feather.name=Harpy Feather
 entity.terraria:hook.name=Hook
 entity.terraria:hook_carrier.name=Hook Carrier
+entity.terraria:minecart.name=Minecart
 
 # Projectiles
 entity.terraria:vile_spit_eow.name=Vile Spit
