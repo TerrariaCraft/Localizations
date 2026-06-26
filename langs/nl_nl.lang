@@ -803,6 +803,8 @@ item.terraria:potions/jungle_juice.name=Jungle Juice
 item.terraria:potions/sake.name=Sake
 item.terraria:potions/ale.name=Ale
 item.terraria:potions/calming.name=Calming Potion
+item.terraria:potions/obsidian_skin.name=Obsidian Skin Potion
+item.terraria:potions/lifeforce.name=Lifeforce Potion
 
 # Materials
 item.terraria:materials/fallen_star.name=Fallen Star
@@ -2335,6 +2337,12 @@ buff.terraria:mighty_wind.desc=The wind moves you around!
 buff.terraria:shimmering.name=Shimmering
 buff.terraria:shimmering.desc=You've gone insubstantial!
 
+buff.terraria:obsidian_skin.name=Obsidian Skin
+buff.terraria:obsidian_skin.desc=Immune to lava
+
+buff.terraria:lifeforce.name=Lifeforce
+buff.terraria:lifeforce.desc=20%% increased max life
+
 #################
 
 
@@ -2683,6 +2691,8 @@ tooltip.terraria:plants/orange_bloodroot=Used to make Orange Dye
 tooltip.terraria:potions/jungle_juice='A tropical concoction with hints of Life Fruit and nutmeg'
 tooltip.terraria:potions/wormhole=Teleports you to a party member</br>Click their head on the fullscreen map
 tooltip.terraria:potions/calming=Decreases enemy spawn rate
+tooltip.terraria:potions/obsidian_skin=Provides immunity to lava
+tooltip.terraria:potions/lifeforce=Increases max life by 20%%
 tooltip.terraria:aegis_fruit=Permanently increases defense
 tooltip.terraria:arcane_crystal=Permanently increases mana regeneration
 tooltip.terraria:galaxy_pearl=Permanently increases luck
