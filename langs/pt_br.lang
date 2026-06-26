@@ -12,6 +12,7 @@ itemGroup.terraria:potions=TerrariaCraft: Poções
 itemGroup.terraria:critters=TerrariaCraft: Criaturas
 itemGroup.terraria:hostiles=TerrariaCraft: Inimigos
 
+itemTab.terraria:search=Search
 itemTab.terraria:items=Itens
 itemTab.terraria:tools=Ferramentas
 itemTab.terraria:combat=Combate
@@ -110,6 +111,9 @@ itemGroup.terraria:building.furniture.fountains=Fontes
 map.terraria:spawn=Spawn
 map.terraria:home=Home
 map.terraria:death_point=%s died %s
+
+gamerules.terraria:do_blood_moon=Whether or not should the blood moon event happen in the world.
+gamerules.terraria:do_invasions=Whether or not should invasions occur in the world.
 
 # Quantifier
 quantifier.function=math.abs(q.amount) == 1 ? 0 : 1
