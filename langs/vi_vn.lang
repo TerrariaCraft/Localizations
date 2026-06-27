@@ -806,6 +806,7 @@ item.terraria:potions/calming.name=Calming Potion
 item.terraria:potions/obsidian_skin.name=Obsidian Skin Potion
 item.terraria:potions/lifeforce.name=Lifeforce Potion
 item.terraria:potions/mana_regeneration.name=Mana Regeneration Potion
+item.terraria:potions/sonar.name=Sonar Potion
 
 # Materials
 item.terraria:materials/fallen_star.name=Sao Băng
@@ -2347,6 +2348,9 @@ buff.terraria:lifeforce.desc=20%% increased max life
 buff.terraria:mana_regeneration.name=Mana Regeneration
 buff.terraria:mana_regeneration.desc=Increased mana regeneration
 
+buff.terraria:sonar.name=Sonar
+buff.terraria:sonar.desc=You can see what's biting your hook
+
 #################
 
 
@@ -2698,6 +2702,7 @@ tooltip.terraria:potions/calming=Decreases enemy spawn rate
 tooltip.terraria:potions/obsidian_skin=Provides immunity to lava
 tooltip.terraria:potions/lifeforce=Increases max life by 20%%
 tooltip.terraria:potions/mana_regeneration=Increased mana regeneration
+tooltip.terraria:potions/sonar=Detects hooked fish
 tooltip.terraria:aegis_fruit=Permanently increases defense
 tooltip.terraria:arcane_crystal=Permanently increases mana regeneration
 tooltip.terraria:galaxy_pearl=Permanently increases luck
