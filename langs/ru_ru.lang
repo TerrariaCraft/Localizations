@@ -85,6 +85,7 @@ itemGroup.terraria:keys=Keys
 itemGroup.terraria:pylons=Pylons
 itemGroup.terraria:dye_plants=Basic Dye Plants
 itemGroup.terraria:voice_changers=Voice-changing Accessories
+itemGroup.terraria:acorns=Acorns
 
 itemGroup.terraria:crafting_stations=Станки для крафта
 itemGroup.terraria:crafting_stations.work_benches=Верстаки
@@ -642,6 +643,8 @@ item.terraria:artifacts/weather_radio.name=Weather Radio
 item.terraria:artifacts/sextant.name=Sextant
 item.terraria:artifacts/fishermap_pocket_guide.name=Fisherman's Pocket Guide
 item.terraria:artifacts/fish_finder.name=Fish Finder
+item.terraria:artifacts/lavaproof_fishing_hook.name=Lavaproof Fishing Hook
+item.terraria:artifacts/lavaproof_tackle_bag.name=Lavaproof Tackle Bag
 
 # Wings
 item.terraria:artifacts/wings/angel.name=Крылья ангела
@@ -1197,6 +1200,13 @@ item.terraria:arcane_crystal.name=Arcane Crystal
 item.terraria:galaxy_pearl.name=Galaxy Pearl
 item.terraria:gummy_worm.name=Gummy Worm
 item.terraria:ambrosia.name=Ambrosia
+item.terraria:acorns/gem/amber.name=Amber Gemcorn
+item.terraria:acorns/gem/amethyst.name=Amethyst Gemcorn
+item.terraria:acorns/gem/diamond.name=Diamond Gemcorn
+item.terraria:acorns/gem/emerald.name=Emerald Gemcorn
+item.terraria:acorns/gem/ruby.name=Ruby Gemcorn
+item.terraria:acorns/gem/sapphire.name=Sapphire Gemcorn
+item.terraria:acorns/gem/topaz.name=Topaz Gemcorn
 
 item.terraria:treasure_bags/king_slime.name=Мешок с сокровищами (Король слизней)
 item.terraria:treasure_bags/eye_of_cthulhu.name=Мешок с сокровищами (Глаз Ктулху)
@@ -2511,6 +2521,7 @@ tooltip.terraria:artifacts/weather_radio=Displays the weather
 tooltip.terraria:artifacts/sextant=Displays the phase of the moon
 tooltip.terraria:artifacts/fishermap_pocket_guide=Displays fishing information
 tooltip.terraria:artifacts/fish_finder=Displays weather, moon phase, and fishing information
+tooltip.terraria:artifacts/lavaproof_fishing_hook=Allows fishing in lava
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Позволяет игрока бросаться на врагов</br>Дважды коснитесь нужного направления
 tooltip.terraria:artifacts/expert/worm_scarf=Получаемый урон снижен на 17%%
