@@ -113,8 +113,9 @@ map.terraria:spawn=Spawn
 map.terraria:home=Home
 map.terraria:death_point=%s died %s
 
-gamerules.terraria:do_blood_moon=Whether or not should the blood moon event happen in the world.
 gamerules.terraria:do_invasions=Whether or not should invasions occur in the world.
+gamerules.terraria:do_blood_moon=Whether or not should the blood moon event happen in the world.
+gamerules.terraria:do_slime_rain=Whether or not should the slime rain occur in the world.
 
 # Quantifier
 quantifier.function=t.f = math.abs(q.amount) % 100; t.f = t.f > 20 ? t.f % 10 : t.f; return t.f == 1 ? 0 : (t.f >= 2 && t.f <= 4 ? 1 : 2);
@@ -1428,6 +1429,7 @@ tile.terraria:furniture/chests/shadow_locked.name=Locked Shadow Chest
 
 # Clocks #
 tile.terraria:furniture/clocks/living_wood.name=Часы из живого дерева
+tile.terraria:furniture/clocks/wood.name=Grandfather Clock
 tile.terraria:furniture/clocks/dev_structure.name=§hD42F1F;Structure Clock
 
 # Doors #
@@ -1525,6 +1527,7 @@ tile.terraria:furniture/lanterns/dev_structure.name=§hD42F1F;Structure Lantern
 
 # Pianos #
 tile.terraria:furniture/pianos/living_wood.name=Пианино из живого дерева
+tile.terraria:furniture/pianos/wood.name=Piano
 tile.terraria:furniture/pianos/dev_structure.name=§hD42F1F;Structure Piano
 
 # Platforms #
@@ -1538,10 +1541,12 @@ tile.terraria:furniture/platforms/dev_structure.name=§hD42F1F;Structure Platfor
 
 # Sinks #
 tile.terraria:furniture/sinks/living_wood.name=Раковина из живого дерева
+tile.terraria:furniture/sinks/wood.name=Wooden Sink
 tile.terraria:furniture/sinks/dev_structure.name=§hD42F1F;Structure Sink
 
 # Sofas #
 tile.terraria:furniture/sofas/chippys_couch.name=Диван Чиппи
+tile.terraria:furniture/sofas/bench.name=Bench
 tile.terraria:furniture/sofas/lesion.name=Поврежденный диван
 tile.terraria:furniture/sofas/rich_mahogany.name=Диван из красной древесины
 tile.terraria:furniture/sofas/ebonwood.name=Диван из эбонитовой древесины
@@ -1565,6 +1570,8 @@ tile.terraria:furniture/sofas/dev_structure.name=§hD42F1F;Structure Sofa
 # Tables #
 tile.terraria:furniture/tables/wood.name=Стол
 tile.terraria:furniture/tables/wood_2.name=Банкетный стол
+tile.terraria:furniture/tables/wood_bar.name=Bar
+tile.terraria:furniture/tables/wood_picnic.name=Picnic Table
 tile.terraria:furniture/tables/granite.name=Гранитный стол
 tile.terraria:furniture/tables/marble.name=Мраморный стол
 tile.terraria:furniture/tables/martian.name=Марсианский стол
