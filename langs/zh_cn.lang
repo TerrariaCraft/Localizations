@@ -665,6 +665,7 @@ item.terraria:artifacts/fishermap_pocket_guide.name=Fisherman's Pocket Guide
 item.terraria:artifacts/fish_finder.name=Fish Finder
 item.terraria:artifacts/lavaproof_fishing_hook.name=Lavaproof Fishing Hook
 item.terraria:artifacts/lavaproof_tackle_bag.name=Lavaproof Tackle Bag
+item.terraria:artifacts/mana_flower.name=Mana Flower
 
 # Wings
 item.terraria:artifacts/wings/angel.name=天使之翼
