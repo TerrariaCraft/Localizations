@@ -1374,6 +1374,7 @@ tile.terraria:furniture/relics/queen_bee.name=Queen Bee Relic
 
 # Bathtubs #
 tile.terraria:furniture/bathtubs/living_wood.name=Living Wood Bathtub
+tile.terraria:furniture/bathtubs/metal.name=Bathtub
 tile.terraria:furniture/bathtubs/dev_structure.name=§hD42F1F;Structure Bathtub
 
 # Beds #
@@ -1575,6 +1576,7 @@ tile.terraria:furniture/platforms/dev_structure.name=§hD42F1F;Structure Platfor
 # Sinks #
 tile.terraria:furniture/sinks/living_wood.name=Living Wood Sink
 tile.terraria:furniture/sinks/wood.name=Wooden Sink
+tile.terraria:furniture/sinks/metal.name=Metal Sink
 tile.terraria:furniture/sinks/dev_structure.name=§hD42F1F;Structure Sink
 
 # Sofas #
@@ -1616,6 +1618,7 @@ tile.terraria:furniture/tables/dev_structure.name=§hD42F1F;Structure Table
 # Toilets #
 tile.terraria:furniture/toilets/living_wood.name=Living Wood Toilet
 tile.terraria:furniture/toilets/pumpkin.name=Pumpkin Toilet
+tile.terraria:furniture/toilets/metal.name=Toilet
 tile.terraria:furniture/toilets/dev_structure.name=§hD42F1F;Structure Toilet
 
 # Work Benches #
