@@ -946,6 +946,13 @@ item.terraria:materials/tattered_cloth.name=Tattered Cloth
 item.terraria:materials/hook.name=Hook
 item.terraria:materials/giant_harpy_feather.name=Giant Harpy Feather
 item.terraria:materials/defender_medal.name=Defender Medal
+item.terraria:materials/bone_feather.name=Bone Feather
+item.terraria:materials/fire_feather.name=Fire Feather
+item.terraria:materials/ice_feather.name=Ice Feather
+item.terraria:materials/dark_shard.name=Dark Shard
+item.terraria:materials/light_shard.name=Light Shard
+item.terraria:materials/flinx_fur.name=Flinx Fur
+
 item.terraria:keys/golden.name=金钥匙
 item.terraria:keys/shadow.name=Shadow Key
 item.terraria:keys/jungle.name=Jungle Key
@@ -2755,6 +2762,9 @@ tooltip.terraria:gummy_worm=Permanently increases fishing skill
 tooltip.terraria:ambrosia=Permanently increases mining and building speed
 tooltip.terraria:furniture/lanterns/heart=Increases life regeneration when placed nearby
 tooltip.terraria:furniture/lanterns/star_in_a_bottle=Increases mana regeneration when placed nearby
+tooltip.terraria:materials/dark_shard='Sometimes carried by creatures in dark deserts'
+tooltip.terraria:materials/light_shard='Sometimes carried by creatures in light deserts'
+tooltip.terraria:materials/flinx_fur='It's so FLUFFY!'
 
 tooltip.terraria:buckets/empty=Can be used to scoop up a small amount of liquid</br>Collects water in the rain
 tooltip.terraria:buckets/water=Contains a small amount of water</br>Can be poured out
