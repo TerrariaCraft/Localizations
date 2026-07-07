@@ -2087,6 +2087,7 @@ tile.terraria:plants/mushrooms/vicious.name=Champiñón feroz
 tile.terraria:plants/mushrooms/green.name=Champiñón verde
 tile.terraria:plants/mushrooms/teal.name=Champiñón verde azulado
 tile.terraria:plants/orange_bloodroot.name=Orange Bloodroot
+tile.terraria:poo.name=Poo
 
 tile.terraria:pylons/jungle.name=Jungle Pylon
 tile.terraria:pylons/forest.name=Forest Pylon
@@ -2404,6 +2405,9 @@ buff.terraria:mana_regeneration.desc=Increased mana regeneration
 
 buff.terraria:sonar.name=Sonar
 buff.terraria:sonar.desc=You can see what's biting your hook
+
+buff.terraria:stinky.name=Stinky
+buff.terraria:stinky.desc=You smell terrible
 
 #################
 
