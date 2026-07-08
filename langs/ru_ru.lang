@@ -1235,6 +1235,8 @@ item.terraria:acorns/gem/emerald.name=Emerald Gemcorn
 item.terraria:acorns/gem/ruby.name=Ruby Gemcorn
 item.terraria:acorns/gem/sapphire.name=Sapphire Gemcorn
 item.terraria:acorns/gem/topaz.name=Topaz Gemcorn
+item.terraria:fertilizer.name=Fertilizer
+item.terraria:infused_fertilizer.name=Infused Fertilizer
 
 item.terraria:treasure_bags/king_slime.name=Мешок с сокровищами (Король слизней)
 item.terraria:treasure_bags/eye_of_cthulhu.name=Мешок с сокровищами (Глаз Ктулху)
@@ -2772,6 +2774,8 @@ tooltip.terraria:furniture/lanterns/star_in_a_bottle=Increases mana regeneration
 tooltip.terraria:materials/dark_shard='Sometimes carried by creatures in dark deserts'
 tooltip.terraria:materials/light_shard='Sometimes carried by creatures in light deserts'
 tooltip.terraria:materials/flinx_fur='It's so FLUFFY!'
+tooltip.terraria:fertilizer=Causes saplings to instantly grow into trees</br>'It's got what plants crave!'
+tooltip.terraria:infused_fertilizer=Causes saplings to instantly grow into taller trees</br>'It's got what plants crave!'
 
 tooltip.terraria:buckets/empty=Can be used to scoop up a small amount of liquid</br>Collects water in the rain
 tooltip.terraria:buckets/water=Contains a small amount of water</br>Can be poured out
