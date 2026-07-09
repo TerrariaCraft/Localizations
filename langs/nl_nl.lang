@@ -666,6 +666,10 @@ item.terraria:artifacts/fish_finder.name=Fish Finder
 item.terraria:artifacts/lavaproof_fishing_hook.name=Lavaproof Fishing Hook
 item.terraria:artifacts/lavaproof_tackle_bag.name=Lavaproof Tackle Bag
 item.terraria:artifacts/mana_flower.name=Mana Flower
+item.terraria:artifacts/tally_counter.name=Tally Counter
+item.terraria:artifacts/radar.name=Radar
+item.terraria:artifacts/lifeform_analyzer.name=Lifeform Analyzer
+item.terraria:artifacts/rek_3000.name=R.E.K. 3000
 
 # Wings
 item.terraria:artifacts/wings/angel.name=Angel Wings
@@ -2572,6 +2576,10 @@ tooltip.terraria:artifacts/sextant=Displays the phase of the moon
 tooltip.terraria:artifacts/fishermap_pocket_guide=Displays fishing information
 tooltip.terraria:artifacts/fish_finder=Displays weather, moon phase, and fishing information
 tooltip.terraria:artifacts/lavaproof_fishing_hook=Allows fishing in lava
+tooltip.terraria:artifacts/tally_counter=Displays how many monsters have been killed
+tooltip.terraria:artifacts/radar=Detects enemies around you
+tooltip.terraria:artifacts/lifeform_analyzer=Displays the name of rare creatures around you
+tooltip.terraria:artifacts/rek_3000=Displays number of monsters, kill count, and rare creatures
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
@@ -2876,6 +2884,11 @@ text.terraria:buff_tags=Buff Tags:
 text.terraria:biome_tags=Biome Tags:
 text.terraria:weather_effects_tags=Weather Effect Tags:
 text.terraria:research_duplication=Research %s more to unlock duplication
+text.terraria:no_rare_creatures=No rare creatures nearby
+text.terraria:no_enemies_around=No enemies nearby
+text.terraria:no_kill_count=Kill count unavailable
+text.terraria:enemies_around=%s enemies around
+text.terraria:kill_count=%s: %s
 
 itweaks.enabled=This tweak is enabled
 itweaks.disabled=This tweak is disabled
