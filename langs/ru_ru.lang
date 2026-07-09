@@ -2094,6 +2094,9 @@ tile.terraria:plants/mushrooms/green.name=Зеленый гриб
 tile.terraria:plants/mushrooms/teal.name=Бирюзовый гриб
 tile.terraria:plants/orange_bloodroot.name=Orange Bloodroot
 tile.terraria:poo.name=Poo
+tile.terraria:office_block.name=Office Block
+tile.terraria:aetherium.name=Aetherium
+tile.terraria:bricks/aetherium.name=Aetherium Brick
 
 tile.terraria:pylons/jungle.name=Jungle Pylon
 tile.terraria:pylons/forest.name=Forest Pylon
@@ -3490,6 +3493,7 @@ entity.terraria:hostile/lava_slime.name=Лавовый слизень
 entity.terraria:hostile/sand_slime.name=Песчаный слизень
 entity.terraria:hostile/vulture.name=Стервятник
 entity.terraria:hostile/blood_crawler.name=Blood Crawler
+entity.terraria:hostile/demon.name=Demon
 
 entity.terraria:hostile/giant_worm.name=Гигантский червь
 entity.terraria:hostile/giant_worm/head.name=Голова гигантского червя
