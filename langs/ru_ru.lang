@@ -547,6 +547,7 @@ item.terraria:weapons/magic/gem_staves/amber.name=Янтарный посох
 item.terraria:weapons/magic/gem_staves/ruby.name=Рубиновый посох
 item.terraria:weapons/magic/gem_staves/diamond.name=Алмазный посох
 item.terraria:weapons/magic/vilethorn.name=Мерзкая колючка
+item.terraria:weapons/magic/demon_scythe.name=Demon Scythe
 
 # Artifacts
 item.terraria:artifacts/band_regen.name=Кольцо регенерации
@@ -2787,6 +2788,7 @@ tooltip.terraria:materials/light_shard='Sometimes carried by creatures in light 
 tooltip.terraria:materials/flinx_fur='It's so FLUFFY!'
 tooltip.terraria:fertilizer=Causes saplings to instantly grow into trees</br>'It's got what plants crave!'
 tooltip.terraria:infused_fertilizer=Causes saplings to instantly grow into taller trees</br>'It's got what plants crave!'
+tooltip.terraria:weapons/magic/demon_scythe=Casts a demon scythe
 
 tooltip.terraria:buckets/empty=Can be used to scoop up a small amount of liquid</br>Collects water in the rain
 tooltip.terraria:buckets/water=Contains a small amount of water</br>Can be poured out
