@@ -2128,6 +2128,7 @@ tile.terraria:mech/timers/hs.name=1/2 Second Timer
 tile.terraria:mech/timers/qs.name=1/4 Second Timer
 tile.terraria:mech/minecart_track.name=Minecart Track
 tile.terraria:mech/pressure_plate_track.name=Pressure Plate Track
+tile.terraria:wood/ash.name=Ash Wood
 
 ##################
 
