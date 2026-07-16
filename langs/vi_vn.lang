@@ -671,6 +671,9 @@ item.terraria:artifacts/tally_counter.name=Tally Counter
 item.terraria:artifacts/radar.name=Radar
 item.terraria:artifacts/lifeform_analyzer.name=Lifeform Analyzer
 item.terraria:artifacts/rek_3000.name=R.E.K. 3000
+item.terraria:artifacts/brick_layer.name=Brick Layer
+item.terraria:artifacts/extendo_grip.name=Extendo Grip
+item.terraria:artifacts/presserator.name=Presserator
 
 # Wings
 item.terraria:artifacts/wings/angel.name=Cánh Thiên Thần
@@ -957,6 +960,7 @@ item.terraria:materials/ice_feather.name=Ice Feather
 item.terraria:materials/dark_shard.name=Dark Shard
 item.terraria:materials/light_shard.name=Light Shard
 item.terraria:materials/flinx_fur.name=Flinx Fur
+item.terraria:materials/spell_tome.name=Spell Tome
 
 item.terraria:keys/golden.name=Chìa Khoá Vàng
 item.terraria:keys/shadow.name=Shadow Key
@@ -1083,6 +1087,7 @@ item.terraria:armor/vanity/sunglasses.name=Sunglasses
 item.terraria:armor/vanity/gold_crown.name=Gold Crown
 item.terraria:armor/vanity/platinum_crown.name=Platinum Crown
 item.terraria:armor/vanity/skull.name=Skull
+item.terraria:armor/vanity/peddler_hat.name=Peddler's Hat
 
 # Misc
 item.terraria:copper_coin.coin=Copper
@@ -1242,6 +1247,9 @@ item.terraria:acorns/gem/sapphire.name=Sapphire Gemcorn
 item.terraria:acorns/gem/topaz.name=Topaz Gemcorn
 item.terraria:fertilizer.name=Fertilizer
 item.terraria:infused_fertilizer.name=Infused Fertilizer
+item.terraria:peddler_satchel.name=Peddler's Satchel
+item.terraria:advanced_combat_techniques_1.name=Advanced Combat Techniques
+item.terraria:advanced_combat_techniques_2.name=Advanced Combat Techniques: Volume Two
 
 item.terraria:treasure_bags/king_slime.name=Túi Kho Báu Vua SLime
 item.terraria:treasure_bags/eye_of_cthulhu.name=Túi Kho Báu Mắt Cthulhu
@@ -1354,7 +1362,7 @@ item.terraria:goblin_battle_standard.name=Goblin Battle Standard
 
 setbonus.terraria:defense=%,d Chỉ số phòng thủ
 setbonus.terraria:mining=30%% Tăng tốc độ đào
-setbonus.terraria:molten=%,d%% Tăng sát thương cận chiến,<LN>Không bị bốc cháy
+setbonus.terraria:molten=%,d%% Tăng sát thương cận chiến,</br>Không bị bốc cháy
 setbonus.terraria:cactus=Kẻ tấn công nhận sát thương từ xương rồng
 setbonus.terraria:meteor=Súng Vũ Trụ tốn 0 mana
 setbonus.terraria:crimson=Tăng mạnh tốc độ hồi máu
@@ -2098,6 +2106,18 @@ tile.terraria:poo.name=Poo
 tile.terraria:office_block.name=Office Block
 tile.terraria:aetherium.name=Aetherium
 tile.terraria:bricks/aetherium.name=Aetherium Brick
+tile.terraria:team_blocks/red.name=Red Team Block
+tile.terraria:team_blocks/green.name=Green Team Block
+tile.terraria:team_blocks/blue.name=Blue Team Block
+tile.terraria:team_blocks/yellow.name=Yellow Team Block
+tile.terraria:team_blocks/pink.name=Pink Team Block
+tile.terraria:team_blocks/white.name=White Team Block
+tile.terraria:team_blocks/dull_red.name=Dull Red Team Block
+tile.terraria:team_blocks/dull_green.name=Dull Green Team Block
+tile.terraria:team_blocks/dull_blue.name=Dull Blue Team Block
+tile.terraria:team_blocks/dull_yellow.name=Dull Yellow Team Block
+tile.terraria:team_blocks/dull_pink.name=Dull Pink Team Block
+tile.terraria:team_blocks/dull_white.name=Dull White Team Block
 
 tile.terraria:pylons/jungle.name=Jungle Pylon
 tile.terraria:pylons/forest.name=Forest Pylon
@@ -2452,6 +2472,7 @@ tooltip.terraria:incrpermhp=Tăng trữ lượng máu thêm %,d
 tooltip.terraria:increased_defense=Tăng chỉ số phòng thủ thêm %,d
 tooltip.terraria:defense=%,d Chỉ số phòng thủ
 tooltip.terraria:setbonus=Năng lực của bộ giáp: %s
+tooltip.terraria:setbonus_parts=Set bonus (%s/%s)
 tooltip.terraria:pickaxe_power=Sức đào khối: %,d%%
 tooltip.terraria:axe_power=Sức chặt cây: %,d%%
 tooltip.terraria:hammer_power=Sức đập búa: %,d%%
@@ -2585,6 +2606,9 @@ tooltip.terraria:artifacts/tally_counter=Displays how many monsters have been ki
 tooltip.terraria:artifacts/radar=Detects enemies around you
 tooltip.terraria:artifacts/lifeform_analyzer=Displays the name of rare creatures around you
 tooltip.terraria:artifacts/rek_3000=Displays number of monsters, kill count, and rare creatures
+tooltip.terraria:artifacts/brick_layer=Increases tile placement speed
+tooltip.terraria:artifacts/extendo_grip=Increases block placement & tool range
+tooltip.terraria:artifacts/presserator=Automatically places actuators on placed objects
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
@@ -2790,6 +2814,10 @@ tooltip.terraria:materials/flinx_fur='It's so FLUFFY!'
 tooltip.terraria:fertilizer=Causes saplings to instantly grow into trees</br>'It's got what plants crave!'
 tooltip.terraria:infused_fertilizer=Causes saplings to instantly grow into taller trees</br>'It's got what plants crave!'
 tooltip.terraria:weapons/magic/demon_scythe=Casts a demon scythe
+tooltip.terraria:peddler_satchel=Permanently increases items sold by the Traveling Merchant
+tooltip.terraria:materials/spell_tome=Can be enchanted
+tooltip.terraria:advanced_combat_techniques_1=Increases the defense and strength of all villagers</br>'Contains offensive and defensive fighting techniques'
+tooltip.terraria:advanced_combat_techniques_2=Increases the defense and strength of all villagers</br>'Contains offensive and defensive fighting techniques, volume two!'
 
 tooltip.terraria:buckets/empty=Can be used to scoop up a small amount of liquid</br>Collects water in the rain
 tooltip.terraria:buckets/water=Contains a small amount of water</br>Can be poured out
@@ -2900,19 +2928,19 @@ itweaks.enabled=Bật
 itweaks.disabled=Tắt
 
 itweaks.terraria:forge_smt_chunks.name=Forge Multithreaded Chunk Rendering
-itweaks.terraria:forge_smt_chunks.desc=This option enables forge to use more threads for rendering chunks.<LN>It is recommended to be used alongside at least 8-thread CPU<LN>to prevent large queues of chunks.
+itweaks.terraria:forge_smt_chunks.desc=This option enables forge to use more threads for rendering chunks.</br>It is recommended to be used alongside at least 8-thread CPU</br>to prevent large queues of chunks.
 
 itweaks.terraria:forge_sel_res_load.name=Forge Selective Resource Loading
-itweaks.terraria:forge_sel_res_load.desc=Lets forge reload languages quicker on another thread.<LN>Improves resource reload times as well as game launch times slightly.
+itweaks.terraria:forge_sel_res_load.desc=Lets forge reload languages quicker on another thread.</br>Improves resource reload times as well as game launch times slightly.
 
 itweaks.terraria:lower_render_distance.name=Lower Render Distance
-itweaks.terraria:lower_render_distance.desc=Reduces render distance to fix laggy entities,<LN>blocks and general server performance.
+itweaks.terraria:lower_render_distance.desc=Reduces render distance to fix laggy entities,</br>blocks and general server performance.
 
 itweaks.terraria:lower_spawn_loaded_chunks.name=Lower Spawn-Load Distance
-itweaks.terraria:lower_spawn_loaded_chunks.desc=Reduces the amount of chunks loaded around spawn point.<LN>Slightly reduces memory freezes and improves performance.
+itweaks.terraria:lower_spawn_loaded_chunks.desc=Reduces the amount of chunks loaded around spawn point.</br>Slightly reduces memory freezes and improves performance.
 
 itweaks.terraria:reduce_cube_gen_amount.name=Reduce Cube Generation
-itweaks.terraria:reduce_cube_gen_amount.desc=Reduces amount of cubes that can be generated per tick.<LN>Imroves server performance when actively generating new cubes.
+itweaks.terraria:reduce_cube_gen_amount.desc=Reduces amount of cubes that can be generated per tick.</br>Imroves server performance when actively generating new cubes.
 
 ####################
 
@@ -3093,6 +3121,9 @@ achievement.terraria:boots_of_the_hero.desc=Obtain the Terraspark Boots, forged 
 achievement.terraria:on_fleek.name=On Fleek
 achievement.terraria:on_fleek.desc=Spot the sun on a 'cool' day.
 
+achievement.terraria:training_day.name=Training Day
+achievement.terraria:training_day.desc=Get your villagers fully combat ready.
+
 achievement.terraria:conservationist.name=Conservationist
 achievement.terraria:conservationist.desc=Support sustainable logging by planting 100 acorns.
 
@@ -3166,6 +3197,8 @@ chat.terraria:npc.move_in=%s has arrived!
 chat.terraria:meteorite_falling=§h45C87C;You feel the air getting warmer...
 chat.terraria:meteorite_landed=§h45C87C;A meteorite has landed!
 chat.terraria:time=Time: %s
+chat.terraria:peddler_satchel=The Traveling Merchant's satchel deepens!
+chat.terraria:advanced_combat_techniques=The book's knowledge empowers your villagers!
 
 chat.terraria:pylon/far=You are not close enough to a pylon to teleport with the pylon network
 chat.terraria:pylon/npc_remote=There are not enough villagers living near that pylon to access it
@@ -4157,6 +4190,33 @@ npc.terraria:mechanic.happiness.npc.cyborg=I feel like I understand %s better th
 npc.terraria:mechanic.happiness.npc.arms_dealer=I don't really like that %s won't leave me alone!
 npc.terraria:mechanic.happiness.npc.clothier=I hate how %s doesn't know how to treat a woman!
 npc.terraria:mechanic.happiness.neutral=Everything's working correctly - oh, me? Yeah I'm fine!
+
+## TRAVELLING MERCHANT ##
+npc.terraria:travelling_merchant.name=Traveling Merchant
+npc.terraria:travelling_merchant=%s the Traveling Merchant
+npc.terraria:travelling_merchant.names=Abraham,Aedan,Aphraim,Bohemas,Eladon,Gallius,Llewellyn,Mercer,Rawleigh,Riley,Romeo,Shipton,Willy
+
+npc.terraria:travelling_merchant.interact.1=Hmm, you look like you could use an Angel Statue! They slice, and dice, and make everything nice!
+npc.terraria:travelling_merchant.interact.2=I don't refund for "buyer's remorse..." Or for any other reason, really.
+npc.terraria:travelling_merchant.interact.3=Buy now and get free shipping!
+npc.terraria:travelling_merchant.interact.4=I sell wares from places that might not even exist!
+npc.terraria:travelling_merchant.interact.5=You want two penny farthings!? Make it one and we have a deal.
+npc.terraria:travelling_merchant.interact.6=Combination hookah and coffee maker! Also makes julienne fries!
+npc.terraria:travelling_merchant.interact.7=Come and have a look! One pound fish! Very, very good! One pound fish!
+npc.terraria:travelling_merchant.interact.8=If you're looking for junk, you've come to the wrong place.
+npc.terraria:travelling_merchant.interact.9=A thrift shop?  No, I am only selling the highest quality items on the market.
+npc.terraria:travelling_merchant.npc.merchant=That %s, he really has no appreciation for a really good deal.
+npc.terraria:travelling_merchant.npc.clothier=I sell only what I can get. %s keeps hounding me for exotic clothing.
+npc.terraria:travelling_merchant.npc.guide=Meet me behind %s's house in about three hours, I think I have something you will find very appealing.
+npc.terraria:travelling_merchant.party=Many say that parties give you the richest of memories. So buy something and make this memory rich!
+npc.terraria:travelling_merchant.rain.1=Rain or blue skies, I come from afar to serve you! Do you have some coin?
+npc.terraria:travelling_merchant.rain.2=If my exotic coat shrinks, I will be a tad upset!
+npc.terraria:travelling_merchant.thunderstorm.1=Hurry up and buy!
+npc.terraria:travelling_merchant.thunderstorm.2=Whew! That was close! Brick and mortar sounds like a pretty good investment right now.
+npc.terraria:travelling_merchant.windyday.1=I go where winds take me, but this is ridiculous!
+npc.terraria:travelling_merchant.windyday.2=I would sell you exotic wind socks, but I'm afraid I forgot to stock them!
+npc.terraria:travelling_merchant.graveyard.1=Whew! Look at my many wares! I totally did NOT take them off the dead buried here, to sell to you.
+npc.terraria:travelling_merchant.graveyard.2=In my travels, I've never run across anyone living in a dismal place like this! Ah, well, as long as you have coin...
 
 ##################
 
