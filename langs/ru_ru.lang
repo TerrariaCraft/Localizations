@@ -676,6 +676,7 @@ item.terraria:artifacts/extendo_grip.name=Extendo Grip
 item.terraria:artifacts/presserator.name=Presserator
 item.terraria:artifacts/poison_barb.name=Poison Barb
 item.terraria:artifacts/sweet_barb.name=Sweet Barb
+item.terraria:artifacts/restoration_shield.name=Restoration Shield
 
 # Wings
 item.terraria:artifacts/wings/angel.name=Крылья ангела
@@ -2522,8 +2523,8 @@ tooltip.terraria:artifacts/lucky_horseshoe=Поглощает урон от па
 tooltip.terraria:artifacts/water_walking_boots=Дает возможность ходить по воде и меду
 tooltip.terraria:artifacts/obsidian_water_walking_boots=Дает невосприимчивость к огненным блокам
 tooltip.terraria:artifacts/shark_tooth_necklace=Увеличивает пробитие брони на 5
-tooltip.terraria:artifacts/band_starpower.0=Медленно восстанавливает ману
-tooltip.terraria:artifacts/band_starpower.1=Увеличивает максимальный запас маны на 20 ед.
+tooltip.terraria:artifacts/band_starpower=Increases maximum mana by 40
+tooltip.terraria:artifacts/band_mana_regen=Slowly regenerates life</br>Increases maximum mana by 40</br>Increases mana regeneration rate
 tooltip.terraria:artifacts/obsidian_skull=Даёт иммунитет от огненных блоков
 tooltip.terraria:artifacts/wings=Позволяет летать и замедлять падение
 tooltip.terraria:artifacts/string=Увеличивает дальность йо-йо
@@ -2555,7 +2556,7 @@ tooltip.terraria:artifacts/ankh_charm=Дает невосприимчивост�
 tooltip.terraria:artifacts/pocket_mirror=Невосприимчивость к окаменению
 tooltip.terraria:artifacts/reflective_shades=Невоприимчивость к темноте и окаменению
 tooltip.terraria:artifacts/panic_necklace=После получения урона увеличивает скорость передвижения
-tooltip.terraria:artifacts/magic_cuffs=При получении урона восстанавливает ману
+tooltip.terraria:artifacts/magic_cuffs.=Increases maximum mana by 40</br>Restores mana when damaged
 tooltip.terraria:artifacts/celestial_magnet=Увеличивает дистанцию взятия звезд маны
 tooltip.terraria:artifacts/ancient_chisel=Древние проблемы требуют древних решений
 tooltip.terraria:artifacts/cross_necklace=Увеличивает продолжительность неуязвимости после получения урона
@@ -2613,6 +2614,8 @@ tooltip.terraria:artifacts/extendo_grip=Increases block placement & tool range
 tooltip.terraria:artifacts/presserator=Automatically places actuators on placed objects
 tooltip.terraria:artifacts/poison_barb=Arrows inflict poison
 tooltip.terraria:artifacts/sweet_barb=Releases bees and douses the user in honey when damaged</br>Arrows inflict poison, and hits may release bees!
+tooltip.terraria:artifacts/restoration_shield=Grants immunity to knockback</br>Slowly regenerates life</br>Increases maximum mana by 40</br>Increases mana regeneration rate
+tooltip.terraria:artifacts/celestial_cuffs=Increases pickup range for mana stars</br>Increases maximum mana by 40</br></br>Restores mana when damaged
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Позволяет игрока бросаться на врагов</br>Дважды коснитесь нужного направления
 tooltip.terraria:artifacts/expert/worm_scarf=Получаемый урон снижен на 17%%

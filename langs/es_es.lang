@@ -676,6 +676,7 @@ item.terraria:artifacts/extendo_grip.name=Extendo Grip
 item.terraria:artifacts/presserator.name=Presserator
 item.terraria:artifacts/poison_barb.name=Poison Barb
 item.terraria:artifacts/sweet_barb.name=Sweet Barb
+item.terraria:artifacts/restoration_shield.name=Restoration Shield
 
 # Wings
 item.terraria:artifacts/wings/angel.name=Alas de ángel
@@ -2522,8 +2523,8 @@ tooltip.terraria:artifacts/lucky_horseshoe=Anula el daño al caer
 tooltip.terraria:artifacts/water_walking_boots=Ofrece la capacidad para caminar sobre el agua y la miel
 tooltip.terraria:artifacts/obsidian_water_walking_boots=Ofrece inmunidad ante los bloques de fuego
 tooltip.terraria:artifacts/shark_tooth_necklace=Aumenta en 5 la penetración de armadura
-tooltip.terraria:artifacts/band_starpower.0=Regenera el maná poco a poco
-tooltip.terraria:artifacts/band_starpower.1=Aumenta el maná máximo en 20 de forma permanente
+tooltip.terraria:artifacts/band_starpower=Increases maximum mana by 40
+tooltip.terraria:artifacts/band_mana_regen=Slowly regenerates life</br>Increases maximum mana by 40</br>Increases mana regeneration rate
 tooltip.terraria:artifacts/obsidian_skull=Ofrece inmunidad ante los bloques de fuego
 tooltip.terraria:artifacts/wings=Permite volar y caer lentamente
 tooltip.terraria:artifacts/string=Aumenta el alcance del yoyó
@@ -2555,7 +2556,7 @@ tooltip.terraria:artifacts/ankh_charm=Grants immunity to most debuffs
 tooltip.terraria:artifacts/pocket_mirror=Immunity to petrification
 tooltip.terraria:artifacts/reflective_shades=Immunity to Darkness and Petrification
 tooltip.terraria:artifacts/panic_necklace=Increases movement speed after taking damage
-tooltip.terraria:artifacts/magic_cuffs=Restores mana when damaged
+tooltip.terraria:artifacts/magic_cuffs.=Increases maximum mana by 40</br>Restores mana when damaged
 tooltip.terraria:artifacts/celestial_magnet=Increases pickup range for mana stars
 tooltip.terraria:artifacts/ancient_chisel=Ancient problems require ancient solutions
 tooltip.terraria:artifacts/cross_necklace=Increases length of invincibility after taking damage
@@ -2613,6 +2614,8 @@ tooltip.terraria:artifacts/extendo_grip=Increases block placement & tool range
 tooltip.terraria:artifacts/presserator=Automatically places actuators on placed objects
 tooltip.terraria:artifacts/poison_barb=Arrows inflict poison
 tooltip.terraria:artifacts/sweet_barb=Releases bees and douses the user in honey when damaged</br>Arrows inflict poison, and hits may release bees!
+tooltip.terraria:artifacts/restoration_shield=Grants immunity to knockback</br>Slowly regenerates life</br>Increases maximum mana by 40</br>Increases mana regeneration rate
+tooltip.terraria:artifacts/celestial_cuffs=Increases pickup range for mana stars</br>Increases maximum mana by 40</br></br>Restores mana when damaged
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
