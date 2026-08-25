@@ -2614,7 +2614,7 @@ tooltip.terraria:artifacts/presserator=Automatically places actuators on placed 
 tooltip.terraria:artifacts/poison_barb=Arrows inflict poison
 tooltip.terraria:artifacts/sweet_barb=Releases bees and douses the user in honey when damaged</br>Arrows inflict poison, and hits may release bees!
 tooltip.terraria:artifacts/restoration_shield=Grants immunity to knockback</br>Slowly regenerates life</br>Increases maximum mana by 40</br>Increases mana regeneration rate
-tooltip.terraria:artifacts/celestial_cuffs1=Increases pickup range for mana stars</br>Increases maximum mana by 40</br>Restores mana when damaged
+tooltip.terraria:artifacts/celestial_cuffs=Increases pickup range for mana stars</br>Increases maximum mana by 40</br>Restores mana when damaged
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Allows the player to dash into the enemy</br>Double tap a direction
 tooltip.terraria:artifacts/expert/worm_scarf=Reduces damage taken by 17%%
