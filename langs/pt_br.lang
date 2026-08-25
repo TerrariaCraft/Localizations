@@ -674,6 +674,8 @@ item.terraria:artifacts/rek_3000.name=R.E.K. 3000
 item.terraria:artifacts/brick_layer.name=Brick Layer
 item.terraria:artifacts/extendo_grip.name=Extendo Grip
 item.terraria:artifacts/presserator.name=Presserator
+item.terraria:artifacts/poison_barb.name=Poison Barb
+item.terraria:artifacts/sweet_barb.name=Sweet Barb
 
 # Wings
 item.terraria:artifacts/wings/angel.name=Asas de Anjo
@@ -2609,6 +2611,8 @@ tooltip.terraria:artifacts/rek_3000=Displays number of monsters, kill count, and
 tooltip.terraria:artifacts/brick_layer=Increases tile placement speed
 tooltip.terraria:artifacts/extendo_grip=Increases block placement & tool range
 tooltip.terraria:artifacts/presserator=Automatically places actuators on placed objects
+tooltip.terraria:artifacts/poison_barb=Arrows inflict poison
+tooltip.terraria:artifacts/sweet_barb=Releases bees and douses the user in honey when damaged</br>Arrows inflict poison, and hits may release bees!
 
 tooltip.terraria:artifacts/expert/shield_of_cthulhu=Permite ao jogador avançar contra inimigos</br>Toque duas vezes em uma direção
 tooltip.terraria:artifacts/expert/worm_scarf=Reduz o dano recebido em 17%%
